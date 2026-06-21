@@ -6,7 +6,6 @@
 <meta http-equiv="refresh" content="3600">
 <title>Call da Copa 2026 — Terminal</title>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',monospace;font-size:12px;line-height:1.4;padding-bottom:28px}
@@ -136,7 +135,7 @@ body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',
     <span id="tier-range" style="font-size:10px;color:#484F58;padding:3px 8px"></span>
   </div>
   <div class="chart-wrap">
-    <div class="chart-box"><canvas id="myChart" height="220"></canvas></div>
+    <div class="chart-box" id="chart-box" style="padding:8px 4px;min-height:240px"><div id="svg-chart"></div></div>
   </div>
   <div class="cards" id="tier-cards"></div>
 </div>
@@ -229,80 +228,96 @@ Object.entries(KALSHI).sort((a,b)=>b[1].mid-a[1].mid).forEach(([t,o],i)=>{
 });
 
 // ── CHARTS ───────────────────────────────────────────────────────────────────
-let chart=null;
-function showTier(id,el){
-  document.querySelectorAll(".ttab").forEach(b=>b.classList.remove("active"));
-  el.classList.add("active");
-  const tier=TIERS[id];
-  document.getElementById("tier-range").textContent=`FAIXA: ${tier.range} · ${tier.tickers.length} TIMES`;
-  if(chart){chart.destroy();chart=null;}
-  setTimeout(()=>{renderChart(tier.tickers, id==="POS");},30);
-  renderCards(tier.tickers);
-}
+// ── CHARTS (SVG puro, zero dependências) ─────────────────────────────────────
+const PAD={top:16,right:60,bottom:28,left:44};
 
 function renderChart(tickers, isBook){
-  const ctx=document.getElementById("myChart").getContext("2d");
-  if(chart)chart.destroy();
-  const datasets=tickers.map(t=>({
-    label:t,
-    data:RAW[t]||[],
-    borderColor:PAL[t],
-    backgroundColor:"transparent",
-    borderWidth:BOOK_MAP[t]?2.5:1.5,
-    borderDash:BOOK_MAP[t]?.side==="S"?[7,3]:[],
-    pointRadius:0, pointHoverRadius:4,
-    tension:0.3, spanGaps:true,
-  }));
-  // Add entry price reference lines as extra datasets
-  if(isBook){
-    tickers.filter(t=>BOOK_MAP[t]).forEach(t=>{
-      const avg=BOOK_MAP[t].avg;
-      datasets.push({
-        label:`${t}_ref`, data:Array(8).fill(avg),
-        borderColor:PAL[t]+"55", borderWidth:0.8,
-        borderDash:[3,8], pointRadius:0, tension:0, hidden:false,
-      });
-    });
+  const wrap=document.getElementById("svg-chart");
+  if(!wrap)return;
+  const W=wrap.clientWidth||340, H=240;
+  const pw=W-PAD.left-PAD.right, ph=H-PAD.top-PAD.bottom;
+
+  // coleta valores válidos para escala Y
+  const allVals=tickers.flatMap(t=>(RAW[t]||[]).filter(v=>v!=null));
+  if(!allVals.length){wrap.innerHTML="<div style='color:#484F58;padding:20px;font-size:10px'>SEM DADOS</div>";return;}
+  const yMin=Math.max(0,Math.min(...allVals)-Math.min(...allVals)*0.08);
+  const yMax=Math.max(...allVals)*1.08;
+  const yRange=yMax-yMin||1;
+
+  const N=DLABEL.length;
+  const xStep=pw/(N-1);
+
+  function xPos(i){return PAD.left+i*xStep;}
+  function yPos(v){return PAD.top+ph*(1-(v-yMin)/yRange);}
+
+  let svg=`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" style="display:block">`;
+
+  // Grid lines Y (5 linhas)
+  const yTicks=5;
+  for(let i=0;i<=yTicks;i++){
+    const v=yMin+(yRange/yTicks)*i;
+    const y=yPos(v);
+    svg+=`<line x1="${PAD.left}" y1="${y}" x2="${W-PAD.right}" y2="${y}" stroke="#1C2128" stroke-width="1"/>`;
+    svg+=`<text x="${PAD.left-4}" y="${y+4}" text-anchor="end" fill="#484F58" font-size="9" font-family="IBM Plex Mono,monospace">${v.toFixed(1)}%</text>`;
   }
-  chart=new Chart(ctx,{
-    type:"line",
-    data:{labels:DLABEL,datasets},
-    options:{
-      responsive:true, maintainAspectRatio:true,
-      plugins:{
-        legend:{
-          display:true,
-          labels:{color:"#C9D1D9",font:{family:"IBM Plex Mono",size:10},
-            filter:item=>!item.label.endsWith("_ref")},
-        },
-        tooltip:{
-          backgroundColor:"#0A0D12", borderColor:"#1C2128", borderWidth:1,
-          titleColor:"#484F58", bodyColor:"#C9D1D9",
-          titleFont:{family:"IBM Plex Mono",size:10},
-          bodyFont:{family:"IBM Plex Mono",size:10},
-          callbacks:{
-            label:ctx=>{
-              const t=ctx.dataset.label;
-              if(t.endsWith("_ref"))return null;
-              const v=ctx.parsed.y;
-              const pos=BOOK_MAP[t];
-              let s=` ${t}: ${v?.toFixed(2)}%`;
-              if(pos){const pnl=pos.side==="S"?pos.avg-v:v-pos.avg;s+=` (${pnl>=0?"+":""}${pnl.toFixed(2)}pp)`;}
-              return s;
-            }
-          }
-        }
-      },
-      scales:{
-        x:{ticks:{color:"#484F58",font:{family:"IBM Plex Mono",size:10}},grid:{color:"#1C2128",drawBorder:false}},
-        y:{ticks:{color:"#484F58",font:{family:"IBM Plex Mono",size:10},callback:v=>`${v}%`},grid:{color:"#1C2128",drawBorder:false}},
-      }
+
+  // X axis labels
+  DLABEL.forEach((label,i)=>{
+    if(i%2===0||i===N-1){
+      svg+=`<text x="${xPos(i)}" y="${H-4}" text-anchor="middle" fill="#484F58" font-size="9" font-family="IBM Plex Mono,monospace">${label}</text>`;
     }
   });
+
+  // Entry price reference lines (book positions)
+  if(isBook){
+    tickers.filter(t=>BOOK_MAP[t]).forEach(t=>{
+      const pos=BOOK_MAP[t];
+      if(pos.avg>=yMin&&pos.avg<=yMax){
+        const y=yPos(pos.avg);
+        svg+=`<line x1="${PAD.left}" y1="${y}" x2="${W-PAD.right}" y2="${y}" stroke="${PAL[t]}" stroke-width="0.8" stroke-dasharray="3,8" opacity="0.35"/>`;
+      }
+    });
+  }
+
+  // Lines per ticker
+  tickers.forEach(t=>{
+    const vals=RAW[t]||[];
+    const col=PAL[t];
+    const isS=BOOK_MAP[t]?.side==="S";
+    const dash=isS?"7,3":"none";
+    const sw=BOOK_MAP[t]?2.2:1.4;
+
+    // Build path skipping nulls
+    let d="", inPath=false;
+    vals.forEach((v,i)=>{
+      if(v==null){inPath=false;return;}
+      const x=xPos(i).toFixed(1), y=yPos(v).toFixed(1);
+      if(!inPath){d+=`M${x},${y}`;inPath=true;}
+      else{d+=`L${x},${y}`;}
+    });
+    if(d) svg+=`<path d="${d}" stroke="${col}" stroke-width="${sw}" fill="none" stroke-dasharray="${dash}" stroke-linecap="round" stroke-linejoin="round"/>`;
+
+    // Dots on valid points
+    vals.forEach((v,i)=>{
+      if(v==null)return;
+      svg+=`<circle cx="${xPos(i).toFixed(1)}" cy="${yPos(v).toFixed(1)}" r="2.5" fill="${col}" opacity="0.8"/>`;
+    });
+
+    // Label at last valid point
+    const lastI=vals.reduce((acc,v,i)=>v!=null?i:acc,-1);
+    if(lastI>=0){
+      const lv=vals[lastI];
+      svg+=`<text x="${xPos(lastI)+6}" y="${yPos(lv)+4}" fill="${col}" font-size="9" font-family="IBM Plex Mono,monospace" font-weight="bold">${t} ${lv.toFixed(1)}%</text>`;
+    }
+  });
+
+  svg+="</svg>";
+  wrap.innerHTML=svg;
 }
 
 function renderCards(tickers){
   const el=document.getElementById("tier-cards");
+  if(!el)return;
   el.innerHTML="";
   tickers.forEach(t=>{
     const vals=(RAW[t]||[]).filter(v=>v!=null);
@@ -315,22 +330,30 @@ function renderCards(tickers){
       <div class="card-name" style="color:${col}">${FLAGS[t]||""} ${NAMES[t]||t}</div>
       <div class="card-val">${last!=null?last.toFixed(2):"—"}%</div>
       <div class="card-meta">
-        ${chgPct!=null?`<span style="color:${chgPct>=0?"#00D4AA":"#FF4444"};font-size:9px">${chgPct>=0?"▲":"▼"}${Math.abs(chgPct).toFixed(1)}% 7d</span>`:""}
-        ${pnl!=null?`<span style="color:${pc(pnl)};font-size:9px">${pnl>=0?"+":""}${pnl.toFixed(2)}pp</span>`:""}
+        ${chgPct!=null?`<span style="color:${chgPct>=0?"#00D4AA":"#FF4444"};font-size:9px">${chgPct>=0?"▲":"▼"}${Math.abs(chgPct).toFixed(1)}%</span>`:""}
+        ${pnl!=null?`<span style="color:${pnl>=0?"#00D4AA":"#FF4444"};font-size:9px">${pnl>=0?"+":""}${pnl.toFixed(2)}pp</span>`:""}
         ${pos?`<span style="font-size:8px;padding:0 3px;border:1px solid ${pos.side==="S"?"#FF4444":"#00D4AA"};color:${pos.side==="S"?"#FF4444":"#00D4AA"}">${pos.side==="S"?"SHT":"LNG"}</span>`:""}
       </div>
     </div>`;
   });
 }
 
-// Charts init on first open (not here — panel is hidden)
+function showTier(id,el){
+  document.querySelectorAll(".ttab").forEach(b=>b.classList.remove("active"));
+  el.classList.add("active");
+  const tier=TIERS[id];
+  document.getElementById("tier-range").textContent=`FAIXA: ${tier.range} · ${tier.tickers.length} TIMES`;
+  renderChart(tier.tickers, id==="POS");
+  renderCards(tier.tickers);
+}
+
 function initCharts(){
   renderChart(TIERS.A.tickers, false);
   renderCards(TIERS.A.tickers);
   document.getElementById("tier-range").textContent=`FAIXA: ${TIERS.A.range} · ${TIERS.A.tickers.length} TIMES`;
 }
 
-// ── TAB SWITCHER ──────────────────────────────────────────────────────────────
+// ── TAB SWITCHER // ── TAB SWITCHER ──────────────────────────────────────────────────────────────
 function showMain(t,el){
   document.querySelectorAll(".mtab").forEach(b=>b.classList.remove("active"));
   document.querySelectorAll(".panel").forEach(p=>p.classList.remove("active"));
