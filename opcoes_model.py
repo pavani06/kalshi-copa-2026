@@ -11,7 +11,7 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 # ─── BOOK (fonte: boletagem_export-2.xlsx snapshot 15/jun) ────────────────────
 BOOK = [
     {'selecao': 'Brasil',    'lado': 'V', 'contratos': 40,  'preco_medio': 12.625, 'N': 5},
-    {'selecao': 'Alemanha',  'lado': 'C', 'contratos': 40,  'preco_medio': 8.25,   'N': 5},
+    {'selecao': 'Alemanha',  'lado': 'C', 'contratos': 30,  'preco_medio': 9.00,   'N': 5},  # 21/jun: vendeu 10C @6.00 p/ Ricardo Espindola (era 40C@8.25)
     {'selecao': 'Inglaterra','lado': 'C', 'contratos': 20,  'preco_medio': 11.75,  'N': 5},
     {'selecao': 'Portugal',  'lado': 'C', 'contratos': 10,  'preco_medio': 12.0,   'N': 5},
     {'selecao': 'Marrocos',  'lado': 'C', 'contratos': 30,  'preco_medio': 2.42,   'N': 6},
@@ -662,3 +662,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+
