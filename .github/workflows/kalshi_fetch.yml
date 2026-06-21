@@ -24,7 +24,11 @@ jobs:
 
       - name: Salvar snapshot de preços
         run: |
-          python salvar_snapshot.py || echo "[WARN] salvar_snapshot.py falhou ou não encontrou dados suficientes"
+          python salvar_snapshot.py || echo "[WARN] salvar_snapshot.py falhou"
+
+      - name: Fetch notícias de impacto
+        run: |
+          python fetch_news.py || echo "[WARN] fetch_news.py falhou"
 
       - name: Atualizar STATE.md com timestamp Kalshi
         run: |
@@ -47,7 +51,6 @@ jobs:
           try:
               with open('STATE.md', encoding='utf-8') as f:
                   content = f.read()
-
               new_line = f"> Última atualização Kalshi (Actions): `{kalshi_ts}`"
               if "Última atualização Kalshi (Actions)" in content:
                   content = re.sub(
@@ -59,19 +62,18 @@ jobs:
                       "> Fase: Grupos (Rodada 2)\n",
                       f"> Fase: Grupos (Rodada 2)\n{new_line}\n"
                   )
-
               with open('STATE.md', 'w', encoding='utf-8') as f:
                   f.write(content)
-              print(f"[OK] STATE.md atualizado com Kalshi ts: {kalshi_ts}")
+              print(f"[OK] STATE.md atualizado: {kalshi_ts}")
           except Exception as e:
-              print(f"[WARN] Não foi possível atualizar STATE.md: {e}")
+              print(f"[WARN] STATE.md: {e}")
           PYEOF
 
       - name: Commit e push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add kalshi_wc_markets.json kalshi_wc_markets.csv STATE.md
+          git add kalshi_wc_markets.json kalshi_wc_markets.csv STATE.md news_events.json
           git add historico_precos.csv historico/ 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "auto: atualiza mercados Kalshi + STATE.md [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git diff --cached --quiet || git commit -m "auto: Kalshi + news + STATE.md [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
