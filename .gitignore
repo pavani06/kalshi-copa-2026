@@ -1,0 +1,28 @@
+# ============================================================
+# DADOS PRIVADOS — NUNCA publicar (o repo do Pages e' publico)
+# ============================================================
+# Planilhas com book / posicoes / boletagem
+boletagem_export*.xlsx
+boletagem_export*.bak
+Copa2026_Modelo_Pico.xlsx
+*.bak
+
+# Precos do Call da Copa (vindos do WhatsApp) e notas
+call_prices.json
+call_da_copa.txt
+
+# Historico e logs locais
+historico/
+kalshi_log.txt
+kalshi_snapshot.json
+
+# O dashboard e' GERADO no CI a cada hora a partir de odds publicas.
+# Nao versionamos a copia local (que pode ter seus precos do Call embutidos).
+kalshi_dashboard.html
+
+# ============================================================
+# Lixo de build / Python
+# ============================================================
+__pycache__/
+*.pyc
+_site/
