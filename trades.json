@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "descricao": "Ledger completo de trades — Call da Copa 2026",
+    "settlement": "0-100, liquida 100 se campeao, 0 se eliminado",
+    "unidade": "pontos percentuais (1 contrato = 1pp)",
+    "ultima_atualizacao": "2026-06-21"
+  },
+  "trades": [
+    {
+      "id": "T001",
+      "data": "2026-06-15",
+      "selecao": "Brasil",
+      "lado": "V",
+      "contratos": 40,
+      "preco": 12.625,
+      "contraparte": "",
+      "nota": "Short Brasil — hype local vs Kalshi. Posição inicial."
+    },
+    {
+      "id": "T002",
+      "data": "2026-06-15",
+      "selecao": "Alemanha",
+      "lado": "C",
+      "contratos": 40,
+      "preco": 8.25,
+      "contraparte": "",
+      "nota": "Long Alemanha — zebra com múltiplo de pico relevante. Posição inicial."
+    },
+    {
+      "id": "T003",
+      "data": "2026-06-15",
+      "selecao": "Inglaterra",
+      "lado": "C",
+      "contratos": 20,
+      "preco": 11.75,
+      "contraparte": "",
+      "nota": "Long Inglaterra — hedge natural com short Brasil (QF potencial ENG×BRA). Posição inicial."
+    },
+    {
+      "id": "T004",
+      "data": "2026-06-15",
+      "selecao": "Portugal",
+      "lado": "C",
+      "contratos": 10,
+      "preco": 12.0,
+      "contraparte": "",
+      "nota": "Long Portugal — posição pequena, caminho suave se 1K. Posição inicial."
+    },
+    {
+      "id": "T005",
+      "data": "2026-06-15",
+      "selecao": "Marrocos",
+      "lado": "C",
+      "contratos": 30,
+      "preco": 2.42,
+      "contraparte": "",
+      "nota": "Long Marrocos — zebra de múltiplo alto. Posição inicial."
+    },
+    {
+      "id": "T006",
+      "data": "2026-06-15",
+      "selecao": "Colombia",
+      "lado": "C",
+      "contratos": 30,
+      "preco": 1.83,
+      "contraparte": "",
+      "nota": "Long Colombia — melhor risco/retorno do portfolio, Call abaixo do justo. Posição inicial."
+    },
+    {
+      "id": "T007",
+      "data": "2026-06-15",
+      "selecao": "Noruega",
+      "lado": "C",
+      "contratos": 10,
+      "preco": 3.0,
+      "contraparte": "",
+      "nota": "Long Noruega — gamma alto, Haaland como curinga. Posição inicial."
+    },
+    {
+      "id": "T008",
+      "data": "2026-06-15",
+      "selecao": "Senegal",
+      "lado": "C",
+      "contratos": 10,
+      "preco": 0.75,
+      "contraparte": "",
+      "nota": "Long Senegal — aposta longa, custo baixo. Posição inicial."
+    },
+    {
+      "id": "T009",
+      "data": "2026-06-21",
+      "selecao": "Alemanha",
+      "lado": "V",
+      "contratos": 10,
+      "preco": 6.0,
+      "contraparte": "Ricardo Espindola",
+      "nota": "Redução parcial do long Alemanha. Era 40C@8.25, ficou 30C@9.00 (preço médio ponderado)."
+    }
+  ]
+}
