@@ -235,7 +235,8 @@ function showTier(id,el){
   el.classList.add("active");
   const tier=TIERS[id];
   document.getElementById("tier-range").textContent=`FAIXA: ${tier.range} · ${tier.tickers.length} TIMES`;
-  renderChart(tier.tickers, id==="POS");
+  if(chart){chart.destroy();chart=null;}
+  setTimeout(()=>{renderChart(tier.tickers, id==="POS");},30);
   renderCards(tier.tickers);
 }
 
@@ -322,10 +323,12 @@ function renderCards(tickers){
   });
 }
 
-// Init charts
-renderChart(TIERS.A.tickers, false);
-renderCards(TIERS.A.tickers);
-document.getElementById("tier-range").textContent=`FAIXA: ${TIERS.A.range} · ${TIERS.A.tickers.length} TIMES`;
+// Charts init on first open (not here — panel is hidden)
+function initCharts(){
+  renderChart(TIERS.A.tickers, false);
+  renderCards(TIERS.A.tickers);
+  document.getElementById("tier-range").textContent=`FAIXA: ${TIERS.A.range} · ${TIERS.A.tickers.length} TIMES`;
+}
 
 // ── TAB SWITCHER ──────────────────────────────────────────────────────────────
 function showMain(t,el){
@@ -333,7 +336,7 @@ function showMain(t,el){
   document.querySelectorAll(".panel").forEach(p=>p.classList.remove("active"));
   el.classList.add("active");
   document.getElementById("panel-"+t).classList.add("active");
-  if(t==="charts"&&!chart)renderChart(TIERS.A.tickers,false);
+  if(t==="charts"){setTimeout(()=>{if(!chart)initCharts();else{chart.resize();}},50);}
 }
 </script>
 </body>
