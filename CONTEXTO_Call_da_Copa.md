@@ -78,3 +78,12 @@ Demais (Turquia/Uruguai +10426 ≈ 0,9% até Uzbequistão +199900 ≈ 0,05%) na 
 
 - defirate — World Cup Odds Tracker: https://defirate.com/prediction-markets/world-cup-odds/
 - Kalshi — Men's World Cup Winner: https://kalshi.com/markets/kxmenworldcup/mens-world-cup-winner/kxmenworldcup-26
+
+## 8. Log de Trades
+
+Registro cronológico de todas as operações no Call da Copa e Kalshi.
+
+| Data | Seleção | Lado | Contratos | Preço | Contraparte | Nota |
+|---|---|---|---|---|---|---|
+| 21/jun/2026 | Alemanha | V | 10 | 6.00 | Ricardo Espindola | Redução parcial do long (era 40C@8.25 → ficou 30C@9.00) |
+
