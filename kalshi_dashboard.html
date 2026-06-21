@@ -83,6 +83,7 @@ body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',
   <button class="mtab" onclick="showMain('odds',this)">F2&nbsp;&nbsp;ODDS</button>
   <button class="mtab" onclick="showMain('jogos',this)">F3&nbsp;&nbsp;JOGOS</button>
   <button class="mtab" onclick="showMain('charts',this)">F4&nbsp;&nbsp;CHARTS</button>
+  <button class="mtab" onclick="showMain('news',this)">F5&nbsp;&nbsp;NEWS</button>
 </div>
 
 <!-- BOOK -->
@@ -138,6 +139,18 @@ body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',
     <div class="chart-box" id="chart-box" style="padding:8px 4px;min-height:240px"><div id="svg-chart"></div></div>
   </div>
   <div class="cards" id="tier-cards"></div>
+</div>
+
+
+<!-- NEWS -->
+<div class="panel" id="panel-news">
+  <div style="display:flex;gap:8px;padding:8px 12px;border-bottom:1px solid #1C2128;background:#0D0F12;flex-wrap:wrap">
+    <button class="ttab active" onclick="filterNews('all',this)">TUDO</button>
+    <button class="ttab" onclick="filterNews('news',this)">ARTIGOS</button>
+    <button class="ttab" onclick="filterNews('price_move',this)">PRICE MOVES</button>
+    <button class="ttab" onclick="filterNews('pos',this)">⚡ MEU BOOK</button>
+  </div>
+  <div id="news-rows"></div>
 </div>
 
 <div class="status-bar">
@@ -360,7 +373,54 @@ function showMain(t,el){
   el.classList.add("active");
   document.getElementById("panel-"+t).classList.add("active");
   if(t==="charts"){setTimeout(initCharts, 80);}
+  if(t==="news"){setTimeout(()=>renderNews('all'), 30);}
 }
+
+// ── NEWS ─────────────────────────────────────────────────────────────────────
+const NEWS_DATA = [{"date": "20/06 09:47", "title": "Argentina vs Austria: World Cup 2026 Preview & Best Bets", "source": "OneFootball", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnUtUlU3U1NueWtCYXAzYUxfOFlpNUw0Q1pjMndKWVhoTmZ5Z3lpVFlVWEZyWmdkcWV1Y2tEZWVZT3RiQk1jLTIyOWNaendmX0lCelpCUnZlZW9WY0lVbDBocXRnWkNDMmRoUjU1VlQ2aF9wbTA4aE9rZ3loVGFHV0cxdG5jZ0VpSFdEQ3R2VmxIWGdoZTA1R2JRdk5MZ1VkSWVsSExFWWJObU5mQ2kyLTZ3?oc=5", "teams": ["Argentina"], "type": "news"}, {"date": "20/06 09:41", "title": "Colombia vs DR Congo: World Cup 2026 Preview & Best Bets", "source": "OneFootball", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEN2T19BbVlieUJTX04tal9pUmwwSVhfLWVDX2dDUEtBd0cxcG5pUGYzaldJNF8yeFVmdzNnblRXbjBXT1N5LWtUN01qRlk1a2ZkTEJZVUhJVnY2RDRuTktmN2N0cnFmanN3dmNNWXRnMUpqekE3Y2s1OF9seFFkcWM0RkFQMmFPS0gyaDdVN3F2N2tLbUUteHVqLTU3MFB3OWc0VzJPTHpLM3VzSWYzdFdB?oc=5", "teams": ["Colombia"], "type": "news"}, {"date": "20/06 08:53", "title": "Portugal vs Uzbekistan: World Cup 2026 Preview & Best Bets", "source": "OneFootball", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHlSY09sUDhLTVYtcUtIMm1BWVhpQUo4ZjVXWEc5Zl9pSV9kblVja0FPMUkxMUluWmhBaXpNQU9OSDFBeHctc0hkQjY4Ym5LYUhyU3pnZF9zem9IRm1xUnE1enljUWRZNGhlakJFZVZZd083bHROSUNYM1VKTGxUOXNXQXRLam9kZzN6NXVRMFVaUmlJdHdXeDRiQzZ0a0tmejM5SVJabEgyQ2k3end4RzNrc28?oc=5", "teams": ["Portugal"], "type": "news"}, {"date": "19/06 16:44", "title": "↑ EUA: +1.1pp → 4.6% (Kalshi)", "source": "price_move", "url": "", "teams": [], "type": "price_move", "delta": 1.06}, {"date": "17/06 19:10", "title": "↑ Inglaterra: +2.0pp → 11.5% (Kalshi)", "source": "price_move", "url": "", "teams": ["Inglaterra"], "type": "price_move", "delta": 1.96}, {"date": "17/06 19:10", "title": "↑ Argentina: +1.0pp → 10.6% (Kalshi)", "source": "price_move", "url": "", "teams": ["Argentina"], "type": "price_move", "delta": 0.96}, {"date": "17/06 19:10", "title": "↓ Portugal: -2.8pp → 8.1% (Kalshi)", "source": "price_move", "url": "", "teams": ["Portugal"], "type": "price_move", "delta": -2.75}, {"date": "17/06 14:33", "title": "↓ Espanha: -1.7pp → 11.9% (Kalshi)", "source": "price_move", "url": "", "teams": [], "type": "price_move", "delta": -1.66}, {"date": "17/06 14:33", "title": "↑ Argentina: +1.8pp → 9.6% (Kalshi)", "source": "price_move", "url": "", "teams": [], "type": "price_move", "delta": 1.79}, {"date": "16/06 07:37", "title": "↑ França: +1.1pp → 16.2% (Kalshi)", "source": "price_move", "url": "", "teams": [], "type": "price_move", "delta": 1.06}, {"date": "16/06 07:37", "title": "↓ Espanha: -1.4pp → 13.7% (Kalshi)", "source": "price_move", "url": "", "teams": [], "type": "price_move", "delta": -1.42}, {"date": "16/06 04:04", "title": "Trump poderá entregar a taça da Copa do Mundo e participar da comemoração do campeão", "source": "Terra", "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTWhEM1JDVi1GWmM3Uy1IQWR2d0ZKaHVkWXFaYlU5S2RVbVpPTWR6QkhiWG1QODBCdk14aXBsQzFHNll2amJHaVhEN2ZaSW5YRVl6TmNhRjNveVpWTExNdzd6ZnZEYTV6VEdaR2FoQW1naWFMRUJ2T3pUc1FlYjQwUmRMQ0s3LUJzS3NSS3pXV19RMkoybkNHMzFHUG9BRUlrY1pNVS1TVmEzZ0VxZXVUWTJESmxxZHh0WWEtMEFoOVg3blc1bkhjczQzUmJpMVd3bnRGYUNiYUd2VnJQOG1jSDFxMTg1TkRFZm9ELEN4UllOdWxOY3VrOHl0Nkc0M3VnZWc?oc=5", "teams": [], "type": "news"}, {"date": "15/06 19:08", "title": "Copa do Mundo Paga Mais de R$ 250 Milhões Ao Campeão", "source": "Forbes Brasil", "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWxacDdEOEdwamFORU0wY1NMekI2cWJlSUdhOThLR0dXZi15Nklzd0FtNmhmRGJRcEFueWd4eWhra2I3MTdlbF9xMFZDR2Q3NXFSeEgzTHhxREtfcTB2OEljZTRnMWlvSnBENUt4Mno1d1UxQVU1YkRDMWw0cmhGc05fY0tXVzJZV2ZzZkJOWXBXV2xyNmhrUi1PSE5uM092YmtHblozbEkxcVV4bkQwNzgwUi1UY2QxY1JWOEJwUy03dVZlNjBvM2dCaw?oc=5", "teams": [], "type": "news"}, {"date": "13/06 17:47", "title": "Copa do Mundo 2026: a aposta do Brasil nos 'coletes inteligentes'", "source": "BBC", "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VVVNxTi1mcktFZU5vZUF1ak1CcWtjbWJYa29ZYjE5U1B3RHVUT3YtY2xLVDFsX1ZlVVEtdzlHV1p0b3hpdUdwUmRxQk4wdDlpRDNHckhBd2JRd2J6czBOWTlB0gFnQVVfeXFMTWN5WnFFS2dMWGN2VXc0WnhuYlkxT3BfZ08ySjdLZHdReGdtOWVRbTl3MkVObkFPeHZWTzNma21CU0hkYjNPOTFfNXl5dEgzcG9RT0QyZE1UWWs1TFN6V1VVRXFlVEg3RQ?oc=5", "teams": ["Brasil"], "type": "news"}];
+const MY_TEAMS = ["Brasil","Inglaterra","Alemanha","Portugal","Marrocos","Colômbia","Colombia","Noruega","Senegal"];
+
+function renderNews(filter){
+  const el = document.getElementById("news-rows");
+  if(!el) return;
+  let items = NEWS_DATA;
+  if(filter === "news")       items = items.filter(n => n.type === "news");
+  if(filter === "price_move") items = items.filter(n => n.type === "price_move");
+  if(filter === "pos")        items = items.filter(n => n.teams && n.teams.some(t => MY_TEAMS.includes(t)));
+  el.innerHTML = "";
+  if(!items.length){ el.innerHTML='<div style="padding:20px 12px;color:#484F58;font-size:11px">Sem itens para este filtro.</div>'; return; }
+  items.forEach((n,i) => {
+    const isPM = n.type === "price_move";
+    const delta = n.delta || 0;
+    const col = isPM ? (delta >= 0 ? "#00D4AA" : "#FF4444") : "#484F58";
+    const teamBadges = (n.teams||[]).map(t => {
+      const inBook = MY_TEAMS.includes(t);
+      return `<span style="font-size:9px;padding:0 4px;border:1px solid ${inBook?"#00D4AA44":"#1C2128"};color:${inBook?"#00D4AA":"#6E7681"}">${t}</span>`;
+    }).join(" ");
+    const link = n.url ? `href="${n.url}" target="_blank"` : "";
+    el.innerHTML += `<div style="display:grid;grid-template-columns:80px 1fr auto;gap:12px;padding:8px 12px;border-bottom:1px solid #1C2128;align-items:start;background:${i%2===0?"transparent":"#0D0F12"}">
+      <div>
+        <div style="font-size:9px;color:#484F58;font-family:'IBM Plex Mono',monospace">${n.date}</div>
+        <div style="margin-top:3px"><span style="font-size:9px;padding:0 4px;background:${isPM?"#1A2A1A":"#0F1520"};color:${col};border:1px solid ${col}33">${isPM?"PRICE":"NEWS"}</span></div>
+      </div>
+      <div>
+        <a ${link} style="color:${isPM?col:"#C9D1D9"};text-decoration:none;font-size:11px;font-weight:${isPM?700:400};line-height:1.4;font-family:'IBM Plex Mono',monospace">${n.title}</a>
+        <div style="margin-top:4px;display:flex;gap:4px;flex-wrap:wrap">${teamBadges}</div>
+      </div>
+      <div style="font-size:9px;color:#484F58;white-space:nowrap;text-align:right;font-family:'IBM Plex Mono',monospace">${n.source}</div>
+    </div>`;
+  });
+}
+
+function filterNews(f, el){
+  document.querySelectorAll("#panel-news .ttab").forEach(b=>b.classList.remove("active"));
+  el.classList.add("active");
+  renderNews(f);
+}
+
+// init news on tab open
+const _origShowMain = showMain;
+
 </script>
 </body>
 </html>
