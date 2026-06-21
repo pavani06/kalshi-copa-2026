@@ -34,3 +34,31 @@ def enrich(m):
         m["prob_implied"]=round(m["yes_mid"]/100,4)
         m["spread"]=round(ya-yb,2)
     else:
+        lp=m.get("last_price")
+        m["yes_mid"]=lp
+        m["prob_implied"]=round(lp/100,4) if lp else None
+        m["spread"]=None
+    m["fetched_at"]=datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return m
+
+def main():
+    all_mkts=[]
+    for s in WC_SERIES:
+        print(f"[fetch] {s}")
+        mkts=fetch_series(s)
+        all_mkts+=mkts
+        time.sleep(0.3)
+    enriched=[enrich(m) for m in all_mkts]
+    print(f"\n[total] {len(enriched)} mercados")
+
+    with open("kalshi_wc_markets.json","w",encoding="utf-8") as f:
+        json.dump(enriched,f,ensure_ascii=False,indent=2,default=str)
+    print("[OK] kalshi_wc_markets.json")
+
+    with open("kalshi_wc_markets.csv","w",newline="",encoding="utf-8") as f:
+        w=csv.DictWriter(f,fieldnames=CSV_FIELDS,extrasaction="ignore")
+        w.writeheader()
+        w.writerows(enriched)
+    print("[OK] kalshi_wc_markets.csv")
+
+main()
