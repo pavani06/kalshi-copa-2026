@@ -180,6 +180,17 @@
     "source_type": "news"
   },
   {
+    "date": "21/06 06:04",
+    "date_ts": 1782021840.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, group stage updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "21/06 00:46",
     "date_ts": 1782002817.0,
     "title": "Exclusive: Iran declares Mexico to be World Cup winner",
@@ -705,15 +716,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "16/06 14:30",
-    "date_ts": 1781620200.0,
-    "title": "Favoritos da Copa do Mundo 2026: Top 8 seleções",
-    "source": "Gazeta do Povo",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS083azFVUEtRN0FRTTlQUTdhb0J3ZWZ0SUhYb25nUlk0Z2NONl9hTXhPd3Vlejg2M2NEbmFHYzRTTGlJb0JoRHZFdjRxdVlHa0sxZGNnUWw4eEZEOHNFYi1IQlpvanh2cGcxMG1iemZ4b00wMDFXNkp5R2M4M1J5eXhnZjJGdnZJOVF5ZW1Fdw?oc=5",
-    "teams": [],
     "source_type": "news"
   }
 ]
