@@ -234,7 +234,7 @@ const PAD={top:16,right:60,bottom:28,left:44};
 function renderChart(tickers, isBook){
   const wrap=document.getElementById("svg-chart");
   if(!wrap)return;
-  const W=wrap.clientWidth||340, H=240;
+  const W=Math.max(wrap.getBoundingClientRect().width||0, wrap.offsetWidth||0, wrap.clientWidth||0)||320, H=240;
   const pw=W-PAD.left-PAD.right, ph=H-PAD.top-PAD.bottom;
 
   // coleta valores válidos para escala Y
@@ -343,7 +343,7 @@ function showTier(id,el){
   el.classList.add("active");
   const tier=TIERS[id];
   document.getElementById("tier-range").textContent=`FAIXA: ${tier.range} · ${tier.tickers.length} TIMES`;
-  renderChart(tier.tickers, id==="POS");
+  setTimeout(()=>renderChart(tier.tickers, id==="POS"), 30);
   renderCards(tier.tickers);
 }
 
@@ -359,7 +359,7 @@ function showMain(t,el){
   document.querySelectorAll(".panel").forEach(p=>p.classList.remove("active"));
   el.classList.add("active");
   document.getElementById("panel-"+t).classList.add("active");
-  if(t==="charts"){setTimeout(()=>{if(!chart)initCharts();else{chart.resize();}},50);}
+  if(t==="charts"){setTimeout(initCharts, 80);}
 }
 </script>
 </body>
