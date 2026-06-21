@@ -1,6 +1,6 @@
 # STATE — Book Copa 2026
 > **Fonte única de verdade.** Atualizar a cada trade ou resultado relevante.
-> Última atualização manual: 21/06/2026 05:20 | Fase: Grupos (Rodada 2)
+> Última atualização manual: 21/06/2026 19:30 | Fase: Grupos (Rodada 2)
 
 ---
 
@@ -16,18 +16,48 @@
 
 ## 📊 Book Atual
 
-| Seleção | L/S | Contratos | P.Médio | Exposição bruta |
-|---|---|---|---|---|
-| Brasil | SHORT 🔴 | 40 | 12.625 | 505.0pp |
-| Alemanha | LONG 🟢 | 30 | 9.000 | 270.0pp |
-| Inglaterra | LONG 🟢 | 20 | 11.750 | 235.0pp |
-| Portugal | LONG 🟢 | 10 | 12.000 | 120.0pp |
-| Marrocos | LONG 🟢 | 30 | 2.420 | 72.6pp |
-| Colombia | LONG 🟢 | 30 | 1.830 | 54.9pp |
-| Noruega | LONG 🟢 | 10 | 3.000 | 30.0pp |
-| Senegal | LONG 🟢 | 10 | 0.750 | 7.5pp |
+| Seleção | L/S | Contratos | P.Médio | Mid Call | MTM | Status |
+|---|---|---|---|---|---|---|
+| Brasil | SHORT 🔴 | 40 | 12.625 | 10.75 | **+75.0** | ✅ |
+| Alemanha | LONG 🟢 | 30 | 9.000 | 7.00 | **-60.0** | 🔴 |
+| Inglaterra | LONG 🟢 | 20 | 11.750 | 13.00 | **+25.0** | ✅ |
+| Portugal | LONG 🟢 | 10 | 12.000 | 9.00 | **-30.0** | 🔴 |
+| Marrocos | LONG 🟢 | 30 | 2.420 | 2.75 | **+9.9** | ✅ |
+| Colombia | LONG 🟢 | 30 | 1.830 | 1.38 | **-13.7** | 🔴 |
+| Noruega | LONG 🟢 | 10 | 3.000 | 2.88 | **-1.2** | 🔴 |
+| Senegal | LONG 🟢 | 10 | 0.750 | — | — | ⚠️ |
 
-**Exposição total:** 1295 pp×contratos
+**MTM Total: +5.0 ct** *(Senegal sem preço disponível)*
+
+### Preços Call da Copa — 21/jun/2026
+
+| País | Bid | Ask | Mid |
+|---|---|---|---|
+| França | 18.50 | 22.50 | 20.50 |
+| Espanha | 15.25 | 16.75 | 16.00 |
+| Brasil | 9.75 | 11.75 | 10.75 |
+| Portugal | 7.50 | 10.50 | 9.00 |
+| Inglaterra | 11.50 | 14.50 | 13.00 |
+| Argentina | 9.00 | 12.00 | 10.50 |
+| Alemanha | 6.00 | 8.00 | 7.00 |
+| Marrocos | 2.00 | 3.50 | 2.75 |
+| Holanda | 4.00 | 6.00 | 5.00 |
+| Noruega | 2.00 | 3.75 | 2.88 |
+| Bélgica | 0.50 | 2.50 | 1.50 |
+| EUA | 1.75 | 3.75 | 2.75 |
+| Uruguai | 0.75 | 3.00 | 1.88 |
+| Colômbia | 0.75 | 2.00 | 1.38 |
+| Croácia | 0.25 | 1.75 | 1.00 |
+| Japão | 1.00 | 3.00 | 2.00 |
+| Costa do Marfim | 0.25 | 2.00 | 1.13 |
+| Equador | 0.00 | 1.50 | 0.75 |
+| México | 0.25 | 1.50 | 0.88 |
+| Coreia | 0.50 | 2.00 | 1.25 |
+| Turquia | 0.00 | 1.00 | 0.50 |
+| Suíça | 0.50 | 1.75 | 1.13 |
+| Escócia | 0.00 | 0.50 | 0.25 |
+| Arábia Saudita | 0.00 | 0.50 | 0.25 |
+| Egito | 0.00 | 0.50 | 0.25 |
 
 ---
 
