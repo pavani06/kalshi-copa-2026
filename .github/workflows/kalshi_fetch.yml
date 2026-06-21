@@ -1,37 +1,28 @@
-# .github/workflows/kalshi_fetch.yml
-# Roda nos servidores do GitHub (EUA) e commita os dados no repositório.
-# Disparo: a cada hora automaticamente + manual pela aba Actions
-
+# kalshi_fetch.yml
 name: Kalshi WC Markets Fetch
 
 on:
   schedule:
-    - cron: "0 * * * *"   # todo início de hora (UTC)
-  workflow_dispatch:        # disparo manual
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Instalar dependências
-        run: pip install requests
-
-      - name: Rodar fetch
-        run: python kalshi_fetch_wc_actions.py
-
-      - name: Commit e push dos dados
+      - run: pip install requests
+      - run: python kalshi_fetch_wc_actions.py
+      - name: Commit e push
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add kalshi_wc_markets.json kalshi_wc_markets.csv
-          git diff --cached --quiet || git commit -m "chore: atualiza mercados Kalshi $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git diff --cached --quiet || git commit -m "atualiza mercados Kalshi"
           git push
