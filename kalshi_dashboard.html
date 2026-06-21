@@ -2,47 +2,53 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="refresh" content="3600">
 <title>Call da Copa 2026 — Terminal</title>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',monospace;font-size:12px;line-height:1.4;padding-bottom:24px}
+body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',monospace;font-size:12px;line-height:1.4;padding-bottom:28px}
 ::-webkit-scrollbar{width:3px}::-webkit-scrollbar-thumb{background:#1C2128}
-.ticker-bar{background:#070A0D;border-bottom:1px solid #1C2128;padding:3px 12px;display:flex;gap:24px;align-items:center;overflow-x:auto;white-space:nowrap}
-.header{border-bottom:1px solid #1C2128;padding:8px 12px;display:flex;justify-content:space-between;align-items:center}
-.header-left{display:flex;gap:24px;align-items:baseline}
-.title{font-weight:700;font-size:13px;color:#C9D1D9}
-.h-meta{font-size:10px;color:#484F58}
-.h-alert{font-size:10px;color:#FF4444}
-.pnl-label{font-size:10px;color:#484F58}
-.pnl-val{font-weight:700;font-size:16px}
+.ticker-bar{background:#070A0D;border-bottom:1px solid #1C2128;padding:3px 12px;display:flex;gap:20px;align-items:center;overflow-x:auto;white-space:nowrap}
+.hdr{border-bottom:1px solid #1C2128;padding:8px 12px;display:flex;justify-content:space-between;align-items:center}
+.hdr-l{display:flex;gap:20px;align-items:baseline}
+.title{font-weight:700;font-size:13px}
+.hmeta{font-size:10px;color:#484F58}
+.halert{font-size:10px;color:#FF4444}
 .alerts{background:#0D0F12;border-bottom:1px solid #1C2128}
-.alert-row{display:grid;grid-template-columns:50px 80px 1fr auto;gap:12px;padding:5px 12px;align-items:center;border-bottom:1px solid #1C2128}
-.alert-row:last-child{border-bottom:none}
-.a-lvl{font-weight:700;font-size:10px}
-.a-label{font-weight:600;font-size:11px}
-.a-msg{font-size:11px;color:#484F58}
-.a-action{font-size:10px;font-weight:600;white-space:nowrap;text-align:right}
-.tabs{display:flex;border-bottom:1px solid #1C2128;background:#0D0F12}
-.tab{padding:6px 16px;border:none;cursor:pointer;font-size:11px;font-family:'IBM Plex Mono',monospace;background:transparent;color:#484F58;border-bottom:2px solid transparent}
-.tab.active{color:#00D4AA;font-weight:600;background:#1E2530;border-bottom:2px solid #00D4AA}
+.arow{display:grid;grid-template-columns:50px 80px 1fr auto;gap:12px;padding:5px 12px;align-items:center;border-bottom:1px solid #1C2128}
+.arow:last-child{border-bottom:none}
+.main-tabs{display:flex;border-bottom:1px solid #1C2128;background:#0D0F12}
+.mtab{padding:6px 16px;border:none;cursor:pointer;font-size:11px;font-family:'IBM Plex Mono',monospace;font-weight:400;background:transparent;color:#484F58;border-bottom:2px solid transparent}
+.mtab.active{color:#00D4AA;font-weight:700;background:#1E2530;border-bottom:2px solid #00D4AA}
 .panel{display:none}.panel.active{display:block}
-.col-head{display:grid;padding:4px 12px;gap:8px;font-size:10px;color:#6E7681;font-weight:600;border-bottom:1px solid #1C2128;background:#0D0F12;text-transform:uppercase;letter-spacing:.08em}
-.data-row{display:grid;padding:6px 12px;gap:8px;align-items:center;border-bottom:1px solid #1C2128}
-.data-row:nth-child(even){background:#0D0F12}
-.data-row:hover{background:#131820}
-.side-badge{font-size:10px;font-weight:700;padding:1px 5px}
+.col-hd{display:grid;padding:4px 12px;gap:8px;font-size:10px;color:#6E7681;font-weight:600;border-bottom:1px solid #1C2128;background:#0D0F12;text-transform:uppercase;letter-spacing:.08em}
+.drow{display:grid;padding:6px 12px;gap:8px;align-items:center;border-bottom:1px solid #1C2128;cursor:default}
+.drow:nth-child(even){background:#0D0F12}
+.drow:hover{background:#131820}
+.sbadge{font-size:10px;font-weight:700;padding:1px 5px}
 .tr{text-align:right}
 .green{color:#00D4AA}.red{color:#FF4444}.warn{color:#FF8C00}.muted{color:#484F58}.head{color:#6E7681}
-.totals-row{display:grid;padding:7px 12px;gap:8px;border-top:1px solid #00D4AA33;background:#0D0F12}
+.tot-row{display:grid;padding:7px 12px;gap:8px;border-top:1px solid #00D4AA33;background:#0D0F12}
 .stats-bar{padding:8px 28px;border-top:1px solid #1C2128;display:flex;gap:32px;background:#0D0F12}
-.stat-label{font-size:9px;color:#484F58;letter-spacing:.1em}
-.stat-val{font-weight:700;font-size:13px}
+.stat-lbl{font-size:9px;color:#484F58;letter-spacing:.1em}
+.stat-v{font-weight:700;font-size:13px}
 .status-bar{position:fixed;bottom:0;left:0;right:0;background:#00D4AA;padding:2px 12px;display:flex;justify-content:space-between;font-size:10px;color:#000;font-weight:600}
-.indicator{width:3px;height:14px;border-radius:1px}
 .imp-badge{font-size:10px;font-weight:700;padding:1px 5px}
+.ind{width:3px;height:14px;border-radius:1px}
+/* charts */
+.tier-tabs{display:flex;gap:4px;padding:12px 12px 10px;flex-wrap:wrap}
+.ttab{padding:3px 10px;border:1px solid #1C2128;cursor:pointer;font-size:10px;font-family:'IBM Plex Mono',monospace;background:transparent;color:#484F58}
+.ttab.active{border-color:#00D4AA;color:#00D4AA;background:#1E2530;font-weight:700}
+.chart-wrap{padding:0 12px 12px}
+.chart-box{background:#0F1318;border:1px solid #1C2128;padding:12px 8px}
+.cards{display:flex;gap:8px;flex-wrap:wrap;padding:8px 12px 12px}
+.card{padding:6px 10px;background:#0D111A;border-left:3px solid;min-width:108px}
+.card-name{font-weight:700;font-size:10px;margin-bottom:2px}
+.card-val{font-size:12px;font-weight:700}
+.card-meta{display:flex;gap:6px;margin-top:2px;align-items:center;flex-wrap:wrap}
 </style>
 </head>
 <body>
@@ -51,63 +57,49 @@ body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',
   <span class="green" style="font-weight:700;font-size:10px">KXMENWORLDCUP</span>
 </div>
 
-<div class="header">
-  <div class="header-left">
+<div class="hdr">
+  <div class="hdr-l">
     <span class="title">CALL DA COPA 2026</span>
-    <span class="h-meta">PORTFOLIO MONITOR</span>
-    <span class="h-meta">|</span>
-    <span class="h-meta">8 POSIÇÕES</span>
-    <span class="h-meta">|</span>
-    <span class="h-alert">3 ALERTAS</span>
+    <span class="hmeta">PORTFOLIO MONITOR</span>
+    <span class="hmeta">|</span>
+    <span class="hmeta">8 POSIÇÕES</span>
+    <span class="hmeta">|</span>
+    <span class="halert">3 ALERTAS</span>
   </div>
   <div style="text-align:right">
-    <span class="pnl-label">P&L MTM&nbsp;&nbsp;</span>
-    <span class="pnl-val" id="total-pnl"></span>
-    <span class="pnl-label"> pp</span>
+    <span class="muted" style="font-size:10px">P&L MTM&nbsp;&nbsp;</span>
+    <span id="total-pnl" style="font-weight:700;font-size:16px"></span>
+    <span class="muted" style="font-size:10px"> pp</span>
   </div>
 </div>
 
 <div class="alerts">
-  <div class="alert-row">
-    <span class="a-lvl red">CRIT</span>
-    <span class="a-label">SEN</span>
-    <span class="a-msg">vs NOR 23/jun — eliminatório. 10ctrl@0.75 → zero.</span>
-    <span class="a-action red">→ FECHAR ANTES 23/JUN</span>
-  </div>
-  <div class="alert-row">
-    <span class="a-lvl red">CRIT</span>
-    <span class="a-label">MAR</span>
-    <span class="a-msg">vs SCO ~22/jun — mata-mata. SCO lidera 3pts.</span>
-    <span class="a-action red">→ FECHAR SE PERDER</span>
-  </div>
-  <div class="alert-row">
-    <span class="a-lvl warn">WARN</span>
-    <span class="a-label">POR×COL</span>
-    <span class="a-msg">Confronto direto 27/jun. Long nos dois = hedge interno.</span>
-    <span class="a-action warn">→ REDUZIR POR ANTES</span>
-  </div>
+  <div class="arow"><span style="font-weight:700;font-size:10px;color:#FF4444">CRIT</span><span style="font-weight:600;font-size:11px">SEN</span><span style="font-size:11px;color:#484F58">vs NOR 23/jun — eliminatório. 10ctrl@0.75 → zero.</span><span style="font-size:10px;font-weight:600;color:#FF4444;white-space:nowrap">→ FECHAR ANTES 23/JUN</span></div>
+  <div class="arow"><span style="font-weight:700;font-size:10px;color:#FF4444">CRIT</span><span style="font-weight:600;font-size:11px">MAR</span><span style="font-size:11px;color:#484F58">vs SCO ~22/jun — mata-mata. SCO lidera 3pts.</span><span style="font-size:10px;font-weight:600;color:#FF4444;white-space:nowrap">→ FECHAR SE PERDER</span></div>
+  <div class="arow"><span style="font-weight:700;font-size:10px;color:#FF8C00">WARN</span><span style="font-weight:600;font-size:11px">POR×COL</span><span style="font-size:11px;color:#484F58">Confronto direto 27/jun. Long nos dois = hedge interno.</span><span style="font-size:10px;font-weight:600;color:#FF8C00;white-space:nowrap">→ REDUZIR POR ANTES</span></div>
 </div>
 
-<div class="tabs">
-  <button class="tab active" onclick="showTab('book',this)">F1&nbsp;&nbsp;BOOK/P&L</button>
-  <button class="tab" onclick="showTab('odds',this)">F2&nbsp;&nbsp;ODDS</button>
-  <button class="tab" onclick="showTab('jogos',this)">F3&nbsp;&nbsp;JOGOS</button>
+<div class="main-tabs">
+  <button class="mtab active" onclick="showMain('book',this)">F1&nbsp;&nbsp;BOOK/P&L</button>
+  <button class="mtab" onclick="showMain('odds',this)">F2&nbsp;&nbsp;ODDS</button>
+  <button class="mtab" onclick="showMain('jogos',this)">F3&nbsp;&nbsp;JOGOS</button>
+  <button class="mtab" onclick="showMain('charts',this)">F4&nbsp;&nbsp;CHARTS</button>
 </div>
 
 <!-- BOOK -->
 <div class="panel active" id="panel-book">
-  <div class="col-head" style="grid-template-columns:16px 110px 45px 50px 72px 72px 72px 80px">
+  <div class="col-hd" style="grid-template-columns:16px 110px 45px 50px 72px 72px 72px 80px">
     <div></div><div>SELEÇÃO</div><div>SIDE</div><div class="tr">QTY</div>
     <div class="tr">AVG</div><div class="tr">MTM</div><div class="tr">EDGE</div><div class="tr">P&L</div>
   </div>
   <div id="book-rows"></div>
-  <div class="totals-row" id="book-total" style="grid-template-columns:16px 110px 45px 50px 72px 72px 72px 80px"></div>
+  <div class="tot-row" id="book-total" style="grid-template-columns:16px 110px 45px 50px 72px 72px 72px 80px"></div>
   <div class="stats-bar" id="stats-bar"></div>
 </div>
 
 <!-- ODDS -->
 <div class="panel" id="panel-odds">
-  <div class="col-head" style="grid-template-columns:16px 100px 55px 70px 70px 70px 60px">
+  <div class="col-hd" style="grid-template-columns:16px 100px 55px 70px 70px 70px 60px">
     <div></div><div>TICKER</div><div>POS</div>
     <div class="tr">BID%</div><div class="tr">ASK%</div><div class="tr">MID%</div><div class="tr">SPRD</div>
   </div>
@@ -116,84 +108,94 @@ body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',
 
 <!-- JOGOS -->
 <div class="panel" id="panel-jogos">
-  <div class="col-head" style="grid-template-columns:70px 130px 55px 1fr">
+  <div class="col-hd" style="grid-template-columns:70px 130px 55px 1fr">
     <div>DATA</div><div>JOGO</div><div>IMP.</div><div>NOTA</div>
   </div>
-  <div id="jogos-rows"></div>
+  <div class="drow" style="grid-template-columns:70px 130px 55px 1fr"><div class="muted">~22/jun</div><div style="font-weight:600">MAR vs SCO</div><div><span class="imp-badge" style="border:1px solid #FF444444;color:#FF4444">ALTO</span></div><div class="muted" style="font-size:11px">Quase eliminatório Marrocos</div></div>
+  <div class="drow" style="grid-template-columns:70px 130px 55px 1fr;background:#0D0F12"><div class="muted">23/jun</div><div style="font-weight:600">NOR vs SEN</div><div><span class="imp-badge" style="border:1px solid #FF444444;color:#FF4444">ALTO</span></div><div class="muted" style="font-size:11px">Pode zerar posição Senegal</div></div>
+  <div class="drow" style="grid-template-columns:70px 130px 55px 1fr"><div class="muted">23/jun</div><div style="font-weight:600">COL vs COD</div><div><span class="imp-badge" style="border:1px solid #FF8C0044;color:#FF8C00">MED</span></div><div class="muted" style="font-size:11px">Confirma liderança grupo K</div></div>
+  <div class="drow" style="grid-template-columns:70px 130px 55px 1fr;background:#0D0F12"><div class="muted">23/jun</div><div style="font-weight:600">POR vs UZB</div><div><span class="imp-badge" style="border:1px solid #00D4AA44;color:#00D4AA">LOW</span></div><div class="muted" style="font-size:11px">Deve vencer</div></div>
+  <div class="drow" style="grid-template-columns:70px 130px 55px 1fr"><div class="muted">26/jun</div><div style="font-weight:600">NOR vs FRA</div><div><span class="imp-badge" style="border:1px solid #FF8C0044;color:#FF8C00">MED</span></div><div class="muted" style="font-size:11px">Saída ideal posição Noruega</div></div>
+  <div class="drow" style="grid-template-columns:70px 130px 55px 1fr;background:#0D0F12"><div class="muted">27/jun</div><div style="font-weight:600">POR vs COL</div><div><span class="imp-badge" style="border:1px solid #FF444444;color:#FF4444">ALTO</span></div><div class="muted" style="font-size:11px">Confronto direto — hedge interno</div></div>
   <div style="margin-top:16px;border-top:1px solid #1C2128">
-    <div class="col-head" style="grid-template-columns:160px 1fr 60px">
-      <div>HEDGE</div><div>MECANISMO</div><div class="tr">STATUS</div>
-    </div>
-    <div id="hedge-rows"></div>
+    <div class="col-hd" style="grid-template-columns:160px 1fr 60px"><div>HEDGE</div><div>MECANISMO</div><div class="tr">STATUS</div></div>
+    <div class="drow" style="grid-template-columns:160px 1fr 60px"><div style="font-weight:700">SHORT BR + LONG GB</div><div class="muted" style="font-size:11px">QF potencial BRA×ENG → hedge perfeito</div><div class="tr green" style="font-weight:700">OK</div></div>
+    <div class="drow" style="grid-template-columns:160px 1fr 60px;background:#0D0F12"><div style="font-weight:700">LONG PT + LONG CO</div><div class="muted" style="font-size:11px">Confronto direto 27/jun — um cancela o outro</div><div class="tr warn" style="font-weight:700">RISCO</div></div>
+    <div class="drow" style="grid-template-columns:160px 1fr 60px"><div style="font-weight:700">LONG NO + LONG DE</div><div class="muted" style="font-size:11px">R16 potencial NOR×DEU — não podem vencer juntos</div><div class="tr warn" style="font-weight:700">ATT.</div></div>
   </div>
 </div>
 
+<!-- CHARTS -->
+<div class="panel" id="panel-charts">
+  <div class="tier-tabs">
+    <button class="ttab active" onclick="showTier('A',this)">≥10%</button>
+    <button class="ttab" onclick="showTier('B',this)">4-10%</button>
+    <button class="ttab" onclick="showTier('C',this)">1-4%</button>
+    <button class="ttab" onclick="showTier('D',this)">&lt;1%</button>
+    <button class="ttab" onclick="showTier('POS',this)">⚡ MEU BOOK</button>
+    <span id="tier-range" style="font-size:10px;color:#484F58;padding:3px 8px"></span>
+  </div>
+  <div class="chart-wrap">
+    <div class="chart-box"><canvas id="myChart" height="220"></canvas></div>
+  </div>
+  <div class="cards" id="tier-cards"></div>
+</div>
+
 <div class="status-bar">
-  <span>F1:BOOK&nbsp;&nbsp;F2:ODDS&nbsp;&nbsp;F3:JOGOS</span>
-  <span>CALL DA COPA 2026 | KALSHI PREDICTION MARKET | pavani06</span>
+  <span>F1:BOOK · F2:ODDS · F3:JOGOS · F4:CHARTS</span>
+  <span>CALL DA COPA 2026 · KALSHI PREDICTION MARKET · pavani06</span>
   <span id="ts-bar"></span>
 </div>
 
 <script>
-const KALSHI = {"BR": {"bid": 6.1, "ask": 6.2, "mid": 6.15}, "DE": {"bid": 5.9, "ask": 6.0, "mid": 5.95}, "GB": {"bid": 12.8, "ask": 12.9, "mid": 12.85}, "PT": {"bid": 7.0, "ask": 7.1, "mid": 7.05}, "MA": {"bid": 2.3, "ask": 2.4, "mid": 2.35}, "CO": {"bid": 1.7, "ask": 1.8, "mid": 1.75}, "NO": {"bid": 2.6, "ask": 2.7, "mid": 2.65}, "SN": {"bid": 0.4, "ask": 0.5, "mid": 0.45}, "FR": {"bid": 19.1, "ask": 19.4, "mid": 19.25}, "ES": {"bid": 13.2, "ask": 13.4, "mid": 13.3}, "AR": {"bid": 10.7, "ask": 11.0, "mid": 10.85}, "NL": {"bid": 6.7, "ask": 7.0, "mid": 6.85}, "US": {"bid": 4.8, "ask": 5.0, "mid": 4.9}, "JP": {"bid": 2.0, "ask": 2.2, "mid": 2.1}};
-const BOOK   = [{"sel": "BRASIL", "tk": "BR", "side": "S", "qty": 40, "avg": 12.625, "flag": "\ud83c\udde7\ud83c\uddf7"}, {"sel": "ALEMANHA", "tk": "DE", "side": "L", "qty": 30, "avg": 9.0, "flag": "\ud83c\udde9\ud83c\uddea"}, {"sel": "INGLATERRA", "tk": "GB", "side": "L", "qty": 20, "avg": 11.75, "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f"}, {"sel": "PORTUGAL", "tk": "PT", "side": "L", "qty": 10, "avg": 12.0, "flag": "\ud83c\uddf5\ud83c\uddf9"}, {"sel": "MARROCOS", "tk": "MA", "side": "L", "qty": 30, "avg": 2.42, "flag": "\ud83c\uddf2\ud83c\udde6"}, {"sel": "COLOMBIA", "tk": "CO", "side": "L", "qty": 30, "avg": 1.83, "flag": "\ud83c\udde8\ud83c\uddf4"}, {"sel": "NORUEGA", "tk": "NO", "side": "L", "qty": 10, "avg": 3.0, "flag": "\ud83c\uddf3\ud83c\uddf4"}, {"sel": "SENEGAL", "tk": "SN", "side": "L", "qty": 10, "avg": 0.75, "flag": "\ud83c\uddf8\ud83c\uddf3"}];
-const FETCH_TS = '2026-06-21T10:53:41Z';
-
-const NAMES = {FR:"FRANCA",ES:"ESPANHA",GB:"INGLAT.",AR:"ARGENT.",PT:"PORTUG.",NL:"HOLANDA",BR:"BRASIL",DE:"ALEMANHA",US:"EUA",JP:"JAPAO",NO:"NORUEGA",MA:"MARROCOS",CO:"COLOMBIA",SN:"SENEGAL"};
-const FLAGS = {FR:"🇫🇷",ES:"🇪🇸",GB:"🏴󠁧󠁢󠁥󠁮󠁧󠁿",AR:"🇦🇷",PT:"🇵🇹",NL:"🇳🇱",BR:"🇧🇷",DE:"🇩🇪",US:"🇺🇸",JP:"🇯🇵",NO:"🇳🇴",MA:"🇲🇦",CO:"🇨🇴",SN:"🇸🇳"};
-const JOGOS = [
-  {data:"~22/jun",j:"MAR vs SCO",imp:"ALTO",cor:"#FF4444",nota:"Quase eliminatório Marrocos"},
-  {data:"23/jun",j:"NOR vs SEN",imp:"ALTO",cor:"#FF4444",nota:"Pode zerar posição Senegal"},
-  {data:"23/jun",j:"COL vs COD",imp:"MED",cor:"#FF8C00",nota:"Confirma liderança grupo K"},
-  {data:"23/jun",j:"POR vs UZB",imp:"LOW",cor:"#00D4AA",nota:"Deve vencer"},
-  {data:"26/jun",j:"NOR vs FRA",imp:"MED",cor:"#FF8C00",nota:"Saída ideal posição Noruega"},
-  {data:"27/jun",j:"POR vs COL",imp:"ALTO",cor:"#FF4444",nota:"Confronto direto — hedge interno"},
-];
-const HEDGES = [
-  {est:"SHORT BR + LONG GB",mec:"QF potencial BRA×ENG → hedge perfeito nos dois lados",st:"OK",cor:"#00D4AA"},
-  {est:"LONG PT + LONG CO",mec:"Confronto direto 27/jun — um cancela o outro",st:"RISCO",cor:"#FF8C00"},
-  {est:"LONG NO + LONG DE",mec:"R16 potencial NOR×DEU — não podem vencer juntos",st:"ATT.",cor:"#FF8C00"},
-];
+const KALSHI={"BR": {"bid": 6.1, "ask": 6.2, "mid": 6.15}, "DE": {"bid": 5.9, "ask": 6.0, "mid": 5.95}, "GB": {"bid": 12.8, "ask": 12.9, "mid": 12.85}, "PT": {"bid": 7.0, "ask": 7.1, "mid": 7.05}, "MA": {"bid": 2.3, "ask": 2.4, "mid": 2.35}, "CO": {"bid": 1.7, "ask": 1.8, "mid": 1.75}, "NO": {"bid": 2.6, "ask": 2.7, "mid": 2.65}, "SN": {"bid": 0.4, "ask": 0.5, "mid": 0.45}, "FR": {"bid": 19.1, "ask": 19.4, "mid": 19.25}, "ES": {"bid": 13.2, "ask": 13.4, "mid": 13.3}, "AR": {"bid": 10.7, "ask": 11.0, "mid": 10.85}, "NL": {"bid": 6.7, "ask": 7.0, "mid": 6.85}, "US": {"bid": 4.8, "ask": 5.0, "mid": 4.9}, "JP": {"bid": 2.0, "ask": 2.2, "mid": 2.1}};
+const BOOK=[{"sel": "BRASIL", "tk": "BR", "side": "S", "qty": 40, "avg": 12.625, "flag": "\ud83c\udde7\ud83c\uddf7"}, {"sel": "ALEMANHA", "tk": "DE", "side": "L", "qty": 30, "avg": 9.0, "flag": "\ud83c\udde9\ud83c\uddea"}, {"sel": "INGLATERRA", "tk": "GB", "side": "L", "qty": 20, "avg": 11.75, "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f"}, {"sel": "PORTUGAL", "tk": "PT", "side": "L", "qty": 10, "avg": 12.0, "flag": "\ud83c\uddf5\ud83c\uddf9"}, {"sel": "MARROCOS", "tk": "MA", "side": "L", "qty": 30, "avg": 2.42, "flag": "\ud83c\uddf2\ud83c\udde6"}, {"sel": "COLOMBIA", "tk": "CO", "side": "L", "qty": 30, "avg": 1.83, "flag": "\ud83c\udde8\ud83c\uddf4"}, {"sel": "NORUEGA", "tk": "NO", "side": "L", "qty": 10, "avg": 3.0, "flag": "\ud83c\uddf3\ud83c\uddf4"}, {"sel": "SENEGAL", "tk": "SN", "side": "L", "qty": 10, "avg": 0.75, "flag": "\ud83c\uddf8\ud83c\uddf3"}];
+const RAW={"FR": [15.25, 15.12, 16.34, 16.9, 17.27, 17.32, 17.79, 19.25], "GB": [9.54, 9.4, 9.6, 11.49, 12.0, 11.84, 11.94, 12.85], "ES": [15.39, 15.16, 13.72, 12.45, 12.56, 12.3, 12.12, 13.3], "AR": [8.16, 8.03, 7.91, 10.58, 10.22, 10.04, 9.99, 10.85], "PT": [10.09, 10.03, 10.72, 8.06, 7.8, 6.86, 6.22, 7.05], "NL": [5.3, 5.31, 4.73, 3.98, 4.06, 3.82, 3.86, 6.85], "BR": [6.41, 6.31, 6.23, 6.18, 6.3, 6.22, 6.36, 6.15], "DE": [4.65, 5.36, 5.76, 5.45, 5.46, 5.57, 5.53, 5.95], "US": [3.36, 3.5, 3.32, 3.3, 3.31, 4.56, 5.16, 4.9], "NO": [2.26, 2.22, 2.29, 2.43, 2.38, 2.35, 2.46, 2.65], "MA": [1.84, 1.95, 2.01, 1.97, 1.77, 1.98, 2.46, 2.35], "JP": [1.34, 1.5, 1.36, 1.42, 1.45, 1.43, 1.25, 2.1], "CO": [1.52, 1.5, 1.54, 1.51, 1.59, 1.7, 1.63, 1.75], "MX": [1.8, 1.82, 1.69, 1.51, 1.54, 1.89, 1.72, null], "BE": [1.71, 1.68, 1.36, 1.61, 1.63, 1.52, 1.44, null], "SN": [0.51, 0.5, 0.51, 0.51, 0.42, 0.42, 0.42, 0.45]};
+const DLABEL=["14/jun","15/jun","16/jun","17/jun","18/jun","19/jun","20/jun","21/jun"];
+const NAMES={FR:"França",ES:"Espanha",GB:"Inglaterra",AR:"Argentina",PT:"Portugal",NL:"Holanda",BR:"Brasil",DE:"Alemanha",US:"EUA",NO:"Noruega",MA:"Marrocos",CO:"Colômbia",MX:"México",BE:"Bélgica",JP:"Japão",SN:"Senegal"};
+const FLAGS={FR:"🇫🇷",ES:"🇪🇸",GB:"🏴󠁧󠁢󠁥󠁮󠁧󠁿",AR:"🇦🇷",PT:"🇵🇹",NL:"🇳🇱",BR:"🇧🇷",DE:"🇩🇪",US:"🇺🇸",NO:"🇳🇴",MA:"🇲🇦",CO:"🇨🇴",MX:"🇲🇽",BE:"🇧🇪",JP:"🇯🇵",SN:"🇸🇳"};
+const PAL={FR:"#00D4AA",GB:"#4FC3F7",ES:"#FFB74D",AR:"#F06292",PT:"#AED581",NL:"#FF8A65",BR:"#FF4444",DE:"#CE93D8",US:"#80DEEA",NO:"#FFF176",MA:"#FFAB91",CO:"#A5D6A7",MX:"#B0BEC5",BE:"#EF9A9A",JP:"#80CBC4",SN:"#FFCC02"};
+const BOOK_MAP=Object.fromEntries(BOOK.map(p=>[p.tk,p]));
+const TIERS={
+  A:{label:"≥10%",  range:"10%–20%", tickers:["FR","ES","GB","AR"]},
+  B:{label:"4-10%", range:"4%–10%",  tickers:["PT","NL","BR","DE","US"]},
+  C:{label:"1-4%",  range:"1%–4%",   tickers:["NO","MA","JP","CO","MX","BE"]},
+  D:{label:"<1%",   range:"<1%",     tickers:["SN"]},
+  POS:{label:"BOOK",range:"todas",   tickers:["BR","DE","GB","PT","MA","CO","NO","SN"]},
+};
 
 function pc(v){return v>0?"#00D4AA":v<0?"#FF4444":"#484F58"}
 function fmt(v,d=2){return (v>0?"+":"")+v.toFixed(d)}
-function grd(cols){return `grid-template-columns:${cols}`}
 
-// Ticker
+// ── TICKER BAR ───────────────────────────────────────────────────────────────
 const tb=document.getElementById("ticker-bar");
 Object.entries(KALSHI).sort((a,b)=>b[1].mid-a[1].mid).slice(0,8).forEach(([t,o])=>{
   tb.innerHTML+=`<span style="font-size:10px;color:#484F58"><span style="color:#C9D1D9">${t}</span> <span style="color:${o.mid>10?"#00D4AA":"#C9D1D9"}">${o.mid.toFixed(2)}</span></span>`;
 });
 let blink=true;
-setInterval(()=>{
-  const el=document.getElementById("live-dot");
-  if(el)el.style.color=blink?"#484F58":"transparent";
-  blink=!blink;
-},800);
-tb.innerHTML+=`<span id="live-dot" style="margin-left:auto;font-size:10px;color:#484F58">● LIVE</span>`;
-const ts=new Date(FETCH_TS);
+setInterval(()=>{const el=document.getElementById("live");if(el)el.style.color=blink?"#484F58":"transparent";blink=!blink;},800);
+tb.innerHTML+=`<span id="live" style="margin-left:auto;font-size:10px;color:#484F58">● LIVE</span>`;
+const ts=new Date("2026-06-21T10:53:41Z");
 const tsStr=ts.toISOString().slice(0,10)+" "+ts.toISOString().slice(11,16)+" UTC";
 tb.innerHTML+=`<span style="font-size:10px;color:#484F58">${tsStr}</span>`;
 document.getElementById("ts-bar").textContent=tsStr;
 
-// Book
+// ── BOOK ─────────────────────────────────────────────────────────────────────
 let total=0,wins=0,losses=0,longs=0,shorts=0;
 const bookRows=document.getElementById("book-rows");
-const cols="16px 110px 45px 50px 72px 72px 72px 80px";
+const bcols="16px 110px 45px 50px 72px 72px 72px 80px";
 BOOK.forEach((p,i)=>{
   const k=KALSHI[p.tk]||{mid:p.avg};
-  const mtm=k.mid;
-  const diff=p.side==="S"?(p.avg-mtm):(mtm-p.avg);
-  const pnl=diff*p.qty;
+  const mtm=k.mid,diff=p.side==="S"?(p.avg-mtm):(mtm-p.avg),pnl=diff*p.qty;
   total+=pnl;
   if(pnl>0)wins++;else if(pnl<0)losses++;
   if(p.side==="L")longs++;else shorts++;
-  const alert=["SN","MA"].includes(p.tk);
-  const isShort=p.side==="S";
-  bookRows.innerHTML+=`<div class="data-row" style="${grd(cols)};background:${i%2===0?"transparent":"#0D0F12"}">
-    <div class="indicator" style="background:${alert?"#FF4444":isShort?"#FF444433":"#00D4AA33"}"></div>
+  const alert=["SN","MA"].includes(p.tk),isS=p.side==="S";
+  const indBg=alert?"#FF4444":isS?"#FF444433":"#00D4AA33";
+  bookRows.innerHTML+=`<div class="drow" style="grid-template-columns:${bcols};background:${i%2===0?"transparent":"#0D0F12"}">
+    <div class="ind" style="background:${indBg}"></div>
     <div style="font-weight:600">${p.flag} ${p.sel}</div>
-    <div><span class="side-badge" style="border:1px solid ${isShort?"#FF4444":"#00D4AA"};color:${isShort?"#FF4444":"#00D4AA"}">${isShort?"SHT":"LNG"}</span></div>
+    <div><span class="sbadge" style="border:1px solid ${isS?"#FF4444":"#00D4AA"};color:${isS?"#FF4444":"#00D4AA"}">${isS?"SHT":"LNG"}</span></div>
     <div class="tr">${p.qty}</div>
     <div class="tr muted">${p.avg.toFixed(3)}%</div>
     <div class="tr">${mtm.toFixed(2)}%</div>
@@ -205,25 +207,20 @@ const tc=pc(total);
 document.getElementById("total-pnl").style.color=tc;
 document.getElementById("total-pnl").textContent=(total>0?"+":"")+total.toFixed(1);
 document.getElementById("book-total").innerHTML=`<div></div><div style="font-size:10px;color:#00D4AA;font-weight:700;grid-column:2/8">TOTAL P&L (MTM)</div><div class="tr" style="font-weight:700;font-size:14px;color:${tc}">${fmt(total,1)} pp</div>`;
-document.getElementById("stats-bar").innerHTML=
-  `<div><div class="stat-label">LONGS</div><div class="stat-val green">${longs}</div></div>`+
-  `<div><div class="stat-label">SHORTS</div><div class="stat-val red">${shorts}</div></div>`+
-  `<div><div class="stat-label">WINNING</div><div class="stat-val green">${wins}</div></div>`+
-  `<div><div class="stat-label">LOSING</div><div class="stat-val red">${losses}</div></div>`;
+document.getElementById("stats-bar").innerHTML=`<div><div class="stat-lbl">LONGS</div><div class="stat-v green">${longs}</div></div><div><div class="stat-lbl">SHORTS</div><div class="stat-v red">${shorts}</div></div><div><div class="stat-lbl">WINNING</div><div class="stat-v green">${wins}</div></div><div><div class="stat-lbl">LOSING</div><div class="stat-v red">${losses}</div></div>`;
 
-// Odds
-const oddsCols="16px 100px 55px 70px 70px 70px 60px";
+// ── ODDS ─────────────────────────────────────────────────────────────────────
+const ocols="16px 100px 55px 70px 70px 70px 60px";
 const oddsRows=document.getElementById("odds-rows");
 Object.entries(KALSHI).sort((a,b)=>b[1].mid-a[1].mid).forEach(([t,o],i)=>{
-  const pos=BOOK.find(p=>p.tk===t);
-  const isShort=pos?.side==="S";
+  const pos=BOOK_MAP[t],isS=pos?.side==="S";
   const sprd=((o.ask||0)-(o.bid||0)).toFixed(2);
-  const hasBg=pos?(i%2===0?"#0F1520":"#0D1218"):(i%2===0?"transparent":"#0D0F12");
-  const posBadge=pos?`<span class="side-badge" style="border:1px solid ${isShort?"#FF4444":"#00D4AA"};color:${isShort?"#FF4444":"#00D4AA"}">${isShort?"SHT":"LNG"}</span>`:"";
-  oddsRows.innerHTML+=`<div class="data-row" style="${grd(oddsCols)};background:${hasBg}">
-    <div class="indicator" style="background:${pos?(isShort?"#FF4444":"#00D4AA")+"66":"transparent"}"></div>
+  const bg=pos?(i%2===0?"#0F1520":"#0D1218"):(i%2===0?"transparent":"#0D0F12");
+  const pb=pos?`<span class="sbadge" style="border:1px solid ${isS?"#FF4444":"#00D4AA"};color:${isS?"#FF4444":"#00D4AA"}">${isS?"SHT":"LNG"}</span>`:"";
+  oddsRows.innerHTML+=`<div class="drow" style="grid-template-columns:${ocols};background:${bg}">
+    <div class="ind" style="background:${pos?(isS?"#FF4444":"#00D4AA")+"66":"transparent"}"></div>
     <div style="font-weight:${pos?700:400}">${FLAGS[t]||"🏳"} ${NAMES[t]||t}</div>
-    <div>${posBadge}</div>
+    <div>${pb}</div>
     <div class="tr muted">${(o.bid||0).toFixed(2)}</div>
     <div class="tr muted">${(o.ask||0).toFixed(2)}</div>
     <div class="tr" style="font-weight:${pos?700:400};color:${pos?"#00D4AA":"#C9D1D9"}">${o.mid.toFixed(2)}</div>
@@ -231,33 +228,112 @@ Object.entries(KALSHI).sort((a,b)=>b[1].mid-a[1].mid).forEach(([t,o],i)=>{
   </div>`;
 });
 
-// Jogos
-const jogosCols="70px 130px 55px 1fr";
-const jogosRows=document.getElementById("jogos-rows");
-JOGOS.forEach((j,i)=>{
-  jogosRows.innerHTML+=`<div class="data-row" style="${grd(jogosCols)};background:${i%2===0?"transparent":"#0D0F12"}">
-    <div class="muted">${j.data}</div>
-    <div style="font-weight:600">${j.j}</div>
-    <div><span class="imp-badge" style="border:1px solid ${j.cor}44;color:${j.cor}">${j.imp}</span></div>
-    <div class="muted">${j.nota}</div>
-  </div>`;
-});
-const hedgeCols="160px 1fr 60px";
-const hedgeRows=document.getElementById("hedge-rows");
-HEDGES.forEach((h,i)=>{
-  hedgeRows.innerHTML+=`<div class="data-row" style="${grd(hedgeCols)};background:${i%2===0?"transparent":"#0D0F12"}">
-    <div style="font-weight:700">${h.est}</div>
-    <div class="muted">${h.mec}</div>
-    <div class="tr" style="font-weight:700;color:${h.cor}">${h.st}</div>
-  </div>`;
-});
+// ── CHARTS ───────────────────────────────────────────────────────────────────
+let chart=null;
+function showTier(id,el){
+  document.querySelectorAll(".ttab").forEach(b=>b.classList.remove("active"));
+  el.classList.add("active");
+  const tier=TIERS[id];
+  document.getElementById("tier-range").textContent=`FAIXA: ${tier.range} · ${tier.tickers.length} TIMES`;
+  renderChart(tier.tickers, id==="POS");
+  renderCards(tier.tickers);
+}
 
-// Tabs
-function showTab(t,el){
-  document.querySelectorAll(".tab").forEach(b=>b.classList.remove("active"));
+function renderChart(tickers, isBook){
+  const ctx=document.getElementById("myChart").getContext("2d");
+  if(chart)chart.destroy();
+  const datasets=tickers.map(t=>({
+    label:t,
+    data:RAW[t]||[],
+    borderColor:PAL[t],
+    backgroundColor:"transparent",
+    borderWidth:BOOK_MAP[t]?2.5:1.5,
+    borderDash:BOOK_MAP[t]?.side==="S"?[7,3]:[],
+    pointRadius:0, pointHoverRadius:4,
+    tension:0.3, spanGaps:true,
+  }));
+  // Add entry price reference lines as extra datasets
+  if(isBook){
+    tickers.filter(t=>BOOK_MAP[t]).forEach(t=>{
+      const avg=BOOK_MAP[t].avg;
+      datasets.push({
+        label:`${t}_ref`, data:Array(8).fill(avg),
+        borderColor:PAL[t]+"55", borderWidth:0.8,
+        borderDash:[3,8], pointRadius:0, tension:0, hidden:false,
+      });
+    });
+  }
+  chart=new Chart(ctx,{
+    type:"line",
+    data:{labels:DLABEL,datasets},
+    options:{
+      responsive:true, maintainAspectRatio:true,
+      plugins:{
+        legend:{
+          display:true,
+          labels:{color:"#C9D1D9",font:{family:"IBM Plex Mono",size:10},
+            filter:item=>!item.label.endsWith("_ref")},
+        },
+        tooltip:{
+          backgroundColor:"#0A0D12", borderColor:"#1C2128", borderWidth:1,
+          titleColor:"#484F58", bodyColor:"#C9D1D9",
+          titleFont:{family:"IBM Plex Mono",size:10},
+          bodyFont:{family:"IBM Plex Mono",size:10},
+          callbacks:{
+            label:ctx=>{
+              const t=ctx.dataset.label;
+              if(t.endsWith("_ref"))return null;
+              const v=ctx.parsed.y;
+              const pos=BOOK_MAP[t];
+              let s=` ${t}: ${v?.toFixed(2)}%`;
+              if(pos){const pnl=pos.side==="S"?pos.avg-v:v-pos.avg;s+=` (${pnl>=0?"+":""}${pnl.toFixed(2)}pp)`;}
+              return s;
+            }
+          }
+        }
+      },
+      scales:{
+        x:{ticks:{color:"#484F58",font:{family:"IBM Plex Mono",size:10}},grid:{color:"#1C2128",drawBorder:false}},
+        y:{ticks:{color:"#484F58",font:{family:"IBM Plex Mono",size:10},callback:v=>`${v}%`},grid:{color:"#1C2128",drawBorder:false}},
+      }
+    }
+  });
+}
+
+function renderCards(tickers){
+  const el=document.getElementById("tier-cards");
+  el.innerHTML="";
+  tickers.forEach(t=>{
+    const vals=(RAW[t]||[]).filter(v=>v!=null);
+    const first=vals[0],last=vals[vals.length-1];
+    const chgPct=first&&last?((last-first)/first*100):null;
+    const pos=BOOK_MAP[t];
+    const pnl=pos&&last!=null?(pos.side==="S"?pos.avg-last:last-pos.avg):null;
+    const col=PAL[t];
+    el.innerHTML+=`<div class="card" style="border-left-color:${col};border:1px solid ${pos?col+"44":"#1C2128"};border-left:3px solid ${col}">
+      <div class="card-name" style="color:${col}">${FLAGS[t]||""} ${NAMES[t]||t}</div>
+      <div class="card-val">${last!=null?last.toFixed(2):"—"}%</div>
+      <div class="card-meta">
+        ${chgPct!=null?`<span style="color:${chgPct>=0?"#00D4AA":"#FF4444"};font-size:9px">${chgPct>=0?"▲":"▼"}${Math.abs(chgPct).toFixed(1)}% 7d</span>`:""}
+        ${pnl!=null?`<span style="color:${pc(pnl)};font-size:9px">${pnl>=0?"+":""}${pnl.toFixed(2)}pp</span>`:""}
+        ${pos?`<span style="font-size:8px;padding:0 3px;border:1px solid ${pos.side==="S"?"#FF4444":"#00D4AA"};color:${pos.side==="S"?"#FF4444":"#00D4AA"}">${pos.side==="S"?"SHT":"LNG"}</span>`:""}
+      </div>
+    </div>`;
+  });
+}
+
+// Init charts
+renderChart(TIERS.A.tickers, false);
+renderCards(TIERS.A.tickers);
+document.getElementById("tier-range").textContent=`FAIXA: ${TIERS.A.range} · ${TIERS.A.tickers.length} TIMES`;
+
+// ── TAB SWITCHER ──────────────────────────────────────────────────────────────
+function showMain(t,el){
+  document.querySelectorAll(".mtab").forEach(b=>b.classList.remove("active"));
   document.querySelectorAll(".panel").forEach(p=>p.classList.remove("active"));
   el.classList.add("active");
   document.getElementById("panel-"+t).classList.add("active");
+  if(t==="charts"&&!chart)renderChart(TIERS.A.tickers,false);
 }
 </script>
 </body>
