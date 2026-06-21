@@ -401,7 +401,7 @@ function renderNews(filter){
   if(!el) return;
 
   // Carrega news_events.json fresco via fetch
-  fetch("news_events.json?t=" + Date.now())
+  fetch("https://raw.githubusercontent.com/pavani06/kalshi-copa-2026/main/news_events.json?t=" + Date.now())
     .then(r => r.json())
     .then(data => {
       let items = data;
