@@ -4,220 +4,259 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="refresh" content="3600">
-<title>Call da Copa 2026 — Monitor</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<title>Call da Copa 2026 — Terminal</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:#0A0A0A;color:#F0F0F0;font-family:'Space Grotesk',sans-serif;min-height:100vh;padding-bottom:40px}
-::-webkit-scrollbar{width:4px}::-webkit-scrollbar-track{background:#111}::-webkit-scrollbar-thumb{background:#333;border-radius:2px}
-.header{background:#111;border-bottom:1px solid #1E1E1E;padding:18px 28px}
-.header-inner{max-width:900px;margin:0 auto;display:flex;justify-content:space-between;align-items:center}
-.title{font-size:1.15rem;font-weight:700;letter-spacing:-0.02em}
-.badge{margin-left:10px;font-size:0.7rem;font-weight:500;color:#F5C518;background:#1A1600;padding:2px 8px;border-radius:4px;letter-spacing:0.08em;text-transform:uppercase}
-.ts{font-size:0.72rem;color:#555;margin-top:3px;font-family:'Space Mono',monospace}
-.pnl-total{text-align:right}
-.pnl-label{font-size:0.72rem;color:#555;margin-bottom:2px}
-.wrap{max-width:900px;margin:0 auto;padding:0 28px}
-.section-title{display:flex;align-items:center;gap:10px;margin-bottom:14px;margin-top:24px}
-.section-bar{width:3px;height:20px;background:#F5C518;border-radius:2px}
-.section-text{font-weight:700;font-size:0.8rem;letter-spacing:0.12em;text-transform:uppercase;color:#8E8E93}
-/* tabs */
-.tabs{display:flex;gap:6px;background:#111;border-radius:10px;padding:4px;width:fit-content;margin-top:24px}
-.tab{padding:8px 18px;border-radius:8px;border:none;cursor:pointer;font-size:0.82rem;font-weight:600;font-family:'Space Grotesk',sans-serif;letter-spacing:0.04em;background:transparent;color:#8E8E93;transition:all .15s}
-.tab.active{background:#F5C518;color:#0A0A0A}
-.panel{display:none;margin-top:20px}.panel.active{display:block}
-/* alertas */
-.alertas{display:flex;flex-direction:column;gap:10px}
-.alerta{background:#111;border-radius:8px;padding:12px 16px;display:flex;gap:14px;align-items:flex-start}
-.alerta-nivel{min-width:70px;font-size:0.65rem;font-weight:700;letter-spacing:0.1em;font-family:'Space Mono',monospace}
-.alerta-body{flex:1}
-.alerta-time{font-weight:700;font-size:0.88rem;margin-bottom:3px}
-.alerta-msg{font-size:0.8rem;color:#AAA;line-height:1.4}
-.alerta-acao{min-width:180px;font-size:0.75rem;font-weight:600;text-align:right;line-height:1.4}
-/* book table */
-.book-table{background:#111;border-radius:12px;overflow:hidden;border:1px solid #1E1E1E}
-.book-head{display:grid;grid-template-columns:2fr 60px 80px 90px 90px 90px 100px;padding:10px 16px;background:#161616;font-size:0.68rem;color:#555;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;font-family:'Space Mono',monospace}
-.book-row{display:grid;grid-template-columns:2fr 60px 80px 90px 90px 90px 100px;padding:13px 16px;border-top:1px solid #1A1A1A;align-items:center}
-.book-row:nth-child(even){background:#0D0D0D}
-.book-total{display:grid;grid-template-columns:2fr 60px 80px 90px 90px 90px 100px;padding:13px 16px;border-top:2px solid #2A2A2A;background:#0D0D0D}
-.side-badge{font-size:0.68rem;font-weight:700;padding:2px 7px;border-radius:4px;font-family:'Space Mono',monospace}
-.mono{font-family:'Space Mono',monospace;font-size:0.85rem}
+body{background:#0B0E11;color:#C9D1D9;font-family:'IBM Plex Mono','Courier New',monospace;font-size:12px;line-height:1.4;padding-bottom:24px}
+::-webkit-scrollbar{width:3px}::-webkit-scrollbar-thumb{background:#1C2128}
+.ticker-bar{background:#070A0D;border-bottom:1px solid #1C2128;padding:3px 12px;display:flex;gap:24px;align-items:center;overflow-x:auto;white-space:nowrap}
+.header{border-bottom:1px solid #1C2128;padding:8px 12px;display:flex;justify-content:space-between;align-items:center}
+.header-left{display:flex;gap:24px;align-items:baseline}
+.title{font-weight:700;font-size:13px;color:#C9D1D9}
+.h-meta{font-size:10px;color:#484F58}
+.h-alert{font-size:10px;color:#FF4444}
+.pnl-label{font-size:10px;color:#484F58}
+.pnl-val{font-weight:700;font-size:16px}
+.alerts{background:#0D0F12;border-bottom:1px solid #1C2128}
+.alert-row{display:grid;grid-template-columns:50px 80px 1fr auto;gap:12px;padding:5px 12px;align-items:center;border-bottom:1px solid #1C2128}
+.alert-row:last-child{border-bottom:none}
+.a-lvl{font-weight:700;font-size:10px}
+.a-label{font-weight:600;font-size:11px}
+.a-msg{font-size:11px;color:#484F58}
+.a-action{font-size:10px;font-weight:600;white-space:nowrap;text-align:right}
+.tabs{display:flex;border-bottom:1px solid #1C2128;background:#0D0F12}
+.tab{padding:6px 16px;border:none;cursor:pointer;font-size:11px;font-family:'IBM Plex Mono',monospace;background:transparent;color:#484F58;border-bottom:2px solid transparent}
+.tab.active{color:#00D4AA;font-weight:600;background:#1E2530;border-bottom:2px solid #00D4AA}
+.panel{display:none}.panel.active{display:block}
+.col-head{display:grid;padding:4px 12px;gap:8px;font-size:10px;color:#6E7681;font-weight:600;border-bottom:1px solid #1C2128;background:#0D0F12;text-transform:uppercase;letter-spacing:.08em}
+.data-row{display:grid;padding:6px 12px;gap:8px;align-items:center;border-bottom:1px solid #1C2128}
+.data-row:nth-child(even){background:#0D0F12}
+.data-row:hover{background:#131820}
+.side-badge{font-size:10px;font-weight:700;padding:1px 5px}
 .tr{text-align:right}
-.green{color:#34C759}.red{color:#FF3B30}.yellow{color:#F5C518}.muted{color:#555}
-/* odds grid */
-.odds-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
-.odds-card{background:#111;border:1px solid #1E1E1E;border-radius:10px;padding:14px 16px;position:relative}
-.odds-card.has-long{border-color:#34C75944}.odds-card.has-short{border-color:#FF3B3044}
-.pos-badge{position:absolute;top:8px;right:8px;font-size:0.62rem;font-weight:700;padding:1px 6px;border-radius:3px;font-family:'Space Mono',monospace}
-.odds-flag{font-size:1.4rem;margin-bottom:4px}
-.odds-name{font-weight:700;font-size:0.9rem;margin-bottom:8px}
-.odds-mid{font-size:1.4rem;font-weight:700;color:#F5C518;font-family:'Space Mono',monospace}
-.odds-spread{font-size:0.68rem;color:#555;margin-top:3px;font-family:'Space Mono',monospace}
-/* jogos */
-.jogos-list{display:flex;flex-direction:column;gap:8px}
-.jogo-row{display:grid;grid-template-columns:80px 1fr 80px 1fr;gap:16px;align-items:center;background:#111;border:1px solid #1E1E1E;border-radius:10px;padding:14px 18px}
-.jogo-data{font-family:'Space Mono',monospace;font-size:0.78rem;color:#888}
-.jogo-nome{font-weight:600;font-size:0.9rem}
-.imp-badge{font-size:0.65rem;font-weight:700;padding:3px 8px;border-radius:4px;font-family:'Space Mono',monospace;letter-spacing:0.06em}
-.jogo-nota{font-size:0.8rem;color:#666}
-/* hedges */
-.hedge-row{background:#111;border-radius:10px;padding:14px 18px;display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:8px}
-.hedge-nome{font-weight:700;font-size:0.88rem;margin-bottom:4px}
-.hedge-mec{font-size:0.78rem;color:#777}
-.hedge-badge{font-size:0.68rem;font-weight:700;padding:3px 10px;border-radius:4px;font-family:'Space Mono',monospace;white-space:nowrap}
-.footnote{margin-top:10px;font-size:0.72rem;color:#444;font-family:'Space Mono',monospace}
+.green{color:#00D4AA}.red{color:#FF4444}.warn{color:#FF8C00}.muted{color:#484F58}.head{color:#6E7681}
+.totals-row{display:grid;padding:7px 12px;gap:8px;border-top:1px solid #00D4AA33;background:#0D0F12}
+.stats-bar{padding:8px 28px;border-top:1px solid #1C2128;display:flex;gap:32px;background:#0D0F12}
+.stat-label{font-size:9px;color:#484F58;letter-spacing:.1em}
+.stat-val{font-weight:700;font-size:13px}
+.status-bar{position:fixed;bottom:0;left:0;right:0;background:#00D4AA;padding:2px 12px;display:flex;justify-content:space-between;font-size:10px;color:#000;font-weight:600}
+.indicator{width:3px;height:14px;border-radius:1px}
+.imp-badge{font-size:10px;font-weight:700;padding:1px 5px}
 </style>
 </head>
 <body>
+
+<div class="ticker-bar" id="ticker-bar">
+  <span class="green" style="font-weight:700;font-size:10px">KXMENWORLDCUP</span>
+</div>
+
 <div class="header">
-  <div class="header-inner">
-    <div>
-      <div class="title">⚽ Call da Copa 2026 <span class="badge">MONITOR</span></div>
-      <div class="ts" id="fetch-ts">Kalshi snapshot: 21/jun/2026 10:53 UTC</div>
-    </div>
-    <div class="pnl-total">
-      <div class="pnl-label">P&L total (MTM)</div>
-      <div id="total-pnl" style="font-size:1.5rem;font-weight:700;font-family:'Space Mono',monospace"></div>
-    </div>
+  <div class="header-left">
+    <span class="title">CALL DA COPA 2026</span>
+    <span class="h-meta">PORTFOLIO MONITOR</span>
+    <span class="h-meta">|</span>
+    <span class="h-meta">8 POSIÇÕES</span>
+    <span class="h-meta">|</span>
+    <span class="h-alert">3 ALERTAS</span>
+  </div>
+  <div style="text-align:right">
+    <span class="pnl-label">P&L MTM&nbsp;&nbsp;</span>
+    <span class="pnl-val" id="total-pnl"></span>
+    <span class="pnl-label"> pp</span>
   </div>
 </div>
 
-<div class="wrap">
-  <!-- Alertas -->
-  <div class="section-title" style="margin-top:20px">
-    <div class="section-bar"></div>
-    <div class="section-text">Alertas Ativos</div>
+<div class="alerts">
+  <div class="alert-row">
+    <span class="a-lvl red">CRIT</span>
+    <span class="a-label">SEN</span>
+    <span class="a-msg">vs NOR 23/jun — eliminatório. 10ctrl@0.75 → zero.</span>
+    <span class="a-action red">→ FECHAR ANTES 23/JUN</span>
   </div>
-  <div class="alertas">
-    <div class="alerta" style="border:1px solid #FF3B3033;border-left:3px solid #FF3B30">
-      <div class="alerta-nivel" style="color:#FF3B30">CRÍTICO</div>
-      <div class="alerta-body">
-        <div class="alerta-time">Senegal 🇸🇳</div>
-        <div class="alerta-msg">Jogo vs Noruega em 23/jun é praticamente eliminatório. 10 contratos a 0,75% podem ir a zero.</div>
-      </div>
-      <div class="alerta-acao" style="color:#FF3B30">→ Avaliar fechar antes de 23/jun</div>
-    </div>
-    <div class="alerta" style="border:1px solid #FF3B3033;border-left:3px solid #FF3B30">
-      <div class="alerta-nivel" style="color:#FF3B30">CRÍTICO</div>
-      <div class="alerta-body">
-        <div class="alerta-time">Marrocos 🇲🇦</div>
-        <div class="alerta-msg">Jogo vs Escócia (~22/jun) é mata-mata. Escócia lidera o grupo com 3pts.</div>
-      </div>
-      <div class="alerta-acao" style="color:#FF3B30">→ Se perder → fechar no Call</div>
-    </div>
-    <div class="alerta" style="border:1px solid #FF950033;border-left:3px solid #FF9500">
-      <div class="alerta-nivel" style="color:#FF9500">ATENÇÃO</div>
-      <div class="alerta-body">
-        <div class="alerta-time">Portugal × Colombia 🇵🇹🇨🇴</div>
-        <div class="alerta-msg">Confronto direto em 27/jun. Long nos dois = hedge interno. Um vai perder.</div>
-      </div>
-      <div class="alerta-acao" style="color:#FF9500">→ Reduzir Portugal antes</div>
-    </div>
+  <div class="alert-row">
+    <span class="a-lvl red">CRIT</span>
+    <span class="a-label">MAR</span>
+    <span class="a-msg">vs SCO ~22/jun — mata-mata. SCO lidera 3pts.</span>
+    <span class="a-action red">→ FECHAR SE PERDER</span>
   </div>
+  <div class="alert-row">
+    <span class="a-lvl warn">WARN</span>
+    <span class="a-label">POR×COL</span>
+    <span class="a-msg">Confronto direto 27/jun. Long nos dois = hedge interno.</span>
+    <span class="a-action warn">→ REDUZIR POR ANTES</span>
+  </div>
+</div>
 
-  <!-- Tabs -->
-  <div class="tabs">
-    <button class="tab active" onclick="showTab('book')">📊 Book & P&L</button>
-    <button class="tab" onclick="showTab('odds')">📈 Odds Kalshi</button>
-    <button class="tab" onclick="showTab('jogos')">📅 Jogos Críticos</button>
-  </div>
+<div class="tabs">
+  <button class="tab active" onclick="showTab('book',this)">F1&nbsp;&nbsp;BOOK/P&L</button>
+  <button class="tab" onclick="showTab('odds',this)">F2&nbsp;&nbsp;ODDS</button>
+  <button class="tab" onclick="showTab('jogos',this)">F3&nbsp;&nbsp;JOGOS</button>
+</div>
 
-  <!-- BOOK -->
-  <div class="panel active" id="panel-book">
-    <div class="section-title"><div class="section-bar"></div><div class="section-text">Posições abertas</div></div>
-    <div class="book-table">
-      <div class="book-head">
-        <div>Seleção</div><div>Side</div><div class="tr">Ctrl</div>
-        <div class="tr">P.Médio</div><div class="tr">Kalshi MTM</div>
-        <div class="tr">Edge/ctrl</div><div class="tr">P&L Total</div>
-      </div>
-      <div id="book-rows"></div>
-      <div class="book-total" id="book-total"></div>
+<!-- BOOK -->
+<div class="panel active" id="panel-book">
+  <div class="col-head" style="grid-template-columns:16px 110px 45px 50px 72px 72px 72px 80px">
+    <div></div><div>SELEÇÃO</div><div>SIDE</div><div class="tr">QTY</div>
+    <div class="tr">AVG</div><div class="tr">MTM</div><div class="tr">EDGE</div><div class="tr">P&L</div>
+  </div>
+  <div id="book-rows"></div>
+  <div class="totals-row" id="book-total" style="grid-template-columns:16px 110px 45px 50px 72px 72px 72px 80px"></div>
+  <div class="stats-bar" id="stats-bar"></div>
+</div>
+
+<!-- ODDS -->
+<div class="panel" id="panel-odds">
+  <div class="col-head" style="grid-template-columns:16px 100px 55px 70px 70px 70px 60px">
+    <div></div><div>TICKER</div><div>POS</div>
+    <div class="tr">BID%</div><div class="tr">ASK%</div><div class="tr">MID%</div><div class="tr">SPRD</div>
+  </div>
+  <div id="odds-rows"></div>
+</div>
+
+<!-- JOGOS -->
+<div class="panel" id="panel-jogos">
+  <div class="col-head" style="grid-template-columns:70px 130px 55px 1fr">
+    <div>DATA</div><div>JOGO</div><div>IMP.</div><div>NOTA</div>
+  </div>
+  <div id="jogos-rows"></div>
+  <div style="margin-top:16px;border-top:1px solid #1C2128">
+    <div class="col-head" style="grid-template-columns:160px 1fr 60px">
+      <div>HEDGE</div><div>MECANISMO</div><div class="tr">STATUS</div>
     </div>
-    <div class="footnote">* P&L em pontos percentuais × contratos. MTM marcado pelo mid Kalshi.</div>
+    <div id="hedge-rows"></div>
   </div>
+</div>
 
-  <!-- ODDS -->
-  <div class="panel" id="panel-odds">
-    <div class="section-title"><div class="section-bar"></div><div class="section-text">Odds Kalshi — Campeão Mundial</div></div>
-    <div class="odds-grid" id="odds-grid"></div>
-  </div>
-
-  <!-- JOGOS -->
-  <div class="panel" id="panel-jogos">
-    <div class="section-title"><div class="section-bar"></div><div class="section-text">Jogos críticos para o portfolio</div></div>
-    <div class="jogos-list">
-      <div class="jogo-row"><div class="jogo-data">~22/jun</div><div class="jogo-nome">Marrocos vs Escócia</div><div><span class="imp-badge" style="background:#FF3B3022;color:#FF3B30">ALTO</span></div><div class="jogo-nota">Quase eliminatório para Marrocos</div></div>
-      <div class="jogo-row"><div class="jogo-data">23/jun</div><div class="jogo-nome">Noruega vs Senegal</div><div><span class="imp-badge" style="background:#FF3B3022;color:#FF3B30">ALTO</span></div><div class="jogo-nota">Pode zerar posição Senegal</div></div>
-      <div class="jogo-row"><div class="jogo-data">23/jun</div><div class="jogo-nome">Colombia vs DR Congo</div><div><span class="imp-badge" style="background:#FF950022;color:#FF9500">MÉDIO</span></div><div class="jogo-nota">Confirma liderança 1K</div></div>
-      <div class="jogo-row"><div class="jogo-data">23/jun</div><div class="jogo-nome">Portugal vs Uzbequistão</div><div><span class="imp-badge" style="background:#34C75922;color:#34C759">BAIXO</span></div><div class="jogo-nota">Deve vencer, sem drama</div></div>
-      <div class="jogo-row"><div class="jogo-data">26/jun</div><div class="jogo-nome">Noruega vs França</div><div><span class="imp-badge" style="background:#FF950022;color:#FF9500">MÉDIO</span></div><div class="jogo-nota">Saída ideal da posição Noruega</div></div>
-      <div class="jogo-row"><div class="jogo-data">27/jun</div><div class="jogo-nome">Portugal vs Colombia</div><div><span class="imp-badge" style="background:#FF3B3022;color:#FF3B30">ALTO</span></div><div class="jogo-nota">Confronto direto — hedge interno</div></div>
-    </div>
-    <div class="section-title" style="margin-top:24px"><div class="section-bar"></div><div class="section-text">Hedges Estruturais</div></div>
-    <div class="hedge-row" style="border:1px solid #34C75933"><div><div class="hedge-nome">Short Brasil + Long Inglaterra</div><div class="hedge-mec">Se ENG×BRA no QF → short ganha + long sobe. Cobertura natural.</div></div><span class="hedge-badge" style="background:#34C75922;color:#34C759">OK</span></div>
-    <div class="hedge-row" style="border:1px solid #FF950033"><div><div class="hedge-nome">Long Colombia + Long Portugal</div><div class="hedge-mec">Confronto direto em 27/jun. Um cancela o outro. Hedge interno.</div></div><span class="hedge-badge" style="background:#FF950022;color:#FF9500">RISCO</span></div>
-    <div class="hedge-row" style="border:1px solid #FF950033"><div><div class="hedge-nome">Long Noruega + Long Alemanha</div><div class="hedge-mec">R16 potencial NOR×ALE — as duas não podem vencer juntas.</div></div><span class="hedge-badge" style="background:#FF950022;color:#FF9500">ATENÇÃO</span></div>
-  </div>
+<div class="status-bar">
+  <span>F1:BOOK&nbsp;&nbsp;F2:ODDS&nbsp;&nbsp;F3:JOGOS</span>
+  <span>CALL DA COPA 2026 | KALSHI PREDICTION MARKET | pavani06</span>
+  <span id="ts-bar"></span>
 </div>
 
 <script>
 const KALSHI = {"BR": {"bid": 6.1, "ask": 6.2, "mid": 6.15}, "DE": {"bid": 5.9, "ask": 6.0, "mid": 5.95}, "GB": {"bid": 12.8, "ask": 12.9, "mid": 12.85}, "PT": {"bid": 7.0, "ask": 7.1, "mid": 7.05}, "MA": {"bid": 2.3, "ask": 2.4, "mid": 2.35}, "CO": {"bid": 1.7, "ask": 1.8, "mid": 1.75}, "NO": {"bid": 2.6, "ask": 2.7, "mid": 2.65}, "SN": {"bid": 0.4, "ask": 0.5, "mid": 0.45}, "FR": {"bid": 19.1, "ask": 19.4, "mid": 19.25}, "ES": {"bid": 13.2, "ask": 13.4, "mid": 13.3}, "AR": {"bid": 10.7, "ask": 11.0, "mid": 10.85}, "NL": {"bid": 6.7, "ask": 7.0, "mid": 6.85}, "US": {"bid": 4.8, "ask": 5.0, "mid": 4.9}, "JP": {"bid": 2.0, "ask": 2.2, "mid": 2.1}};
-const BOOK = [{"selecao": "Brasil", "ticker": "BR", "lado": "V", "contratos": 40, "preco_medio": 12.625, "flag": "\ud83c\udde7\ud83c\uddf7"}, {"selecao": "Alemanha", "ticker": "DE", "lado": "C", "contratos": 30, "preco_medio": 9.0, "flag": "\ud83c\udde9\ud83c\uddea"}, {"selecao": "Inglaterra", "ticker": "GB", "lado": "C", "contratos": 20, "preco_medio": 11.75, "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f"}, {"selecao": "Portugal", "ticker": "PT", "lado": "C", "contratos": 10, "preco_medio": 12.0, "flag": "\ud83c\uddf5\ud83c\uddf9"}, {"selecao": "Marrocos", "ticker": "MA", "lado": "C", "contratos": 30, "preco_medio": 2.42, "flag": "\ud83c\uddf2\ud83c\udde6"}, {"selecao": "Colombia", "ticker": "CO", "lado": "C", "contratos": 30, "preco_medio": 1.83, "flag": "\ud83c\udde8\ud83c\uddf4"}, {"selecao": "Noruega", "ticker": "NO", "lado": "C", "contratos": 10, "preco_medio": 3.0, "flag": "\ud83c\uddf3\ud83c\uddf4"}, {"selecao": "Senegal", "ticker": "SN", "lado": "C", "contratos": 10, "preco_medio": 0.75, "flag": "\ud83c\uddf8\ud83c\uddf3"}];
+const BOOK   = [{"sel": "BRASIL", "tk": "BR", "side": "S", "qty": 40, "avg": 12.625, "flag": "\ud83c\udde7\ud83c\uddf7"}, {"sel": "ALEMANHA", "tk": "DE", "side": "L", "qty": 30, "avg": 9.0, "flag": "\ud83c\udde9\ud83c\uddea"}, {"sel": "INGLATERRA", "tk": "GB", "side": "L", "qty": 20, "avg": 11.75, "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f"}, {"sel": "PORTUGAL", "tk": "PT", "side": "L", "qty": 10, "avg": 12.0, "flag": "\ud83c\uddf5\ud83c\uddf9"}, {"sel": "MARROCOS", "tk": "MA", "side": "L", "qty": 30, "avg": 2.42, "flag": "\ud83c\uddf2\ud83c\udde6"}, {"sel": "COLOMBIA", "tk": "CO", "side": "L", "qty": 30, "avg": 1.83, "flag": "\ud83c\udde8\ud83c\uddf4"}, {"sel": "NORUEGA", "tk": "NO", "side": "L", "qty": 10, "avg": 3.0, "flag": "\ud83c\uddf3\ud83c\uddf4"}, {"sel": "SENEGAL", "tk": "SN", "side": "L", "qty": 10, "avg": 0.75, "flag": "\ud83c\uddf8\ud83c\uddf3"}];
+const FETCH_TS = '2026-06-21T10:53:41Z';
 
+const NAMES = {FR:"FRANCA",ES:"ESPANHA",GB:"INGLAT.",AR:"ARGENT.",PT:"PORTUG.",NL:"HOLANDA",BR:"BRASIL",DE:"ALEMANHA",US:"EUA",JP:"JAPAO",NO:"NORUEGA",MA:"MARROCOS",CO:"COLOMBIA",SN:"SENEGAL"};
 const FLAGS = {FR:"🇫🇷",ES:"🇪🇸",GB:"🏴󠁧󠁢󠁥󠁮󠁧󠁿",AR:"🇦🇷",PT:"🇵🇹",NL:"🇳🇱",BR:"🇧🇷",DE:"🇩🇪",US:"🇺🇸",JP:"🇯🇵",NO:"🇳🇴",MA:"🇲🇦",CO:"🇨🇴",SN:"🇸🇳"};
-const NAMES = {FR:"França",ES:"Espanha",GB:"Inglaterra",AR:"Argentina",PT:"Portugal",NL:"Holanda",BR:"Brasil",DE:"Alemanha",US:"EUA",JP:"Japão",NO:"Noruega",MA:"Marrocos",CO:"Colômbia",SN:"Senegal"};
+const JOGOS = [
+  {data:"~22/jun",j:"MAR vs SCO",imp:"ALTO",cor:"#FF4444",nota:"Quase eliminatório Marrocos"},
+  {data:"23/jun",j:"NOR vs SEN",imp:"ALTO",cor:"#FF4444",nota:"Pode zerar posição Senegal"},
+  {data:"23/jun",j:"COL vs COD",imp:"MED",cor:"#FF8C00",nota:"Confirma liderança grupo K"},
+  {data:"23/jun",j:"POR vs UZB",imp:"LOW",cor:"#00D4AA",nota:"Deve vencer"},
+  {data:"26/jun",j:"NOR vs FRA",imp:"MED",cor:"#FF8C00",nota:"Saída ideal posição Noruega"},
+  {data:"27/jun",j:"POR vs COL",imp:"ALTO",cor:"#FF4444",nota:"Confronto direto — hedge interno"},
+];
+const HEDGES = [
+  {est:"SHORT BR + LONG GB",mec:"QF potencial BRA×ENG → hedge perfeito nos dois lados",st:"OK",cor:"#00D4AA"},
+  {est:"LONG PT + LONG CO",mec:"Confronto direto 27/jun — um cancela o outro",st:"RISCO",cor:"#FF8C00"},
+  {est:"LONG NO + LONG DE",mec:"R16 potencial NOR×DEU — não podem vencer juntos",st:"ATT.",cor:"#FF8C00"},
+];
 
-function pnlColor(v){return v>0?"#34C759":v<0?"#FF3B30":"#8E8E93"}
+function pc(v){return v>0?"#00D4AA":v<0?"#FF4444":"#484F58"}
 function fmt(v,d=2){return (v>0?"+":"")+v.toFixed(d)}
+function grd(cols){return `grid-template-columns:${cols}`}
 
-// Render book
-let totalPnL=0;
+// Ticker
+const tb=document.getElementById("ticker-bar");
+Object.entries(KALSHI).sort((a,b)=>b[1].mid-a[1].mid).slice(0,8).forEach(([t,o])=>{
+  tb.innerHTML+=`<span style="font-size:10px;color:#484F58"><span style="color:#C9D1D9">${t}</span> <span style="color:${o.mid>10?"#00D4AA":"#C9D1D9"}">${o.mid.toFixed(2)}</span></span>`;
+});
+let blink=true;
+setInterval(()=>{
+  const el=document.getElementById("live-dot");
+  if(el)el.style.color=blink?"#484F58":"transparent";
+  blink=!blink;
+},800);
+tb.innerHTML+=`<span id="live-dot" style="margin-left:auto;font-size:10px;color:#484F58">● LIVE</span>`;
+const ts=new Date(FETCH_TS);
+const tsStr=ts.toISOString().slice(0,10)+" "+ts.toISOString().slice(11,16)+" UTC";
+tb.innerHTML+=`<span style="font-size:10px;color:#484F58">${tsStr}</span>`;
+document.getElementById("ts-bar").textContent=tsStr;
+
+// Book
+let total=0,wins=0,losses=0,longs=0,shorts=0;
 const bookRows=document.getElementById("book-rows");
+const cols="16px 110px 45px 50px 72px 72px 72px 80px";
 BOOK.forEach((p,i)=>{
-  const k=KALSHI[p.ticker]||{mid:p.preco_medio};
+  const k=KALSHI[p.tk]||{mid:p.avg};
   const mtm=k.mid;
-  const diff=p.lado==="V"?(p.preco_medio-mtm):(mtm-p.preco_medio);
-  const pnl=diff*p.contratos;
-  totalPnL+=pnl;
-  const pc=pnlColor(pnl);
-  const isShort=p.lado==="V";
-  bookRows.innerHTML+=`<div class="book-row" style="background:${i%2===0?"transparent":"#0D0D0D"}">
-    <div style="font-weight:600;font-size:.9rem">${p.flag} ${p.selecao}</div>
-    <div><span class="side-badge" style="background:${isShort?"#3D0A0A":"#0A2E1A"};color:${isShort?"#FF3B30":"#34C759"}">${isShort?"SHORT":"LONG"}</span></div>
-    <div class="mono tr">${p.contratos}</div>
-    <div class="mono tr muted">${p.preco_medio.toFixed(2)}%</div>
-    <div class="mono tr">${mtm.toFixed(2)}%</div>
-    <div class="mono tr" style="color:${pnlColor(diff)}">${fmt(diff)}pp</div>
-    <div class="mono tr" style="color:${pc};font-weight:700">${fmt(pnl,1)} pp</div>
+  const diff=p.side==="S"?(p.avg-mtm):(mtm-p.avg);
+  const pnl=diff*p.qty;
+  total+=pnl;
+  if(pnl>0)wins++;else if(pnl<0)losses++;
+  if(p.side==="L")longs++;else shorts++;
+  const alert=["SN","MA"].includes(p.tk);
+  const isShort=p.side==="S";
+  bookRows.innerHTML+=`<div class="data-row" style="${grd(cols)};background:${i%2===0?"transparent":"#0D0F12"}">
+    <div class="indicator" style="background:${alert?"#FF4444":isShort?"#FF444433":"#00D4AA33"}"></div>
+    <div style="font-weight:600">${p.flag} ${p.sel}</div>
+    <div><span class="side-badge" style="border:1px solid ${isShort?"#FF4444":"#00D4AA"};color:${isShort?"#FF4444":"#00D4AA"}">${isShort?"SHT":"LNG"}</span></div>
+    <div class="tr">${p.qty}</div>
+    <div class="tr muted">${p.avg.toFixed(3)}%</div>
+    <div class="tr">${mtm.toFixed(2)}%</div>
+    <div class="tr" style="color:${pc(diff)}">${fmt(diff)}</div>
+    <div class="tr" style="color:${pc(pnl)};font-weight:700">${fmt(pnl,1)} pp</div>
   </div>`;
 });
-const tc=pnlColor(totalPnL);
-document.getElementById("book-total").innerHTML=`<div style="font-weight:700;font-size:.85rem;color:#F5C518;grid-column:1/7">Total P&L (MTM)</div><div class="mono tr" style="font-weight:700;font-size:1rem;color:${tc}">${fmt(totalPnL,1)} pp</div>`;
+const tc=pc(total);
 document.getElementById("total-pnl").style.color=tc;
-document.getElementById("total-pnl").textContent=(totalPnL>0?"+":"")+totalPnL.toFixed(1)+" pp";
+document.getElementById("total-pnl").textContent=(total>0?"+":"")+total.toFixed(1);
+document.getElementById("book-total").innerHTML=`<div></div><div style="font-size:10px;color:#00D4AA;font-weight:700;grid-column:2/8">TOTAL P&L (MTM)</div><div class="tr" style="font-weight:700;font-size:14px;color:${tc}">${fmt(total,1)} pp</div>`;
+document.getElementById("stats-bar").innerHTML=
+  `<div><div class="stat-label">LONGS</div><div class="stat-val green">${longs}</div></div>`+
+  `<div><div class="stat-label">SHORTS</div><div class="stat-val red">${shorts}</div></div>`+
+  `<div><div class="stat-label">WINNING</div><div class="stat-val green">${wins}</div></div>`+
+  `<div><div class="stat-label">LOSING</div><div class="stat-val red">${losses}</div></div>`;
 
-// Render odds
-const grid=document.getElementById("odds-grid");
-Object.entries(KALSHI).sort((a,b)=>b[1].mid-a[1].mid).forEach(([t,o])=>{
-  const pos=BOOK.find(p=>p.ticker===t);
-  const cls=pos?(pos.lado==="V"?"has-short":"has-long"):"";
-  const pb=pos?`<div class="pos-badge" style="background:${pos.lado==="V"?"#3D0A0A":"#0A2E1A"};color:${pos.lado==="V"?"#FF3B30":"#34C759"}">${pos.lado==="V"?"SHORT":"LONG"}</div>`:"";
-  grid.innerHTML+=`<div class="odds-card ${cls}">
-    ${pb}
-    <div class="odds-flag">${FLAGS[t]||"🏳"}</div>
-    <div class="odds-name">${NAMES[t]||t}</div>
-    <div class="odds-mid">${o.mid.toFixed(2)}%</div>
-    <div class="odds-spread">${(o.bid||0).toFixed(2)} / ${(o.ask||0).toFixed(2)}</div>
+// Odds
+const oddsCols="16px 100px 55px 70px 70px 70px 60px";
+const oddsRows=document.getElementById("odds-rows");
+Object.entries(KALSHI).sort((a,b)=>b[1].mid-a[1].mid).forEach(([t,o],i)=>{
+  const pos=BOOK.find(p=>p.tk===t);
+  const isShort=pos?.side==="S";
+  const sprd=((o.ask||0)-(o.bid||0)).toFixed(2);
+  const hasBg=pos?(i%2===0?"#0F1520":"#0D1218"):(i%2===0?"transparent":"#0D0F12");
+  const posBadge=pos?`<span class="side-badge" style="border:1px solid ${isShort?"#FF4444":"#00D4AA"};color:${isShort?"#FF4444":"#00D4AA"}">${isShort?"SHT":"LNG"}</span>`:"";
+  oddsRows.innerHTML+=`<div class="data-row" style="${grd(oddsCols)};background:${hasBg}">
+    <div class="indicator" style="background:${pos?(isShort?"#FF4444":"#00D4AA")+"66":"transparent"}"></div>
+    <div style="font-weight:${pos?700:400}">${FLAGS[t]||"🏳"} ${NAMES[t]||t}</div>
+    <div>${posBadge}</div>
+    <div class="tr muted">${(o.bid||0).toFixed(2)}</div>
+    <div class="tr muted">${(o.ask||0).toFixed(2)}</div>
+    <div class="tr" style="font-weight:${pos?700:400};color:${pos?"#00D4AA":"#C9D1D9"}">${o.mid.toFixed(2)}</div>
+    <div class="tr muted">${sprd}</div>
+  </div>`;
+});
+
+// Jogos
+const jogosCols="70px 130px 55px 1fr";
+const jogosRows=document.getElementById("jogos-rows");
+JOGOS.forEach((j,i)=>{
+  jogosRows.innerHTML+=`<div class="data-row" style="${grd(jogosCols)};background:${i%2===0?"transparent":"#0D0F12"}">
+    <div class="muted">${j.data}</div>
+    <div style="font-weight:600">${j.j}</div>
+    <div><span class="imp-badge" style="border:1px solid ${j.cor}44;color:${j.cor}">${j.imp}</span></div>
+    <div class="muted">${j.nota}</div>
+  </div>`;
+});
+const hedgeCols="160px 1fr 60px";
+const hedgeRows=document.getElementById("hedge-rows");
+HEDGES.forEach((h,i)=>{
+  hedgeRows.innerHTML+=`<div class="data-row" style="${grd(hedgeCols)};background:${i%2===0?"transparent":"#0D0F12"}">
+    <div style="font-weight:700">${h.est}</div>
+    <div class="muted">${h.mec}</div>
+    <div class="tr" style="font-weight:700;color:${h.cor}">${h.st}</div>
   </div>`;
 });
 
 // Tabs
-function showTab(t){
-  document.querySelectorAll(".tab").forEach(el=>el.classList.remove("active"));
-  document.querySelectorAll(".panel").forEach(el=>el.classList.remove("active"));
-  event.target.classList.add("active");
+function showTab(t,el){
+  document.querySelectorAll(".tab").forEach(b=>b.classList.remove("active"));
+  document.querySelectorAll(".panel").forEach(p=>p.classList.remove("active"));
+  el.classList.add("active");
   document.getElementById("panel-"+t).classList.add("active");
 }
 </script>
