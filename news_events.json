@@ -532,6 +532,17 @@
     "source_type": "news"
   },
   {
+    "date": "20/06 14:00",
+    "date_ts": 1781964000.0,
+    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "20/06 09:47",
     "date_ts": 1781948829.0,
     "title": "Argentina vs Austria Prediction: World Cup 2026 Preview & Best Bets",
@@ -693,18 +704,5 @@
     "teams": [],
     "delta_pp": 1.06,
     "source": "price_move"
-  },
-  {
-    "date": "19/06 17:57",
-    "date_ts": 1781891874.0,
-    "title": "US vs Australia Confirmed Lineups World Cup 2026: Pepi Starts, Pulisic Out, W/ Predictions",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGlpZ25VdmxRdWRLbk9xOWVacVNKcjF0Y2RVbXJoTFdJRGxRdFlzY3pBUzBYazd0OXZrT19CTlFVX04xRE1XU082RUhtaW1NeUFuZERwRDQyRlY3WWNtSnZxUkxGNGZrY3RiX0tWUmxPMHlvR2FsZUNyT1hiaEdtQ2dDRFJsNDlTOHlEODV0cW5qTUFtMzVkSnNiMUJSZ1lfYzQ1M0FSR21zVkJDN1RmVTl3NW9icG0wTGxB?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
   }
 ]
