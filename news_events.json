@@ -1,5 +1,16 @@
 [
   {
+    "date": "22/06 15:31",
+    "date_ts": 1782142260.0,
+    "title": "World Cup 2026 today: Live updates, latest news as it happened - June 22",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcnFFemF3d1dqaEtxMy1SLUpLTExGMXJkcXQyRlZxeWpOR2V2cVU3QlNRVjN2aDYtLU1Dd0xJR0ZXelJBNXN2eGl0YUtGX0E2MWRqdVZBdTdqTkxDS1A1MGY4dUtyS1dnVlk2eFlXT0FFUGw4UF9xcW1ERkhsbEZRaXVhcEZqdlY1U1h1amVUc2l6NWdYMkI5SldaYVpxMDdzT1JzUTVyWGFfMFhjWlZ3clVnNk1uUU1DemV6SERRaHV5OWcwNk1YOGlxWVhiQXZwQTdfSXdIdXgwX20zb0dGSkl4SVJweEU?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 14:19",
     "date_ts": 1782137954.0,
     "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
@@ -18,6 +29,30 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWJUak1JRFpIUGktOXBVSVdPWUZtUUMweGFzWWpYRFJCSTA1S2xDR2F2NGtCLWtPbXVPV2huWTRzbWhkbGpqUXVmVG1wVTVwN1NrQTZYY3VGaG8tRHV2NThJdHk3cWVPZ3Jpb3llSGxMelhraERlWk9VNmhGaHl2dVNJWjRGSm1laExKaEU1Q0pfeGc?oc=5",
     "teams": [
       "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 12:00",
+    "date_ts": 1782129600.0,
+    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS2hIZFltV3BiRlk2WmN0VDRBU3I1b3V0VUI2LVZPd1F6TVNoVUVrTzFwajVJVTMzUTRyVEI4a2M5VlZkZk9TRF9sV2hlT2ZQaF9jZUJjTzFUTGZSV0VmUmxhVlBSZ3NManF0cG92aW9zNDZxdHNNVkVJTGZiTF9oWktjWnpNYnpVcVoyb2ZJMFRpUTZacDAzNEFrLThqNmVFNDBXU0liREJLY3lpYVdScVJqX05CZ0ZDVjQyZ3BYNXhJNGJpWGFBUw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 11:41",
+    "date_ts": 1782128507.0,
+    "title": "Brazil XI vs Scotland: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
+    "source": "Yahoo Sports UK",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVlsZlEwSEFBZFJfa3BzajJ6dnp5X0g1LVZ2Z1lLN0N4cy1vbkVsUko2dVhnNXVWM1E3U0gzWHRWYjMtOEtuYmEtR1laWS1Ra21hUXVJRk9CVnQ2ME16ejZtOGExUlY5ZTVwdWpuOGp4S0x4a2VkOEdobXdrd3RwMmYwa0V6QQ?oc=5",
+    "teams": [
+      "Brasil"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -493,6 +528,17 @@
     "source_type": "news"
   },
   {
+    "date": "21/06 08:00",
+    "date_ts": 1782028800.0,
+    "title": "World Cup Setback For Gyokeres As Netherlands Hit Sweden For Five",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHVKb3ZPN2VuaVh6UlJiMGM1enpHTFhYMUkzTGhHb0ttT1pDSGJ4QnRkVlkwYzEtNjZhZmtiRUJvOW04LXE2c0ZDdXl1Yk4wMzBFRnlERUhNLWdzRlcxcFZWeTk3TWZTRmFKdmJiaEhSSlgwYWY1MjJZQ1ludjQ5ald1dWJVQXRwZkRhdk1HWmU?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "21/06 06:21",
     "date_ts": 1782022860.0,
     "title": "2026 World Cup Bracket, Standings: USA, Mexico, Germany Win Groups",
@@ -657,52 +703,6 @@
     "teams": [
       "Portugal"
     ],
-    "source_type": "news"
-  },
-  {
-    "date": "20/06 08:25",
-    "date_ts": 1781943900.0,
-    "title": "FIFA World Cup 2026 - Every match result on Saturday 20 June - Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1RlSDhKTXlDNTRNZU1HaTd6LXZNZVdRWTJYVThVc1FuYnEwYjg1UjdGczNvekc0OTRSNElfRm5FM0FYN3AwSjNYZFo5bG9GVFlyZnJKbTQ5dDJoUlhDOF9fX0o1WUhvRVk3SzhIYjZDalNSVWYyczQxT1MxaXB0LVRiUzEyaG1ya0hUMVQzZzRVVVVsenJLNmVscFJIdDF2Q2ItTFVR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/06 07:00",
-    "date_ts": 1781938800.0,
-    "title": "England injury suspension list and return dates for Ghana World Cup clash: Declan Rice, Bukayo Saka latest",
-    "source": "Rugby Addict",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQb0hHTHlzckJmLWpWUTMzUFRQUGtDd3hBM05STzhhV1hEX29GZ09vZ21ZSGtVTWVOMVRnRlkyWktPSEJMcnJPdUhQbE0wZEh1a3BpWEF4NG51NDVQbXJfX2s1dFVLX2RXY1cyUE1vSV9fSXNZVjlOVG1DSGNXM0lxWk9aLUFXbERWTzl1dXJiY1ZlWXFjSEtGWVNkamQ4Y0lKSktrOHByRVltTVlTQ3I3RFFHWVZRemg5LU5PamNPd29rQWpGc3dtNHpONlRRTFdCTlM4MnVjWTduVlVVUnlDY2tDd2NOMGpVelY0bXFmbEhXZGw1MHRPaTFUTzFQWUhrenJBY3BCWi15dw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/06 03:10",
-    "date_ts": 1781925000.0,
-    "title": "Jogos hoje (20/06/26) ao vivo de futebol: onde assistir e horário",
-    "source": "O POVO",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1dhY1VSdHk0Q2pHLWU5YjY3b0h6cHFmSlFHTnBpMGFNaFB2MEVjN1cxOWpaQ2pPWFlrXzBVSWFrUWFRWGlIamdkRTgwWkJQdktEaWUwQ2VDS1BIN3BJNDMxRm45S3lFTVlOSjJoT1BYTHBzX3dwTWU4ZmY3LVJuTWtubUlzWThCM0JEMEtLT1RJUW9nbWx0T0lqZGdMeXZyUHZUNjAwcjZudlNqeGJIZ1R0R2NQeFI2OF9MWFZEbjJZRmNMSlQ0d1NUQUd2RkU?oc=5",
-    "teams": [],
-    "source_type": "news"
-  },
-  {
-    "date": "20/06 02:31",
-    "date_ts": 1781922660.0,
-    "title": "O Brasil goleou o Haiti por 3 a 0 – o que a vitória elástica representa para o futuro da seleção na Copa",
-    "source": "VEJA",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNDhlTE1zalBRQ1EyLTFGQTA0QWlyXzQ0eUxoa0tPS09CVUdNRnk2am91cTY3emlmYzlHTkw1SGszb094dXZ2NnNPOVBZelVhY2xpcWNsNkVDSVJRSGNjU0J5QzN3aExWcWMwWGJ5dE84ZE11WDBKQTRVbmlhVFpNcWVGQ1habHF2T2dNdGlDZXdwTV9JajR0bjRERVF5cjd1QVZOQ2cyNDdMaEZpSzFMQWVBZjduWmRWSWUtZktsc1g2cEFMZThfbWEyeDNwMDFuZzZB?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
