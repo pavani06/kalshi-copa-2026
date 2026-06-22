@@ -1,5 +1,16 @@
 [
   {
+    "date": "22/06 14:19",
+    "date_ts": 1782137954.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT19ocmJUWUVZaUEzcVViay1mMlJvdEd5R0hCaFdEVG5NRzFNQUE0VkhhQXJRNjJCZXZiTmVGZUM0ZUFuYVV5RFMyOTExM2xYeC03YXRqTzhQajhWcWlCTHdKMnpRSFFMbUpBN1NvUGlfdDJGLU5KV1F1Ql9JWUgyR0xSZS10VGdxalNhaXUxQXliYk1FWmV5Tm1qdy1VRDZTWDYwSjhVM05PS1NOWUJmbDZiZFQ3bmlNdENuV04yV0JFVzdDaUVnWDdVcERtU05VUlNoVFJlRFNVejJxUVFMOEx5WQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 12:17",
     "date_ts": 1782130620.0,
     "title": "Confirmed: Germany’s Schlotterbeck ruled out of World Cup with long-term injury",
@@ -51,6 +62,17 @@
     "source_type": "news"
   },
   {
+    "date": "22/06 09:01",
+    "date_ts": 1782118914.0,
+    "title": "Who would USA, other nations play if the 2026 World Cup knockout rounds started today?",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEQ5b1Q3R0NHeXFfeTRpLVczRHZGclZmbVgwNHFpdnEyWTRkS2U4VFRLV3plV0RiMHEtYy1xU2tIby1xRVdDLXNEeXZlNVdWN01wNVh1c3F0eW9rcVBZdTVaYkpyVzM2NFo3MUNySWdqdzhNUEF6TFplNHNMUkhUV2hicXZSQVhMcFVTTnplNi13dmJzcFNjOHlESnA3M3RvMVdfX0RnRkc1NEVXMEJvNGp3SmRVZWxaM3lPakNaVQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 08:24",
     "date_ts": 1782116680.0,
     "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
@@ -72,6 +94,20 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 07:00",
+    "date_ts": 1782111600.0,
+    "title": "World Cup 2026: Cape Verde celebrations; Norway v Senegal weather warning; L’Équipe apologises to Doku – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjg2XzFWZlhsdUViTTZRRHVDU3FyN0JxNHVSR0I5TG45UWpfQTZBX2ZpM1dJMlE2X1RacjRTQjUycmZIU1BsaWlpTm9VOFRCSERpV0ZmUzVpU252VUQxSXc1eGpOQUtCOEN2VlBGdG4zUkxuRlZBYUdCWWdSS1UzOHZsSXFIeG9vOGxtb0FrSWV5dV9YWHRQTnIzRmpFcWhZblU3ZGNDVGxNaXlaNHVGeXBjQllueVlMVmk3NzVBT1laX280ckNOU0h2MzItc29GVW82TlRXZU5JZw?oc=5",
+    "teams": [
+      "Senegal",
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -667,41 +703,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/06 23:47",
-    "date_ts": 1781912874.0,
-    "title": "Brazil vs. Haiti Lineups Confirmed for World Cup 2026 – Friday, June 19",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbThWSE1KYXVlaVdxWExQcEJrQ2pkUmlpT1NzNjVLUjIxZVhsWjhyVGxuNTRCdHhlU0Y1MXVyUndHLV9RdW9uYjIycmwwSTZSNVBJSld1Y3d5eHFMMkNqd3ZqTktoTG5pSDdKNHBJbHZIVlI4ZFBmVlFnOXRBVVNMak1rcEhEU1N1ZVNHUFRFUUdMYlFLeG14dGJjRzFlaE9ZYXpoR0U3azVyWkJ3M0NmZA?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/06 23:17",
-    "date_ts": 1781911020.0,
-    "title": "World Cup: Former Bundesliga star returns to Brazil’s lineup for Haiti test",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFY5STJ4RG1iSUNLU2RabmNDaWtHRW9GR1FuUDFRZnBNUl9BYmRMZUJyVTVGaDdDQ3Ezek11bUZvY29aRHhQVC1FcUw1YXRRUDdvTWVzUTBWTkRDbU1HWXNKSHBLZGRFWlRtaFVUSkRhNU54Z2RKRzM1cFA0c1B5VENRTDN0RkJXQWNJbktnT19oWG4z?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/06 20:53",
-    "date_ts": 1781902380.0,
-    "title": "Melhores Sites de Apostas para Copa do Mundo 2026: Top 15",
-    "source": "Gazeta do Povo",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNDdjeDRiYzNfbXQ3QnhNa0t0SlJZSXI0Slc1MlFpZ3VuUXp1WXVOYVlMQkJPYTFHdTFsNlJXZ29UZ3BaZkxMczZNZWZramxkRjRpZnlhMGx0dWd6YjU5Q0VlTnVxTkpPQkc2ZHNZZHNXeUUyR0tJOHF6VXdKeWMyR1pHUzFwQzFwZEE?oc=5",
-    "teams": [],
     "source_type": "news"
   }
 ]
