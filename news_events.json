@@ -1,5 +1,51 @@
 [
   {
+    "date": "23/06 11:46",
+    "date_ts": 1782215180.0,
+    "title": "World Cup 2026: Which third-place team will the United States play in the Round of 32?",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPREJuOU1fUTVTeGNJWU9kU2lrUE5la1JvVmoxc0JzVXJSQXA1TVdhaUJBdi1xUGxPMEVSZzNLQTFCOHpCSU9SUm9wQWNNbnJLT2Z4TnlKQWZiMEhiWjJYbW5BbVJ0LUI5bDBuejdQNTE2ZkNSUkRUV1lpelA1eDRoUHg2TUpHU085OG5lU29DZWt2V1ZFQjRSeFl3dzQwcnhxblNabk13R2ZPUVJ3TUVtc1VKeGxLZlVRTFJ1dlpYQjhtcmtUNzZiRlM5VWp4MEZJYmc5LUxn?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 11:45",
+    "date_ts": 1782215107.0,
+    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 10:08",
+    "date_ts": 1782209317.0,
+    "title": "Colombia vs. DR Congo—World Cup: Preview, Predictions and Lineups",
+    "source": "inkl",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjRLQVVNNTNZQ0NfUmd4b0FWWkNxdlZSSHRERGRTWWswNkJSMi1xcWg4WFdGNlFiTms0eDRSRnZydUVkRGJ2TU1rRF9GMElHOWZaVm5pR3JKQkpIN3BEanJ2cTRGdUVZWHU3a2lTWUxKbVFBWlplM2Vhei1pVzdlYWsxa2lWZnRZNGd4WU1XT0ZWQQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 10:00",
+    "date_ts": 1782208800.0,
+    "title": "2026 World Cup guide: Full TV schedule, game previews, results and standings",
+    "source": "Los Angeles Times",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE9PYjdOUnpEUnFvTEJRS1ctRnFLQmpzOVFhYVFPaHBlakxRVHJjcHBxZlI5VThpSUZqYWdaeUV3dGVELTJ1eUF3amp2V2pocElERjJtVDIzdVNGUjlzcDllU2lxWU9CaE8zWWFaSmQ3WjlLS21FMU1fRUEtR2dEWXEyVGNVVUUydnRXRDFjVk1jNHI0dU0wMlV6NzhtVWt6cHFRamF2VmdoZEZ5ZUVSRmtiaDI?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 09:04",
     "date_ts": 1782205463.0,
     "title": "World Cup 2026: England v Ghana - who will start for Thomas Tuchel's side?",
@@ -110,6 +156,17 @@
     "source_type": "news"
   },
   {
+    "date": "23/06 03:50",
+    "date_ts": 1782186653.0,
+    "title": "France’s Kylian Mbappé Scores Two Goals vs Iraq | 2026 FIFA World Cup™",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wN3lqMEo1ajBEQXFYSXNYUEpseElmMnJUSUFzY0JJV21FM2ozM2gyaUNtY1FLV3RuR2lDVGR1TzF0cDFRT2wwajhVZURHbnNMazNBSHlxN3RrLUZfblNkQnln?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 02:54",
     "date_ts": 1782183277.0,
     "title": "Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts",
@@ -194,6 +251,17 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 23:33",
+    "date_ts": 1782171180.0,
+    "title": "Why every round-of-32 team will, won't win FIFA World Cup",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbW02VDlOOXh1NFpQTVdjSUhQWmpmTGRCdVdmRmFDZ2ZYaGRWRWpodEhzbmZQX2hUVXdaVUl4Z1NhMXB4ZEJ0RnNLX2R3U2xOOE1KOXJWNmVpX0xoMTF4d2NPQm9sellLcXdjS1hOeVdtM3Fqb3JJZTVDUTJtSnk3XzFWSWtyMnpJMEI0XzBjMWRHb2t2dWh4RVZhdlBCcmdUV0c1d3lILUl5NVZTbE9kanhDSUlwbkdBY28ybnQxVHpkYV9JSXJMbU9NRzdZcjdISWhkUzB5XzFEbkNUeVYtQXh4M0RSRU0?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -650,79 +718,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 09:46",
-    "date_ts": 1782121592.0,
-    "title": "Norway vs Senegal lineups: Predicted XIs and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaFlHSE9RMHNlZHhrOVYyRDFBd2FZSTBqTERJcVBSRmxxZUQ3UGJFZnpIZmpvUWZRdzdpaWVnYU14Mi1sY1F2bjU1cmk4UXVPR1NGdDZQbzRxZkpXVUhjWHZqRm94YlFHckhCeVoyeXpxS2YxMUlMQ1hKVVV6TWFxRzU0VXlXbk1kb1pCaWZzTWFqUXBUYjhvVnlhV0s1aEVGU01ONmc0M3lrdmE2bUFyVFh5RUFTRklmN0UzOTdxNnhLdGp3eE5yV1V0SEx2UmJsS2hVUXIyZUo2SGZZbW9BOHlLMA?oc=5",
-    "teams": [
-      "Senegal",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 09:23",
-    "date_ts": 1782120180.0,
-    "title": "2026 World Cup bracket: Scenarios, schedule, knockout stage predictions",
-    "source": "AL.com",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oc3NEMXN1SUJQZjF1YjU2d0VTRVp4ODJ4M0hNNjBmTFB0YUZOcmlOTzlHRmV0RUlUMy1mVU83M2Z3UjdTbWFHSC1td0lvN2pyRjVyZ2lWRzYyWHdBNWFj?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 09:01",
-    "date_ts": 1782118914.0,
-    "title": "Who would USA, other nations play if the 2026 World Cup knockout rounds started today?",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEQ5b1Q3R0NHeXFfeTRpLVczRHZGclZmbVgwNHFpdnEyWTRkS2U4VFRLV3plV0RiMHEtYy1xU2tIby1xRVdDLXNEeXZlNVdWN01wNVh1c3F0eW9rcVBZdTVaYkpyVzM2NFo3MUNySWdqdzhNUEF6TFplNHNMUkhUV2hicXZSQVhMcFVTTnplNi13dmJzcFNjOHlESnA3M3RvMVdfX0RnRkc1NEVXMEJvNGp3SmRVZWxaM3lPakNaVQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 08:24",
-    "date_ts": 1782116680.0,
-    "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXFIX1pITTIzUFBTSWJrSTY5c3hodVRfM3lyWFM5X1NjTk5mcmhRZDdVX1dKZjB1a0pxRHZyZHh6VFhZVXZhX3dwcU1xc3lvbEZ2NjBITGx3V2hETmtaRFVJM2l1UHltLWlrSnNKblRwUk5nQWxRWHRxbE5HSGxtaDFCbVVoY2N5QjJDczNvRW9uMk9zT1JHVnNPMlJsY0lSU1RISm0wcC1wVDV2WGFobE9KX1TSAboBQVVfeXFMUHJQYWd4TGNCeWtXVHNtek92NnNlX0RKNkxjeXktZ1dKYmNiRHlzU1JVZDk2b21CQkt4b1RpRVRTMC12VndjSTF5cF9sa0NZenFuUHFpbUtxUXhGS1ZDLVRUSFVBOElzcEFKb2piVjhpVTZkY0R3S1Z5am9IX2tQaW1wNHlIYkV6NTBJejN0U3RrSzZTckY2d3VkcVBOa2J2Ni1KcVg1SmlXUkJWOThlSF9jbEFQcFNwcHR3?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 07:29",
-    "date_ts": 1782113340.0,
-    "title": "Brasil x Haiti: qual resultado a Seleção precisa no jogo de hoje para chegar à próxima fase da Copa?",
-    "source": "Terra",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU01DdHFMUlg1WTZMalNJbzlNX0owdldMOFFGMTVvR19fY1lfNGVGTzNPSjIwMmhuelNIbWN1Z3NaOVdWeVJYVjBtemdsZXBHWnRKeUw5VEU4VF9hT1NYT013YUcwUFF5cDVwQkN5VmJFS1llMVFHNV9mVDZoT3JnSmhyLU4zQXRiWmRtWTFmWTlOQWFpWjd1dnlfUWdINUpKeTBlckl5Tm13c0wzeXQ3ZmpLWF9qeTBkSkY1X0VNNEVLQUxJRURlVkdab3ZGenFjRkdvWVdSYTloQXlKM1VLMEhkUjhCU3EyOEhhS253eW1VRS0tcUJBTkhianVZdDlnV2lVM0FmN1BYeDNCRlN3bzczWQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 07:00",
-    "date_ts": 1782111600.0,
-    "title": "England vs Ghana Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group L",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ1o4SFRmVUJ3MTdySzZYdEs0RV9BeTRmdG1vcmYyelVocnVyVkpNSlNUXzVDbVpiUnZZYW5XdUtMcm5oRFdiQjl2elltNmlvVk1wM2tNOE1SNDlFQU4zZ1N2S3VWcTVaV3VBbXFkVlp2WElQclBXQm9VQTBsSm82Ymdnd3FhUkpXOWZLWmJqSS1ZSUxhdXQxcEtZRjM4ODhfWUhCVnlxcFc2U1NSajBZaURhbzZzblNqeFdHcEk3TE9ZT1NQSW1OX0xXMzZPQUkwYVhyUnlSQQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
