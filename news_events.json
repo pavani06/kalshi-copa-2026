@@ -1,5 +1,29 @@
 [
   {
+    "date": "23/06 01:42",
+    "date_ts": 1782178920.0,
+    "title": "World Cup 2026 live updates: Argentina’s Messi makes history in 2-0 win over Austria; France beats Iraq 3-0",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRG1rSzJBaklleS1fYlBZMG1USWI2R2hZcEZYNGRLRnFxUTI4cW5fMlVqNHZvOG1kME00VlVQY0QtUk5ZTHVzaEVLd25zTVhzR2M4SVp1Y1hKejdRdVd5OVc0cmlnSDdxNVpLXzRjTDEzT1R0WG9GQXVOQVhDTWpwNGRwS3NuLVZUQm5XNGdnNVdfdGlJV3puVnlxOEFONS1jVjRlRy1MTWs?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 01:09",
+    "date_ts": 1782176999.0,
+    "title": "England XI vs Ghana: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1FLdExvcFh0ZHJjRl9GbEpUMjRVZzZsd2Jpb0pFT2lpaW90bnQ3NUxUSUpnZGtIOWxHajlTTDg5QzlQSzBLc3pSY3RoOG4wZWpTcS0za0g5cUJ2UmxwTDM0NFZEckdTc1VoVmg4SENabVVjN3J1ZzMxQTNtd080bXBXMW4yNEk5aEtPcGpFR21UdnBCcURJajItWDJHNlFBWGJrYnowNVRhcXNGalkyejBzYVZJQXVsZG5ybjJUYXpndlFfSmQ0RFVmNnlnVFdRc2VYTDVHNnM?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 23:21",
     "date_ts": 1782170490.0,
     "title": "Norway vs Senegal Lineups & Formations Confirmed: Predictions for World Cup 2026",
@@ -243,6 +267,17 @@
     "source_type": "news"
   },
   {
+    "date": "22/06 16:09",
+    "date_ts": 1782144546.0,
+    "title": "France v Iraq: Line-ups, Score & Live Updates | First Stage | FIFA World Cup 2026",
+    "source": "FIFA",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQlB0cHpTcFdWUGVtUUlFcExBazg2VnFiTVVCR0VHZkJrMXI1d25felRWLVhzRVZubzlTSUlWTk1JZlJDZllpcDY1el90NEVBdkhCSElBZ1YzcHdxLW5uMnk1bnp1aGJCVFV2WklCOG9Pc2dOQ192R3pVaVU3UHlBOXBOcVZBLVZmVlBFdTVUelBiTU5iZG1MUnNn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 15:31",
     "date_ts": 1782142260.0,
     "title": "World Cup 2026 today: Live updates, latest news as it happened - June 22",
@@ -260,6 +295,19 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMC1QVDhSbHp5T0ZWVG10bWIxcFNCOFg4UXk5ZlJjZTdxNzdWM0NoNHFLYUs1dlBNUEtvekRHNGdDMjkwSmlwUnVJTFBwLWNwWDFoU3FFLTB4akMwdG5yZ3R2QTBoaWVVU1dORUNobXZ0Ui1zdThjbVB3djFzTHdoVHFtRQ?oc=5",
     "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 14:57",
+    "date_ts": 1782140263.0,
+    "title": "Portugal XI vs Uzbekistan: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHF1ZkJrLXNZeUN6SDhYWnd0YzJ1bGxxRzc5M1hBd1ltNFdjUXc4T2g4LUJiWXBfYnNUTHV6QS1Ha2EzbTN0dkF0NHZtZE13UFV4Z0VfbUdIYVZOMFRKWUJsZkhzNk5QQlU2Mm5rcjA4b1R5eDJQd0IwaHBsX2JYcmdKY1FLbGdyZWxvNkpYMUhyU1JJUEFXS1ZaRzZJTFpfWVI1di1xaFhjVW9wcnVhNlZFUFRXbHVORnhqTTJUYWxYSEw2bXlHRzJialcwTGlubkp6cWZOeDc0ZHRyOUViLQ?oc=5",
+    "teams": [
+      "Portugal"
+    ],
     "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
@@ -448,6 +496,19 @@
     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU01DdHFMUlg1WTZMalNJbzlNX0owdldMOFFGMTVvR19fY1lfNGVGTzNPSjIwMmhuelNIbWN1Z3NaOVdWeVJYVjBtemdsZXBHWnRKeUw5VEU4VF9hT1NYT013YUcwUFF5cDVwQkN5VmJFS1llMVFHNV9mVDZoT3JnSmhyLU4zQXRiWmRtWTFmWTlOQWFpWjd1dnlfUWdINUpKeTBlckl5Tm13c0wzeXQ3ZmpLWF9qeTBkSkY1X0VNNEVLQUxJRURlVkdab3ZGenFjRkdvWVdSYTloQXlKM1VLMEhkUjhCU3EyOEhhS253eW1VRS0tcUJBTkhianVZdDlnV2lVM0FmN1BYeDNCRlN3bzczWQ?oc=5",
     "teams": [
       "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 07:00",
+    "date_ts": 1782111600.0,
+    "title": "England vs Ghana Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group L",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ1o4SFRmVUJ3MTdySzZYdEs0RV9BeTRmdG1vcmYyelVocnVyVkpNSlNUXzVDbVpiUnZZYW5XdUtMcm5oRFdiQjl2elltNmlvVk1wM2tNOE1SNDlFQU4zZ1N2S3VWcTVaV3VBbXFkVlp2WElQclBXQm9VQTBsSm82Ymdnd3FhUkpXOWZLWmJqSS1ZSUxhdXQxcEtZRjM4ODhfWUhCVnlxcFc2U1NSajBZaURhbzZzblNqeFdHcEk3TE9ZT1NQSW1OX0xXMzZPQUkwYVhyUnlSQQ?oc=5",
+    "teams": [
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -645,65 +706,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 19:35",
-    "date_ts": 1782070556.0,
-    "title": "Lamine Yamal scores first World Cup goal as Spain thrash Saudi Arabia",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1gtTHdXSzl1UktNYWoyNUdIRThPQlVZYXl4ZTJWZ2NjZkpEQ2RnQi1FVEpoVHZ5S180eG1zdnE2Mnp3aVBqb2FFYU9tMFVGMGVzZm9MMGJ0SWxXek9pejhXM01uY0U4R1h0M0NGamJHRE9TMlhCdWZyOHFXRG5GQW1mVGNGUTVhQ1c1Yzh6OUZqQ20zYTVpcTR6ekRqc3hOcGlpRURvNjdZRGRhU25YbdIBtgFBVV95cUxNRGtfM3JLQU90UHJ4Tm5fZEJRWlZMeWVSMVVUd2ZtYk9LOHFXd0Nub2dLaU9jcmx2dk1rZGtPRmNBc0ZqcVBwMzRaejlzVlY3d3ZjM2Jrc19hZjZuUUlVU0czcXJsbFQ3WmhzYThpMk54VUxoRkJRVlBzSjFnZlp5MmJORzlhaV9yaEZxLUh0LWpXQWhfcU9kNkl0WlFudkx2SWtGWE9URy1zcEU4Vl9hdGpUMlRFdw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 19:27",
-    "date_ts": 1782070079.0,
-    "title": "Uruguay vs Cape Verde live updates: World Cup 2026 game latest score and news",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdjNZQTk2VFZXZ01FQXVqano2WkxDZmZYVGxLRG54TTlNanpzdUsxQW5NeWxnaEQ2SWp0ZXNYNTlkV1pxWVM3VUVYbnZuYkk2Y2Q1NG1nM25oVDdNenA4cWJ4T3J3S0I5S1VsbEwxMXVRTFQ2MnVlNHdieWpETWI5a1N5UVRhLWRIcGxjNF9Ia09aelhBTUYycUR4Vi01UXkzNmlaSE9zajZNZU0wV195R19WRnBmbWNkYzBoSw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 18:31",
-    "date_ts": 1782066695.0,
-    "title": "World Cup: Bundesliga star again on the bench for Belgium vs. Iran",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkxBSlBWLUpWaEwzbF9hV2gza29lNEMxbFhraVE3RkprdGJzbkh5MDB3YWdTc0VXQThTUlNhdVNoYy1tMWRsR1VudnhuWGlYeGRvUWpfRHRObzZHc0dQWWZHNlIzam9ZTnVObGZlNG5BVV93WlJIbWpISmZTTDFib1p0eUZaZw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 18:20",
-    "date_ts": 1782066000.0,
-    "title": "No obligation to pass to Ronaldo - Portugal's Francisco Conceição",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWZCaXZzamE3SU9LbGZmZGhxSVFRemJkS0FnaTA3a3Z6NThueVR1dTdXcjQ5c0MtaGxNZldwU0laMWJGNl9FZzV0R2kwWU9DWDhzZXJjMGROVFZrYlNfUHprTUQwMWpyQ1FsRVJFM3l6NkJVeDdrMXVEbmZHNnlxVEtDOWlsc0J0M1JZUVctS2dkNWlRQjBFMUhqdnZrTnlabmppNUVn?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 17:53",
-    "date_ts": 1782064398.0,
-    "title": "Spain vs Saudi Arabia 4-0: World Cup 2026 – as it happened",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVliUUxEVS0zSlB3cHVCS25WQnNWNGZHX3dueXVtQVgyMXY2WWdLVXJZVU8xQ3Q2RXlmMmx0R2lPbGtJWUJSakhrNkpYV0luM2ViZzNRbDFuWVZyR1UzWlVwUGVOOWxTUnE3OFRvdUl5YWtpcGZKRExMbTFydTJpYU5XLU1ZanpmcDAzMklEbWs3M094REJfbdIBngFBVV95cUxOZWw4M196N2ZoMXpOOEZmbWs2eTROakZqOVdSUUZRMVhjZEFOYlVnNGs0SHpLbF8wQkR5b2Z6RDltZmJKUGt6Q2xXaFJPRE5tLWJjZkFjRWdQWG1ZTjg5b0lHdzZfdl9qeXNSQWJjdkQ2MHRaXzFfaDB1aTV0WW52U2lydG1zRDkzMUFJRl9DMDNuTUk1RldzZFN0N0l3UQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
