@@ -1,5 +1,57 @@
 [
   {
+    "date": "23/06 19:03",
+    "date_ts": 1782241381.0,
+    "title": "England vs. Ghana Lineups Confirmed, Starting XI for World Cup – Tuesday, June 23",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVNmbERYdXJNcnBqOUtoTG5NdVFCNEFybUVkZVROVm9ESkFUWVluWUJXbk9iMFFBTTkwX0RGR1N3YUNSNmxEOHNiWXpFYjRsZF9GNjlhanlERmZvMzdEMVotaWF3eTdKSjQzVUFBR2Z4OEFDSlJxVnR4T09QcEpJLW5ndlBfVXpzN2o3WE9ybE14LWRPVGxsQVVVY1NyeXpMekplNWozQTROZHBjUHdTdG83OVVxMTg?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 19:02",
+    "date_ts": 1782241376.0,
+    "title": "Portugal vs Uzbekistan Highlights | 2026 FIFA World Cup™",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16YjVXcUlEVE9HMTE2YVZ0T0Fzc2ZQeHpjU1VJM05aNTRLZWtRbFpLZWxRcnp1c2o2aC1xN2ZRYnVLTjZrS1pZbUs5YmJ3NlZjNllpN0NlMjloeVh4YVZramp3?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 18:59",
+    "date_ts": 1782241196.0,
+    "title": "Portugal's Ronaldo shakes off World Cup doubters, scores 2 after sluggish start",
+    "source": "NPR",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMElBREtwbS1EeklraEx3ekxlT240NGhuU2dsVldZaFlGbG0xLVFMZnBadVVTbXZrOUVCbmtxSFJ5M0NIdzh5bklWVXBUeUxhQi1JQ0FnSjdOSzZuTkozOENsWU5qcTNsejhuSXdkX0EyN2JZMzdBbUFMeXJ0MDB1RUVoT2N2X3pNaHZJMlV1LWs?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 18:57",
+    "date_ts": 1782241053.0,
+    "title": "England Lineup vs Ghana Confirmed for World Cup 2026 Game",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWIyVHhGUXk3SDVzaDFOUGYtelBzM0VVbXhkVTBHX0Y3YnU5M2JNT1Q1Z1V2WFJPYUhOSnpHb2Z0TURaSDY0NlhzRzJpTjNBeDdybXJSUzNpTGliTWt5elc5OU5kcV9zVFItNTM1U2pLRXc1OEVOa3FSUmxmNHlTVkgyazdSSW9UbDRSSjg0WjBZdFY1Y0tRM1ByTjRJcHM4dFRnWEpDcDNLdw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 18:38",
     "date_ts": 1782239897.0,
     "title": "England XI vs Ghana: Starting lineup and confirmed team news",
@@ -10,6 +62,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 18:34",
+    "date_ts": 1782239667.0,
+    "title": "2026 World Cup Bracket, Standings, Projections: USA in Round of 32, Who Else Might Advance?",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVM5eE1QTHVERmZpRW52cGVqdl9tOURiN29rZDlpX2dhM056R2JxQVBHVWc5QzczV19nT0RGWjVBQldhaDYxS3drbkRaYmpVQi1jTml4dk4tNDgwY0txNmtJVXB3Sk1JUUtEUVFTM3hQOU04WXRVRHdRUksySzJPNHdRUi1vZzkwSExJRElMa0FUeThSdlNFbTVZN19DOWlWY2hSblZqVjN5cDBsbFlSZkotX0p5dHlPWmtsUlBR0gG-AUFVX3lxTE56VFNUMlZpUGw4TkRlQ2twc3dFWlE2UFA5N1V4djBORjF5YmJWT0M1czVpZFFRdXBXTjljRnFTYzNrZWdVWUhzeFhEYVVMS3dteWY1bHpwUE9VUmRFcnhxdzNkSW51TWtfYjVVVE1yS3lBdjE5YlB5Vm9HbjBuU3dqUGpiXzJpTmZTbnBVQnJzYld3WmRXeDgwU21DTExIWVlxLW95SkpSTkQ1SEVJYjRVQjZ3QmV0WXE2NzhpVFE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -185,6 +248,17 @@
     "title": "World Cup 2026: Which teams have been eliminated?",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 13:43",
+    "date_ts": 1782222216.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, group stage updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
@@ -667,78 +741,6 @@
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
       "Noruega",
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 22:18",
-    "date_ts": 1782166680.0,
-    "title": "France vs. Iraq World Cup match suspended due to adverse weather",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGgxRjZhRzZDekYxY1BNdXFUMEVCWjJOcFJwMGpUbVpjNWJfVmxLczlLcVBteWFwcWxCS21tMmstOVFxOFlxQ0FKaC15ZUhxTGYwbTJKMG13Z1oxMWlNRUoxdUVYQmR2c3lpTkpjZ2hjX3R0SDhxdXE4RkNRUVQ3VkY5Z3U?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 21:24",
-    "date_ts": 1782163444.0,
-    "title": "France's Kylian Mbappé scores weak-footed screamer, taking early lead vs Iraq | 2026 FIFA World Cup",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TUFlCOW5tUjQzMlFXQVpGdkc1bHdsODhBTS1NNUU5XzF6YjYxczE1T0ZsYXJoUHVxZ0d6a3l2R2hwbVdyOG5Ub3ZpTnh3N3pPaUdGRzliVFE5TjFNOU9uMno4RGYxZTU3VUdFT3d3?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 20:38",
-    "date_ts": 1782160680.0,
-    "title": "World Cup recap: Messi makes history in Argentina's win vs. Austria",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmp0T0RfbE9kT2Y5SUhiUldnd3JQdl96UTUwVXYxMHdfZld6Y2VlX3lQeUxwNXBTNF9fVVl4X29sMlRyX0NoUDNmMVdvenloTXlaWkZUN0pUdmNiWjZrcDVrWFRCZjdmVlFYbGtnbV90RUFPSUNrNzFVX3V3TkR0cDB1UUtXamFLUTRjNE9tdHhsX19FbVVMYWk2UWFaM3c2aTBOZzBsUVpud1BpdVhncm5QTWR3MGpRNmxVY2RPd0VoZw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 20:32",
-    "date_ts": 1782160378.0,
-    "title": "France vs. Iraq Lineups Confirmed, Starting XI for World Cup – Monday, June 22",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGhSSlYtSWRucXdiQXlnbG15SFp4RHV1RDNLV3ZZd3Buc25icjF4Nkw0bTJKd2VyZlVUNHVFVjdVcTZRZmpPNmZ6MzhyZi1YWG1oNjVKR3A0RmpMSTZyU2NneWtZZmNmTkNyb3NHYzdrZW1xN24tVnZJcXJBSEgtODNqam94S3NwYjcxWEk0Tzg5ZF9xMHQ0bDZSY1F1clNBSTE2X1MxUm0tcjJGSVBXY3RrRQ?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 20:26",
-    "date_ts": 1782160011.0,
-    "title": "2026 World Cup Predictions",
-    "source": "Silver Bulletin",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 20:24",
-    "date_ts": 1782159854.0,
-    "title": "France vs Iraq Lineups & Formations Confirmed: Predictions for Today's World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamEwdXVnelRuZFVFMUpWVjNzdE1ON0JVQS1wMzVMdmRkZ2pzTDVhUndxUm5kWVdBZXZTXzgxQjNtTmd5TjBGVkZpTTlDV1Y0XzJnQVJKOFVSQUh1VVFXbXpMaFF2ck5qM3gwRVdJNHdYQnNSbmRuaFJkWmxaTGFZS3ZvaC1xTlJCWEdMY2RvdHhRR1otNkpPVWNLekg1UF9OTUtzTmtvRko4S3E3RmI1S0ltT1hxUDRw?oc=5",
-    "teams": [
       "Senegal"
     ],
     "category": "lineup",
