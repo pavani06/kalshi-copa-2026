@@ -63,6 +63,17 @@
     "source_type": "news"
   },
   {
+    "date": "23/06 06:31",
+    "date_ts": 1782196260.0,
+    "title": "2026 World Cup: How teams can advance to the knockout rounds",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 06:11",
     "date_ts": 1782195072.0,
     "title": "Algeria rally late to knock Jordan out of World Cup 2026",
@@ -713,20 +724,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 07:00",
-    "date_ts": 1782111600.0,
-    "title": "World Cup 2026: Cape Verde celebrations; Norway v Senegal weather warning; L’Équipe apologises to Doku – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjg2XzFWZlhsdUViTTZRRHVDU3FyN0JxNHVSR0I5TG45UWpfQTZBX2ZpM1dJMlE2X1RacjRTQjUycmZIU1BsaWlpTm9VOFRCSERpV0ZmUzVpU252VUQxSXc1eGpOQUtCOEN2VlBGdG4zUkxuRlZBYUdCWWdSS1UzOHZsSXFIeG9vOGxtb0FrSWV5dV9YWHRQTnIzRmpFcWhZblU3ZGNDVGxNaXlaNHVGeXBjQllueVlMVmk3NzVBT1laX280ckNOU0h2MzItc29GVW82TlRXZU5JZw?oc=5",
-    "teams": [
-      "Senegal",
-      "Noruega"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
