@@ -1,5 +1,18 @@
 [
   {
+    "date": "23/06 22:33",
+    "date_ts": 1782254013.0,
+    "title": "England vs Ghana Quick Highlights | 2026 FIFA World Cup™",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhcHdmX1I2Z3lkbGMydDFTMk1tS0RZOU9RNXZFOTB3YmRLN01vM0VGc0M2elo4NTlsUVQ5Zm5YQ0l0NzgxT2JkcmdlXzRsYmxDNEtQWUgtTVd2Vk5Xci1VY3c3eHpFNGV4eDVGU3d3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 22:14",
     "date_ts": 1782252848.0,
     "title": "Is Luka Modric playing? Panama vs Croatia confirmed lineups for the 2026 World Cup Group L game",
@@ -734,17 +747,6 @@
       "Noruega",
       "Senegal"
     ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 03:50",
-    "date_ts": 1782186653.0,
-    "title": "France’s Kylian Mbappé Scores Two Goals vs Iraq | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wN3lqMEo1ajBEQXFYSXNYUEpseElmMnJUSUFzY0JJV21FM2ozM2gyaUNtY1FLV3RuR2lDVGR1TzF0cDFRT2wwajhVZURHbnNMazNBSHlxN3RrLUZfblNkQnln?oc=5",
-    "teams": [],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
