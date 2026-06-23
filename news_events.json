@@ -1,5 +1,18 @@
 [
   {
+    "date": "23/06 06:57",
+    "date_ts": 1782197876.0,
+    "title": "England XI vs Ghana: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2dXTF8wNFl1aE42b3ZPUzZrZXBweGd5OWd1dG14dWJnX0hPcmVvYXZIVTFGek5kV1l6MWlzZzVha3ljbE1oY250SkhvNnQ2ejI0SkRGVnQtbnlKZnVvajF5ZW42MV93QW8tdHg4d1hRanpTV1ZNZDliWTlHUzRsT3NWQzNQNF81Vl9pRk8zWjlRY2tvbGY0OFNHWW93bkdsV2lyVXF5X3AzN2ktdzB1VllTOGlrR0k2ZGg1R2JyRm9CaHpIMzloVEN1TjFfcWd6dzFmaHBvQjE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 02:54",
     "date_ts": 1782183277.0,
     "title": "Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts",
@@ -175,6 +188,17 @@
       "Alemanha"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 21:24",
+    "date_ts": 1782163444.0,
+    "title": "France's Kylian Mbappé scores weak-footed screamer, taking early lead vs Iraq | 2026 FIFA World Cup",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TUFlCOW5tUjQzMlFXQVpGdkc1bHdsODhBTS1NNUU5XzF6YjYxczE1T0ZsYXJoUHVxZ0d6a3l2R2hwbVdyOG5Ub3ZpTnh3N3pPaUdGRzliVFE5TjFNOU9uMno4RGYxZTU3VUdFT3d3?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -695,28 +719,6 @@
     "title": "Cape Verde fight back for second World Cup draw 2-2 against Uruguay",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjZabDhULWk4NVFRaVl6NlUtbXVLejZocGNoNWdXUzV4TVZtcV9JdFBHVTJUWlJQeER5Mzd3d1pLN3c3dlhGQmhKMTNkNTUtZ1JZQ3ctdy1LOGp6ZTMyUi1famE2N0JMSG9iRGN0VENxMGxJZG9YcTNBMmZtTlBoU2NsbkhfWmhla3RndzNFaldpX01EMEF3X2xrTEc2X2xOOW9QOTZTaHMxWlU4SWs00gG0AUFVX3lxTE1sUVZiUHBMeW9RQ3RzUnR6aWVjT1BRYXVMLWcyM3NmUTM4LWFSYnEwY2tfTEVHakxXRmRIeS1FRWt4aUc5TElxNV9IZUFBekxYcy1oSzhUcV9lRndLajZpcmt6QjdVOW1jYXNuQllaZEtzR3FrN2VXVGRnT0dFa2FyelJTeHgteHJOeVlYdEFfMXJJSDQxT0lMZGZKS05TRE51MXNsWjJ4a2w3bXNqRjh2WElFbw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 00:34",
-    "date_ts": 1782088440.0,
-    "title": "World Cup: Cape Verde stun another former champions as Uruguay in danger of early exit",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MN1ljREduZGxHbk5GaFpLUUdHakIzeENzRkFSczdtejdZM3lmSXpnWUN1YVVmMmFUS2hCa2xkc3pSazJHUUpONlNXN1l3WXR6eHROZmNrTG9NZkFkaFg5QWYxV2ZlY2tTcDljMFhBMkQ0OWxVUHRTREYzSGEwajA?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 00:30",
-    "date_ts": 1782088208.0,
-    "title": "New Zealand v Egypt: World Cup 2026 – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUTV6RW9OcWpZdUdfTVljMGtTSDZydG5LLThFWnlIaEp1eDRvM3VqZndEUDhDS0pEUG52RGJfMDBnT1VEenJUQ1l3S0pjTVdLdFdkQWV6bFFIVnNKVDM2SUYxamJyZVQtSnhBMS0xLUhmX3p5dXB1YmpPTk1tcVpabE9WOEEwQTRPS09hYnlvVUJaUTBhTlJYREVjcTFWd0hrNmlwd0tXR1FKY0p1RzJrTW12YWpjMFlqQm5PRzZxRmNCMGRMdlBHNzBBMzlJeDhxOGxnUlNYRWdsbFpw?oc=5",
     "teams": [],
     "category": "result",
     "impact": "LOW",
