@@ -14,6 +14,31 @@
     "source_type": "news"
   },
   {
+    "date": "22/06 23:04",
+    "date_ts": 1782169496.0,
+    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 22:56",
+    "date_ts": 1782168960.0,
+    "title": "World Cup: Ryerson and Nusa face ex-Bayern duo in Norway vs. Senegal",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDVpQ1lUSjZ4NDhVMWswSFc0ZHFfOHZNX0QzaUY2dGlROXpZOHl1U1A3Sy03bzluSlBySUNaQzFKVm5MLVlIM3A3M3Nxdlg5LVhFOW1tekZNZE5VckJDdkRkblNXaDNBdWc1U1hzbnJvTVZhZGtVZ09FSlNRRFd0ckliTko?oc=5",
+    "teams": [
+      "Senegal",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 22:42",
     "date_ts": 1782168120.0,
     "title": "Norway vs. Senegal lineups, starting 11 for World Cup 2026 Group I game at MetLife Stadium",
@@ -34,6 +59,19 @@
     "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWNad0tMVlJxZkRyUWtneXJVR25IS1JqOW10VFhIOGhabUx0SDEwbFFtbEl5SF9mOGFZTjdHUGVHVFJQcWpQSEJwdGd2ZmlfMkpZVlFDX0NUMFpjNG4tMko5elVPMmgyTC11RktDUkZYc21wVDVvNVdHNENrOGd1Q0UxNHVyc3lzRmNpV196d3RKcTltalQxLWUyWmgtMVZVLWZuX0dLdU96ZjlZSGdhT2hYNA?oc=5",
     "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 22:18",
+    "date_ts": 1782166680.0,
+    "title": "France vs. Iraq World Cup match suspended due to adverse weather",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGgxRjZhRzZDekYxY1BNdXFUMEVCWjJOcFJwMGpUbVpjNWJfVmxLczlLcVBteWFwcWxCS21tMmstOVFxOFlxQ0FKaC15ZUhxTGYwbTJKMG13Z1oxMWlNRUoxdUVYQmR2c3lpTkpjZ2hjX3R0SDhxdXE4RkNRUVQ3VkY5Z3U?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
     "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
@@ -60,6 +98,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 20:26",
+    "date_ts": 1782160011.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -142,6 +191,19 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzBQWGVGQXA0blRIUHZRTzBmM184c1V5QlNNclh1ek9pWTV5UjFFX2NieW1JdlRpYkNVNGszSUNmSFlrWGJlMWVUMk45Q1JqTDBXd19jRU56LW5RQ21Jd25fb3pTNnVseE9WaHlNWEkwWEZNSzNhZmFpMU9IU08waFJ1S1dkZFVqVmVsNlJhRmFHYmtTT09mNnNydWk4TW9jSDNvOHZuM0pNcjBaZ3dMbzJhSkRTSHlfb0VmdQ?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 18:04",
+    "date_ts": 1782151496.0,
+    "title": "Portugal vs. Uzbekistan injury, suspension list, predicted XIs | World Cup 2026",
+    "source": "Rugby Addict",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPelJtMjg5eDlLWTg4Sk5JYWFlZXpRWXhNenVOWEZSMnU2MFlYSnVDWWh2WE5zYmdLSDRBc2lPRzZudi1TN3Y2VEpod01lZFFyby1rSkoycmR2MW1TZjFUMmRaS3VvX25qem9uTkY5X05lamY1c3hoRlhyY0hsYS15YUxsb29UZVlJMDEzRmdWREFWOEdTVFJrYmJUMXpQWlZ4NmFPVmRLMjRoS2hzRGRvb2hwS3VmOE9yT2plYTBpY2NvUWMtQVJVSXdEbW1HcTNyRzBIRU9HbmRFVzFYRFc3QTF0VjN6RDQ?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -417,6 +479,19 @@
     "source_type": "news"
   },
   {
+    "date": "22/06 05:00",
+    "date_ts": 1782104400.0,
+    "title": "Portugal vs Uzbekistan Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group K",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEJkNjNmQkNCR0pBRHJUOGwxNDJWR0dfMlZoVTQ2eHB1S25uYmIydDV5ZENTR0pYUFBOdXpsMFlobGZKcHh5MFBhbDhZSmpPc1poZGw2MEZDLTU1b2RvYkFQeW1CdmV4XzJEUkMtZFRPNmV2RHhkd2VHbVBmd29GdEFKTlVFYm43MzVWaFR5Rk84YUlScGROeFIwRnVFQmxNOEI5T0tiN0tNNDZxd1FFSnVaUHdpck9ncmJQakIwT2J3TG0wUzJyZVhuNm1sLVp0VmRWMHJWWWV4RUhsRkxj?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 04:44",
     "date_ts": 1782103440.0,
     "title": "2026 World Cup: How teams can advance to the knockout rounds",
@@ -629,80 +704,6 @@
     "teams": [],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 16:46",
-    "date_ts": 1782060376.0,
-    "title": "Neymar confirmed in Brazil squad for World Cup match against Scotland",
-    "source": "Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTFIMlJ3SHVLTmdiYmxvMk9mSFRrVXVKNW5keXAyLWlUWFJmXzRjSkpWZWxOanV4ZmRTWjJMUDI5d0haRDdSWTVZaXh5aVdLR1JlbWJZYkRhOFVtZjlTTU5tY1RpMUhmQmdBTVlVSTk5eTBTaTFEcnlJYlR5dEs5RGI4ZGlxRjRlVkl5aHEzTTlIcDJMOXlQQkswYmtidw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 16:40",
-    "date_ts": 1782060058.0,
-    "title": "2026 World Cup: Schedule and scores - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 16:39",
-    "date_ts": 1782059995.0,
-    "title": "Belgium vs Iran Prediction: Lineups, Picks & Best Bets World Cup 2026 Today Group G",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlVaMDR3enBhRjJuUGttUVhzY01lTkpocVY5NW04Ym5QQXh1bWdINDl5cTNVSVBNb1VuMDBZR0dxQ0pWdlNna0J3NDBPM1ZrR1lpVDhCQ05wOFZhU2xhWkl2bTBpUFBFT0I1OVlNaVE0SUFUS2J5WWoxNHF5b0JkX3dIWms5WWlDUzVoSmVJNHdjY0JodU1hUHVMeVJyM0cxdlNPQU40Mm41NGNzb29YaUdsTmlFaUk?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 16:20",
-    "date_ts": 1782058804.0,
-    "title": "Spain's Lamine Yamal Scores His First Career FIFA World Cup™ Goal vs Saudi Arabia 🇪🇸",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haUdOcU51RnJyOWViLUtlNlE1OS1SaE5ndXE5Z05ya2FYZDhlY2RXSVFWS3pJcUx4TXpyY2hrU1RZWHM4dE4xUXctWWFaVnBuMDdlUk1BZzU0bGxKUGw1MU1B?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 15:37",
-    "date_ts": 1782056251.0,
-    "title": "Portugal XI vs Uzbekistan: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHF1ZkJrLXNZeUN6SDhYWnd0YzJ1bGxxRzc5M1hBd1ltNFdjUXc4T2g4LUJiWXBfYnNUTHV6QS1Ha2EzbTN0dkF0NHZtZE13UFV4Z0VfbUdIYVZOMFRKWUJsZkhzNk5QQlU2Mm5rcjA4b1R5eDJQd0IwaHBsX2JYcmdKY1FLbGdyZWxvNkpYMUhyU1JJUEFXS1ZaRzZJTFpfWVI1di1xaFhjVW9wcnVhNlZFUFRXbHVORnhqTTJUYWxYSEw2bXlHRzJialcwTGlubkp6cWZOeDc0ZHRyOUViLQ?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "21/06 15:22",
-    "date_ts": 1782055322.0,
-    "title": "Spain vs Saudi Arabia Confirmed Lineups & Formations: Predictions for World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDBkWTZOcnUzSDNFSVo3VUhqYmdRVFRqSE5PdXdzc0RIOVF4bndEcFpxb1VidldGUm1Ucy01ZUpMQ09uZGFtU241dE9zZXdRQU9JY2w5OS0yOXNNdEhzQjgza0RkMVYzWUM1Zmc1NDNxRl9uUVFkTHdhWURnM1dZVlJPMmlFREtRdHh6NTV1cjlqMTJ5T01tNEZQbkNaMEV0R2ZxOHZseXpqMEtrbUpSNTRqMmt6WnRIbnNKQWlvVzdKWTNG?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
