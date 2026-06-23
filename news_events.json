@@ -1,5 +1,44 @@
 [
   {
+    "date": "23/06 14:19",
+    "date_ts": 1782224340.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 12:58",
+    "date_ts": 1782219508.0,
+    "title": "World Cup 2026 knockout stage tracker: France, Argentina and Norway join USA, Mexico, Germany in Round of 32",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNDExVk5RMUdHVG92UUlrVURlcEJUY2dmM2tzc05yc2NQX3Y1M0tKWWxqeUF6UnlIVnd2bWdsZzA3alM2UjllOWx1NllyRUQydUZVQlpYQlhqenI5V1QzNHdNREdqRVNfc3hhQlVKa3FSZkVSTlVzTTM5T3NJZVNHeWdFOTZJSi04djZIRkpnc2M3R1UxRi1sZ2o0SG1KSllsN0tBNFloNUtQYThkZjJXX1o3d2xCTlNNSmZIaThfc2dfMHVweV9HNkJXdkUtYVE0T3lYSDdiSkROR01oZGpTMk9CakJnODloWC1xOTJycW0?oc=5",
+    "teams": [
+      "Alemanha",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 12:20",
+    "date_ts": 1782217200.0,
+    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Portugal, England, More",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnB6TFc3VUdoYlUyLUlyb09EN1dPbUhmRkQtMC1tbk5VcEtiQTJrYjBkdEY5TnVMTVMxb1hqMjhlRlpmYWcwUHlvbHVYY2U1Tm56RUt1UWtXSlFGNGItM1psVV9nUUhjSWVVVU5pMTVtMEpEV2RzNmJjd09LaDB4N1FtWGZXTW5VSDNfU1ljUVhSaHRZZXFObFl3Uk02Q1RnMWhEOWNKbTRYWnExNG0yMWJpaGdpaWM?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Portugal"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 11:46",
     "date_ts": 1782215180.0,
     "title": "World Cup 2026: Which third-place team will the United States play in the Round of 32?",
@@ -22,6 +61,19 @@
     "source_type": "news"
   },
   {
+    "date": "23/06 11:11",
+    "date_ts": 1782213060.0,
+    "title": "Jogos de ontem na Copa do Mundo: resultados da Argélia, França, Noruega e mais",
+    "source": "VEJA",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdm16d3R5T1RYdUdVLW84cTZUNWtQQndBWVoxMGp1SU5hR3lwWjlaY0hyR2FvUGlqb2Y2cDR4SHZWSENuQkRsVmpqOFhSSnl3WVBOTnBXMEU4ZmlRUElwSElVOElZMXFXYmVpX3FqbjEzLWhENnNHSDJtcjlVaThDTF8zRWo3LU5MaGlKOTdKb3lOOE1KODdSV0hTZFk2WjR2NTFYU2JuWEZYdlhDVnNF?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 10:08",
     "date_ts": 1782209317.0,
     "title": "Colombia vs. DR Congo—World Cup: Preview, Predictions and Lineups",
@@ -31,6 +83,17 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 10:03",
+    "date_ts": 1782209000.0,
+    "title": "Copa do Mundo 2026: confira os resultados dos jogos de ontem, segunda-feira, 22",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHZ1Mi1iR3hQeDZqWnREZ3BDdE1ETW1JNkhDam5ERFRIOHB0eTRxQkR0ck0xTEQtdjN5NkFmT2hTTHVXLTMwX1FHeGYtLWpaTV9ZQWFBLWlFMnd0TXp0bkVpbDkwajBnN0ZSVTgxMkcyUVlJZVp1YlA0S3RLTG5nbVplRkptLXQxWDYyT3hZa2FUTUVQUTV4VklmVlFXS3hKWVN3M1dn?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -46,6 +109,17 @@
     "source_type": "news"
   },
   {
+    "date": "23/06 09:05",
+    "date_ts": 1782205551.0,
+    "title": "Messi brilha, França vence e Argélia encerra jejum: veja o resumo dos jogos da Copa desta segunda (22)",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHQzZC1Zc1AtX1F4bnA3NzFfU19sNzlpa3kwY3dwdDc0ZGV6d3RyOFBBYWFHanJKOWhUTElJTjY0QkY1WDRZMEFPbEZTSmZOclZlWDRrWFRtMHpiWmZuUDQ0Nk5UXzhpVndWa21QZ253elJsRnZrVVZHT3lsLWhMVzZBOG1BaU1HMnhyN1BuT2hWX3QzQ3p3Z2NHMUxMNEtvSzhwODRqTHhadDVyOWtyeEIwWGNSc0lQN0xfX2Y3WXk1R24wTnJwV9IB1wFBVV95cUxOY3ZGWmw5UHNZUUhuMW03WmVsazltcDlwbkpEekhQY1BMN1J0UEdIdUZFMVp0dklidHA1X2ZLUGpRUXp6M3VFWU52aGY0VEtHY1RJZ0x2RnhYU2NrT2JQblZmNS1wYWFOcDJoSWppRFJreDFFVHdkZGdZaEY1cWZ3a0V6ZVQzeFdMR0FtNExzcExjLWVlbDE1Zml6b29NWTc0bjYzR2NHbUVCLVpheGhFT0UtYkdPYzBjU1ZxbE9iZ1YyWEp2NXJmcVhBUnFzU0w3MV95Z1hiUQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 09:04",
     "date_ts": 1782205463.0,
     "title": "World Cup 2026: England v Ghana - who will start for Thomas Tuchel's side?",
@@ -56,6 +130,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 08:13",
+    "date_ts": 1782202380.0,
+    "title": "Portugal vs Uzbekistan Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group K",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEJkNjNmQkNCR0pBRHJUOGwxNDJWR0dfMlZoVTQ2eHB1S25uYmIydDV5ZENTR0pYUFBOdXpsMFlobGZKcHh5MFBhbDhZSmpPc1poZGw2MEZDLTU1b2RvYkFQeW1CdmV4XzJEUkMtZFRPNmV2RHhkd2VHbVBmd29GdEFKTlVFYm43MzVWaFR5Rk84YUlScGROeFIwRnVFQmxNOEI5T0tiN0tNNDZxd1FFSnVaUHdpck9ncmJQakIwT2J3TG0wUzJyZVhuNm1sLVp0VmRWMHJWWWV4RUhsRkxj?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -237,6 +324,19 @@
     "source": "NBC News",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRG1rSzJBaklleS1fYlBZMG1USWI2R2hZcEZYNGRLRnFxUTI4cW5fMlVqNHZvOG1kME00VlVQY0QtUk5ZTHVzaEVLd25zTVhzR2M4SVp1Y1hKejdRdVd5OVc0cmlnSDdxNVpLXzRjTDEzT1R0WG9GQXVOQVhDTWpwNGRwS3NuLVZUQm5XNGdnNVdfdGlJV3puVnlxOEFONS1jVjRlRy1MTWs?oc=5",
     "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 01:13",
+    "date_ts": 1782177182.0,
+    "title": "Quem o Brasil pode enfrentar no mata-mata da Copa do Mundo? Os cenários de cada resultado",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKYWZ3Tk5VZk43d2tiTkJYalJqMGdNY0VWSnQzTk8tSExKd28yTzFCN3poVDg2R3lUY0hsRDZXb2FXRVFJX1NLblRYMVp2WU00WEhKVjRGQVU0U2QwZ3Zta3Bn0gFnQVVfeXFMUFFjS3I2blJkMXFYY2ZkYWZiZE1yVFZpTS1VQkpXQXZLSUZERDV6X1JtSEh1cjVuaC1SLUlIbENuLXp3dXN2blg2Yk5kTTBZcTNyV2o1QVd4ckV5dmljUWpqZUJmbWlDdw?oc=5",
+    "teams": [
+      "Brasil"
+    ],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
@@ -593,6 +693,19 @@
     "source_type": "news"
   },
   {
+    "date": "22/06 14:39",
+    "date_ts": 1782139140.0,
+    "title": "Schlotterbeck on World Cup ending injury: “I need some time to process everything\"",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkpJVFJkSjJ5d0pnenBqY1NidmpCOWNRMGdKbEJGVDBtQWF1VnB6bFpzbW9mS2Q1OXJvRXVQRDRqSWx6TEI4bE9zX1dFb0t0UFR4b2tleUtRb2tJOTZXVElaeVBGY0VBT0ZSZVJLc2xZNXVYeGtrZFZ0bktBcjVSZXg2a3gtRXpjOTZFdzhCalhaQjR0d2tn?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 14:19",
     "date_ts": 1782137954.0,
     "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
@@ -611,113 +724,6 @@
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcWZBbmhyVmNGVXBZQTNSSi1SUnVNbzQzc2NJWl9nYXZnWndiT2tmY1lmTjlJWjdmWDk4VDBaaGduZWItZktIaDluR0JzNG56Njd2ODI5MGFxNUdKZm5FbzZ3VGVJRkNVV19NdGp0ZlVEU1lQeG9sVDlSSkVtOER6eWNPRlExWUt2cHp5LVg1QjFIZWY2cEdqVmFrVmxlTmdMNEtsT0w1OG1wOTlFRmtVQTRUU1lqck1jUUwzeFVRUVNqTFhLbE5PME1pS1dFSm11UzlfenhNa1ZobXRzT2ZmMUptQWZyellzUDlLb0FRSUt6TzNh?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 13:05",
-    "date_ts": 1782133500.0,
-    "title": "Ranking every match at the 2026 World Cup - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFl5NW4zM0RYRnRRUTQ2bWZSMERXbHZMYTk0Um54allHNkxxR0VhRkJ0ekF0bVhmNEZtYy00dHR4OGxibGU0MWlqWnA5VkZ2VTFVVnMyVGZPZ212dW9uTmowenpjaUpWSUxHYWNLZEhTWGZkX3VfMWFzNVd0UlBXWml4R2kxN25md3c?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 12:17",
-    "date_ts": 1782130620.0,
-    "title": "Confirmed: Germany’s Schlotterbeck ruled out of World Cup with long-term injury",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWJUak1JRFpIUGktOXBVSVdPWUZtUUMweGFzWWpYRFJCSTA1S2xDR2F2NGtCLWtPbXVPV2huWTRzbWhkbGpqUXVmVG1wVTVwN1NrQTZYY3VGaG8tRHV2NThJdHk3cWVPZ3Jpb3llSGxMelhraERlWk9VNmhGaHl2dVNJWjRGSm1laExKaEU1Q0pfeGc?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 12:07",
-    "date_ts": 1782130020.0,
-    "title": "Why Germany have no yellow card suspension concerns for Ecuador clash",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMG1zSmdmQzdVSlNENmpfcURfLWxPM3dfSDZNTzBYMTA4bFpRdlZmQzdSczhhUTRZYm0tMmtMZkNIOXFZVUdqNGZSWVk0RVZNWExaNWFydXB1SE96cTFZeV9lM3RUZi02SHlHb1hTYVJRRHR4dEsxRFktbEkybS1ERzhaZkptUF8xRFM2NXlWYnU?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 12:00",
-    "date_ts": 1782129600.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS2hIZFltV3BiRlk2WmN0VDRBU3I1b3V0VUI2LVZPd1F6TVNoVUVrTzFwajVJVTMzUTRyVEI4a2M5VlZkZk9TRF9sV2hlT2ZQaF9jZUJjTzFUTGZSV0VmUmxhVlBSZ3NManF0cG92aW9zNDZxdHNNVkVJTGZiTF9oWktjWnpNYnpVcVoyb2ZJMFRpUTZacDAzNEFrLThqNmVFNDBXU0liREJLY3lpYVdScVJqX05CZ0ZDVjQyZ3BYNXhJNGJpWGFBUw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 11:41",
-    "date_ts": 1782128507.0,
-    "title": "Brazil XI vs Scotland: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
-    "source": "Yahoo Sports UK",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVlsZlEwSEFBZFJfa3BzajJ6dnp5X0g1LVZ2Z1lLN0N4cy1vbkVsUko2dVhnNXVWM1E3U0gzWHRWYjMtOEtuYmEtR1laWS1Ra21hUXVJRk9CVnQ2ME16ejZtOGExUlY5ZTVwdWpuOGp4S0x4a2VkOEdobXdrd3RwMmYwa0V6QQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 11:40",
-    "date_ts": 1782128428.0,
-    "title": "Espanha goleia a Arábia Saudita com primeiro gol de Lamine Yamal em uma Copa do Mundo; veja os resultados dos jogos deste domingo (21)",
-    "source": "G1",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbzV6bHotNm1ocGlOblVBcVkzQmJ4M1dSckpLVG5fbGt0Q01CUHl6ZF8ySldJenhNSW9VWkk0cTd4WFNxMmFySUxpRFRLV1Zhcm16dHFjaGhTLUk3dkMyNGZheHZBSUVvZFQ0eXVPLU90WUJ4ajhnZXZXUW1JMGgxZmhDOV9lT0hnX2JXT1otcHMxVVlpZ25PRTY3R3RCRmN0eFNnNUdTUVpDN0dCM25zaU1uWjJJc1F2MFl2TUwwSkFqTW1PNl9kRUFLQkRhd21DZFlyWFhZY1RZMjNSNGVXZjA5WUY5OXFmWVItbUxlb1B1ZFhHSkxmZkljb1VINU1yTG9SSEx0a2gweUs1NFl1SFI2TGpmVjTSAaYCQVVfeXFMT0FnM0hySFo3Z3hla0hoTFlmemZ3eUJia2w5RElMYldtbmY1ZW55Z1oyWlY0ZG5jZ25sTVBzQ0NoVXhxcy1TdDh4RDRibnYwODMzUklHNUdabVpnYTFsNEpBUVNIeF9iLVBHYU5EaFhPTVExaW9lYUUwbk0xVWpxSV8yUlBrUGRRakFYY0Y2NGZDZDFzZ3VYN0pFaGNBVE1EOEM0X0dMbmZpV0xxNndIWHNValJTbnZsNXpBVEphbTJWdEZnaUthN0NzbXNyUnVyTldxWmVHeEhEbzV3QURYWXFydXdqdXJDcHR0ZUdqaXl1VnZ0blUxWTl0UnZCdXh2ekhuNHQ4YUlNWmZqcTRObmdCc29VU1BpOV92c0xNdkM0ZGsycFlR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 11:22",
-    "date_ts": 1782127320.0,
-    "title": "Jogos de ontem na Copa do Mundo: o resultado do Egito, gol histórico de Cabo Verde e mais",
-    "source": "VEJA",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWF8xM0dDZWwxX0RZbTIwMlVJN0FtRGtYeVlNSXRXSHpEVVJOMkh6VDZic19VSTBWQmYyZGpmR2hISUsyVld0MzlhTWZpUnhHZVk2NnZwbTZ6Y1g1d05xZUVlaEFFSGk4OXVjUnFKa0FZSG1jREg3QnVwSDZUVUdfajZkMkZCTG10emQ3eC1FLW5rak03QUg1NTNvVXcyNEpVN3Y0a2xaeEFjMFpnTkd5Qi0zcUdOUTUyMm9qQ0xScw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 10:07",
-    "date_ts": 1782122834.0,
-    "title": "World Cup 2026 third place standings - live table as top eight sides qualify for knockout stage",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajRqdUoxbkpCRWFoSmI3bkRsTjhiNEJid2FfbUdTbDNsQUNPRF8xNm5xVms3R1ZJeS0xN2QzaGgtN25sNGduVy1ucUkxUnEwOU1qRXBhYjFlRlY0UTZ3SGJ2WXY0dkp3RWozdkhaMVl3Tkx6MHR5dVJuSmRoSS1TQi1qZzB4bEFfZERoNmpHQ05pRUZYTlgzR0ZuX3ZsZFhsb09Pc1NJN3hlMjBiM0YwcXloQnlJR1RfeFV2elF6MDZ2YTludHVLbkU4WFFrZDd6OFRsZ2VmR2pIN1RnRjlKMVFn?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 10:05",
-    "date_ts": 1782122701.0,
-    "title": "Scotland XI vs Brazil: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa3JrZmxvbW96MVhKUVl1b09PNmMyai1aNjJ4Q0d5N3pualBVM2xCSnNOTHIwLXFxUTItOXhuOHBubVpTU1hXNDVGbXV2aUYya08yYXE2RUQwTVN5bEpPWkh6SWdndngyNGV4cjFDcFpFbDRJbjB0ZTRMcWVuOGVCdFdidFRib3pMTkNpQ1FoVFhBMEpub2R3SkpJUDlpb29tSGxjaldRV3JPOE5BNDYzaGFTeHU5UmhrRDg2RnlXTGV2dVhaX0dxNWRXcjQ2MDludVpCelFyQ0NDU3c?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
