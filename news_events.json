@@ -1,5 +1,56 @@
 [
   {
+    "date": "23/06 22:14",
+    "date_ts": 1782252848.0,
+    "title": "Is Luka Modric playing? Panama vs Croatia confirmed lineups for the 2026 World Cup Group L game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY3hDS0NpTHZIS3Q5SjVRMHBkc1ZuZVNfZk5xN3lRelVvdnJfeDBYdDVXc1RjQTBqTzJvdjNILUgzaERZa3ZQTDFQRnd0aWxCRS1hNzAwdl9weWZKT3NDcUFBZzJGRE8zSjExeE9UNzF5UFNjVE94dWl2OGd3RVVFRzBicXNUUkRjTnQwd1FMX0gtYnZYQ2ctODRHY1dsX3pBaTgybXlPRlptak8wRlliVUNxNUJndDJ0QWExdHlJaGg2cDR6SXc5VzN3Qnl3QdIB0gFBVV95cUxOdVVEbmdGQjJDMDlTRzhFbjdLYUU3NWxrbzFRTDdTZWZET3RZbzZaZHRPSTVNOW1HNld2cU13bFRhX1dsVk45TGpVemhWNkRTODFzWm1ES19kb3ZPRmFoN2p1VHFKSkE5ZHFvYlF2UjhoX2s5MzI1WGR5bHVpWFJWNnVRcm1TUmY3aGhKUDhVRTZ4c0ljYVJ6Vlg3RXQ5dEVvU0w0VEZmbnk2ZG1ZVnRzRWVucTgyOWJFSElFV2JjTzZTTE15QWZEcFRid3RzV0gyTVE?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 21:36",
+    "date_ts": 1782250560.0,
+    "title": "Several Bundesliga stars in action in vital World Cup game Croatia vs. Panama",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16SUhCaVVKaXR6M2JjSjQ3SzFDbHczTUpzOXRDNlJzVTQ1OE5nc3dwYXE1dGhBV2dnNFFvQ193MGE2Y0p2TUtUQjdLR0F5LUlNaGpMM05ERVAxekhXbXFUSHJRWno4VkN0dG96cDl3cDRvckdRRy1penRPVQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 21:20",
+    "date_ts": 1782249626.0,
+    "title": "World Cup 2026 live updates: England vs. Ghana, Cristiano Ronaldo scores as Portugal leads over Uzbekistan",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc01GblZHUzRMZGZEVHZTWEt2UHpEaHV3TzAxVmp5WWNYeGxGQkhXRktVVmFJN3l6OFFaMlVucU9JcmVoSHU0WThSakRhNVQzZGtwUW1OVF90dk5veTM4eDdmUUhTSWM4YmFOcGdLZVRjRTN3VXZyYk9KZndkRDZPYlIxOVVyWmVLMU9mMEtVNEMzTXlmeDA2djZRTmhwQk1qX2Y1Y2Z6ckk?oc=5",
+    "teams": [
+      "Portugal",
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 20:28",
+    "date_ts": 1782246493.0,
+    "title": "2026 World Cup: Schedule and scores - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 20:22",
     "date_ts": 1782246120.0,
     "title": "World Cup Daily: England vs. Ghana LIVE; Ronaldo scores twice",
@@ -49,6 +100,19 @@
     ],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 19:23",
+    "date_ts": 1782242585.0,
+    "title": "Portugal vs Uzbekistan Extended Highlights | 2026 FIFA World Cup™",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwV0xodnphUFRuRWp4UjNTbVBVY3RLckE3YlpqM3E4bE1mSVU2bDdrU1JCamVXc1F1M0Z2S2pFUW8zaHBQcFFjbEwyYU5tR25TTGxSeUF5UmpiNVBYYXNzbGtn?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -513,6 +577,19 @@
     "source_type": "news"
   },
   {
+    "date": "23/06 09:05",
+    "date_ts": 1782205549.0,
+    "title": "Colombia vs DR Congo FIFA World Cup 2026 Preview: Everything you need to know",
+    "source": "Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSnBFeFFPa3pmM1FrelVSUGpiUGh1QlBpaWZFSHVEVmpvN3RhaHJPcTlZSGZyY1BTc0cxX1AyYWkxOXhibGJhbDROV3FJekd0U290VHhlRzZDaURtcXV4S1V6WjBuZVFSY0ptZkpqdWdvV2tWYWlGN2lRYTJ1YnZ2WFF0ekZlVW1Sa1oxWTVOcWQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 09:04",
     "date_ts": 1782205463.0,
     "title": "World Cup 2026: England v Ghana - who will start for Thomas Tuchel's side?",
@@ -667,81 +744,6 @@
     "title": "France’s Kylian Mbappé Scores Two Goals vs Iraq | 2026 FIFA World Cup™",
     "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wN3lqMEo1ajBEQXFYSXNYUEpseElmMnJUSUFzY0JJV21FM2ozM2gyaUNtY1FLV3RuR2lDVGR1TzF0cDFRT2wwajhVZURHbnNMazNBSHlxN3RrLUZfblNkQnln?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 02:54",
-    "date_ts": 1782183277.0,
-    "title": "Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFkxTXNtXzgxQkNLajkzQUl0czgzSl9WcHpoQnp0azl6UDRjOVpfTWtyUG5mXzFLUm5PRkRjRGd5X3hpVnVsLURqME9zX3JDV3dCTTdyUzg5S3JRWFdMVVRvak90NGVTalZORmNSYWN6QUJkZkt0QzM0ZXVWSFBsNHcyRXlhdURNTDF6blg0SWxlbTZpVWk3VGVNb2ZaTWNZenNsN3Q2UU80ZkJrUWF2Z1dibEHSAboBQVVfeXFMTS1mbnlmYUhjSHFITUpyVWkwVEFDUlRSbGlMSlVpU01WdXpOblVER2R6VDlqbUtNeENUZ09wRDJQTnlFUFRRUFRvSjlxelVBZ1I1S3JhUE9XbURYNDZveC0zNmpIYXJKemZqa1UtTk1uZmhLb19rQnQ4dHFnNkJLNDBfeHVITlpIQjBkTVFFaFF5cmUta3VOWjRaTXBnQ212cGNUN1F1Z0JFRkV5cDAxb0EyTHZ2WkpQcWRR?oc=5",
-    "teams": [
-      "Noruega",
-      "Senegal"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 02:41",
-    "date_ts": 1782182483.0,
-    "title": "Portugal vs Uzbekistan Prediction: Lineups, Preview, Picks & Best Bets World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3Z0VmFtQ0luck9hV0cweUlxUWx5SlpfOVM0cFQxSHR3Vm85NGRKYXJRa09xTWRyXzRCQ3kycEJpcnh1UGJhVmRvblJYYVNVMDJJRDZFUDltdkwyOGJYc1BsRnFNeUFmRkZBWldFbWxPYnZTbExWazZUdjBmejNPS0NxRDNwWE5GWV94NFQ5dmszT2V0RW5OR3lOSlVwZzh5ZV9hMTZSWXhja3ZXaW1oZFhINWpDYVk2?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 02:15",
-    "date_ts": 1782180945.0,
-    "title": "World Cup: Ryerson adds to Dortmund’s injury woes as Haaland sends Norway through",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkZUVVZfQUVYTHB0WU9JSHQ4dndPVGpBSE9hSGZzRXNjNDVaSFRHZXpUd0dudE92MmhhRkkzeW1tS1Z5WmM2N2NqNFA0RXg2elNhaS1lVUgxVkVnN253R1lUOFFDS3g0Z3BFLU1Od1R4RFdFc0ViRC0ybk5iSWVKdmVKMzFzNkFjTUc4Q093R1FtWHJ3LUo1bQ?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 02:06",
-    "date_ts": 1782180360.0,
-    "title": "Who's in World Cup Round of 32? Updated bracket, latest standings",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2hHN1FRS1RVZ081QnJKaEgzQkVoT2t3bEZLS1o5a0ZWeV94MHhhQVI2a1lUcVM2OXZiTk51MlRUT0FNR1lsQ05HLTFzOENQMVZrNFY5aHpGNThKVHlldUNyMTNTdHE1QW1NVzRMNjlCVjhDcGFRWXFuNFhQd2ItYlF4SEJOVV9JRW9aRzBsR0Nlc2NGVHRpNXZ0b1l0ekVQckhFUmhkQ1lmd0VyQ2J6YlZ6RmpMcXY4WW5IMHln?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 01:50",
-    "date_ts": 1782179443.0,
-    "title": "World Cup: Bundesliga trio start for Algeria against Jordan",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3R6ejd5NTZGMW1fc19abkhDMUMxRF80elNETFYtSGEwdVlOdHp5QTh1aEZybHlWZkFmQ3Z4WldTRmtaZGdmNXV6WkdhNDk2b3k2MUl0MFdtTDJNVnY5bVpGcTduZU5VUlpjMXcwN0dLeVNRTGtIREhpNTMyVWswaFVTMXVpdw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 01:42",
-    "date_ts": 1782178920.0,
-    "title": "World Cup 2026 live updates: Argentina’s Messi makes history in 2-0 win over Austria; France beats Iraq 3-0",
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRG1rSzJBaklleS1fYlBZMG1USWI2R2hZcEZYNGRLRnFxUTI4cW5fMlVqNHZvOG1kME00VlVQY0QtUk5ZTHVzaEVLd25zTVhzR2M4SVp1Y1hKejdRdVd5OVc0cmlnSDdxNVpLXzRjTDEzT1R0WG9GQXVOQVhDTWpwNGRwS3NuLVZUQm5XNGdnNVdfdGlJV3puVnlxOEFONS1jVjRlRy1MTWs?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
