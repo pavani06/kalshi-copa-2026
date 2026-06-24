@@ -1,5 +1,68 @@
 [
   {
+    "date": "24/06 21:18",
+    "date_ts": 1782335883.0,
+    "title": "Brazil vs. Scotland Lineups Confirmed, Starting XI for World Cup – Wednesday, Ju",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV25HNlJrUmMtRTd4WVBDUnpydFlNa0w5WEx5bTQxUFRITVdYZFgtYXRPTDA3WXp6OHluMnNDQ1BTZ3FnWTl1MzVKc2Q1MVNreFdxaEZWSzV6anVYQ2N5bUhIWEJKcWdYTDN6OEVzRVg2MTFyc2hLZEE1amYxd1BCOF9NejU3aUtXeDhtbkMzaGRiRHRfT0JRLTRibzhHdWJFMVZJc25nSDZyQUNpVTVPLVdfU3M4MFpfZFFfaQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 21:02",
+    "date_ts": 1782334920.0,
+    "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and potential opponents?",
+    "source": "CBS Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOektvRWQyaEJLdUZ1R0w0RVRuY0J1WDFxXzNBUGtYR3Y1dGplTEZVb0VEUExYT0NGT3FOdGo3dFNobUhNUk45RlcwOW1faDV1ZXRSTldjTlFQT2JoWWlBNFNRVjZReF80MVY2d2prSVVnSi03VFJDY3p4RXloVHBEVUJsY0dJenoy?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 21:00",
+    "date_ts": 1782334800.0,
+    "title": "Lineup for Haiti Confirmed for Crucial World Cup Clash Against Morocco",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFdiOFZ5MDM0dG1XT3hTbmh2akRRaDloMExuV3JBWFQ0OEtSZUptanNyZFFVZGZOQTlzYXZrT0tzTXFoQy1pOVEyNmp6SEQwaVdxRG1KWERCbGdxZ3ZYY0lSSnVJOHlucU5GSEVSLWtaNTFibTBMSXRyaGZKZVJndVJ5SDc1cksxTHZ3RlZ2WFh6MlJaSkRQRS00N0NLZEYzaHBUZTM1MUZRYUpXNnZLd2JWejJtNUQ1MmZR?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 20:53",
+    "date_ts": 1782334408.0,
+    "title": "Brazil XI vs Scotland: Starting lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeU1sbHhMOUFaMDV6NWk5UVd0MW03Zkd5Z1MxSG1Dbmd0OWtqOTZ4ZUdyaVVYQ0s5Vi1PX21URUlfeE9FYmxKN2xPUEdHTlVJZW5VX0VNTU5kNFVmRlM0dHotWjVSVWxOVHNodFNXaFRtTjBnZmxLNTlQNHdsVk4wYUE1TlBETlF0eDltdzgwTGxJRG9mVS13TDJ2WFhQSjBCRWNDQmxOc1AyQVgwdm9JM0EwVjBlbDNzVTJqZXhwTS10VENpSE1QUmtRMU4zS2txWDd6WTZvRGVtYW41amk3Y3Z3?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 20:47",
+    "date_ts": 1782334020.0,
+    "title": "World Cup: Future Bayern star Saibari starts for Morocco against Haiti",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa01DZ1pkSEV0OHBXUk9MY19sRTA0TkZPNkxuWUdnSm1qS3dzSnhncFJpTjdzMHd2akJuc3ViRlJBcUNEUkNPeXZrR1FTV3ZoVmlWYkVCb0ZMZG9aMFRaUjFwbDlZS1hiaE9CZGg5VWh4R1dNaEV1a0Q1VTFaLTdrSWZta0NaNFl6RUVrczJSZWVfQi1s?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 20:20",
     "date_ts": 1782332420.0,
     "title": "Scotland v Brazil: World Cup 2026 – live",
@@ -9,6 +72,30 @@
       "Brasil"
     ],
     "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 20:15",
+    "date_ts": 1782332116.0,
+    "title": "Confirmed lineups without Neymar for Brazil vs Scotland at 2026 World Cup",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGs4WFd2cVRxcWxYQXNqejdLZy04WllkYU9QSjFubWdqdUQ4Smszck5qZlFWME9EeFlmSzd6XzFldTY3SWo5UTAxTVlyazBHdTdnazk1a3o2Z0hfdExjY0dlRVJzRkxpU01RUzVSTjdTMjNFaG9uZFFyRS01cHlPMzREeXR4Q0JxdGlkQ0U2c1Ztc0tvRkxqdnhRcWxWendDNVkyc2x30gGrAUFVX3lxTFBRYXdMU3pWWk14UlV2OGVGblZ0M1k4czV1OHlPQTZBX3dpMnVpTXdCQVBCa1ozV3RXQnNSaWpSempmcmg5Z0FTOUIwbXBSTlBBXzRaSkczU2R0TTVNMTJKRGNoZjBON3FoX2pfRl9IZUc4bnBINTJNdjQybjFsdzJOYS1GOGw0STluVVFMWWZKRmRIZHp4dlhidnNKTUs1MnYxM2dQNk5xRjYyMA?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 20:10",
+    "date_ts": 1782331800.0,
+    "title": "Canada vs. Switzerland LIVE: World Cup 2026 updates as Vargas gives Swiss the lead in Group B decider",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObnVmX1h6Mnc2S1BHTjNfYy1sNTRoQTlzSVExaFRnVS1PLU1BdEgzcjN1SzJPN1hsdWtYLVRWM0ZHZWZGN0laMm8zUmdMQ0hrcThraDlTQ0pxVGZDbDJKRjBYRWkyQXg2Y1lNYXNmeGNZYWlXZDVMaEJUbXVwX3pmNkhodXBWcGdlZi0wNHVjRGZhRENjeEtQX3kwdXktTExtLWJKR1NKYlFodTMycmtucGh5V3NxYkwwVmpIMnVOb0Y?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -116,6 +203,17 @@
     "title": "World Cup review and predictions: What surprised us in round two and what we’re expecting next",
     "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjN6bGtzbFlIQ3hxWmYyckg1ekJvM3BfQkVySU1TWXhuR1I2UnlWVEhjelZoVEdrQXotb1V4bHdoWWV1Qzdfb1VOSkdJaGJGWDg2XzhXdjhRUURLVVp5dFVXT05zaURkeEMtdS1xaHd3T1lOcUYyQlhoZENoaWd4OXhoRmdnTFVp?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 16:01",
+    "date_ts": 1782316860.0,
+    "title": "World Cup Group Scenarios: What's At Stake Today For Groups A, B & C",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQklldDJNVWpBU09NbkpuSHpaTUJkSk1Uenp0Q2pRdDk5U1pJbTNVY2sydTBBNGZ1VEtWdmpRZnN1YnZSQzdvVGpPR2w5UkplUFhrSWtDOE1pUmVyVHphR0tlaWhZZ1JHS3lBSkdZQWdVOEIyTk9ZN1M3UEVGMThvVUdIT0dYS1h3TWQ4?oc=5",
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
@@ -637,104 +735,6 @@
     "teams": [
       "Portugal",
       "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 20:40",
-    "date_ts": 1782247200.0,
-    "title": "World Cup Buzz: Miguel Almirón Gets One-Game Suspension for Covering Mouth",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 20:36",
-    "date_ts": 1782247005.0,
-    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 20:33",
-    "date_ts": 1782246815.0,
-    "title": "2026 World Cup Predictions",
-    "source": "Silver Bulletin",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 20:28",
-    "date_ts": 1782246493.0,
-    "title": "2026 World Cup: Schedule and scores - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 20:22",
-    "date_ts": 1782246120.0,
-    "title": "World Cup Daily: England vs. Ghana LIVE; Ronaldo scores twice",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGRMVEtld3FydkFmMV9ILVZzcmZzY29uc1ZsNVpaM2pvMXpDR2JhQzRYTG1RWm9laExwcTU2X2xDTHBnLTV3WVVvdmRzd0Q3bHJzSktoVDIxUS1xd0FkQ0JLZHlHSENqbnVLenVKMGpxeFZ6ZVVXblBUUkx1a2t3aTVhTVppTEdyZDNiQWI0QVAxTHJMU0tBWVZIaGxOdWZ5eDhZek44d3FuanpVcWxoOEdjSkc5WmdnN0E?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 20:02",
-    "date_ts": 1782244936.0,
-    "title": "World Cup 2026: Record-breaking Cristiano Ronaldo leads Portugal's 5-0 rout of Uzbekistan",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLVRkN0ZHdUFHUDNFUEYxMHRFUUdkNnVrUDFFelhDaWRkUXFhS0oyc21ETmN6eDNiczRwMC1Qak5BYUZNLUFtbGVycXR2TDdKWTFuQzk5VGhXYmROUWgxdW9FX1F3OGZLTW1pZm8ycnJJZjhwZlFieXlpdUZsVXBKcHFFdkw3MEs5cTZUcDIxYUZyMzUxUkd0MGt6TW05SlozWC1CVWt2ZGN1R1AtVW9EZkp2bnNMZ3FZQ3gxSkhHNnhNY2tJX2xJSDhIRnhEc0Rqc2JHd3BBRmJfZw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 19:56",
-    "date_ts": 1782244599.0,
-    "title": "England vs Ghana Confirmed Lineups & Formations: Predictions for World Cup 2026 Group L",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZFNNZXBPb3BJQi1aWGczNUtCdlRRcmRHSXRwTG8xWjR2alpjclBoaDlORXZFOEtGWlVibWRIa3RZWU1UM3BaRHlaUzdCemFWSnVZbDg1aHhWMEpiVzJNdXZWSVViNUo5RmVKZnBnWlF6ejNyNlRaaTlaQWpBRjZrdFVmQVJ1cHdiNGd2S1Z3enlIT3ctTURFYlk5WlY5RkN2VjREYXNPQ0ZJa05HZUxpXzZla2JwUlI1VGxuWlVB?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 19:23",
-    "date_ts": 1782242617.0,
-    "title": "Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFBbW5UX0NIX0ZBekpscERWcFR2VDhOdDhwWnlhNy1LQkhDZndQMXl5MUdsTlZBUkd3NnZPbEpoLUktWnhreDhkMDhFNFVzU2gweThYYXdtSnVjT3dQMnZaWkhwZl80SEo3ME0xNUhleWttOGNDV3RjYkozSnRrRHVMY0VfTHktUjZaa2p2WTFIbEFwUmQ4c2pqQUdWRF9hTzJRekgybVhScjhtSDdROHZaNmxzd9IBuwFBVV95cUxNS0FEdzVJMzdBNVRwM0pSQTdkNkdMLUFxOFhLT3FBeGxZZDdmTXpram9CeFhGck9tOUNmZkJScURkN0JJYXVfZzFDVHZ5cl9wSFRHblowQU1hVm1BSzNkbmtkNFhJLWRQbi1WbzhaUEVNaXBIRE1hSUV3MWYwTjBuT09MYm5FSFdtQVhVNE1IWnd4dUxvSXExbExmUXphdmNSeVE2eWhjdWswRkt6Y3RFQWUxYklLOTBFLTNJ?oc=5",
-    "teams": [
-      "Portugal"
     ],
     "category": "result",
     "impact": "HIGH",
