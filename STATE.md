@@ -135,7 +135,7 @@
 | `opcoes_model.py` | Motor de cálculo — Greeks, cenários, Excel |
 | `CONTEXTO_Call_da_Copa.md` | Tese, modelo matemático, regras (referência estática) |
 | `historico_precos.csv` | Série histórica de preços Kalshi + Call da Copa |
-| `kalshi_wc_markets.json` | Snapshot Kalshi (Actions) — ⚠️ **atualmente vazio (0 bytes), fetch não está gravando** |
+| `kalshi_wc_markets.json` | Snapshot Kalshi (Actions) — ~34 MB, atualizado de hora em hora ✅ |
 | `GUIA_DE_USO.md` | Operacional — rotina diária, como rodar os scripts |
 
 ---
@@ -144,7 +144,7 @@
 
 - **Novo trade:** atualizar tabela Book + seção Último Trade + `trades.json`
 - **Resultado de jogo:** atualizar Pts/situação na tabela + alertas se necessário + `caminhos.json`
-- **Preços Kalshi:** o GitHub Actions atualiza `kalshi_wc_markets.json` a cada hora automaticamente *(verificar — snapshot vazio em 24/jun)*
+- **Preços Kalshi:** o GitHub Actions atualiza `kalshi_wc_markets.json` a cada hora automaticamente ✅ (pipeline saudável)
 - **No chat com Claude:** cole este arquivo no início da sessão para retomar com contexto completo
 
 ---
