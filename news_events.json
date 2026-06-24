@@ -77,6 +77,19 @@
     "source_type": "news"
   },
   {
+    "date": "24/06 09:26",
+    "date_ts": 1782293201.0,
+    "title": "England to face Scotland? World Cup knockout stage as it stands",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nS0lzeDg4clpDa19ZNGJOZTN0aW9IRlpSX2pJamU2bkJEMTZSZmt4bklpbTdhUE9oOVoyQ3dvQ2RiYmVubS1uQndXWVhzMDNFd3ZyNTlLbWV1c2ppZ25NS3B1SVd0b0k?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 08:22",
     "date_ts": 1782289340.0,
     "title": "What options do Germany have to rotate against Ecuador at the FIFA World Cup 2026?",
@@ -739,19 +752,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 15:59",
-    "date_ts": 1782230340.0,
-    "title": "World Cup 2026: England vs Ghana - who will start for Thomas Tuchel's side?",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqYXNlR1NZUGVzTTVfa01tMEFGZlhpR3FnUlhoZTU2cFNYTm9NMDBZZEFtVVQzNVpNb0JVNGNyYWFWZ3NrNS1oWmc4eGJCLU5VbHdNQlRMTms5N3lkR2ItRWxB?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
