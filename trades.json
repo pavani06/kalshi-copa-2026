@@ -3,7 +3,7 @@
     "descricao": "Ledger completo de trades — Call da Copa 2026",
     "settlement": "0-100, liquida 100 se campeao, 0 se eliminado",
     "unidade": "pontos percentuais (1 contrato = 1pp)",
-    "ultima_atualizacao": "2026-06-21"
+    "ultima_atualizacao": "2026-06-24"
   },
   "trades": [
     {
@@ -95,6 +95,16 @@
       "preco": 6.0,
       "contraparte": "Ricardo Espindola",
       "nota": "Redução parcial do long Alemanha. Era 40C@8.25, ficou 30C@9.00 (preço médio ponderado)."
+    },
+    {
+      "id": "T010",
+      "data": "2026-06-24",
+      "selecao": "Senegal",
+      "lado": "V",
+      "contratos": 10,
+      "preco": 0.0,
+      "contraparte": "",
+      "nota": "WRITE-OFF — Senegal eliminado (perdeu 2-3 p/ Noruega 22/jun). Sem mercado p/ fechar; liquidação a 0. Perda realizada -7,5 ct (10ctrl x 0,75)."
     }
   ]
 }
