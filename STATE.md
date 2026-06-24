@@ -6,62 +6,76 @@
 
 ## 🚨 Alertas Ativos
 
-**🔴 SENEGAL — alerta materializado.** Perdeu **2-3 para a Noruega (22/jun)**, o jogo que era praticamente eliminatório. Continua com 0 saída garantida: única chance de classificação é **vencer o Iraque (26/jun)** e depender de saldo/resultados do Grupo I. A posição 10ctrl@0.75% está perto de virar pó. **Recomendação: zerar/abandonar — risco/retorno não justifica segurar.**
+**🟢 BRASIL (short) — tese pagando forte.** Preço do Call desabou para 7,5 (ask, sem bid). Short 40@12.625 marca **+205 ct** — maior contribuição do book. Avaliar se realiza parte do ganho ou segura para o mata-mata (hedge natural com long Inglaterra num QF ENG×BRA).
 
-**🟢 MARROCOS — alerta resolvido a favor.** Venceu **Escócia 1-0 (19/jun)** e **lidera o Grupo C**. Último jogo vs Haiti (já eliminado). Classificação encaminhada. **MANTER LONG** — tese intacta, 30ctrl@2.42 saudável.
+**🟡 PORTUGAL × COLOMBIA — confronto direto 27/jun.** Long nos dois = hedge interno; um cancela o outro. Ambos no vermelho hoje (POR -27,5 / COL -13,65). Avaliar reduzir Portugal antes.
 
-**🟢 NORUEGA — classificada.** Garantiu o Round of 32 com a vitória sobre Senegal (Haaland brace). Próximo: **França (26/jun)** decide o 1º do Grupo I. Long firme. Saída ideal continua sendo antes/depois desse jogo duro.
+**🟢 MARROCOS — melhor long aberto.** Venceu Escócia, lidera Grupo C; Call subiu para 3,375. +28,65 ct. Manter.
 
-**🟡 PORTUGAL × COLOMBIA — alerta vivo.** Confronto direto em **27/jun**. Long nos dois = hedge interno; um cancela o outro. Avaliar reduzir Portugal (10ctrl) antes do jogo.
+**🟢 NORUEGA — classificada (R32).** Marca quase flat (-1,25). Próximo: França 26/jun pelo 1º do grupo.
+
+**⚫ SENEGAL — encerrado (write-off).** Eliminado após perder p/ Noruega. Sem mercado para fechar. Perda realizada **-7,5 ct**. Fora do book.
 
 ---
 
 ## 📊 Book Atual
 
-> ⚠️ Colunas **Mid Call / MTM** são marcação **Call da Copa de 21/jun** — desatualizadas (não refletem Rodada 3). Marcação viva está no dashboard (Kalshi, horária). Para recomputar o MTM contra o mercado informal, preciso dos mids atualizados do Call.
+> Marcação **Call da Copa 24/jun** (mid = (bid+ask)/2). Brasil: só há ask (sem bid) → marcado a 7,50, indicado com `*`.
 
-| Seleção | L/S | Contratos | P.Médio | Mid Call (21/jun) | MTM (21/jun) | Status |
+| Seleção | L/S | Contratos | P.Médio | Mid Call | MTM | Status |
 |---|---|---|---|---|---|---|
-| Brasil | SHORT 🔴 | 40 | 12.625 | 10.75 | **+75.0** | ✅ verificar R3 |
-| Alemanha | LONG 🟢 | 30 | 9.000 | 7.00 | **-60.0** | 🔴 verificar R3 |
-| Inglaterra | LONG 🟢 | 20 | 11.750 | 13.00 | **+25.0** | ✅ verificar R3 |
-| Portugal | LONG 🟢 | 10 | 12.000 | 9.00 | **-30.0** | 🟡 hedge 27/jun |
-| Marrocos | LONG 🟢 | 30 | 2.420 | 2.75 | **+9.9** | ✅ líder Grupo C |
-| Colombia | LONG 🟢 | 30 | 1.830 | 1.38 | **-13.7** | 🟡 verificar R3 |
-| Noruega | LONG 🟢 | 10 | 3.000 | 2.88 | **-1.2** | ✅ CLASSIFICADA |
-| Senegal | LONG 🟢 | 10 | 0.750 | — | — | 🔴 perdeu p/ NOR — zerar |
+| Brasil | SHORT 🔴 | 40 | 12.625 | 7.50 * | **+205.0** | ✅ |
+| Alemanha | LONG 🟢 | 30 | 9.000 | 7.50 | **-45.0** | 🔴 |
+| Inglaterra | LONG 🟢 | 20 | 11.750 | 12.125 | **+7.5** | ✅ |
+| Portugal | LONG 🟢 | 10 | 12.000 | 9.25 | **-27.5** | 🔴 |
+| Marrocos | LONG 🟢 | 30 | 2.420 | 3.375 | **+28.65** | ✅ |
+| Colombia | LONG 🟢 | 30 | 1.830 | 1.375 | **-13.65** | 🔴 |
+| Noruega | LONG 🟢 | 10 | 3.000 | 2.875 | **-1.25** | ✅ |
 
-**MTM Total (marca 21/jun): +5.0 ct** — *recomputar com mids atuais do Call.*
+**MTM aberto: +153.75 ct**
+**Realizado (Senegal write-off): -7.5 ct**
+**NET (aberto + realizado): +146.25 ct**
 
-### Preços Call da Copa — snapshot 21/jun/2026 *(desatualizado — pré-Rodada 3)*
+> `*` Brasil marcado no ask (sem bid no Call). É o driver do resultado: das ~+154 ct abertas, +205 vêm do short Brasil. Se preferir marca mais conservadora, ajustar aqui.
+> Referência: MTM em 21/jun era +5,0 ct.
+
+### ⚫ Posições Encerradas
+
+| Seleção | L/S | Contratos | P.Médio | Saída | Resultado |
+|---|---|---|---|---|---|
+| Senegal | LONG | 10 | 0.750 | 0.00 (eliminado) | **-7.5 ct** realizado |
+
+### Preços Call da Copa — 24/jun/2026
 
 | País | Bid | Ask | Mid |
 |---|---|---|---|
-| França | 18.50 | 22.50 | 20.50 |
-| Espanha | 15.25 | 16.75 | 16.00 |
-| Brasil | 9.75 | 11.75 | 10.75 |
-| Portugal | 7.50 | 10.50 | 9.00 |
-| Inglaterra | 11.50 | 14.50 | 13.00 |
-| Argentina | 9.00 | 12.00 | 10.50 |
-| Alemanha | 6.00 | 8.00 | 7.00 |
-| Marrocos | 2.00 | 3.50 | 2.75 |
-| Holanda | 4.00 | 6.00 | 5.00 |
-| Noruega | 2.00 | 3.75 | 2.88 |
+| França | 20.00 | 22.00 | 21.00 |
+| Espanha | 16.00 | 16.75 | 16.375 |
+| Inglaterra | 11.00 | 13.25 | 12.125 |
+| Argentina | 12.00 | 14.50 | 13.25 |
+| Portugal | 8.50 | 10.00 | 9.25 |
+| Brasil | — | 7.50 | 7.50 * |
+| Alemanha | 6.50 | 8.50 | 7.50 |
+| Holanda | 4.25 | 6.00 | 5.125 |
+| Noruega | 2.25 | 3.50 | 2.875 |
+| EUA | 3.00 | 4.25 | 3.625 |
+| Marrocos | 3.00 | 3.75 | 3.375 |
 | Bélgica | 0.50 | 2.50 | 1.50 |
-| EUA | 1.75 | 3.75 | 2.75 |
-| Uruguai | 0.75 | 3.00 | 1.88 |
-| Colômbia | 0.75 | 2.00 | 1.38 |
+| Uruguai | 0.25 | 2.00 | 1.125 |
+| Colômbia | 0.75 | 2.00 | 1.375 |
 | Croácia | 0.25 | 1.75 | 1.00 |
-| Japão | 1.00 | 3.00 | 2.00 |
-| Costa do Marfim | 0.25 | 2.00 | 1.13 |
-| Equador | 0.00 | 1.50 | 0.75 |
-| México | 0.25 | 1.50 | 0.88 |
+| Japão | 1.25 | 3.00 | 2.125 |
+| Costa do Marfim | 0.25 | 2.00 | 1.125 |
+| Equador | 0.25 | 2.00 | 1.125 |
+| México | 0.25 | 1.50 | 0.875 |
 | Coreia | 0.50 | 2.00 | 1.25 |
 | Turquia | 0.00 | 1.00 | 0.50 |
-| Suíça | 0.50 | 1.75 | 1.13 |
+| Suíça | 0.50 | 1.75 | 1.125 |
 | Escócia | 0.00 | 0.50 | 0.25 |
 | Arábia Saudita | 0.00 | 0.50 | 0.25 |
 | Egito | 0.00 | 0.50 | 0.25 |
+
+> ⚠️ Sua lista trouxe **duas entradas 🇨🇴** (0,75/2,0 e 0,50/3,0). Usei a primeira (mid 1,375) para marcar Colômbia. A segunda parece duplicata ou time mal-bandeirado — confirmar.
 
 ---
 
@@ -69,14 +83,14 @@
 
 | Campo | Valor |
 |---|---|
-| ID | T009 |
-| Data | 2026-06-21 |
-| Seleção | Alemanha |
-| Lado | VENDA |
+| ID | T010 |
+| Data | 2026-06-24 |
+| Seleção | Senegal |
+| Lado | VENDA (write-off) |
 | Contratos | 10 |
-| Preço | 6.0 |
-| Contraparte | Ricardo Espindola |
-| Nota | Era 40C@8.25 → ficou 30C@9.00 |
+| Preço | 0.0 |
+| Contraparte | — |
+| Nota | Eliminado (perdeu 2-3 p/ Noruega 22/jun). Sem mercado p/ fechar. Perda realizada -7,5 ct. |
 
 > Histórico completo em `trades.json`
 
@@ -84,20 +98,20 @@
 
 ## 🗺️ Situação por Time
 
-> Linhas **Marrocos / Noruega / Senegal** atualizadas com resultados confirmados (24/jun). Demais times pendem de refresh dos resultados da **Rodada 3 (em andamento hoje)**.
+> Marrocos / Noruega atualizados com resultados confirmados; Senegal encerrado. Brasil/Alemanha/Inglaterra/Portugal/Colombia pendem do fechamento da Rodada 3 (hoje).
 
 | Time | Grupo | Pts | Próx. Jogo | Ação | Alerta |
 |---|---|---|---|---|---|
-| Brasil | C | — | Rodada 3 | MANTER SHORT | ⏳ verificar |
-| Alemanha | E | — | Rodada 3 | AGUARDAR | ⏳ verificar |
-| Inglaterra | L | — | Rodada 3 | MANTER LONG | ⏳ verificar |
+| Brasil | C | — | Rodada 3 | MANTER SHORT (avaliar realizar) | 🟢 ganhando |
+| Alemanha | E | — | Rodada 3 | AGUARDAR | ⏳ |
+| Inglaterra | L | — | Rodada 3 | MANTER LONG | ⏳ |
 | Portugal | K | — | Colombia 27/jun | ⚠️ HEDGE INTERNO | 🟡 |
-| Marrocos | C | líder | Haiti | MANTER LONG | 🟢 OK |
+| Marrocos | C | líder | Haiti | MANTER LONG | 🟢 |
 | Colombia | K | — | Portugal 27/jun | ⚠️ HEDGE INTERNO | 🟡 |
-| Noruega | I | 6 | França 26/jun | MANTER LONG | 🟢 CLASSIFICADA |
-| Senegal | I | 0 | Iraque 26/jun | ZERAR / ABANDONAR | 🔴 |
+| Noruega | I | 6 | França 26/jun | MANTER LONG | 🟢 classificada |
+| ~~Senegal~~ | ~~I~~ | 0 | — | ENCERRADO (-7,5 ct) | ⚫ |
 
-> Análise detalhada (chaveamento, R16, QF, ação completa) em `caminhos.json`
+> Análise detalhada em `caminhos.json`
 
 ---
 
@@ -106,12 +120,11 @@
 | Data | Jogo | Impacto no Portfolio |
 |---|---|---|
 | 26/jun | Noruega vs França | 🟡 MÉDIO — decide 1º Grupo I; saída ideal Noruega |
-| 26/jun | Senegal vs Iraque | 🔴 ALTO — última cartada Senegal (posição já quase zerada) |
 | 27/jun | Portugal vs Colombia | 🔴 ALTO — confronto direto, hedge interno |
 
 ### Resultados recentes incorporados
-- **22/jun — Noruega 3-2 Senegal** → Noruega classificada; Senegal à beira da eliminação.
-- **19/jun — Escócia 0-1 Marrocos** → Marrocos líder do Grupo C; alerta resolvido a favor.
+- **22/jun — Noruega 3-2 Senegal** → Senegal eliminado (write-off -7,5 ct); Noruega classificada.
+- **19/jun — Escócia 0-1 Marrocos** → Marrocos líder do Grupo C.
 
 ---
 
@@ -120,8 +133,8 @@
 | Estrutura | Mecanismo |
 |---|---|
 | Short Brasil + Long Inglaterra | Se ENG×BRA no QF: short BRA ganha + long ENG sobe |
-| Long Colombia + Long Portugal | ⚠️ CONFLITO: se enfrentam em 27/jun — um cancela o outro |
-| Long Noruega + Long Alemanha | R16 potencial NOR×ALE — as duas posições não podem vencer juntas nesse estágio |
+| Long Colombia + Long Portugal | ⚠️ CONFLITO: enfrentam-se em 27/jun — um cancela o outro |
+| Long Noruega + Long Alemanha | R16 potencial NOR×ALE — não podem vencer juntas nesse estágio |
 
 ---
 
@@ -143,8 +156,9 @@
 ## 🔄 Como Atualizar Este Arquivo
 
 - **Novo trade:** atualizar tabela Book + seção Último Trade + `trades.json`
-- **Resultado de jogo:** atualizar Pts/situação na tabela + alertas se necessário + `caminhos.json`
-- **Preços Kalshi:** o GitHub Actions atualiza `kalshi_wc_markets.json` a cada hora automaticamente ✅ (pipeline saudável)
+- **Resultado de jogo:** atualizar Pts/situação na tabela + alertas + `caminhos.json`
+- **Preços Kalshi:** o GitHub Actions atualiza `kalshi_wc_markets.json` a cada hora ✅ (pipeline saudável)
+- **Histórico de gráficos:** `salvar_snapshot.py` anexa diariamente ao `historico_precos.csv` ✅ (automático)
 - **No chat com Claude:** cole este arquivo no início da sessão para retomar com contexto completo
 
 ---
