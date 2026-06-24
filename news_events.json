@@ -1,5 +1,18 @@
 [
   {
+    "date": "24/06 06:00",
+    "date_ts": 1782280800.0,
+    "title": "Ecuador vs Germany Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group E",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemo5QU0zaDBBRTI4Sk5VMUVRVzQzQk94ZjczT2tsemthUHBGa3B6RFRJd3l5d2hMR25uQk10VGZGNXNzZktqTzVoYUVnbkI0b3RDRDdMaDN6WHg4YW8yXzZ6VjFsZ0J4SWtIc3RROWtSOEpVdjhjZU9uVFZZRlB6dHRHRk54QU5UaFNWRUZfUjZXNXpYRElnSFozbHdVMFRSX0FleXNmbGhQQlVpM0ljWU1XSzdjeFphbnBoYWlzNkF3MXk3NHpnb2R1c1dfUHhBSy1mVW9aN3R3Zw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 05:06",
     "date_ts": 1782277560.0,
     "title": "2026 World Cup: How teams can advance to the knockout rounds",
@@ -18,6 +31,17 @@
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRnY0M0kxMmFLTmdwdWlMSkNJdGRET05tOUhPbkVHTzQ3Y2otZDVLcElBdC1PNktMb3pGbTRpSUtPelB1MFFuZTJZSDZ3elQ3eWdJQm42MlRfQ3lWeFFlWGhobFQ2WS14Q3VScVM3NTRlNnJHZjE3QUJDVWJuR09WS3RoU1ZKZ2hiSWdDbDRvU2hjeGkyMFRDTEdGU2pnRVFjN1A1elFUOGc5TklvM1g0akUyMmhFTUJvcHd3STUtZTRfS0lDVVMzZHdnaG9GN3Z1T2lYZmJyNGF5bUtVY1FQS1JtVk5Hb1NzM3o4ZUlWT2JiR1k?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 04:00",
+    "date_ts": 1782273600.0,
+    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNExLUnZXZlpubEVkN1E2NGFCLUc4T3pyakhETnpSdC1BU2l1WFREcFhadUI0MTRLMkJiQktzQ3JyS3lEX3k2a04tck5kR1REZ2tSY0E0LXFGQ3dPV1hWd251SkMyTUR3TmxleDZhQW5XVE5fU09WWmxhNktXVi1yd0Z5ZVBIVEhIXzVIcVFZM0gxRjMybndKZXlCaEVGNGlTbmg4b3h0NTdzU213VHA3Rzc3R2NqamY0d3N4LUc5TngyQkNYTnc?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -170,6 +194,19 @@
       "Portugal"
     ],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 21:42",
+    "date_ts": 1782250928.0,
+    "title": "Confirmed lineups for Colombia vs DR Congo today at the 2026 World Cup",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzVleGhVUmJsakxqTHZDSEF4UFlFYlBxb3lqYm9BaG1BbXdPeThIXzg0b0JhdG9ZeGdqWGc1VmcyVWl3Rm5haXRkZnY0OVR6Y1pSWG9BUTJMUUs3cklBQzBHX25KaFdSaGVUUDhyOUN0V2o1YTBJOGtSRUFBU1JSMzRvUUdpZE1TUmtYY0ZRQjlvYmpNX3prUWhaZEdUcml1NGZscVVR0gGrAUFVX3lxTFBvTnJfR2h6Z3pvZFNZaWRSeE41R3l2R2g5cmRaajYtcVN3bzZFdldOS0dKel9vTU5HRkJrOHhZcFB5QlRLM2U1M0JBMXQyX2hEYmZtY2prOHF2UG9rOEVxeEtVaXNTbFJhN0dKMGt2MFp5blRrZ09SeFd4a0h1cm51RHk1SVJuMWkxTWVaeEN1Q001aGdNVU5jbjRGY0VINXp2amFqeUE1b0RWWQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -714,41 +751,6 @@
     "teams": [
       "Noruega"
     ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 10:08",
-    "date_ts": 1782209317.0,
-    "title": "Colombia vs. DR Congo—World Cup: Preview, Predictions and Lineups",
-    "source": "inkl",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjRLQVVNNTNZQ0NfUmd4b0FWWkNxdlZSSHRERGRTWWswNkJSMi1xcWg4WFdGNlFiTms0eDRSRnZydUVkRGJ2TU1rRF9GMElHOWZaVm5pR3JKQkpIN3BEanJ2cTRGdUVZWHU3a2lTWUxKbVFBWlplM2Vhei1pVzdlYWsxa2lWZnRZNGd4WU1XT0ZWQQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 10:03",
-    "date_ts": 1782209000.0,
-    "title": "Copa do Mundo 2026: confira os resultados dos jogos de ontem, segunda-feira, 22",
-    "source": "Exame",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHZ1Mi1iR3hQeDZqWnREZ3BDdE1ETW1JNkhDam5ERFRIOHB0eTRxQkR0ck0xTEQtdjN5NkFmT2hTTHVXLTMwX1FHeGYtLWpaTV9ZQWFBLWlFMnd0TXp0bkVpbDkwajBnN0ZSVTgxMkcyUVlJZVp1YlA0S3RLTG5nbVplRkptLXQxWDYyT3hZa2FUTUVQUTV4VklmVlFXS3hKWVN3M1dn?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 10:00",
-    "date_ts": 1782208800.0,
-    "title": "2026 World Cup guide: Full TV schedule, game previews, results and standings",
-    "source": "Los Angeles Times",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE9PYjdOUnpEUnFvTEJRS1ctRnFLQmpzOVFhYVFPaHBlakxRVHJjcHBxZlI5VThpSUZqYWdaeUV3dGVELTJ1eUF3amp2V2pocElERjJtVDIzdVNGUjlzcDllU2lxWU9CaE8zWWFaSmQ3WjlLS21FMU1fRUEtR2dEWXEyVGNVVUUydnRXRDFjVk1jNHI0dU0wMlV6NzhtVWt6cHFRamF2VmdoZEZ5ZUVSRmtiaDI?oc=5",
-    "teams": [],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
