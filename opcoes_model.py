@@ -17,7 +17,6 @@ BOOK = [
     {'selecao': 'Marrocos',  'lado': 'C', 'contratos': 30,  'preco_medio': 2.42,   'N': 6},
     {'selecao': 'Colombia',  'lado': 'C', 'contratos': 30,  'preco_medio': 1.83,   'N': 6},
     {'selecao': 'Noruega',   'lado': 'C', 'contratos': 10,  'preco_medio': 3.0,    'N': 6},
-    {'selecao': 'Senegal',   'lado': 'C', 'contratos': 10,  'preco_medio': 0.75,   'N': 6},
 ]
 
 # ─── CARREGAR PRECOS ──────────────────────────────────────────────────────────
