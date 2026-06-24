@@ -1,5 +1,18 @@
 [
   {
+    "date": "24/06 01:30",
+    "date_ts": 1782264643.0,
+    "title": "Colombia v DR Congo: World Cup 2026 – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjFZZWJIaXNONDNyMXFyX0NveUdiaXJQMjcyeEpFbnNraTZLdERUNXRfZWgwaDAzTU45Q2xteUwxZGQtUXAwc3lnSlZwby0yR0psaXBhQy1CSDhXRWV2dE9LZjhnSFlEOEgzdGNqQzE2dU9OcnE5LV9BS0o3MEY5SzlrNHB0MWEyWkpqWWw4emNvSXhCdWdkLVJmNktyaVpxSmpFcUI0ZFBwSHhldm5UY05xb2t0UFo4OTFnYVZjS1FTU3Z5S3A3VmNFUktCRUVGdExlNS1PMl93NWhk?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 00:38",
     "date_ts": 1782261522.0,
     "title": "World Cup: Luis Díaz starts as Colombia eye Round of 32 with DR Congo test",
@@ -101,6 +114,17 @@
       "Brasil"
     ],
     "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 20:33",
+    "date_ts": 1782246815.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -729,32 +753,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 06:57",
-    "date_ts": 1782197876.0,
-    "title": "England XI vs Ghana: Predicted lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2dXTF8wNFl1aE42b3ZPUzZrZXBweGd5OWd1dG14dWJnX0hPcmVvYXZIVTFGek5kV1l6MWlzZzVha3ljbE1oY250SkhvNnQ2ejI0SkRGVnQtbnlKZnVvajF5ZW42MV93QW8tdHg4d1hRanpTV1ZNZDliWTlHUzRsT3NWQzNQNF81Vl9pRk8zWjlRY2tvbGY0OFNHWW93bkdsV2lyVXF5X3AzN2ktdzB1VllTOGlrR0k2ZGg1R2JyRm9CaHpIMzloVEN1TjFfcWd6dzFmaHBvQjE?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 06:47",
-    "date_ts": 1782197220.0,
-    "title": "2026 World Cup Bracket, Standings: France, Norway, Argentina Advance; Where USA Stands",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTZUYkIxYkNXUjhDLVVyT1ZadFNKUER5VUVfa3hTdkNobTVYc1o1aXhYc1h6MGFESDFsUVJHZWFlTWhjdThZaHgzM3kxTEFldTZxVzJKREhScV9LbHBSbGZBVmJkeGJmZW1JSU85VlVXXzhReVlVTVRZSVhRd2s3SzhxOUI?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
