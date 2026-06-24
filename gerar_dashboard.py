@@ -74,7 +74,6 @@ def load_book():
         {"sel":"MARROCOS",  "tk":"MA","side":"L","qty":30, "avg":2.42,  "flag":"🇲🇦"},
         {"sel":"COLOMBIA",  "tk":"CO","side":"L","qty":30, "avg":1.83,  "flag":"🇨🇴"},
         {"sel":"NORUEGA",   "tk":"NO","side":"L","qty":10, "avg":3.00,  "flag":"🇳🇴"},
-        {"sel":"SENEGAL",   "tk":"SN","side":"L","qty":10, "avg":0.75,  "flag":"🇸🇳"},
     ]
     try:
         content = open('opcoes_model.py', encoding='utf-8').read()
