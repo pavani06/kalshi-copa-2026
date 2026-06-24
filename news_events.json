@@ -1,5 +1,19 @@
 [
   {
+    "date": "24/06 22:20",
+    "date_ts": 1782339651.0,
+    "title": "World Cup Group C live updates, scores: Scotland vs. Brazil, Morocco vs. Haiti",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGVUWWdhZkFQM3M4YVVmejF6R2tBelM0RG9GLUNCT1J4MUxMYURHakl5NzB6MFhIT05mSGNwV0Z2MkVoYXpOUGFnN0lEdy1lWVpXblY5ZWZrTWU0TUNEa3BLdXc0QlZyX2Q4bUdqaWJfbUh2cWJDSHptQWZZbzRJazVvQ3puNWNpODUwLVVSbWdHd29BbHNVd1pLOFI0RFlkQlc5Y3c2UEtiam1GcWtjZ2J4c1g1clFteFFvZXAxMA?oc=5",
+    "teams": [
+      "Marrocos",
+      "Brasil"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 21:18",
     "date_ts": 1782335883.0,
     "title": "Brazil vs. Scotland Lineups Confirmed, Starting XI for World Cup – Wednesday, Ju",
@@ -47,6 +61,32 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 20:51",
+    "date_ts": 1782334297.0,
+    "title": "Lineup for Morocco Is Here, Ouahbi Announces Changes for World Cup Clash Against Haiti",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN293WmtwanZyd3lIQWVIMnNNbWhpWU80YUN6aDRsOXpNYjl5SkF6MHRVTGgyQ3ltSlBiMllXbHNIUmE0SGFtOXBCT29TU0p0Tkt6WVQtVjZSemJwcVF3UFNFSWdEbXJsdmdCNXJuN0JoaEl0SldUTmpCSlZwS3pEbGFadFhZZUdQTFEyNGdjMHA1c3lWRVkzTlYzMVpVYVN5dmhaLU9PZG9OXzJkakV6ZnhsLVozcjZENUVWUnI5Q25EYlp6YkdEeHpTUEJ6ekE?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 20:48",
+    "date_ts": 1782334080.0,
+    "title": "World Cup: Ex-Leipzig star Cunha starts as Brazil face Scotland in Group C",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUkwVGJ0b2tBd0hfUHJ5SkExQjF5ZTlqclJwVUY0eWxIaHpZcUdKYjRvN1dZSHBDSEZUdTFXS3RLRklmcWI3Yk0zcmRzVjg0d1dSemNOUnY3cnJBLVI2M0xNLXlhbS04R3NlMVNuQmlVM0tDRktqTWZoVGpqcUwteU5qNzJpREQ1c2Rv?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -209,6 +249,19 @@
     "source_type": "news"
   },
   {
+    "date": "24/06 16:16",
+    "date_ts": 1782317760.0,
+    "title": "World Cup Buzz: Lionel Messi Gets Birthday Cake For 39th Birthday",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 16:01",
     "date_ts": 1782316860.0,
     "title": "World Cup Group Scenarios: What's At Stake Today For Groups A, B & C",
@@ -275,6 +328,17 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbW02VDlOOXh1NFpQTVdjSUhQWmpmTGRCdVdmRmFDZ2ZYaGRWRWpodEhzbmZQX2hUVXdaVUl4Z1NhMXB4ZEJ0RnNLX2R3U2xOOE1KOXJWNmVpX0xoMTF4d2NPQm9sellLcXdjS1hOeVdtM3Fqb3JJZTVDUTJtSnk3XzFWSWtyMnpJMEI0XzBjMWRHb2t2dWh4RVZhdlBCcmdUV0c1d3lILUl5NVZTbE9kanhDSUlwbkdBY28ybnQxVHpkYV9JSXJMbU9NRzdZcjdISWhkUzB5XzFEbkNUeVYtQXh4M0RSRU0?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 13:24",
+    "date_ts": 1782307440.0,
+    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -672,72 +736,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 22:14",
-    "date_ts": 1782252848.0,
-    "title": "Is Luka Modric playing? Panama vs Croatia confirmed lineups for the 2026 World Cup Group L game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY3hDS0NpTHZIS3Q5SjVRMHBkc1ZuZVNfZk5xN3lRelVvdnJfeDBYdDVXc1RjQTBqTzJvdjNILUgzaERZa3ZQTDFQRnd0aWxCRS1hNzAwdl9weWZKT3NDcUFBZzJGRE8zSjExeE9UNzF5UFNjVE94dWl2OGd3RVVFRzBicXNUUkRjTnQwd1FMX0gtYnZYQ2ctODRHY1dsX3pBaTgybXlPRlptak8wRlliVUNxNUJndDJ0QWExdHlJaGg2cDR6SXc5VzN3Qnl3QdIB0gFBVV95cUxOdVVEbmdGQjJDMDlTRzhFbjdLYUU3NWxrbzFRTDdTZWZET3RZbzZaZHRPSTVNOW1HNld2cU13bFRhX1dsVk45TGpVemhWNkRTODFzWm1ES19kb3ZPRmFoN2p1VHFKSkE5ZHFvYlF2UjhoX2s5MzI1WGR5bHVpWFJWNnVRcm1TUmY3aGhKUDhVRTZ4c0ljYVJ6Vlg3RXQ5dEVvU0w0VEZmbnk2ZG1ZVnRzRWVucTgyOWJFSElFV2JjTzZTTE15QWZEcFRid3RzV0gyTVE?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 21:43",
-    "date_ts": 1782250996.0,
-    "title": "Ronaldo scores in record sixth World Cup as Portugal thrash Uzbekistan",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFBbW5UX0NIX0ZBekpscERWcFR2VDhOdDhwWnlhNy1LQkhDZndQMXl5MUdsTlZBUkd3NnZPbEpoLUktWnhreDhkMDhFNFVzU2gweThYYXdtSnVjT3dQMnZaWkhwZl80SEo3ME0xNUhleWttOGNDV3RjYkozSnRrRHVMY0VfTHktUjZaa2p2WTFIbEFwUmQ4c2pqQUdWRF9hTzJRekgybVhScjhtSDdROHZaNmxzdw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 21:42",
-    "date_ts": 1782250928.0,
-    "title": "Confirmed lineups for Colombia vs DR Congo today at the 2026 World Cup",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzVleGhVUmJsakxqTHZDSEF4UFlFYlBxb3lqYm9BaG1BbXdPeThIXzg0b0JhdG9ZeGdqWGc1VmcyVWl3Rm5haXRkZnY0OVR6Y1pSWG9BUTJMUUs3cklBQzBHX25KaFdSaGVUUDhyOUN0V2o1YTBJOGtSRUFBU1JSMzRvUUdpZE1TUmtYY0ZRQjlvYmpNX3prUWhaZEdUcml1NGZscVVR0gGrAUFVX3lxTFBvTnJfR2h6Z3pvZFNZaWRSeE41R3l2R2g5cmRaajYtcVN3bzZFdldOS0dKel9vTU5HRkJrOHhZcFB5QlRLM2U1M0JBMXQyX2hEYmZtY2prOHF2UG9rOEVxeEtVaXNTbFJhN0dKMGt2MFp5blRrZ09SeFd4a0h1cm51RHk1SVJuMWkxTWVaeEN1Q001aGdNVU5jbjRGY0VINXp2amFqeUE1b0RWWQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 21:36",
-    "date_ts": 1782250560.0,
-    "title": "Several Bundesliga stars in action in vital World Cup game Croatia vs. Panama",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16SUhCaVVKaXR6M2JjSjQ3SzFDbHczTUpzOXRDNlJzVTQ1OE5nc3dwYXE1dGhBV2dnNFFvQ193MGE2Y0p2TUtUQjdLR0F5LUlNaGpMM05ERVAxekhXbXFUSHJRWno4VkN0dG96cDl3cDRvckdRRy1penRPVQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 21:20",
-    "date_ts": 1782249626.0,
-    "title": "World Cup 2026 live updates: England vs. Ghana, Cristiano Ronaldo scores as Portugal leads over Uzbekistan",
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc01GblZHUzRMZGZEVHZTWEt2UHpEaHV3TzAxVmp5WWNYeGxGQkhXRktVVmFJN3l6OFFaMlVucU9JcmVoSHU0WThSakRhNVQzZGtwUW1OVF90dk5veTM4eDdmUUhTSWM4YmFOcGdLZVRjRTN3VXZyYk9KZndkRDZPYlIxOVVyWmVLMU9mMEtVNEMzTXlmeDA2djZRTmhwQk1qX2Y1Y2Z6ckk?oc=5",
-    "teams": [
-      "Portugal",
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
