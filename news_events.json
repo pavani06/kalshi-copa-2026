@@ -1,5 +1,42 @@
 [
   {
+    "date": "24/06 09:35",
+    "date_ts": 1782293758.0,
+    "title": "Declan Rice at risk of World Cup ban to compound new England injury fears",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDhBeHVwN1g0S2VvbHNNTWFKNnIzLVVzaXdadWlxMEhfT29ldTJFUE1oV29xYjNianBFOUZ3c2xydmZoU2thc0NTSkxhTk5vWTdDV05jMS12WFBwS0dzdWZ6ckYtZ1RLSUVTUlJSaDhYN0QyNWJzMURoSnF2LTRSTXhHbEo0cnZuNzNuUFEtT2tXNkRtTEdReUZpUnc0dHBDSlVVQ0w5bUR0cExvSnVz?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 08:22",
+    "date_ts": 1782289340.0,
+    "title": "What options do Germany have to rotate against Ecuador at the FIFA World Cup 2026?",
+    "source": "bundesliga.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEtQQTU5bmJaTUNuTEtsR3NhcDdJbjlISGgtTWs3NHVJb2psSnBDTHZCcXk4VjcwbmpadjRfSUdjRGJPU3pJaVRPbXp5dEZPM1oyUmVaVFlEb2ZFaGtwakptdEl0eHYyWGVSekNxS1VSMlp2amxyMnhRWUNocm1ocFdCWlFheGduam04WVRuSjg1TDlZb0x6TDkyS3p3WWF5dXNKZGVRcUc?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 08:01",
+    "date_ts": 1782288060.0,
+    "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUNVRkRMeENlai1HVEVORDBEaGlaOS1ROTFjd2NHYVV3THo0M0s4WlJYOUZwcTR2bkpxVjNIbmxkQTd6N0x4bXVZd241VjZPUWJjRWl5VzVJYVhPd1U0SnZ3dTBnSVVla3JsTmxkZ2o1cWd0OFV2TDZrTkh2aVlEb29na1F4UHpPVXdscks1U2haX1JxTi1zUTlLSm9kRFFZdTdiNTBiNGRROVh6?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 07:09",
     "date_ts": 1782284954.0,
     "title": "Scotland XI vs Brazil: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
@@ -286,6 +323,17 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 20:36",
+    "date_ts": 1782247005.0,
+    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -617,6 +665,19 @@
     "source_type": "news"
   },
   {
+    "date": "23/06 15:59",
+    "date_ts": 1782230340.0,
+    "title": "World Cup 2026: England vs Ghana - who will start for Thomas Tuchel's side?",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqYXNlR1NZUGVzTTVfa01tMEFGZlhpR3FnUlhoZTU2cFNYTm9NMDBZZEFtVVQzNVpNb0JVNGNyYWFWZ3NrNS1oWmc4eGJCLU5VbHdNQlRMTms5N3lkR2ItRWxB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 15:58",
     "date_ts": 1782230280.0,
     "title": "Which nation will Norway face in the 2026 FIFA World Cup Round of 32?",
@@ -689,69 +750,6 @@
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQXJfQUFYZnVVUVc3SkhhaTRDSTNHMXBiVHhBTTJ3SkVEVFhTRDdMWUNsVU9CcG9JWkdJZnU0U2NkSXVscjBzcDV2WWJwenptMUdlaDVtaXZsUVFRbFlTcERGRktoanBLTHR4YUNESDVSNGFiQ09JN3lLeURNT2xTRS13WGdHdWxITTBsNjd5VjUyOUt3bHY3RlZ4eG4zSVlPVmlLejRIU01fblJmcndOeXRFbEpXUVUtZ3hmRXFoeXpFeTZyNm8zUkpneC11bU1QS0Y4RVVKUEF6X09p0gHgAUFVX3lxTFB4TTR4bGRHd084VHhuMW5ScnpjU1hYNFIwSE85YzVITzQwSnhZSHd0RXE0cVJ1RkFXLUVPM0swbGhIM1RGeVdWeTJZTEJzQnFIOC1kUHg4bDN5MnJQMnFMVmlfLUdrMDRyamR6Uk1jS2NDeXY5TEJNNDY0UVE3dVV1YTJLQVA5cnl0d3lfRDJ6S0w4NVUyYmZSd2FKVkdTdFFGYXV0eEF1WTJURk9fbW1vWDBsYWNpN1VnMWdDcV9aVXljX19aNl94T0tOTGNrLUNKM1dla0E5T2szWHZsZjd0?oc=5",
     "teams": [
       "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 14:19",
-    "date_ts": 1782224340.0,
-    "title": "World Cup 2026: Which teams have been eliminated?",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 13:43",
-    "date_ts": 1782222216.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, group stage updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 13:32",
-    "date_ts": 1782221551.0,
-    "title": "Portugal vs Uzbekistan LIVE: World Cup 2026",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0JXbXh6V05nM3UxcnFiMkluaGR2LV9vY3lhdDZ5WGplUkhDSEdNOGxFVDUzeDhxZ0ZLYTRPQVNHSUVZdGtqbVlLWXV4YzFGYnpDRDZ3TWdERzFrMkluc09qekZBSnpWdTd4WE4yem5sUm9qc2NvczlQWmxSTWk3X2l4ZVFFeFVrczNGWDAxUFRBbEU1VDg4ajF30gGfAUFVX3lxTE1tMlhPWXppS3FLam1CMFF0NWp1bXY5cVZtS3A2LTkzaFRKUGNJR2RLc20tYjBkN0JZd05UVjNlV1hOUE5TNi1uOFJYUzJaTUx0WmE2amVyMTVMcnhXWlVwZjBqaXZwdDh1NTZZS2FaRmx5RkhNS3hPaElTRG5iSHF5eUVzM21HMFpZUWZEQVN3WFB2QUN0SDYtVjVHVVREZw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 12:58",
-    "date_ts": 1782219508.0,
-    "title": "World Cup 2026 knockout stage tracker: France, Argentina and Norway join USA, Mexico, Germany in Round of 32",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNDExVk5RMUdHVG92UUlrVURlcEJUY2dmM2tzc05yc2NQX3Y1M0tKWWxqeUF6UnlIVnd2bWdsZzA3alM2UjllOWx1NllyRUQydUZVQlpYQlhqenI5V1QzNHdNREdqRVNfc3hhQlVKa3FSZkVSTlVzTTM5T3NJZVNHeWdFOTZJSi04djZIRkpnc2M3R1UxRi1sZ2o0SG1KSllsN0tBNFloNUtQYThkZjJXX1o3d2xCTlNNSmZIaThfc2dfMHVweV9HNkJXdkUtYVE0T3lYSDdiSkROR01oZGpTMk9CakJnODloWC1xOTJycW0?oc=5",
-    "teams": [
-      "Alemanha",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 12:56",
-    "date_ts": 1782219368.0,
-    "title": "Norway vs Senegal lineups: Predicted XIs and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaFlHSE9RMHNlZHhrOVYyRDFBd2FZSTBqTERJcVBSRmxxZUQ3UGJFZnpIZmpvUWZRdzdpaWVnYU14Mi1sY1F2bjU1cmk4UXVPR1NGdDZQbzRxZkpXVUhjWHZqRm94YlFHckhCeVoyeXpxS2YxMUlMQ1hKVVV6TWFxRzU0VXlXbk1kb1pCaWZzTWFqUXBUYjhvVnlhV0s1aEVGU01ONmc0M3lrdmE2bUFyVFh5RUFTRklmN0UzOTdxNnhLdGp3eE5yV1V0SEx2UmJsS2hVUXIyZUo2SGZZbW9BOHlLMA?oc=5",
-    "teams": [
-      "Noruega",
-      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
