@@ -1,5 +1,18 @@
 [
   {
+    "date": "24/06 22:25",
+    "date_ts": 1782339943.0,
+    "title": "Vinícius Júnior capitalizes on Scotland mistake to give Brazil early lead | 2026 FIFA World Cup",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMGRmN1NZQmVYSmZhamtKQTlIeXJLY2pDOGJjVHJ4WE5lYUlpR1NIU1NKa3lZWnJqU3ZkMFpuNldBR2ptNS1nMDE3UEEwdFJEdlZaTl9qWTlxVEdSWlVUSDZ3?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 22:20",
     "date_ts": 1782339651.0,
     "title": "World Cup Group C live updates, scores: Scotland vs. Brazil, Morocco vs. Haiti",
@@ -23,6 +36,28 @@
       "Brasil"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 21:03",
+    "date_ts": 1782334980.0,
+    "title": "Canada at FIFA World Cup 2026: Les Rouges' results, scores, and standings - full list",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0F1VWxFM1ZCUVZLUUJKNGpWNnJKdU1IRV9rMUQ5dTBHWUlGZW03eXYtMU1abDl1Z2p4ZXljc3hjWkxWdE1XanZPLUJaZEhMUmxfUU9jb3ozTGlaMlhVODM2eFJXYzR6aFoyWkFzVlpqYjkxZ1o5bVVxMDI0LVBKYm9kT01sQXQ0eThVa2JiNGh3ZEtUTUdRa2dWOHR0QzNsVWNWZ1BlaXJWODZHTFE?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 21:02",
+    "date_ts": 1782334965.0,
+    "title": "2026 World Cup: Schedule and scores - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -100,6 +135,19 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 20:35",
+    "date_ts": 1782333300.0,
+    "title": "Brasil x Haiti: qual resultado a Seleção precisa no jogo de hoje para chegar à próxima fase da Copa?",
+    "source": "Terra",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTVhfQWJqQXBST3ZNR2V5QWljVlFWUkk1bGNoU1FfeHAwSWVOTjd0QnV2aWZuS3A4cmpxanZZRzNKdEMtUC11ZTNBVWJYdHRwMWJQamQwcVVQelYyeE1xVGotbWp1cmFSSFFkTl9oMllJRkRhSGtPWk5JbGoxNkFUcnZNWVh4VkFBQW1sZEh1NHhGeUJFelU1a2FKRWFXZ3hhTnRPS1ZKRDF6QVg2RVl1RDVHeU9TX05wUHcwRTRkZjZHNkVDZ1Y4bWxLQVlVbDR4VWVjU2NkVGc3SFFoWVBRZDRhMlZ0aWt5dkkyejQtblNNTlhKZlFQQ1RsSmNDa1E?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -683,58 +731,6 @@
       "Colombia"
     ],
     "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 00:04",
-    "date_ts": 1782259491.0,
-    "title": "Is James Rodriguez playing? Colombia vs DR Congo projected lineups for the 2026 World Cup Group K game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcURSck9KWVN4MjQ2TklmQnpZV2ktRHNsNFMxRFFLaFA5TmpMNlRqOHlTZ0hVQUxPTk9WNTRfdnFkNTlQMGdRLVN3R2pRLURyMDhXM0h4OXdlQVlYY21DcGlDLWVUWmZJLWhqeWhaVU5IYkVDSGpzaGNnZkVCcGFjai1ublBLbmEzMU1BZkl0RTF3cVg2dURvcDRTd1JaV25tNWFaWElES0dCSjR4blk5Z2NFSE95OFlWQVN3OEdYUFJJUmU1d2N0S19DQkU5QmhvR282SGJGRdIB2wFBVV95cUxOYlhPZDVMQkI0NnF0Yld0SlBZaWtDUll2VEFkLXRhZTRWQ2xCYkJKUkJZSTRhSXhUdTNoNDJaRG1QSDB4Ylh1ZXpNdWE0bzBDS05NcUJRWmJkRjNlaHhGTGRJRmRoMkExaDVFVlRFTENyVWRPVzVERnQ0MVFJX1ZlZmlNbHZoeThyQnVfMnZqN3FnVlZsVlRCeTF0bTNsMVRwOFF5eVlsLWZHM0xHUlV2WjNxVEpya1l2Y0QwWndnUHZ5SWwwallXMnVIS0xxUG1jSGVEaU1UcHdLNFE?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 00:00",
-    "date_ts": 1782259200.0,
-    "title": "FIFA World Cup 2026 stats: Ronaldo breaks Messi's WC record; England's unlucky 13; Modric fourth all-time with 200",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMlBIQlhTNHZjeDlmeTJPQWxkNC1sWnhEUEJmLXNKWUhPQ0xEVm9nVG55UWJuVllpeFdOMEtucFRQMzBCUWhHUklMNzdVckVqaDhrdFNvTXdoWklhdkZwdFBSUzVCRFB6X2hISVpYS1FzaUFoNHRoMXFKTVZaQlo2UkJNaU1aVERmaTM0ekNqSWdsUUdBVl9BZzQ4RGZvNnZaYmJvQkNOdGFKVnlxYlNzUGg4d2NPTTRYRVFiclJ4ZG1ybnc4RWpMVXNISTQ0dHJjWFV2UEQyT3ozMno4bnJTWVVjVXlNUGwtNlRYeWpqNEs4Nk9PbnZr?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 23:02",
-    "date_ts": 1782255769.0,
-    "title": "World Cup yellow card suspension warning list: These players are in danger of missing Round of 32 game",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSk9MMGhsYXpTMjZ5Wm9mek9wOTAyUzVUOERPUGM4M2xNcExjQkowSEdJUWg4a28zeGFjcWtIQ0d4TjZndTRLSmMwbmVnR1RrdjFjNm5nMmgzZ2RHMTJYR1JxUW52Z2VSUUpIYXEtbmpqQVJZNlJ1MUJ3dDZuNnBhQjhIeGVxQUp3?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 22:33",
-    "date_ts": 1782254013.0,
-    "title": "England vs Ghana Quick Highlights | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhcHdmX1I2Z3lkbGMydDFTMk1tS0RZOU9RNXZFOTB3YmRLN01vM0VGc0M2elo4NTlsUVQ5Zm5YQ0l0NzgxT2JkcmdlXzRsYmxDNEtQWUgtTVd2Vk5Xci1VY3c3eHpFNGV4eDVGU3d3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   }
