@@ -1,5 +1,27 @@
 [
   {
+    "date": "24/06 05:06",
+    "date_ts": 1782277560.0,
+    "title": "2026 World Cup: How teams can advance to the knockout rounds",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 04:48",
+    "date_ts": 1782276480.0,
+    "title": "World Cup 2026 knockout round tracker: Every team's path to the Round of 32 entering the final group matches",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRnY0M0kxMmFLTmdwdWlMSkNJdGRET05tOUhPbkVHTzQ3Y2otZDVLcElBdC1PNktMb3pGbTRpSUtPelB1MFFuZTJZSDZ3elQ3eWdJQm42MlRfQ3lWeFFlWGhobFQ2WS14Q3VScVM3NTRlNnJHZjE3QUJDVWJuR09WS3RoU1ZKZ2hiSWdDbDRvU2hjeGkyMFRDTEdGU2pnRVFjN1A1elFUOGc5TklvM1g0akUyMmhFTUJvcHd3STUtZTRfS0lDVVMzZHdnaG9GN3Z1T2lYZmJyNGF5bUtVY1FQS1JtVk5Hb1NzM3o4ZUlWT2JiR1k?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 02:35",
     "date_ts": 1782268500.0,
     "title": "England and Ghana play to 0-0 draw at World Cup despite flurry-filled final minutes",
@@ -23,6 +45,17 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 02:04",
+    "date_ts": 1782266640.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -124,6 +157,19 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 21:43",
+    "date_ts": 1782250996.0,
+    "title": "Ronaldo scores in record sixth World Cup as Portugal thrash Uzbekistan",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFBbW5UX0NIX0ZBekpscERWcFR2VDhOdDhwWnlhNy1LQkhDZndQMXl5MUdsTlZBUkd3NnZPbEpoLUktWnhreDhkMDhFNFVzU2gweThYYXdtSnVjT3dQMnZaWkhwZl80SEo3ME0xNUhleWttOGNDV3RjYkozSnRrRHVMY0VfTHktUjZaa2p2WTFIbEFwUmQ4c2pqQUdWRF9hTzJRekgybVhScjhtSDdROHZaNmxzdw?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -705,54 +751,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 09:45",
-    "date_ts": 1782207900.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS2hIZFltV3BiRlk2WmN0VDRBU3I1b3V0VUI2LVZPd1F6TVNoVUVrTzFwajVJVTMzUTRyVEI4a2M5VlZkZk9TRF9sV2hlT2ZQaF9jZUJjTzFUTGZSV0VmUmxhVlBSZ3NManF0cG92aW9zNDZxdHNNVkVJTGZiTF9oWktjWnpNYnpVcVoyb2ZJMFRpUTZacDAzNEFrLThqNmVFNDBXU0liREJLY3lpYVdScVJqX05CZ0ZDVjQyZ3BYNXhJNGJpWGFBUw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 09:05",
-    "date_ts": 1782205551.0,
-    "title": "Messi brilha, França vence e Argélia encerra jejum: veja o resumo dos jogos da Copa desta segunda (22)",
-    "source": "G1",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHQzZC1Zc1AtX1F4bnA3NzFfU19sNzlpa3kwY3dwdDc0ZGV6d3RyOFBBYWFHanJKOWhUTElJTjY0QkY1WDRZMEFPbEZTSmZOclZlWDRrWFRtMHpiWmZuUDQ0Nk5UXzhpVndWa21QZ253elJsRnZrVVZHT3lsLWhMVzZBOG1BaU1HMnhyN1BuT2hWX3QzQ3p3Z2NHMUxMNEtvSzhwODRqTHhadDVyOWtyeEIwWGNSc0lQN0xfX2Y3WXk1R24wTnJwV9IB1wFBVV95cUxOY3ZGWmw5UHNZUUhuMW03WmVsazltcDlwbkpEekhQY1BMN1J0UEdIdUZFMVp0dklidHA1X2ZLUGpRUXp6M3VFWU52aGY0VEtHY1RJZ0x2RnhYU2NrT2JQblZmNS1wYWFOcDJoSWppRFJreDFFVHdkZGdZaEY1cWZ3a0V6ZVQzeFdMR0FtNExzcExjLWVlbDE1Zml6b29NWTc0bjYzR2NHbUVCLVpheGhFT0UtYkdPYzBjU1ZxbE9iZ1YyWEp2NXJmcVhBUnFzU0w3MV95Z1hiUQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 09:05",
-    "date_ts": 1782205549.0,
-    "title": "Colombia vs DR Congo FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSnBFeFFPa3pmM1FrelVSUGpiUGh1QlBpaWZFSHVEVmpvN3RhaHJPcTlZSGZyY1BTc0cxX1AyYWkxOXhibGJhbDROV3FJekd0U290VHhlRzZDaURtcXV4S1V6WjBuZVFSY0ptZkpqdWdvV2tWYWlGN2lRYTJ1YnZ2WFF0ekZlVW1Sa1oxWTVOcWQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 09:04",
-    "date_ts": 1782205463.0,
-    "title": "World Cup 2026: England v Ghana - who will start for Thomas Tuchel's side?",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqYXNlR1NZUGVzTTVfa01tMEFGZlhpR3FnUlhoZTU2cFNYTm9NMDBZZEFtVVQzNVpNb0JVNGNyYWFWZ3NrNS1oWmc4eGJCLU5VbHdNQlRMTms5N3lkR2ItRWxB?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
