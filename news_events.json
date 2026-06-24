@@ -1,5 +1,44 @@
 [
   {
+    "date": "24/06 00:38",
+    "date_ts": 1782261522.0,
+    "title": "World Cup: Luis Díaz starts as Colombia eye Round of 32 with DR Congo test",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnhtczAwUUtLUjU1TlU3bXJYSW1aaFpJNml4YUU4VkJscmtYQmJTNzlSSlU1T3Z2MHdFeXZCOHFvd0RQdzhWRlpCc2xwM2c4NFhNSVdzQzk1bFp0ZmxpNWFWaHZWNWZUSXg4UnVUOUpuZFJZbWJkNkJ2VVRtdTB0TjN1OXktVU0?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 00:04",
+    "date_ts": 1782259491.0,
+    "title": "Is James Rodriguez playing? Colombia vs DR Congo projected lineups for the 2026 World Cup Group K game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcURSck9KWVN4MjQ2TklmQnpZV2ktRHNsNFMxRFFLaFA5TmpMNlRqOHlTZ0hVQUxPTk9WNTRfdnFkNTlQMGdRLVN3R2pRLURyMDhXM0h4OXdlQVlYY21DcGlDLWVUWmZJLWhqeWhaVU5IYkVDSGpzaGNnZkVCcGFjai1ublBLbmEzMU1BZkl0RTF3cVg2dURvcDRTd1JaV25tNWFaWElES0dCSjR4blk5Z2NFSE95OFlWQVN3OEdYUFJJUmU1d2N0S19DQkU5QmhvR282SGJGRdIB2wFBVV95cUxOYlhPZDVMQkI0NnF0Yld0SlBZaWtDUll2VEFkLXRhZTRWQ2xCYkJKUkJZSTRhSXhUdTNoNDJaRG1QSDB4Ylh1ZXpNdWE0bzBDS05NcUJRWmJkRjNlaHhGTGRJRmRoMkExaDVFVlRFTENyVWRPVzVERnQ0MVFJX1ZlZmlNbHZoeThyQnVfMnZqN3FnVlZsVlRCeTF0bTNsMVRwOFF5eVlsLWZHM0xHUlV2WjNxVEpya1l2Y0QwWndnUHZ5SWwwallXMnVIS0xxUG1jSGVEaU1UcHdLNFE?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 00:00",
+    "date_ts": 1782259200.0,
+    "title": "FIFA World Cup 2026 stats: Ronaldo breaks Messi's WC record; England's unlucky 13; Modric fourth all-time with 200",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMlBIQlhTNHZjeDlmeTJPQWxkNC1sWnhEUEJmLXNKWUhPQ0xEVm9nVG55UWJuVllpeFdOMEtucFRQMzBCUWhHUklMNzdVckVqaDhrdFNvTXdoWklhdkZwdFBSUzVCRFB6X2hISVpYS1FzaUFoNHRoMXFKTVZaQlo2UkJNaU1aVERmaTM0ekNqSWdsUUdBVl9BZzQ4RGZvNnZaYmJvQkNOdGFKVnlxYlNzUGg4d2NPTTRYRVFiclJ4ZG1ybnc4RWpMVXNISTQ0dHJjWFV2UEQyT3ozMno4bnJTWVVjVXlNUGwtNlRYeWpqNEs4Nk9PbnZr?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 22:33",
     "date_ts": 1782254013.0,
     "title": "England vs Ghana Quick Highlights | 2026 FIFA World Cup™",
@@ -50,6 +89,19 @@
     ],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 20:40",
+    "date_ts": 1782247200.0,
+    "title": "World Cup Buzz: Miguel Almirón Gets One-Game Suspension for Covering Mouth",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -471,6 +523,20 @@
     "source_type": "news"
   },
   {
+    "date": "23/06 12:56",
+    "date_ts": 1782219368.0,
+    "title": "Norway vs Senegal lineups: Predicted XIs and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaFlHSE9RMHNlZHhrOVYyRDFBd2FZSTBqTERJcVBSRmxxZUQ3UGJFZnpIZmpvUWZRdzdpaWVnYU14Mi1sY1F2bjU1cmk4UXVPR1NGdDZQbzRxZkpXVUhjWHZqRm94YlFHckhCeVoyeXpxS2YxMUlMQ1hKVVV6TWFxRzU0VXlXbk1kb1pCaWZzTWFqUXBUYjhvVnlhV0s1aEVGU01ONmc0M3lrdmE2bUFyVFh5RUFTRklmN0UzOTdxNnhLdGp3eE5yV1V0SEx2UmJsS2hVUXIyZUo2SGZZbW9BOHlLMA?oc=5",
+    "teams": [
+      "Noruega",
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/06 12:20",
     "date_ts": 1782217200.0,
     "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Portugal, England, More",
@@ -689,66 +755,6 @@
     ],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 06:31",
-    "date_ts": 1782196260.0,
-    "title": "2026 World Cup: How teams can advance to the knockout rounds",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 06:11",
-    "date_ts": 1782195072.0,
-    "title": "Algeria rally late to knock Jordan out of World Cup 2026",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT1RuZGhiY2NvV3kzVEZRcklIY2xiMHZEVng4Nnk2T1Zyb0VWWXAxMkVzdVVKcGNhOWxfcjdrWThGNDMxdEp5OFZBQ1VjdXhiaUtkUmNaMHh1d0Fxdk85OFpXN3FLYjZmT2VEQ3ZNXzBVRjk4TzFycE9yNGFsUXc4T3ozbEd3cFJDRnFV0gGQAUFVX3lxTE9ldHdBQ3BhM3NpcktaS0NMb2JMUG9hMzFLR2I1bTY4TDNZeGg1dWRNNno5dFdISmV6eEpPeml3clNwc0NoMWVLcU5jZVp5NzUxY1ZaemFmUnM4NlFqeHNnYmZqZTdndGFod3BfS0F5TzdtSm1VMFdraF96QXhoeFhuRFBiUmpyS0Z0LUtpQXR1OA?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 05:30",
-    "date_ts": 1782192623.0,
-    "title": "Colombia vs. Congo DR injury, suspension lists, predicted XIs | World Cup 2026",
-    "source": "Rugby Addict",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLW0xazJHTy1lT0M3cVRtNlpxbk4zSF9FOG5lSGJFU0R6dTZyVDJWZmlqblhVanpCV3pOU2JVX1BqOTJRYk5KalFkenpGNWlFWTVlQlFibEc3aTU1bVdlbGx6dmRlVE9lTC1JQm9HR0VMZmlHeTZKNTY4d0o1YW5lcUpRc0dQSncxWWdod3RFa2hkNkxvcGNzSG1WZHN5MVY2UmtIcEpscThwdmFMYzQtdEljamNvQkhfNzVqbS1GSkpHZnAtbFlWbUtRbFZkT3c1ei1sZ0E0dHBaQXB5RnozSWpn?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 05:00",
-    "date_ts": 1782190810.0,
-    "title": "Jordan vs Algeria Highlights | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZbXVEbDgwbTJXa2hQaW5uZElMcDlUV0FPZ0dVcUZsckRmNG45WVRfUTBod1lGaXIxRGZwQnJQMHZZR2pDVWdOeTRXN3FMQ0xiX1RCQlpiWlZtYmQ2YUJKallB?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 04:47",
-    "date_ts": 1782190069.0,
-    "title": "Norway 3-2 Senegal: Erling Haaland scores twice to fire his country into the World Cup last 32",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83MW85dUhwT0Fnb2VGbllCam53NFc5NHAyb1FHX2ZHbS1pc0owTHkwM0F6dzFLZW0yM2JCdGdhd002Z2JFWmg2SXNXSnVybC1VTU5IUkJFWWVmb0VSZ2JVaktR?oc=5",
-    "teams": [
-      "Noruega",
-      "Senegal"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
