@@ -1,5 +1,32 @@
 [
   {
+    "date": "24/06 07:09",
+    "date_ts": 1782284954.0,
+    "title": "Scotland XI vs Brazil: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa3JrZmxvbW96MVhKUVl1b09PNmMyai1aNjJ4Q0d5N3pualBVM2xCSnNOTHIwLXFxUTItOXhuOHBubVpTU1hXNDVGbXV2aUYya08yYXE2RUQwTVN5bEpPWkh6SWdndngyNGV4cjFDcFpFbDRJbjB0ZTRMcWVuOGVCdFdidFRib3pMTkNpQ1FoVFhBMEpub2R3SkpJUDlpb29tSGxjaldRV3JPOE5BNDYzaGFTeHU5UmhrRDg2RnlXTGV2dVhaX0dxNWRXcjQ2MDludVpCelFyQ0NDU3c?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 07:02",
+    "date_ts": 1782284520.0,
+    "title": "World Cup 2026: England frustrated; final group games kick off as Scotland face Brazil – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOZmt0MFRucmNmekhGbVdxVU1NaGNhSENHLTFtbUhuY2U2ek9uNjlkN2ZRdWZLUWJZeUpBTTFGVldDcE96Q19vbUtKaHZQS2toS0d5Mmc2ODhvM3ZjYjZIM19yT0dQR3JDQWxoYVJ0bEpWX19rRDJrRVg5QWJOZ3RWZUp0enl5clZDM3lhbEZacWhmT3RVYXdYTlhMcHo1SGI4YzJOWHpHa0dXeklPWHhnRHpwQ2R5VUpJbVh4TTktRXE3eDRVOGhlVXU4blNiSG12RmxhVFkyakZ0d1ZGTkNzaFh2U2ZsREtNdi15SFFTWE0yM1ZhQW5sdTdiYngzMTcydmVZMTIxd1F3SzhJSGZjVy1WVU5ja0Zpb2thbm82TWw2R1UwV3ZGZVJsb2VTVUhRa29n?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Brasil"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 06:00",
     "date_ts": 1782280800.0,
     "title": "Ecuador vs Germany Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group E",
@@ -9,6 +36,17 @@
       "Alemanha"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "24/06 05:31",
+    "date_ts": 1782279065.0,
+    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -515,6 +553,19 @@
   },
   {
     "date": "23/06 16:24",
+    "date_ts": 1782231853.0,
+    "title": "Colombia Vs. Congo DR: A Quiet Edge Read The Market Agrees On",
+    "source": "SCCG Management",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYy1mQlFfZ0NfemlQMEFZUUl2VUdfVW51R21BRlVnU3dLci1LMU1JY0htRWFwOVB2RTZNT2M2YXNFTHkyNmVvNUM0QUJGaHdQUFhkRThodHY0SlVuNXJ5S2tFYkJHRmF4QkZ3RUtSMV9HdHRoTm1zMUdOWDR4RDRxb0lESVNsd1ZKNjBsRUZkaDc0WkxYclFYMjBJa1NTZWhEZkxBNmFtaVB4R1p1dkFIei1B?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 16:24",
     "date_ts": 1782231844.0,
     "title": "Portugal vs Uzbekistan Confirmed Lineups & Formations: Predictions for World Cup 2026",
     "source": "FanDuel",
@@ -550,6 +601,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "23/06 15:59",
+    "date_ts": 1782230342.0,
+    "title": "Portugal vs. Uzbekistan lineups, starting 11 for World Cup 2026 Group K game in Houston",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnBOS0FfazJXbExVWWx0ckx2dG9pUXk1NmpnNk5LZnppbmZsSnB5SG8xWUJPamFsVVAzLXJDWWZ1c1kwbDYwcWg2Nk9XbWZMVjJtRG9nVnVKdmhUZmRrMzVwUWJ0SUc1YnNvM3ViVHJfT3J5Slc1RGpmRXNhY0h3cXlUMzNlcFRZREU2RGFWbGFxUlJHS1IybWE1OU92dlQ2Vk1tTDVfVDZOY3NtNVJYMHZzRVpBcnZxOUpqdlQ5YTdEOFk0MFE?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -690,68 +754,6 @@
       "Senegal"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 12:20",
-    "date_ts": 1782217200.0,
-    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Portugal, England, More",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnB6TFc3VUdoYlUyLUlyb09EN1dPbUhmRkQtMC1tbk5VcEtiQTJrYjBkdEY5TnVMTVMxb1hqMjhlRlpmYWcwUHlvbHVYY2U1Tm56RUt1UWtXSlFGNGItM1psVV9nUUhjSWVVVU5pMTVtMEpEV2RzNmJjd09LaDB4N1FtWGZXTW5VSDNfU1ljUVhSaHRZZXFObFl3Uk02Q1RnMWhEOWNKbTRYWnExNG0yMWJpaGdpaWM?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 11:46",
-    "date_ts": 1782215180.0,
-    "title": "World Cup 2026: Which third-place team will the United States play in the Round of 32?",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPREJuOU1fUTVTeGNJWU9kU2lrUE5la1JvVmoxc0JzVXJSQXA1TVdhaUJBdi1xUGxPMEVSZzNLQTFCOHpCSU9SUm9wQWNNbnJLT2Z4TnlKQWZiMEhiWjJYbW5BbVJ0LUI5bDBuejdQNTE2ZkNSUkRUV1lpelA1eDRoUHg2TUpHU085OG5lU29DZWt2V1ZFQjRSeFl3dzQwcnhxblNabk13R2ZPUVJ3TUVtc1VKeGxLZlVRTFJ1dlpYQjhtcmtUNzZiRlM5VWp4MEZJYmc5LUxn?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 11:45",
-    "date_ts": 1782215107.0,
-    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 11:35",
-    "date_ts": 1782214543.0,
-    "title": "The Possible Lineup of Colombia to Face DR Congo in the 2026 FIFA World Cup",
-    "source": "beIN SPORTS",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYTNyajNXVGEwUC1uZTFzdkhrbkVUSm9tSG9nZ3AtV2FGTm1ERGdyZU9iMUdETWtKRW95TV9EZVNkbjR3eFdEdlMyYTF4S1UwWEx1YTktWUVFWm1qUWw3RkNqazBFYW94d1BsYTdEOXJuaHcxWU1ISkNtZGlianlEMGF0VElPdS1JVkRaYWxjaXVrU21GVGQ5ZlZSd05iNjRzNk4zNC11QzF2YXVjdnF1T0hIZXFUaExIUm4yVG1EaWtrcldveWp2NWNWNURZcHI2VmJvV1djOHJ4dzk3UlZaQWNhUFhHMjZTNlVR?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 11:11",
-    "date_ts": 1782213060.0,
-    "title": "Jogos de ontem na Copa do Mundo: resultados da Argélia, França, Noruega e mais",
-    "source": "VEJA",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdm16d3R5T1RYdUdVLW84cTZUNWtQQndBWVoxMGp1SU5hR3lwWjlaY0hyR2FvUGlqb2Y2cDR4SHZWSENuQkRsVmpqOFhSSnl3WVBOTnBXMEU4ZmlRUElwSElVOElZMXFXYmVpX3FqbjEzLWhENnNHSDJtcjlVaThDTF8zRWo3LU5MaGlKOTdKb3lOOE1KODdSV0hTZFk2WjR2NTFYU2JuWEZYdlhDVnNF?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
