@@ -57,6 +57,19 @@
     "source_type": "news"
   },
   {
+    "date": "25/06 05:00",
+    "date_ts": 1782363600.0,
+    "title": "Norway vs France Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group I",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWZnUFpUN0Q3VzRld3ZCOUYzQ2pqRExVWU5SNU43NTRrb05kMmV2Zmlha2w4Sk1rMUNMQmJQWER6c3JiTm5kWXBzZm5kZWhST3M4WHJsSXQ4OXRVZjJ3aDdhbmJOSlJVTzNPRENwZXZFNGMxaU1QNFoxTGZsRklVNmd1dlN1VnpYV21sSWc3bkN6Z28zRjBBVlZrSVRDS1QwS0dNUVNwemg5UGR3dTN3NEVPUjJHNGY3UHV0N0NqRjZqUi1MdGNiemR1amZDalZabm1UTnU1NA?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 03:43",
     "date_ts": 1782358999.0,
     "title": "Ecuador vs Germany Prediction: Lineups, Preview, Picks & Best Bets World Cup 2026 Group E",
@@ -108,6 +121,17 @@
     "title": "Mexico beats Czech Republic 3-0 to win all 3 World Cup group-stage matches for 1st time",
     "source": "News4JAX",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWk0cU5lNVVHWGllWXZUQ3JjUkpMUGg3OV9PdWFNaGRtdjFIdHc0X2FwMFNXZEZReWh4b1ZERXhxQ0hrM2ZuZnY2cGtSV0lVY2RUQTVfbFZtUENVUDFKUTBCTzhnVjZ0M0hobno4c0ZoaURQVThaY2xxalZTRVFmU0ZEazhjM0NGZXpXVWREcV90QjluRUFCTzJ2NTg2al9mSDE4QkdIeHhxRXg4X2hOaHRtalpkWDlVMjY3RkFhZFFUdDJ0XzRfYXZpUQ?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 03:06",
+    "date_ts": 1782356783.0,
+    "title": "Czechia vs Mexico Highlights | 2026 FIFA World Cup™",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Uc25YbFVSS0dJY1ZsWHlVZUJvcTRiMUthMGRrOGc3NHFLdHRmVzBDX2JDdEhqVkZ5ODdVVWs2N25kb0V2RWZfTDRVYjhKUXRqM2VIYnEyNURzUnBfNHNWRk1n?oc=5",
     "teams": [],
     "category": "lineup",
     "impact": "HIGH",
@@ -699,30 +723,6 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDhBeHVwN1g0S2VvbHNNTWFKNnIzLVVzaXdadWlxMEhfT29ldTJFUE1oV29xYjNianBFOUZ3c2xydmZoU2thc0NTSkxhTk5vWTdDV05jMS12WFBwS0dzdWZ6ckYtZ1RLSUVTUlJSaDhYN0QyNWJzMURoSnF2LTRSTXhHbEo0cnZuNzNuUFEtT2tXNkRtTEdReUZpUnc0dHBDSlVVQ0w5bUR0cExvSnVz?oc=5",
     "teams": [
       "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 16:01",
-    "date_ts": 1782316860.0,
-    "title": "World Cup Group Scenarios: What's At Stake Today For Groups A, B & C",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQklldDJNVWpBU09NbkpuSHpaTUJkSk1Uenp0Q2pRdDk5U1pJbTNVY2sydTBBNGZ1VEtWdmpRZnN1YnZSQzdvVGpPR2w5UkplUFhrSWtDOE1pUmVyVHphR0tlaWhZZ1JHS3lBSkdZQWdVOEIyTk9ZN1M3UEVGMThvVUdIT0dYS1h3TWQ4?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 16:00",
-    "date_ts": 1782316801.0,
-    "title": "Huge Blow for Senegal’s World Cup Hopes: Mendy Ruled Out of Must-Win Iraq Clash",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVZqUjlrVlVoZzRtSE9JY1ZoNEFGTDFrMjJSZW52NHF2MUJFemtxWE5aZXFSQXhOZUF3UjFVX1BOYjYxWkFYaFl3NjNGMlJQempiRjl3NGpINXZ1RjdtNk02N19HenJZVEdQN0tGQ1VsejhEUTBEdkpYaTFvMGVmV3VBLXpXaVZPYVR4RzZldVZzTlFLZXhsM3dtX29kOGtpVHVjZ2dPbTNhOFpLRHpIbHJ2WU5faDNhNFI4eGc0VHFsUDJ4?oc=5",
-    "teams": [
-      "Senegal"
     ],
     "category": "injury",
     "impact": "HIGH",
