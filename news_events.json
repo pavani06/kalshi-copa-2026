@@ -1,5 +1,18 @@
 [
   {
+    "date": "25/06 07:37",
+    "date_ts": 1782373020.0,
+    "title": "Ecuador vs Germany Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group E",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemo5QU0zaDBBRTI4Sk5VMUVRVzQzQk94ZjczT2tsemthUHBGa3B6RFRJd3l5d2hMR25uQk10VGZGNXNzZktqTzVoYUVnbkI0b3RDRDdMaDN6WHg4YW8yXzZ6VjFsZ0J4SWtIc3RROWtSOEpVdjhjZU9uVFZZRlB6dHRHRk54QU5UaFNWRUZfUjZXNXpYRElnSFozbHdVMFRSX0FleXNmbGhQQlVpM0ljWU1XSzdjeFphbnBoYWlzNkF3MXk3NHpnb2R1c1dfUHhBSy1mVW9aN3R3Zw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 06:42",
     "date_ts": 1782369720.0,
     "title": "World Cup 2026 today: Live updates, news as Scotland, South Korea face nervy wait, South Africa through to knockouts - June 25",
@@ -8,6 +21,28 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 06:02",
+    "date_ts": 1782367363.0,
+    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 05:44",
+    "date_ts": 1782366240.0,
+    "title": "FIFA World Cup 2026: How to watch the Socceroos, fixtures, results, all you need to know",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlNNRWZoLXJDSW8yYkJhd3BKWFdJRkxmTlNzQ0lkUWdYdHFPT3ctYVNGdzNSdTUwS25YVGttb3I3NGoxbWtjSnQ4SXRoSjk2R3BNLUtULS1DWEZ5b0tQRmE5MjlxZFp6OUpBNTVGTjQ0TlMwOGFQVkFGZnVZT19CdGdSMFpsSjBtN3hMY2JpMTJoUGQ0WlVGbElhN0tMbUkxRnd0N01MZw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -90,6 +125,28 @@
     "source_type": "news"
   },
   {
+    "date": "25/06 02:56",
+    "date_ts": 1782356206.0,
+    "title": "Copa do Mundo: México vence, crava 100% e elimina Tchéquia em jogo de homenagem para Ochoa",
+    "source": "UOL",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFMzN1p1cVVnNTFlSGRxeUdQeWd4WVhDa1daZndrZjJoSTRPLUJMT09HSnY3a0tLUjh5aEdYY0MtZDdTaFFJZEFxM2FZczFXZTdMNDk1TVBGSnN6RVBnbVJCMU1WZFV5N1JMSV9sVkhteDB5ejZ0bHctZENRTFVhYjdBcXFXVnJ5cy1lNkh6Z2JWTlhLVWl1S0I1Q1J1RUo2ZENTWFd3?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 02:33",
+    "date_ts": 1782354816.0,
+    "title": "South Africa's Thapelo Maseko scores goal, taking lead vs South Korea | 2026 FIFA World Cup",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qYi0tUzAzWExxODQ0WDlZNVZXYWkxTVhiSTlPUmVrazdrVXQ1NDN5dVA2MWRmd09XZjE2TW9ndVpXTUUzMDlPSmhaU0VtMmg1aTFYOThIMEpRdUJTX1gxcGdn?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 02:29",
     "date_ts": 1782354540.0,
     "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
@@ -162,6 +219,19 @@
     "source_type": "news"
   },
   {
+    "date": "25/06 00:24",
+    "date_ts": 1782347061.0,
+    "title": "Brasil vence a Escócia com tranquilidade por 3 a 0 e passa à fase de 'mata-mata'",
+    "source": "Valor Econômico",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWRvZkVDNU9ueGtJRGltODRmb2VrYVF1Yk9wLS04SVhqRnYzeFJ5aTltckxPUnBWdkwwUnJSOGNCR1pXQWV6bm5kM2ViNTZVdXI5dEF6djdlSWt5UGFVYnV3QXk2VXBGdV9xTEVaT1JKSEZxR3NjVF9fcGxob095V0U1MGNyNVJQbjlpT18xR1JrejNvQXkwT1hWR1lYN21zSzllRGw5aVdVRjFuXzZFVEtiRUNQV1oybEl4MXVlSzUyUGIwT0lEeXpIV0FjTzM3M2ZGSEQ3aGUyZzRNVGZkeks4T01qcG_SAfYBQVVfeXFMUFJSM2xCeEFYeVlMeFFKSVZMbHpzZ1BmZGFVeUlQMl9xZVAyNTI4d3o0bVFCcUdPR0Yyc3d4U0E0WGhQMmFxb3VEbUtyckdaNTFSeGdqVUlkWEhQTlpkRFVRckxGSHAyc19XQ0JacnJlMURPU2pObnltbnRZa1NLczA0TVhQdGdoUUhzNEtwb0VwZEhhanR2Z1BGUFRaMUZjWk8tV3dFeXAxR2xjdXlNT3RfTEdLVW0ybTh3TnN2NlFrMkx1eFc2MFFncmg3UUJtbUFmTEZISWZ3RVM3RHc5ZENSUGNHWHRjM3ZJcjFQRmd1Vy1MREJn?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 00:22",
     "date_ts": 1782346960.0,
     "title": "Scotland vs Brazil Extended Highlights | 2026 FIFA World Cup™",
@@ -221,6 +291,19 @@
       "Brasil"
     ],
     "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 00:01",
+    "date_ts": 1782345707.0,
+    "title": "Brasil domina Escócia, vence e avança na Copa do Mundo como líder do grupo",
+    "source": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSGUtRmxod01fOEZsbGs3UGRpRWFRa24teXZIdUdBSHpFQy1Kc1RaUFZUdkNVdTAyLWRGaWloUzlseDhQelVmRU5sZTY1dzQxRElPQUlpTWxtSlpSWjZMNW9GQXpQZjItaWItM0Fza2hwQUp0WU9UbHQ3RXY3VlhNc180MmJhMHMtSHNoWUtaemdPUHVhMVd2UXFFc245ZWNfQlptSmVwczFXLXNab3l6S19pNXZmMS1IX2lSYlpfdnBJZ2tyYmZJT015eFJKQjQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -411,6 +494,19 @@
     "source_type": "news"
   },
   {
+    "date": "24/06 20:41",
+    "date_ts": 1782333669.0,
+    "title": "Brazil XI vs Scotland: Starting lineup, confirmed team news, injury latest for World Cup 2026 today",
+    "source": "Yahoo Sports UK",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVlsZlEwSEFBZFJfa3BzajJ6dnp5X0g1LVZ2Z1lLN0N4cy1vbkVsUko2dVhnNXVWM1E3U0gzWHRWYjMtOEtuYmEtR1laWS1Ra21hUXVJRk9CVnQ2ME16ejZtOGExUlY5ZTVwdWpuOGp4S0x4a2VkOEdobXdrd3RwMmYwa0V6QQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 20:35",
     "date_ts": 1782333300.0,
     "title": "Brasil x Haiti: qual resultado a Seleção precisa no jogo de hoje para chegar à próxima fase da Copa?",
@@ -596,6 +692,19 @@
     "source_type": "news"
   },
   {
+    "date": "24/06 16:10",
+    "date_ts": 1782317406.0,
+    "title": "Declan Rice at risk of World Cup ban to compound new England injury fears",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDhBeHVwN1g0S2VvbHNNTWFKNnIzLVVzaXdadWlxMEhfT29ldTJFUE1oV29xYjNianBFOUZ3c2xydmZoU2thc0NTSkxhTk5vWTdDV05jMS12WFBwS0dzdWZ6ckYtZ1RLSUVTUlJSaDhYN0QyNWJzMURoSnF2LTRSTXhHbEo0cnZuNzNuUFEtT2tXNkRtTEdReUZpUnc0dHBDSlVVQ0w5bUR0cExvSnVz?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 16:01",
     "date_ts": 1782316860.0,
     "title": "World Cup Group Scenarios: What's At Stake Today For Groups A, B & C",
@@ -617,111 +726,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 15:44",
-    "date_ts": 1782315841.0,
-    "title": "Who would USA, other nations play if the 2026 World Cup knockout rounds started today?",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEQ5b1Q3R0NHeXFfeTRpLVczRHZGclZmbVgwNHFpdnEyWTRkS2U4VFRLV3plV0RiMHEtYy1xU2tIby1xRVdDLXNEeXZlNVdWN01wNVh1c3F0eW9rcVBZdTVaYkpyVzM2NFo3MUNySWdqdzhNUEF6TFplNHNMUkhUV2hicXZSQVhMcFVTTnplNi13dmJzcFNjOHlESnA3M3RvMVdfX0RnRkc1NEVXMEJvNGp3SmRVZWxaM3lPakNaVQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 15:00",
-    "date_ts": 1782313225.0,
-    "title": "What to know about how teams qualify for the World Cup knockout round and which squads need to do what today",
-    "source": "CNN",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEV0Fkb3ZFTjFMY2RtTmRwU2dWelRXbjVadHhGa1A1QXZzYURGMzlVOXEyVTJyQTMycmo2Z3JSZUlOaWRUMzQ4SUVoRWZtbUI2MmNndWViRWxrTFowYUFON2hRUW9vQms4ZjV1UlhQVXM?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 14:10",
-    "date_ts": 1782310201.0,
-    "title": "Germany XI vs Ecuador: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX0VJdEhGYzFZeUNMRWhLTDRqcWcwQ1VNbUJMcDhsSHA1d2E4Uko2aTZoeDdHTFZkQnV6NXF3ZUloRF9KZm0xTUp4YVpnSVZpTnlaaDllVG9iR1N0YWh1Wm5RakdSVVA4NWJOZmZheG43TzkzSnlhbS04eUNsejZyWGhPV21LSHJoVVZuaXpSa2Z0azRnTDJuMWI2Qlp0Z3ZBdHZzdEtqOWRIc2I1OVdBVkpxMDd2V2Zua1R2RHZ1aFRoZno2cWxuVm9XQmU4Z1JMU1VmX2pLQmg5Vnc?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 13:45",
-    "date_ts": 1782308712.0,
-    "title": "Brazil World Cup 2026 squad: Lineup and tactics for Scotland",
-    "source": "talkSPORT",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VcXE3ZmRjQmhCdUx0QWliSG9HUmlIcUFNbDkydURTVDlDVk8zTFdIcHVhTDN2Z0loQjQ0bkFiUFNCai1kOUlmWk9CWk1tMGg4SlZNUlJwZWtoMzZEX3NEcXBhVkt1bGdPOW5kRlQzU3ptWEZU?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 13:44",
-    "date_ts": 1782308640.0,
-    "title": "Why every round-of-32 team will, won't win FIFA World Cup",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbW02VDlOOXh1NFpQTVdjSUhQWmpmTGRCdVdmRmFDZ2ZYaGRWRWpodEhzbmZQX2hUVXdaVUl4Z1NhMXB4ZEJ0RnNLX2R3U2xOOE1KOXJWNmVpX0xoMTF4d2NPQm9sellLcXdjS1hOeVdtM3Fqb3JJZTVDUTJtSnk3XzFWSWtyMnpJMEI0XzBjMWRHb2t2dWh4RVZhdlBCcmdUV0c1d3lILUl5NVZTbE9kanhDSUlwbkdBY28ybnQxVHpkYV9JSXJMbU9NRzdZcjdISWhkUzB5XzFEbkNUeVYtQXh4M0RSRU0?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 13:24",
-    "date_ts": 1782307440.0,
-    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 12:48",
-    "date_ts": 1782305322.0,
-    "title": "World Cup 2026: Full group schedule and top third-round matches to watch",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3ZLMFI2dE9SVEFzRmx4c0FTR3dSNWVRRXp3OEFOSk0zY21SVzU3NWgxQ09FTERHdjZ4ak5UY0VIY1ZqUnptYlp0MjFBUkJpNW5DU2hCYUM3dDlmMHVHd2pqYVQ3Z2dYaDNTMWd5SzBmUi1hRHUwZHVza0k4Ung0cklSVWJGNkJUOUFnY1gxVTFiam1iM3lrYlp3dld0b0xBRWJ1T0daNTB0T1QyZDVic2JNV0vSAboBQVVfeXFMTkZjdjViRGtWaC1XSzQwUk9ndnF1X3FEVXhzZmg3ZHpUTzY4RW10NDNWSVkxRUN5VndQTTZZMnBmal9ZMHBZSW1ROEJIRnhnYTlldTVJM2hYTWtscDB4TGhfVUoyN3dmR3RVRUdZMDNqRVpkUTVfbnhHTjNORFYwWVF4NkRwX1FYcWV4ZlVEZlpTVk4ta20wVWlXeEdCVjFjb3dmd0UtYk85R2JlbXhRZ1A4cnFlRnlFajFR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 12:10",
-    "date_ts": 1782303000.0,
-    "title": "FIFA World Cup: Live updates, TV schedule, results, standings and highlights",
-    "source": "Los Angeles Times",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2IwRWJuTXdCSFlKMUhQejF4ZnVUbkRhckRJMUY3UHZoYzFZa1R0Znc1RmMwbmhXb281VUFiZFYtdHNUUEJ5LXJjcnRiVWRaNmh2OE43RHBnUDR6ZWxyY29QMUtBa19lY0o5OGdtV1V1c3phWFNVaEpLc0duNFdJU0tuY0VYWkdIVWQ2Nkd0ZE5Mb20xNTZka2JubFFjc3Zic19Wa21BOWg1YlFOajZodA?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 11:50",
-    "date_ts": 1782301800.0,
-    "title": "Will Neymar Play for Brazil vs. Scotland at 2026 World Cup?",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUU8ySFVWbEw5T3ZQcXpnQmh2dFBESzdyMUU2bVd5ckYtMkd2V2NPTW1QR3BNYjJrdl9XRGtJY2tzU2ZTRWMzTnRIWUxtZlBlby1jY3F2R2RtMjg1WHV2WEQ5QWFoMFZPMml6bmV0UlViaHdxZ2trZFBndXFPeXRTLVZR?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
