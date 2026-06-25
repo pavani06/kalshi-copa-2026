@@ -1,5 +1,40 @@
 [
   {
+    "date": "25/06 16:39",
+    "date_ts": 1782405547.0,
+    "title": "World Cup 2026 knockout fixtures, results and group tables",
+    "source": "The Independent",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUFCREVNWHhEWVV5RFdld1lJUVpBNmc3TGM4ZlcyTzF6cjhUUk5RTjlRZHBpN3VLdjh3bWtaTFBZR3BSSi1RQVhtOGQwNlBFRERfZzA0cV9ib1UyVF9CSWxxMXo2Z0ZDdmpkTlRDSHAwYUd4eHkxbnBfWTRvU1VPUGQ3WG9jQ0stam5PRTI2NUNUYmtZWW91MnAwcjVaNk5wcEZ6ZFNvekh6QVh2?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 16:02",
+    "date_ts": 1782403343.0,
+    "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTHF2SFpITFhxUHcwVFRqQlMyMTRNWXNxTm8zZldxd1BXLVlrS1NKR2dBaUVIYW5NMWFsUzNXZmQ3WE84UzRIaWY3aHo3SmxqQ0NKbUFzTnVSVkYyVHRmdXZfSnNNd1J1ZmVmb2NPaXJkSTJVcWEyekJvN0JjUkFTZHVXTGs2akVVUW1mRFZCdUJUaDNyNDE1cWFFT3BpSzY3Vk44SGpTZ25pSXRubnBsZGpvejNJTlNZVHB6ZXpDZ1BHNGtmQ0ZQT2dSRzBDQXpnaXBXb3ltaktVdXRMTEQ2Sjg5OFU?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 14:30",
+    "date_ts": 1782397806.0,
+    "title": "Every confirmed World Cup 2026 squad for summer tournament",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZERiNUh1anNWS2lNTjQwcmU4TV9kY2dHNWdSNHQ2Q0xzVlJsMjJXanlIUmR3YUNubjltT3NJN3Nidm1CMlRSQzkxbVhGR0RsNl9GeW1PU3UwOWV4cWVnZlNfNkhrNkZManJHNS1KYjJneE82WktpbHlaMnpYUUN5ZjdwU3Vjc0IwVDVLN2hPQzY3dDJ5SjU0?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 13:52",
     "date_ts": 1782395532.0,
     "title": "Mbappe vs Haaland showdown: France-Norway fight for knockouts at World Cup",
@@ -9,6 +44,17 @@
       "Noruega"
     ],
     "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 13:38",
+    "date_ts": 1782394680.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
     "impact": "MEDIUM",
     "source_type": "news"
   },
@@ -167,6 +213,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 03:48",
+    "date_ts": 1782359280.0,
+    "title": "2026 World Cup guide: Full TV schedule, game previews, results and standings",
+    "source": "Los Angeles Times",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE9PYjdOUnpEUnFvTEJRS1ctRnFLQmpzOVFhYVFPaHBlakxRVHJjcHBxZlI5VThpSUZqYWdaeUV3dGVELTJ1eUF3amp2V2pocElERjJtVDIzdVNGUjlzcDllU2lxWU9CaE8zWWFaSmQ3WjlLS21FMU1fRUEtR2dEWXEyVGNVVUUydnRXRDFjVk1jNHI0dU0wMlV6NzhtVWt6cHFRamF2VmdoZEZ5ZUVSRmtiaDI?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -660,71 +717,6 @@
     "title": "Scotland vs. Brazil injury, suspension list, predicted XIs | World Cup 2026",
     "source": "Rugby Addict",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTm9UTmR1NXBQS3dCbkdiSHdsVHBJbWNvQklNN1F3cFd2anI3QXZGSWpGeF9zb1ZBMDczMmhFcFZHZGwwUFc3dlVRR2dvMUpnRlZKZm1SNVZNMXF5cTJXSTRUaGsxLUtocVVEbERTZURQR2UzRmNVTEdHYmhJdWoxTjN6eUFMS1YxX29yOXE3VHBRTGRyc0NlQVFlcndLZ2ZUR1dLSUhsRndWejk0UVFiY3YwcUk5REhuQkt3Nm1lN2JnQV80b2Q3dnVqUnlIV3dGWDNzSmZjWU84LTNoWE5MN3dTNDVYZw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:43",
-    "date_ts": 1782333811.0,
-    "title": "Morocco vs. Haiti injury, suspension list, predicted XIs | World Cup 2026",
-    "source": "Rugby Addict",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT3lRNThPaXJCRVF4b1JyTGgza3lLTnVHSWdfOXE5RHF1WGd4cHpFeVJMRWNBMk1XX0RLLUZNUHZGTUpHcmVVMFNnYlQ4V0hoM2FLX1hPVS1rSEQwWVY5ZjhzaVp5QWZEVndoLVJJRmxsZHZYcHpfMlRNeW1Wb2hBRjJqdVN4QThsdEdrVDJzaUg1ZEs5STROMzlQQ0QtNjZXakxCelZhTkZoenEwNzRMd1lHWHFfWlVmOHNGUk5tOHdVS3N2WjJKZ2VaTlo0STJkb0dGYXZNSUxDQlhE?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:41",
-    "date_ts": 1782333669.0,
-    "title": "Brazil XI vs Scotland: Starting lineup, confirmed team news, injury latest for World Cup 2026 today",
-    "source": "Yahoo Sports UK",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVlsZlEwSEFBZFJfa3BzajJ6dnp5X0g1LVZ2Z1lLN0N4cy1vbkVsUko2dVhnNXVWM1E3U0gzWHRWYjMtOEtuYmEtR1laWS1Ra21hUXVJRk9CVnQ2ME16ejZtOGExUlY5ZTVwdWpuOGp4S0x4a2VkOEdobXdrd3RwMmYwa0V6QQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:35",
-    "date_ts": 1782333300.0,
-    "title": "Brasil x Haiti: qual resultado a Seleção precisa no jogo de hoje para chegar à próxima fase da Copa?",
-    "source": "Terra",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTVhfQWJqQXBST3ZNR2V5QWljVlFWUkk1bGNoU1FfeHAwSWVOTjd0QnV2aWZuS3A4cmpxanZZRzNKdEMtUC11ZTNBVWJYdHRwMWJQamQwcVVQelYyeE1xVGotbWp1cmFSSFFkTl9oMllJRkRhSGtPWk5JbGoxNkFUcnZNWVh4VkFBQW1sZEh1NHhGeUJFelU1a2FKRWFXZ3hhTnRPS1ZKRDF6QVg2RVl1RDVHeU9TX05wUHcwRTRkZjZHNkVDZ1Y4bWxLQVlVbDR4VWVjU2NkVGc3SFFoWVBRZDRhMlZ0aWt5dkkyejQtblNNTlhKZlFQQ1RsSmNDa1E?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:20",
-    "date_ts": 1782332420.0,
-    "title": "Scotland v Brazil: World Cup 2026 – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFBFeWtycjVKU2dCYk1BUTZpalZaMWtwMkJYWnlxSlBnaXNwdWhUTVJJZFZfMnQtMzV4TUMtV1MzclhkR0pxTlNuSlYtVE9jblJzbjRhX25rMm1tRkhneF9JaWVFSXh3cVBuYjJFQ18zQkZ4SmdkVHRvbDlsMXdqUi1aRGtNVHp0RVhtVjg3bnhCcl93WVE?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:15",
-    "date_ts": 1782332116.0,
-    "title": "Confirmed lineups without Neymar for Brazil vs Scotland at 2026 World Cup",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGs4WFd2cVRxcWxYQXNqejdLZy04WllkYU9QSjFubWdqdUQ4Smszck5qZlFWME9EeFlmSzd6XzFldTY3SWo5UTAxTVlyazBHdTdnazk1a3o2Z0hfdExjY0dlRVJzRkxpU01RUzVSTjdTMjNFaG9uZFFyRS01cHlPMzREeXR4Q0JxdGlkQ0U2c1Ztc0tvRkxqdnhRcWxWendDNVkyc2x30gGrAUFVX3lxTFBRYXdMU3pWWk14UlV2OGVGblZ0M1k4czV1OHlPQTZBX3dpMnVpTXdCQVBCa1ozV3RXQnNSaWpSempmcmg5Z0FTOUIwbXBSTlBBXzRaSkczU2R0TTVNMTJKRGNoZjBON3FoX2pfRl9IZUc4bnBINTJNdjQybjFsdzJOYS1GOGw0STluVVFMWWZKRmRIZHp4dlhidnNKTUs1MnYxM2dQNk5xRjYyMA?oc=5",
     "teams": [
       "Brasil"
     ],
