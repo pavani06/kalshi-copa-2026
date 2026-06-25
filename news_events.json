@@ -1,5 +1,18 @@
 [
   {
+    "date": "25/06 17:05",
+    "date_ts": 1782407105.0,
+    "title": "Norway vs France XIs: Confirmed team news, predicted lineups and injury latest for World Cup 2026",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORl9WQzgzTVF3WTJYbUJXSWhYdmN6NFBRSEhFa2s1QVQwTThNWHRicmhORE1RVlJNNWR4Qi1scG1NYmZLcWlEVEo1Y29hY2RYWjA3VWFud2k2WUhHOVlrWEhZYlpkSTkxbDZpQWlBZVhUUnZkZVRLbDFOeU1Hd3Mwc1VKZ2Q1cFlZb3dWX3FfZUJDOXpYMkNmcjNvdDFHTmlXMzYzQXhHeHQ0SzJWVlpkb21xdThqNzNRMDhEeTRhc1RNM3A0ME1ULTR4MWtKS3ItM2xHZ2tVbjh0bFU?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 16:39",
     "date_ts": 1782405547.0,
     "title": "World Cup 2026 knockout fixtures, results and group tables",
@@ -19,6 +32,39 @@
     "teams": [],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 15:31",
+    "date_ts": 1782401516.0,
+    "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFZldHVENkVTWjh1UjBjUWdoNzd5Y2I2NVgyR3pGWXJ2UWdQa3dxcDFHOF9kZTBMaWZNWkREYVRHYi1LTTRZdkRKaUFQNlR0QVU1aTd1WnlHWmNYZm1tZk94MlpYb3VqQndWS0JzNGJ5MERDRURhUjlQYkFUclBJV21SLTNvdlB5ZXpjcHRNZG9LVWZTbllGREZFR1dDbUxwWjg4R1JlNWxnZ1dDUy1FLXZzR2LSAboBQVVfeXFMT2EteWNqTXNMbTBWVVg1dVNmXzMzX0U1RlZGblJZU0pQcWNZME8tQ3J0cTdfajNER05QM2thV2lkSTR3dUw4ZGJJNFBRRFlOZ1U5R1RlRlhTVm1udDBLQnIyYnJfc2pjVEEwX3VvNGVLMWZoQ2hpNERJZ0YteG1wUkEzYzFCZjR3YmlEV0xsanNweTUxdFlEWDdkcHdES215Zm5zY3FtMjBNeDB3aFpvaEkwcDNBbzM2X0N3?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 15:05",
+    "date_ts": 1782399900.0,
+    "title": "World Cup review and predictions: What surprised us in round two and what we’re expecting next - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjN6bGtzbFlIQ3hxWmYyckg1ekJvM3BfQkVySU1TWXhuR1I2UnlWVEhjelZoVEdrQXotb1V4bHdoWWV1Qzdfb1VOSkdJaGJGWDg2XzhXdjhRUURLVVp5dFVXT05zaURkeEMtdS1xaHd3T1lOcUYyQlhoZENoaWd4OXhoRmdnTFVp?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 14:40",
+    "date_ts": 1782398400.0,
+    "title": "Who is winning the World Cup 2026? Current favorites, odds, rankings",
+    "source": "Bergen Record",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWmhJZnFGMTd6UElqd0tYWFN0OUtIMGVnZWFmM2hBQkVEZUY2X2FQUjBGMmxfNjhKX3JlVy1PVHZBYUlmVDJ1UWdocTlrM3FqQkdCcVVNQ0dCUWV5ei1Vdlp2eTdyLW52bTg4Umc1S29MdU1NZjlKMTVueUpoQVBWdGhjUGJhQzVhSmtNaXRGNTJSRnlnbUpieVBPNG5jb0dVbjlBY2FUcGVsTW5mZ0ZielVjMmZNemV2OUhXcWhEMjZEZkczcjA1Z3hES1hBY2Q2RXM2RWxrMmg?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -669,58 +715,6 @@
       "Marrocos"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:50",
-    "date_ts": 1782334209.0,
-    "title": "Declan Rice at risk of World Cup ban to compound new England injury fears",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDhBeHVwN1g0S2VvbHNNTWFKNnIzLVVzaXdadWlxMEhfT29ldTJFUE1oV29xYjNianBFOUZ3c2xydmZoU2thc0NTSkxhTk5vWTdDV05jMS12WFBwS0dzdWZ6ckYtZ1RLSUVTUlJSaDhYN0QyNWJzMURoSnF2LTRSTXhHbEo0cnZuNzNuUFEtT2tXNkRtTEdReUZpUnc0dHBDSlVVQ0w5bUR0cExvSnVz?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:48",
-    "date_ts": 1782334080.0,
-    "title": "World Cup: Ex-Leipzig star Cunha starts as Brazil face Scotland in Group C",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUkwVGJ0b2tBd0hfUHJ5SkExQjF5ZTlqclJwVUY0eWxIaHpZcUdKYjRvN1dZSHBDSEZUdTFXS3RLRklmcWI3Yk0zcmRzVjg0d1dSemNOUnY3cnJBLVI2M0xNLXlhbS04R3NlMVNuQmlVM0tDRktqTWZoVGpqcUwteU5qNzJpREQ1c2Rv?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:47",
-    "date_ts": 1782334020.0,
-    "title": "World Cup: Future Bayern star Saibari starts for Morocco against Haiti",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa01DZ1pkSEV0OHBXUk9MY19sRTA0TkZPNkxuWUdnSm1qS3dzSnhncFJpTjdzMHd2akJuc3ViRlJBcUNEUkNPeXZrR1FTV3ZoVmlWYkVCb0ZMZG9aMFRaUjFwbDlZS1hiaE9CZGg5VWh4R1dNaEV1a0Q1VTFaLTdrSWZta0NaNFl6RUVrczJSZWVfQi1s?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:46",
-    "date_ts": 1782333989.0,
-    "title": "Scotland vs. Brazil injury, suspension list, predicted XIs | World Cup 2026",
-    "source": "Rugby Addict",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTm9UTmR1NXBQS3dCbkdiSHdsVHBJbWNvQklNN1F3cFd2anI3QXZGSWpGeF9zb1ZBMDczMmhFcFZHZGwwUFc3dlVRR2dvMUpnRlZKZm1SNVZNMXF5cTJXSTRUaGsxLUtocVVEbERTZURQR2UzRmNVTEdHYmhJdWoxTjN6eUFMS1YxX29yOXE3VHBRTGRyc0NlQVFlcndLZ2ZUR1dLSUhsRndWejk0UVFiY3YwcUk5REhuQkt3Nm1lN2JnQV80b2Q3dnVqUnlIV3dGWDNzSmZjWU84LTNoWE5MN3dTNDVYZw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
