@@ -1,5 +1,29 @@
 [
   {
+    "date": "25/06 18:38",
+    "date_ts": 1782412680.0,
+    "title": "World Cup: Yan Diomande’s Côte d'Ivoire aim Round of 32 as they face Curaçao",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjBXSm5tdGFEc0VzNktvdHhkdlpsZkhad01qUDktSzJoOTczbnhwWktwdmV3NDJiZG9PY0JtbEwyRnVWV3h6TDM3S2VFUEljQ2toMGc2SjJfOWRqd2w2NUE1R0FNOGRKVWRLM29hYU95dTZKc0FQeG1RN1JaSldpYnhZMlgxcGZxTEZjUF9UUQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 18:03",
+    "date_ts": 1782410580.0,
+    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 17:05",
     "date_ts": 1782407105.0,
     "title": "Norway vs France XIs: Confirmed team news, predicted lineups and injury latest for World Cup 2026",
@@ -102,6 +126,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 13:20",
+    "date_ts": 1782393614.0,
+    "title": "Live World Cup Bracket 2026: Follow Along With the Knockout Round Matchups",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFZsbUtIb2pvaHh3ODNfMEpmZDU4RTVfaXVGYUc1QlJoVnB6bG9HdVlqTi1wekZIQVN6WDd2VWdTQXdpaVNDaGItTy11Q1plb3c3TlNxTEZYRHhTWDgyb2xRcllsS3N4SWNac3c3UE9pSUVPbFd0QnZ0Z201T29oM01OYWNvYjQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -358,6 +393,19 @@
     "source": "NBC News",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2hLYzdla043ZzlRWXFzX3BmMVNoQXppVXpyRnZJMUp6WFZROFhVTGRRRVlUSFhsZHpWbF93NUk4NzZQcDlsRlJnLWZkaXBmSndTT3BmYjJOVUJmam5oUXNqaFNtM3BOd2J2SWRFQkxPV0puR0NmN2lWV0pOVnYyNldZX3I3N1ZtOHBaX2JranpHNFFSal8wZGZFOU03eUlzV1ZieDlhLTU?oc=5",
     "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 02:57",
+    "date_ts": 1782356264.0,
+    "title": "Declan Rice at risk of World Cup ban to compound new England injury fears",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDhBeHVwN1g0S2VvbHNNTWFKNnIzLVVzaXdadWlxMEhfT29ldTJFUE1oV29xYjNianBFOUZ3c2xydmZoU2thc0NTSkxhTk5vWTdDV05jMS12WFBwS0dzdWZ6ckYtZ1RLSUVTUlJSaDhYN0QyNWJzMURoSnF2LTRSTXhHbEo0cnZuNzNuUFEtT2tXNkRtTEdReUZpUnc0dHBDSlVVQ0w5bUR0cExvSnVz?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
     "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
@@ -664,58 +712,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 21:00",
-    "date_ts": 1782334800.0,
-    "title": "Lineup for Haiti Confirmed for Crucial World Cup Clash Against Morocco",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFdiOFZ5MDM0dG1XT3hTbmh2akRRaDloMExuV3JBWFQ0OEtSZUptanNyZFFVZGZOQTlzYXZrT0tzTXFoQy1pOVEyNmp6SEQwaVdxRG1KWERCbGdxZ3ZYY0lSSnVJOHlucU5GSEVSLWtaNTFibTBMSXRyaGZKZVJndVJ5SDc1cksxTHZ3RlZ2WFh6MlJaSkRQRS00N0NLZEYzaHBUZTM1MUZRYUpXNnZLd2JWejJtNUQ1MmZR?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:53",
-    "date_ts": 1782334408.0,
-    "title": "Brazil XI vs Scotland: Starting lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeU1sbHhMOUFaMDV6NWk5UVd0MW03Zkd5Z1MxSG1Dbmd0OWtqOTZ4ZUdyaVVYQ0s5Vi1PX21URUlfeE9FYmxKN2xPUEdHTlVJZW5VX0VNTU5kNFVmRlM0dHotWjVSVWxOVHNodFNXaFRtTjBnZmxLNTlQNHdsVk4wYUE1TlBETlF0eDltdzgwTGxJRG9mVS13TDJ2WFhQSjBCRWNDQmxOc1AyQVgwdm9JM0EwVjBlbDNzVTJqZXhwTS10VENpSE1QUmtRMU4zS2txWDd6WTZvRGVtYW41amk3Y3Z3?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:51",
-    "date_ts": 1782334297.0,
-    "title": "Lineup for Morocco Is Here, Ouahbi Announces Changes for World Cup Clash Against Haiti",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN293WmtwanZyd3lIQWVIMnNNbWhpWU80YUN6aDRsOXpNYjl5SkF6MHRVTGgyQ3ltSlBiMllXbHNIUmE0SGFtOXBCT29TU0p0Tkt6WVQtVjZSemJwcVF3UFNFSWdEbXJsdmdCNXJuN0JoaEl0SldUTmpCSlZwS3pEbGFadFhZZUdQTFEyNGdjMHA1c3lWRVkzTlYzMVpVYVN5dmhaLU9PZG9OXzJkakV6ZnhsLVozcjZENUVWUnI5Q25EYlp6YkdEeHpTUEJ6ekE?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 20:51",
-    "date_ts": 1782334260.0,
-    "title": "Morocco vs Haiti Prediction: Lineups, Picks & Best Bets For World Cup 2026 Group C",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmRhVU5TTFlwZkxOajY4UHdpaDJVRTd3OG53dGYwYXFQcko1U05CWlktNlFsV1dBeGFOWTZCa3lfMVJ4VndyYTIzUlNzM051a3FJQlRscGVITGRYampNLXNxSkY0N1FOeTZ5WW80dnF3UW5BOXFNOUswT3Z6TnlGNDRnUWN2NlRFREdwVC0yNVZSY1ZyMEdMSnFmQ3UyVFZwM2ZaZEZkUTh0TGREUmhVdTVsbW4zdw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
