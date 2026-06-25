@@ -1,5 +1,29 @@
 [
   {
+    "date": "25/06 12:25",
+    "date_ts": 1782390300.0,
+    "title": "FIFA World Cup: Live updates, TV schedule, results, standings and highlights",
+    "source": "Los Angeles Times",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1FCMjFFeWIxMXptM2RBYzhQWkZMM0ZLMzc5clVucXZfdF9QT1Bwa01ZcXZrc0JJOVVZTVZvYlFQQjZWR1ZLSkxDaWpUcW1xQm4zbUgxT1JFNkoxZ2lFZ2RXUEtRYkRkRGZHczExTEpMRUNvZ0NoMW5oT3hKVjhWYUk3NHR3cmdDRU9aYVpTeWlpX0gxZlVLVlZFQ3VkRWZmZEliNUFReXhiQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 11:26",
+    "date_ts": 1782386796.0,
+    "title": "Germany XI vs Ecuador: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZUg2TVVVUjJObHlVUkx3UTN3U3VPa0hNaUZma1ZibmpWR2lpMmNkSjBLWFNqYzV4ZEFWWUpyY0dzd1FsQUg1UUxlSnhEU0pBV1lRVDdhU1V3QkRjNnVPSno4Sk5VVjdoM0pnWXdHZ3hXWkxocXhuSHQ2VWZqbXZEeDBCWGpTVjgtZDBPVXRja3RKbXh3TGtYOTN0QmlhUWlTbVlJSDcxdkx5bVg0Q19LczhCN2FYVnNicnZvcVVMX2ZPZFEyR3RILWZDUHJ3REVaeFY2TE1USFFtZnFycmhYTmVZak5OUlBQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 07:37",
     "date_ts": 1782373020.0,
     "title": "Ecuador vs Germany Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group E",
@@ -67,6 +91,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 04:00",
+    "date_ts": 1782360000.0,
+    "title": "With a Round of 32 spot already clinched, the U.S. takes on Turkey in the World Cup",
+    "source": "NPR",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzNOTnpaUUFtaTFEckItN04wV1pCNjNvSXVjT3VydXNFZ1d0Y3lSclFoWnAwc2ZpdnJIR0dVQnJmQ2I0cEdEMUtNRFJtUGs3WHlUQ3Y3X2JTZGlIZ0VLUXI2NkMxV2UtN2RXVkpRUDNfZGh0SXZMcnpSXzFWbXBoR3cwdw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -302,6 +337,19 @@
       "Brasil"
     ],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 00:10",
+    "date_ts": 1782346200.0,
+    "title": "Vinícius Júnior leads Brazil rout of Scotland to top group",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkVwbFd6eUZnZmw4U3JKX0VCR3pJaGpXTTBDc25YNE9SZmFxbTdUdFZwdG5wZHpZYk5uR29FZnlBZmRWajJhNWc5QnN5VXRjaGg1eWM1dGNvV05KZU1iblMyaXdqNGZsOGVoWEFobkt3M1dqMmNuSklIekd6Q1VLOUVURmJuUk1nVTJSRjZJNVl1bndyMUtrYU13RDdtTEphN2QyQktyQTBSYmt2?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -592,6 +640,19 @@
     "source_type": "news"
   },
   {
+    "date": "24/06 18:43",
+    "date_ts": 1782326588.0,
+    "title": "Who Replaces Nico Schlotterbeck? Germany's Best Defensive Options at FIFA World Cup 2026",
+    "source": "Chase Your Sport",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUpQc2lLTjQ1bVd3Q0hmZVdDcnIwZy1Gd0V5YTNlRWVnandPY3duQU5LQnh6OHhfOUdOVVpzV1U0QnZQSzRHclh5QWNMMGNUY01IdER2a3RPdGpULVZKZmNVTkVWbS1sY2lyNEl1clh1SU8wbUozSWlNc1BzT1Q2LWRFRnkyc1NwZW1tWmFvNTNKOFUwcHdhTi1hRHFLd2d4Y3MzeU91LUQ5bTV3eDB4VkZoUTU?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "24/06 18:27",
     "date_ts": 1782325622.0,
     "title": "Is Vinicius Junior playing? Scotland vs Brazil projected lineups for the 2026 World Cup Group C game",
@@ -664,67 +725,6 @@
       "Marrocos"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 17:10",
-    "date_ts": 1782321048.0,
-    "title": "World Cup predictions: Scotland vs Brazil, Switzerland vs Canada and the rest of matchday 14",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWNmcFRxYzV6YUFoeU5TdVE4Z0U0UkhYWXlpZ3pJS2ZTUldrcy1KYUUxOTVoQ0lWLUJkVlZ1YjNic0xGMFNuSUFxWXBfSHdCWm44OVdHdEFnY1N5ZTJ2ZW1HY1dXek5NNk4wTXNvYlhsbHBfNmU3OHltVjUyb3RzWlN6YkRhZw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 16:55",
-    "date_ts": 1782320115.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, group stage updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 16:24",
-    "date_ts": 1782318243.0,
-    "title": "World Cup review and predictions: What surprised us in round two and what we’re expecting next",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjN6bGtzbFlIQ3hxWmYyckg1ekJvM3BfQkVySU1TWXhuR1I2UnlWVEhjelZoVEdrQXotb1V4bHdoWWV1Qzdfb1VOSkdJaGJGWDg2XzhXdjhRUURLVVp5dFVXT05zaURkeEMtdS1xaHd3T1lOcUYyQlhoZENoaWd4OXhoRmdnTFVp?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 16:16",
-    "date_ts": 1782317760.0,
-    "title": "World Cup Buzz: Lionel Messi Gets Birthday Cake For 39th Birthday",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 16:10",
-    "date_ts": 1782317406.0,
-    "title": "Declan Rice at risk of World Cup ban to compound new England injury fears",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDhBeHVwN1g0S2VvbHNNTWFKNnIzLVVzaXdadWlxMEhfT29ldTJFUE1oV29xYjNianBFOUZ3c2xydmZoU2thc0NTSkxhTk5vWTdDV05jMS12WFBwS0dzdWZ6ckYtZ1RLSUVTUlJSaDhYN0QyNWJzMURoSnF2LTRSTXhHbEo0cnZuNzNuUFEtT2tXNkRtTEdReUZpUnc0dHBDSlVVQ0w5bUR0cExvSnVz?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
