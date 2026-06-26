@@ -1,5 +1,18 @@
 [
   {
+    "date": "26/06 14:10",
+    "date_ts": 1782483000.0,
+    "title": "Every Confirmed Round of 32 Match at the 2026 World Cup",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 13:07",
     "date_ts": 1782479268.0,
     "title": "2026 World Cup Group I Scenarios, Standings for France, Norway, Senegal, Iraq",
@@ -216,6 +229,19 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 06:00",
+    "date_ts": 1782453600.0,
+    "title": "Panama vs England Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group L",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0NWRG1EOWxjcTZvMVlMTlpQSWZsZTRmekxQci1aMGhQUDdmMTZxRXJnN0h5SnlxSERtV3I5UjR1ckZiaFVLRVFkWldudlJ3OEY4U3RLWHZ2d1N2QVRISEs1UFpRVzVxaXYtc0doa3ByX1FGYjdNU2tVMFJkdzNnRnpfVU5KcTZjSXprVXh3NE95RkhXMzk1aC1mUkc0aVNjbmNhclowSTEzcXR3ODYtZlNfZ3dHcEpYLUVTTHNMclQ5NkFNVWxyY0VpTTduUmRCM2h6QloxbWI?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -701,28 +727,6 @@
       "Alemanha"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 16:39",
-    "date_ts": 1782405547.0,
-    "title": "World Cup 2026 knockout fixtures, results and group tables",
-    "source": "The Independent",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUFCREVNWHhEWVV5RFdld1lJUVpBNmc3TGM4ZlcyTzF6cjhUUk5RTjlRZHBpN3VLdjh3bWtaTFBZR3BSSi1RQVhtOGQwNlBFRERfZzA0cV9ib1UyVF9CSWxxMXo2Z0ZDdmpkTlRDSHAwYUd4eHkxbnBfWTRvU1VPUGQ3WG9jQ0stam5PRTI2NUNUYmtZWW91MnAwcjVaNk5wcEZ6ZFNvekh6QVh2?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 16:02",
-    "date_ts": 1782403343.0,
-    "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTHF2SFpITFhxUHcwVFRqQlMyMTRNWXNxTm8zZldxd1BXLVlrS1NKR2dBaUVIYW5NMWFsUzNXZmQ3WE84UzRIaWY3aHo3SmxqQ0NKbUFzTnVSVkYyVHRmdXZfSnNNd1J1ZmVmb2NPaXJkSTJVcWEyekJvN0JjUkFTZHVXTGs2akVVUW1mRFZCdUJUaDNyNDE1cWFFT3BpSzY3Vk44SGpTZ25pSXRubnBsZGpvejNJTlNZVHB6ZXpDZ1BHNGtmQ0ZQT2dSRzBDQXpnaXBXb3ltaktVdXRMTEQ2Sjg5OFU?oc=5",
-    "teams": [],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
