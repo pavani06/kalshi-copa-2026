@@ -1,5 +1,66 @@
 [
   {
+    "date": "26/06 10:14",
+    "date_ts": 1782468896.0,
+    "title": "Does Ecuador’s shock knock Germany down? Re-ranking the 48 World Cup teams after day 15 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3FKa3lYcndLaFgxRnhHZjVDMG5WcnBPMjg3OHdZLTVlbkE5UlRHNWs0dHRGNWtkbzVLLWEzN1d2WDk2X0U1a1Fmc0haME9ldGh5dGpna0V3QXhVMEgxZ2tFVFhNYUgwRVdqZlhhZlEwN3hvWG1DQjBjRHBDRTJjWkZkVzBZak0?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 10:09",
+    "date_ts": 1782468588.0,
+    "title": "FIFA World Cup: Friday schedule, predictions, standings, knockout race",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1ZrMWd0NXBZZ0tWbnphOFpvSndMaTh0eW40TmlPeTJRTFJIMkppSW1LNTYwTWluaUl6ekFPTWtxenVROFE0bWRHRnA3VTQ2bldsV3NyNm5lQ0hJc1NOcGw3N19kYVJyazF6bXBIclExLVBtQkxpb2ZETGJpbnN4Wml1OGVNRi15NU94WE12TWR3X2ZyekxtZ1pZaXZITWFSX1liTzNvQ2QzNHVidnfSAbMBQVVfeXFMT2gxeExmMURNQ2duc2NUejltZWlTVDZkOFJQQUdWcDRvV3VRanY3ZmlINC03S2lzc3NQR3o0NGZVRXp0bVJaXzZvYm53bTB1ZG5aVmdKYlQtWXpoalphaVFObEF0Sm5hSVRST0d1eGVmTGwycHA5UmxObHRad2ttM2RHZnlHWHZVSzd5YjJqYmJLOHpoWkhzX0NnLXBRcTU0SjRyQlNleWRaaEtLYzE2UzR6UkU?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 09:08",
+    "date_ts": 1782464901.0,
+    "title": "World Cup 2026: England's current last 32 opponents, Declan Rice, Reece James update & Eze quotes",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBaUVZbm0tQ0NRUWdrY3g5RzlhT3dXOWU0YjlJZDVJTWt3d0RvRDI3R0dIdGRybnpRLWp0R1YxMVhENXRUZFkyZHFZMEJFSk51MUpjRFREQUNWTHllcmQ3T0ln?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 08:54",
+    "date_ts": 1782464086.0,
+    "title": "Norway vs France lineups: Predicted XIs and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR184U2pnOGpGRHhXQk8xajNIcUJISmtIa1p1T0F6ZWc4WEQtUW9JVF90V0NlVVZxWkdGQndsNW0tR29SZkZkbHFUeTl4dXhfS05TUUJxcmx1ZTNsZUh3bFFTSkxwQ0VFTU9nZGNLdUt5ZTNMM1pCR3JWR0RJd2VtVFBOU1UzYjJTd2VYaHhrNWVpQ1cxdHU5NzhXYkswdFFZS3UtV0hWRXg0U0pQeWFKY3hoOUJsLUotXzZncFgxbHVyd2pRbHBDeXBtblAxQ0VFV19IdU5CSGYzQQ?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 08:47",
+    "date_ts": 1782463664.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 07:32",
     "date_ts": 1782459143.0,
     "title": "Australia reach World Cup knockouts after gritty draw with Paraguay",
@@ -659,67 +720,6 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFZsbUtIb2pvaHh3ODNfMEpmZDU4RTVfaXVGYUc1QlJoVnB6bG9HdVlqTi1wekZIQVN6WDd2VWdTQXdpaVNDaGItTy11Q1plb3c3TlNxTEZYRHhTWDgyb2xRcllsS3N4SWNac3c3UE9pSUVPbFd0QnZ0Z201T29oM01OYWNvYjQ?oc=5",
     "teams": [],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 12:25",
-    "date_ts": 1782390300.0,
-    "title": "FIFA World Cup: Live updates, TV schedule, results, standings and highlights",
-    "source": "Los Angeles Times",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1FCMjFFeWIxMXptM2RBYzhQWkZMM0ZLMzc5clVucXZfdF9QT1Bwa01ZcXZrc0JJOVVZTVZvYlFQQjZWR1ZLSkxDaWpUcW1xQm4zbUgxT1JFNkoxZ2lFZ2RXUEtRYkRkRGZHczExTEpMRUNvZ0NoMW5oT3hKVjhWYUk3NHR3cmdDRU9aYVpTeWlpX0gxZlVLVlZFQ3VkRWZmZEliNUFReXhiQQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 12:15",
-    "date_ts": 1782389700.0,
-    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for USA, Germany, More",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUdEZURrNFdqRE5hek5ILWYxNEZ6cDJoUjNvYWZGNUxuTElzeE9JQnQ4ZzgwMlBlcXJIRGg1aGtQUXN3SjdJN3RuckhtQ0UxN2llOHNaSmJjVGZ2MTZseGxtV3ZoSEExYmU3ZVVOQUJ0c3FTeFZqMURDX1dJemJmcU1USm4wVG54YW9zV0FyQUkxZFJwNHo2N2xVbWJ1Q2czdi0yRDB4QnVjT0RZa3czeg?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 11:35",
-    "date_ts": 1782387300.0,
-    "title": "Are Vinicius Jr and Brazil on the rise? Re-ranking the 48 World Cup teams after day 14 - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYldDbXJuTEtndEhEVm1nMlEyWTVyYjFOS3VCSGU1ZTlITDRCaDRXNTdqTkJpQVRqUVJMc3p0bHV1Q2ItbzZhMlV1dENKRGlUVlVpRmhCdGxTeTRzcnVHZlBxcDkzU0QtTnF1dVcyeWRwLUp1OEFqb1l3QkRUa1BWNE1UTkIxTUE?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 11:26",
-    "date_ts": 1782386796.0,
-    "title": "Germany XI vs Ecuador: Predicted lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZUg2TVVVUjJObHlVUkx3UTN3U3VPa0hNaUZma1ZibmpWR2lpMmNkSjBLWFNqYzV4ZEFWWUpyY0dzd1FsQUg1UUxlSnhEU0pBV1lRVDdhU1V3QkRjNnVPSno4Sk5VVjdoM0pnWXdHZ3hXWkxocXhuSHQ2VWZqbXZEeDBCWGpTVjgtZDBPVXRja3RKbXh3TGtYOTN0QmlhUWlTbVlJSDcxdkx5bVg0Q19LczhCN2FYVnNicnZvcVVMX2ZPZFEyR3RILWZDUHJ3REVaeFY2TE1USFFtZnFycmhYTmVZak5OUlBQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 11:10",
-    "date_ts": 1782385800.0,
-    "title": "Jogos de ontem na Copa do Mundo: resultados da África do Sul, Coreia do Sul, México e mais",
-    "source": "VEJA",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWl1V0VodnZ2S2hlM2ZZdG9icEtCNWxOSXpnbnlYVk55eG4wMmlxaXlYcmlMeFRNZUZRc3lUM1V5b2RmcjM2TlhBWDloN0lWN1E4MWVOWnR5WFdMQ012RUxIYjVnNGp6bEpZWnN6dXM2cU1ZX3QzVW5pLWd1TjFKLTNqbW16cXkxc1FUYTRXRkZpVlc5dXZfaXdJY05VX0hrWWVuMnNVVG9XR1lPNjBVaktHb2duMDBJa0Fva0JXcw?oc=5",
-    "teams": [],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
