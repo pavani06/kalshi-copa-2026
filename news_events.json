@@ -1,5 +1,16 @@
 [
   {
+    "date": "26/06 07:32",
+    "date_ts": 1782459143.0,
+    "title": "Australia reach World Cup knockouts after gritty draw with Paraguay",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHVwcGthUHY0N0FtaXlRNjdSenNEQ2pPSHR4R1FPZzdJSDV0c29BaXY5dGJBaTNrOFYwN1pUeEdJUm5Dbno0MzAzU0FaZHVFdXZRZjVhZXZtMjk2eXFiek1kMWh6d2Q2cDNqNGJrcU0wVzd6dE8zT01TdllCZUlPVEFOaGRDZ3liUTgxMFdvWmwzTHBEU2h3S0ppa1ZDR1FwNUxPclh1d9IBrAFBVV95cUxQUkpoVjRxZXJfenpUa1Zrdk1mQ1F1dFdyRy1rSUgxZ2x4dmhHRE1jUnUzMXd0bUFnMWVtVnMyMFotS001RjlXd1d6MjZQdDJBMnNhOWRUYUtPNW5lUHJyanJPNDc1UjRpZFo5bFk0dEN2c1ZLcUtfS2p2Q0w5ZGZMQkJzSnpadVVYX2VtVV9qN0dIN2F5MTRXRUY1SVJBQzlwODRxc3c4ZkhYZWtq?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 07:03",
     "date_ts": 1782457412.0,
     "title": "Declan Rice at risk of World Cup ban to compound new England injury fears",
@@ -26,6 +37,17 @@
     "source_type": "news"
   },
   {
+    "date": "26/06 05:01",
+    "date_ts": 1782450069.0,
+    "title": "Turkiye beat US with stoppage-time goal in World Cup dead rubber",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlAwVkRMZnJMWkx6SnZiM1JGTTNhMm9ERE9VWVJ5N011UDgwY1dRRTYxUUVtUkxsczlHSkpRRmVHOU00VnNwaHdyR29JSDc2VzJzSGoyckprbXJRNldlaGFuM1VMZDlrRExzSk5hcDgwNkU0RVQxbGtPbkNlWHp6V05QdUpmc0NDZ1VHaFE3SmpGampBS3BBSF9uVGJEM0hhM0xoN05DdkNPVmpNQWs5WmUtajZvS1cwZ1HSAb8BQVVfeXFMT3pPc3FvZFIzWjhCYW9YWHBLZEMzOW0yX0VscUxzQVowSFZ2TEJ6ejJ6NzA0WXAycXBUYmlIZnBiZU5pNjBWLW5YY1AyM3V3R1F6S0syeUkwQVEyS0tlMXBpWVZqNDZHWGJIckVZelRhNE5IOUtrcGJ4NVh2NzFBa2dxWnRLQ3ZTZjUwZ2xodUE3dzFqNXlHLXJYUVRkMU5IRnJtMTRXWTMwY3JULVdLMk9MdldkdDdOQks2emZ3OGs?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 04:41",
     "date_ts": 1782448860.0,
     "title": "World Cup 2026 standings: Who's in, who's out and every team's path to the Round of 32",
@@ -45,6 +67,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 04:04",
+    "date_ts": 1782446640.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -127,6 +160,17 @@
       "Brasil"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 02:11",
+    "date_ts": 1782439912.0,
+    "title": "Copa do Mundo de 2026 bate recorde de gols em uma única edição na história",
+    "source": "ge",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbGxzaHBBcC05bnZYbFgzSnlxXzVOd3pFUE5vWXhYQlBJck9JZ3N2dkJHdmIxTlRfQXJBUHlxRlF2TDdlUFBGZ01ZMFd4allXSy1lQnVna2M0WGx4Zk52WWxZZ2s0cWlGY3AtLUtfbmQxaFlsS3VQMENEbXhzZXRaNG5zTjg0LXFyQTdNM2phWVB5S0ZNMVRQamdhUUlkV0FWemNBNVdlQzJQb01Oa0Nkdm0yaENFdnBLS2dkRVFoRklybzNhQTNfU3RNWHVWUERNRENMSVAwR0x4Z9IB6AFBVV95cUxObTlHanFTNTV1aFh4WmZrc0poeE5uMVZiNk1MZ1hSVDQ0UGhvNXNzUVlvRFNJTXd6MDdheWpkNzdqcjlneFUyRXA5Q3I2UW1vTEZ5MXc2OWtIZUtuV0w1eUY2ZjhNNVJQRVFsWXZZckVRR0ZRZVhYZUttejB0VWRaSVFtQ1pCZnQwS0ZaNTY1dUlhdU1MdFRleUlSVDdYOVlxVTRpdEdzR3I2TWxWTDEyRVFvRUFfM2Z1a1VWQjdPZG1lMnJGVFJveHUzczRZc0MxRmE1MUZuUjBNeE85bC04cUpVRjYxTVZw?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -676,56 +720,6 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWl1V0VodnZ2S2hlM2ZZdG9icEtCNWxOSXpnbnlYVk55eG4wMmlxaXlYcmlMeFRNZUZRc3lUM1V5b2RmcjM2TlhBWDloN0lWN1E4MWVOWnR5WFdMQ012RUxIYjVnNGp6bEpZWnN6dXM2cU1ZX3QzVW5pLWd1TjFKLTNqbW16cXkxc1FUYTRXRkZpVlc5dXZfaXdJY05VX0hrWWVuMnNVVG9XR1lPNjBVaktHb2duMDBJa0Fva0JXcw?oc=5",
     "teams": [],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 10:20",
-    "date_ts": 1782382800.0,
-    "title": "World Cup Buzz: Mauricio Pochettino, Country Music Fan, Has A Request",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 10:13",
-    "date_ts": 1782382394.0,
-    "title": "Germany World Cup 2026 squad: Lineup and tactics for Ecuador",
-    "source": "talkSPORT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hb3dUVDVHcnYtXzVYbmpCTXNhcVJYSGN6MG9OaE5IamF2dlRfOHM0YXlXYTlyTG5Cc0lRdERuRm85RS1TRnpmVjhGdFFBQjZhMFU5OFMwMEFRSG14elJPM0FRNkFmd3ZLalFISnAyaGlvakt4QkE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 09:11",
-    "date_ts": 1782378660.0,
-    "title": "FIFA World Cup 2026 – Every match result on Thursday 25 June – Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTUZPX3R1MmJldXprQ213MXB1ZzdSbFRjZTNwQTVXb1FUZU5NeDF4SE9EanoxTHNvaGd2MURnNnUxZms1RWpDUmVTbnZTektUZ1hFMm4zM2lWcU5hZTJiZjh2aFVPYjYxZDJUWF9YU1BMYjFLNW1Zck53ZUhDbnY1N01UX1VhSDBla0tjWEtRcTkxa0pmZ1hrRjZvaGRCb0Z6b0E?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 08:03",
-    "date_ts": 1782374625.0,
-    "title": "Morocco vs. Haiti injury, suspension list, predicted XIs | World Cup 2026",
-    "source": "Rugby Addict",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN1pGaEVNOVY3emJJQkpvOURVa2c0cFNSdnVIc3RuNkJNWDc2Y3JGVzUtb2VPN193NjR5SlphOUsxWHVTd2YyNzFnMnJpdjRXa3NYcW0wVlVrUGxxeWtheEdIVGszWlpIYU9vaW5VNmNTNWhpOGNnN3lfTnA1dnpLVW94a2Z6U0pBenVya3FCZ29USHNOOENmcHI3SVZXc2ZHTGZqc0NaSXRYSWZjNXQ0Y0FNcUltcDBvUkJ0UFctQkFuRkE5cTc1RWc0TXlJOHJTMFFEQ0Y1VHpvZ1FyWTA2ekpENA?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
