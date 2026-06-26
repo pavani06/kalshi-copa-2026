@@ -1,5 +1,18 @@
 [
   {
+    "date": "26/06 19:11",
+    "date_ts": 1782501060.0,
+    "title": "Norway vs France LIVE: World Cup 2026 updates as Dembélé hits a double in thrilling game",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2h5dlR6OE1hYWN3eDJHV1JYeGQwT1dhcFIyVnNud1V5MWZkMU1hRTBPWWJFcUl1STlWcWRDcWZEalk5bVBaRjRjVFoyWlRBSUhrclNwNHFiV3ktTkU4bXN5NXdzczlIRm0wcEowdXA4ckRwQWVZdlJOUDRMVEF5Mm9NOG4tVGN4VmJmMzFDNktKY1dhVklQT3U0LWpkZ01udXExbkVWTzlRV0pVUGRzLUl3dDY5SnVKeFRicw?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 18:36",
     "date_ts": 1782498967.0,
     "title": "Norway vs France live updates: Haaland on the bench for today’s 2026 World Cup game",
@@ -114,6 +127,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 17:49",
+    "date_ts": 1782496140.0,
+    "title": "World Cup: Bayern's Jackson drops to bench as Senegal meet Iraq",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXBMLVB6RUNXME4wRGdrZHVsalFBSlB2Q0tNY0xodU5VSGtPTWdyNkxmaDZSUEFQSFdON2Fxc3huRVU2SDNBQ1JNUlhid3Fhd082VUVxQWxGalo5ZmJ3UGxwcktwb0JYc3Y1UVZwT0FEbjBoNFZ4NjlpWFQzVTVhOQ?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -697,30 +723,6 @@
     "source": "ge",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaE1sa2d6WXVrbm5OazJBc2tpZGJjdDZLUHlyVGd1S0duNFBsNE1xd0VKdW5QZ3dxd0pETUhSclRUUEs5bzZqUTRvR0JDam1VMzJsNTN4MExyOHhwNDhxQmRfYk9mRHZVRl8wRHhkSWg0Y3diajMtek5udDJpWUwxZ2xSYUdVVnlBWEVoMndnbkNaVG9MNWhxbmRJLTdMckRRa2JaSThfRFBLdE15TjY1MkxWQkVIaEFNdnNWSVdXWnFCczBoN2RlZzhXVXFmdkRX0gHfAUFVX3lxTE16ZC1Td1dCMkZfTG1tLVVZUm9hdG13X0FrQVFVMnl5eklMTktUUUF5X1puREsxX3B5ZzRYaDZxX0s5d056bVk1SkNkT1J4czNuWlFoYVN3Qk53ZUEtQUVGa1VJVUxuXzhSWEpPVzZYV2JpOUU0UWZCU1RHWk4waE45VGQ2cHBoSFpYU0NodmpBTjZnV0l2VXRlRmdQYS0zeHRaN0VaQzdwSnlCYUwxZ29fU2c5ZV9zVjgta2FmNlhndWZKZDhDWW5wOVQtNTRTWkdFSUFGdWxzUTlGM0czZzQ?oc=5",
     "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 20:16",
-    "date_ts": 1782418588.0,
-    "title": "Which World Cup third-place teams will advance to knockout stage? Here’s all you need to know",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2N3eHVFTXhtZTJ1cXY2VDRWR3B2VWJwdXRySDVkMHVCLWN4aFIwUHFjeUI1WDB1SjBDbUlrekdNclV3QjFiaWkzelBTbXR1bk9aXzh0VlBYYXktQUd5Ukltd2FWTWMyTC01bEt6MHA5NzNTa3RudG5nQUlXLVdvT2N2V0NjMGlVLXBQQVJWdGp1Zw?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 20:07",
-    "date_ts": 1782418020.0,
-    "title": "Ecuador vs. Germany LIVE: World Cup 2026 updates as Sané and Angulo score early",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmZzVE52V1BBU3VFMjlHSkw1YzFMQjgtWmdpbzBsaHZaSlktcFY3QUp0M1lZU3FhVkUweHdTVWVPcmNKR2FiTVA4Y0xMMy1TazlmOWNNX1Y1QlhpeXFpODlJQmRDUkZtVVRWZnF6TXBPQVV3eTN3bXVmN1hMRFVYZVdHQm5IeUJPNDNWUHpkVkh1ZGVBQm5JemxScXpJRmh4QXplTXRhcTVqYUV3MVJ2Q2JvWHQ3N3kwbWc?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
