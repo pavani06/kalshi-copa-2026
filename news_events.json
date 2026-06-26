@@ -1,5 +1,42 @@
 [
   {
+    "date": "26/06 07:03",
+    "date_ts": 1782457412.0,
+    "title": "Declan Rice at risk of World Cup ban to compound new England injury fears",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDhBeHVwN1g0S2VvbHNNTWFKNnIzLVVzaXdadWlxMEhfT29ldTJFUE1oV29xYjNianBFOUZ3c2xydmZoU2thc0NTSkxhTk5vWTdDV05jMS12WFBwS0dzdWZ6ckYtZ1RLSUVTUlJSaDhYN0QyNWJzMURoSnF2LTRSTXhHbEo0cnZuNzNuUFEtT2tXNkRtTEdReUZpUnc0dHBDSlVVQ0w5bUR0cExvSnVz?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 06:24",
+    "date_ts": 1782455062.0,
+    "title": "Senegal vs Iraq FIFA World Cup 2026 Preview: Everything you need to know",
+    "source": "Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbzFGLUNMd01ZNXZ0aW10WXFaaWJZOTVlNk5jeGNwSVpycEw0M1VYcVN4Ykc4ZEExWURPWFlqSFh5RUJCZE1rVzZIY0VYbGoxbnlxQkhYczRJbHhVU3gtNTFhZ2VZZjc2V1hzYUZKOFJEalB5SVFaSVpmdDlOVGRjVkk3S3RFa01mY1E?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 04:41",
+    "date_ts": 1782448860.0,
+    "title": "World Cup 2026 standings: Who's in, who's out and every team's path to the Round of 32",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU2tqOGdCZ0c0RUtPZzJndElHYUxnN2ZRbXVuY2JvNHpTNFAwb0ZWSUVvU04xUS1FWHR4VzJyUnRRM096RGlScW95UEozNjBicjRuQkF6UW9NUEFXWHR5cFl3RThrM0FFaVdaREU2ZERrVnlIa0p5VTdWRVZoX2pUM0x4bGR2Q0ZtZ29xVkN6alA0QmNvVjBLRmhKaDlmWGhLVkIzcHg0VjlTN21BMnpfdzFENEZrbmM3WnhjTkM1cEI5SFN1NUx2aEszc3hFYkR4MXc?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 04:17",
     "date_ts": 1782447420.0,
     "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and potential opponents?",
@@ -8,6 +45,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 04:03",
+    "date_ts": 1782446592.0,
+    "title": "Turquia vence EUA com gol no fim em jogão que 'não valia nada' na Copa",
+    "source": "UOL",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdldhdWJ6UVJXU0RmNzB2RWpUWWFGRk9yTUQyYW9CX2dEOVNsdXBMV2kwQVEzNDVmQzFTel9ieGdfQ0tPU3lEM0VoYlpBcTFFa3p4aHkzWVBmdlE3RVlmMnZYVmpSSXVVVzdWTnNHak5Fd1YyWEo3TzRPZXVMRDV6aEZTaWhFWjlKX01qMF9JVmpoWXN0c3M5LTlGVDMxS0ctalVESUhUYmpnTGJmeWxEY3AzUTE1bjhq?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -32,6 +80,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 04:01",
+    "date_ts": 1782446460.0,
+    "title": "2026 World Cup Bracket, Standings, Projections: USA In Round Of 32, Who Else Might Advance?",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVM5eE1QTHVERmZpRW52cGVqdl9tOURiN29rZDlpX2dhM056R2JxQVBHVWc5QzczV19nT0RGWjVBQldhaDYxS3drbkRaYmpVQi1jTml4dk4tNDgwY0txNmtJVXB3Sk1JUUtEUVFTM3hQOU04WXRVRHdRUksySzJPNHdRUi1vZzkwSExJRElMa0FUeThSdlNFbTVZN19DOWlWY2hSblZqVjN5cDBsbFlSZkotX0p5dHlPWmtsUlBR0gG-AUFVX3lxTE56VFNUMlZpUGw4TkRlQ2twc3dFWlE2UFA5N1V4djBORjF5YmJWT0M1czVpZFFRdXBXTjljRnFTYzNrZWdVWUhzeFhEYVVMS3dteWY1bHpwUE9VUmRFcnhxdzNkSW51TWtfYjVVVE1yS3lBdjE5YlB5Vm9HbjBuU3dqUGpiXzJpTmZTbnBVQnJzYld3WmRXeDgwU21DTExIWVlxLW95SkpSTkQ1SEVJYjRVQjZ3QmV0WXE2NzhpVFE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -80,6 +139,17 @@
     "teams": [],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 01:28",
+    "date_ts": 1782437288.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, group stage updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -656,76 +726,6 @@
       "Marrocos"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 07:37",
-    "date_ts": 1782373020.0,
-    "title": "Ecuador vs Germany Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group E",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemo5QU0zaDBBRTI4Sk5VMUVRVzQzQk94ZjczT2tsemthUHBGa3B6RFRJd3l5d2hMR25uQk10VGZGNXNzZktqTzVoYUVnbkI0b3RDRDdMaDN6WHg4YW8yXzZ6VjFsZ0J4SWtIc3RROWtSOEpVdjhjZU9uVFZZRlB6dHRHRk54QU5UaFNWRUZfUjZXNXpYRElnSFozbHdVMFRSX0FleXNmbGhQQlVpM0ljWU1XSzdjeFphbnBoYWlzNkF3MXk3NHpnb2R1c1dfUHhBSy1mVW9aN3R3Zw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 06:42",
-    "date_ts": 1782369720.0,
-    "title": "World Cup 2026 today: Live updates, news as Scotland, South Korea face nervy wait, South Africa through to knockouts - June 25",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZTdjclZWWDZZdkN2SGhUX1JGZmdtaUVDWUtvSjBsLVpxS1JBZG9JT1lnYmFMM0daWjJsOEpzdGVrQXJGY1Y0WGFfaXdJaUpyTWw4Q3N3czY1M3d0QnVHWEN6NlVBYkRNdW5HdzZWUWM3ZlFTUGEwTFpKVkcwMEF1ZHlEdzJfQnNRcjgtVFVHaU1ZaVpnU2h4OVJYSnNKWHJ0eWZrdHNONzBtTnJwQTJ1aWd3SjhwaVBzWDgzaTVjQW85MU04VGNaZXNKcjJSNWNqLW5KVjcxYTNZWHhadzNmT2NfamdQSUx3QjFMRVNEQWpVMXBYcHBCX1pQRjlpQ2M5ZjZJ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 06:02",
-    "date_ts": 1782367363.0,
-    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 05:44",
-    "date_ts": 1782366240.0,
-    "title": "FIFA World Cup 2026: How to watch the Socceroos, fixtures, results, all you need to know",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlNNRWZoLXJDSW8yYkJhd3BKWFdJRkxmTlNzQ0lkUWdYdHFPT3ctYVNGdzNSdTUwS25YVGttb3I3NGoxbWtjSnQ4SXRoSjk2R3BNLUtULS1DWEZ5b0tQRmE5MjlxZFp6OUpBNTVGTjQ0TlMwOGFQVkFGZnVZT19CdGdSMFpsSjBtN3hMY2JpMTJoUGQ0WlVGbElhN0tMbUkxRnd0N01MZw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 05:34",
-    "date_ts": 1782365641.0,
-    "title": "Mexico triumph 3-0 to eliminate Czechia and win all three World Cup matches",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQejl5UFhtZzg5djBoQ2psZXNaNERqVEV3TUxvR3l5S0ZNbnFRcW5pQnFVTTNFVm1TSU9odTZyRTdYLVdWbXp2N2M5emhRU2pSeWs4cmJYakFhNy11clRzLXY5OHRDemk1X0RfWjM2QVFWWE5ERE4ybk9BTzdoMW5LZ0IxUXlrcWo1dmdwS0VxeXZNdlJJdWQ0a1QxVnNCNkV2RFNYeUtUWTFXZ9IBrwFBVV95cUxOcldSQTR2T2ZvODFHNHIwNF82aGJWVDQyVDJJX1hZSlBfUV9Tc214WGVjRWs4cUlxeGpPbnZHZGw3WHgzbFpTMFp6bXlpc0Z4LWJneEowRTUtTFI3MEZ3VWU5dnpWVDh5WFk1TXlGRkhEZURoOU82dzBROTJGd1BQalpaVXVPS1NjSjFmYjljVWVjOFI2LS11bExoNWhXUnlzWEFQZkR0dUVidzRMa1dj?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 05:00",
-    "date_ts": 1782363600.0,
-    "title": "Norway vs France Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group I",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWZnUFpUN0Q3VzRld3ZCOUYzQ2pqRExVWU5SNU43NTRrb05kMmV2Zmlha2w4Sk1rMUNMQmJQWER6c3JiTm5kWXBzZm5kZWhST3M4WHJsSXQ4OXRVZjJ3aDdhbmJOSlJVTzNPRENwZXZFNGMxaU1QNFoxTGZsRklVNmd1dlN1VnpYV21sSWc3bkN6Z28zRjBBVlZrSVRDS1QwS0dNUVNwemg5UGR3dTN3NEVPUjJHNGY3UHV0N0NqRjZqUi1MdGNiemR1amZDalZabm1UTnU1NA?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
