@@ -1,5 +1,18 @@
 [
   {
+    "date": "26/06 15:22",
+    "date_ts": 1782487320.0,
+    "title": "Is Sadio Mane playing? Senegal vs Iraq projected lineups for the 2026 World Cup Group I game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzhTbHp6OVZtb3V3aEQ0OWFCZXpfX2lGS3BuWm9ZTm45d2NDNm1mVW85OWp6em1kRnZRYVNRbWgyYThmMnM5bk1oOEVHUEJJUDFFTk80Q0VhZTd0VXR4ZExzQUZ2N0x1cDIyYlhRcGx3WmpSZjdWdXhHRVZ0TmE4eXNWSnh6T04taGxNWm50N2lxUFhUSWhpcDJuYnR2bHFxZ2YwNkUzRm5yUW9WWlNqbGNJY1I5NW51VjBKQWZ6VHc4WTh6YzIwYkln0gHOAUFVX3lxTE9yQ21jWXY4RkdrMDhSWkxfRkxiLXBKY0VoYTY0VTU4RE1qcGdZaV9oLVlwTEY4WEdTZmltM01lV3BYY3I0ZlByajVKTmhrVkdZV3ZMY3lULXhxX1pTTHFTZlR2U3l0SkFFSm1jSkZKRThaQUNFQ01ZTmVNN1l2R210MjN2aml0T0t6SDM0Mk9UMHZURGNEQVBfT0FlTUdZSnh4ZERBTTNqY0dwY25zZ3BjTEpNUEVvTWdZcGt3YTYyWG9vWm9rYUVKM3BUYVhn?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 14:10",
     "date_ts": 1782483000.0,
     "title": "Every Confirmed Round of 32 Match at the 2026 World Cup",
@@ -715,19 +728,6 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 16:53",
-    "date_ts": 1782406433.0,
-    "title": "World Cup schedule, results: USA, Germany look to go undefeated in group play on Thursday",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU0RVckFGazBlUUNaYjJGNTM1RFltb29MdHl5SGRLbTB3SF9TY0VSVGpCeHpQRm1OZWlYazhqN2pIenVqN1hjNjVCbHhoRlVtTzM3R3R5XzB3Q3NPVlY3eWNHSEdlLVFXSElVdHFqRzlPcS1qRE5aUm5jNUNONUtMb0tobXlJY2lPU2ZoYnptWEtSbjI4Mmc0eGF6dG9oZHdsR1ZtNHJkajRISGYtSHFQcTVXYVFKeVdicWVpRFlVbnZuVTloazBiSWlfTWZhVGlRSjljM3JDNjhLakFuZk5z?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
