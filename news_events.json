@@ -1,5 +1,19 @@
 [
   {
+    "date": "26/06 20:24",
+    "date_ts": 1782505462.0,
+    "title": "World Cup 2026 live updates: France vs. Norway, Iraq vs. Senegal, Norway rests Haaland and others",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUxScTBTQkt0S2hYX0h3UzdCcmdtb2lxb0YyUUVPLU9MdlpOclhLel9xOWNkZUJkZGRnSDQ0VDZ2aHIxUTBKU0lMdkhIZGh1ZVVvOGxQWDlIeE1WeE9JZGJjV3FJLUNlekFGXzBMekc1aTJNOENTS0hDT1R5SVFfZFZQM3hnTVd0QXF2ZUo2bUdHNy1KU3k1TEdYLWliN0VNLUstUU1rMnM?oc=5",
+    "teams": [
+      "Senegal",
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 19:11",
     "date_ts": 1782501060.0,
     "title": "Norway vs France LIVE: World Cup 2026 updates as Dembélé hits a double in thrilling game",
@@ -714,17 +728,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 20:21",
-    "date_ts": 1782418867.0,
-    "title": "Primeiro gol da Costa do Marfim sobre Curaçao repercute na web; veja",
-    "source": "ge",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaE1sa2d6WXVrbm5OazJBc2tpZGJjdDZLUHlyVGd1S0duNFBsNE1xd0VKdW5QZ3dxd0pETUhSclRUUEs5bzZqUTRvR0JDam1VMzJsNTN4MExyOHhwNDhxQmRfYk9mRHZVRl8wRHhkSWg0Y3diajMtek5udDJpWUwxZ2xSYUdVVnlBWEVoMndnbkNaVG9MNWhxbmRJLTdMckRRa2JaSThfRFBLdE15TjY1MkxWQkVIaEFNdnNWSVdXWnFCczBoN2RlZzhXVXFmdkRX0gHfAUFVX3lxTE16ZC1Td1dCMkZfTG1tLVVZUm9hdG13X0FrQVFVMnl5eklMTktUUUF5X1puREsxX3B5ZzRYaDZxX0s5d056bVk1SkNkT1J4czNuWlFoYVN3Qk53ZUEtQUVGa1VJVUxuXzhSWEpPVzZYV2JpOUU0UWZCU1RHWk4waE45VGQ2cHBoSFpYU0NodmpBTjZnV0l2VXRlRmdQYS0zeHRaN0VaQzdwSnlCYUwxZ29fU2c5ZV9zVjgta2FmNlhndWZKZDhDWW5wOVQtNTRTWkdFSUFGdWxzUTlGM0czZzQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
