@@ -1,5 +1,18 @@
 [
   {
+    "date": "26/06 18:36",
+    "date_ts": 1782498967.0,
+    "title": "Norway vs France live updates: Haaland on the bench for today’s 2026 World Cup game",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlBiV05zdEJNcDh5MzNJenAzci1sSVdaUnpMSkhCdHptSzRibm0xLTE0OWRQazZCRWVyT1dtNVVNb0lEaThpdGh1MGppdGwzbFBrUUVsUUR0dWwtSVhvVkFIS01WZnlrM1I0ZHBpSmZqSERZU3ZWaDNCdjk5cjlIUm8tZlFvbnJxTzN0NlpUVmlLQzE4M2ZsWTV4TndPQ0RiTThyYWtWSzhlLUpDZ0FxUFl4THlzdw?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 18:30",
     "date_ts": 1782498630.0,
     "title": "Norway v France: World Cup 2026 – live",
@@ -33,6 +46,32 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUdTZjNPdktqU1ZvQ1o2Tkl1azQ2djljWmMwQ24xdGVYdlJMYlc2RkxvRlNaS1YxZDBKU2JWTS1BZjdWbEpENkttMF9EdHcyUFhIY21xZXVoX2Vtc0w0Tm04TTFvSmVoMGRCaWR6SnFGRUdYZEd5dG9MYlBJYV82cFNGNUVraWltZmJlYmRBcTRDYmJzRGo4M0ZrRkVPZlQ3Q0JBdU9WcG4yUQ?oc=5",
     "teams": [
       "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 18:21",
+    "date_ts": 1782498077.0,
+    "title": "Why Erling Haaland Isn’t Playing for Norway vs. France—2026 World Cup",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeTd3a0pOUFpVWGFhNERTOTNNSXVmOVJDRDNhMVRrWEVHXzEyTUJWd2IyU2RPUm5vdmI0TWFob3NsMzI1TElLM3dLcXVLTjlQVlhsNVlKN0N0VzRWLXJSWHQ0QjlEN1ZqbExJY0p4UUh4aWVJUUtqQlkzSlpwemE4WWM5WEFNSm01eDZpWWJhLWRVU2M?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 18:00",
+    "date_ts": 1782496800.0,
+    "title": "France vs Norway Starting Lineups: Confirmed XIs for Today's World Cup Match",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYS1ua3pEWmJ0ZnVSclZKb1pXblNLOFFZOWUxb1BaMkxnMGJPQ2szT0FCbEItQ09wT0taWFV1c1NaYkdLYlF3RjN3SlV5UkIxUEJRblRjaF9XMHc0QWUyc2tYcGZxRk5GbE93Zm9WYlZaZ0RjaVhHdVVVM1J0YU1pSEIwLU95MkhQb3BqV25ILUlZY2FvcGtiT0hQR1FnZzI2d09IMTU3cDNEQ3VRUHB4YzdsM3lDQzVTTGhBQWJ5bVQ?oc=5",
+    "teams": [
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -442,6 +481,17 @@
     "source_type": "news"
   },
   {
+    "date": "26/06 04:40",
+    "date_ts": 1782448800.0,
+    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 04:17",
     "date_ts": 1782447420.0,
     "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and potential opponents?",
@@ -672,58 +722,6 @@
       "Alemanha"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 20:00",
-    "date_ts": 1782417600.0,
-    "title": "Ecuador 2-1 Germany: World Cup 2026 – as it happened",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaHdGZWliZjhqV1RDS3cxSVJDbkNBWFVhRDlVM0hCUmFrV09jdUNyWkx6SUtJV1ZmQWRGWlU1REtLRFdWU0VXVHZESnNrNHF2dTFtdGY4eE1lYm9SV2Q1LU1NS0lnV1RvOFFnWW5EaUdaaklITVBxYjhqdUdUbHlaTXZISHpUWWRLSVc3ZzNnTEFEeFhjOGc?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 19:25",
-    "date_ts": 1782415529.0,
-    "title": "World Cup 2026: Is Assim Madibo's five-match ban after Ismael Kone leg break excessive?",
-    "source": "bbc.com",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OXzcxR2lHdXZIVjlVRlptRXVMZzA4Qk1FS2dZQ3NXb25OLXRYWlA1U3F1RVowQzRyaENQc282NHd0WjltZTQ2RGVDRFpXcV9Xc0NfWmhERlpPQmM?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 19:24",
-    "date_ts": 1782415489.0,
-    "title": "Ecuador vs Germany Lineups & Formations Confirmed: Predictions World Cup 2026 Group E",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDFsX0lVLWU4Tmw5UnhkUWxGY3dIZktNUENRdFVERTNZMi16ejV3bnNzYWhpaXU3cnFfS0pZZlVhQU42MW9vOHItMVlKVDBzb2tqSXNNcGxVdEtHRUpxLXNXZzBmd0xvNlVMaUZVTGtMOFQ3UmRYZDZNY1JvZWdIVDNHdjhwSDFIc1VNalhaZlNCMENjRlhzbllXeXNzVGJ3U0pxUXRMNEFDbW5HVHU3RmhaeWYxT1UyU0FR?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 19:23",
-    "date_ts": 1782415394.0,
-    "title": "Ecuador vs. Germany Lineups Confirmed, Starting XIs for World Cup Today",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkVwRldhdjZZN2hROEh2aG9NQjRpVjkzNGI1QjBPZUJnbkRvR1RweURWb2NkN3Z5TmFuZ0FMTXBYRHVYSUlZTFJyd3V2RWU5RFdlUHhFRS1McjVOZkdEbDREM2RUOE1VMVBRWDZLUkZaNVlnTnU4QmVlMGVFT2xDMlhLSEdPV2o0aUpUN3V2ZTh1cktSWUtzbldNcFdDTElCV2JQeGE0NmZFdkpNcmc?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
