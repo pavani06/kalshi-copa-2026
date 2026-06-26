@@ -1,5 +1,110 @@
 [
   {
+    "date": "26/06 18:30",
+    "date_ts": 1782498630.0,
+    "title": "Norway v France: World Cup 2026 – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDhqcFZaRUdlb2dFSWg2Zk54MTA5WnpfZjM2dXB1bmdZNWllV2xRRzVweFpucGNVN0xYNERSNkNYcXhqR1dpMFJSZ19SSlpoWHVlZTVpeENmSkszQ3g1Vy1aaUR1Vm83bFFvSW5QajBZaWhFdWtpaXhVazBSNGVDNUstbG9TclJUX2lGN2FOWnhqcEVseExiZEtRS1VRUQ?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 18:28",
+    "date_ts": 1782498519.0,
+    "title": "Norway vs. France Lineups Confirmed, Starting XIs for World Cup Today",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVFOG95UjN5UVByT29sTVlRYmNieUI3eTVXbkZ0Ql9FaWxubjJCeDYyTlF0cTM3M3NvM2dWV3dJaEwxVHRsQzJXYU9TbUtWNG1zNjdETnhfQ0dnTjdhQk44elBoMXZkQU8zNTNpb1I2ZkkwQm5Xdk4xWmhleGhMa05Mb1ZjYkxxTzUxRE9pMDhiMnZ1SV9VaDY0UFZ0Zmd6eUJFa2xpRkhxdkE?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 18:27",
+    "date_ts": 1782498427.0,
+    "title": "Senegal Lineup vs Iraq Confirmed for World Cup 2026 Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUdTZjNPdktqU1ZvQ1o2Tkl1azQ2djljWmMwQ24xdGVYdlJMYlc2RkxvRlNaS1YxZDBKU2JWTS1BZjdWbEpENkttMF9EdHcyUFhIY21xZXVoX2Vtc0w0Tm04TTFvSmVoMGRCaWR6SnFGRUdYZEd5dG9MYlBJYV82cFNGNUVraWltZmJlYmRBcTRDYmJzRGo4M0ZrRkVPZlQ3Q0JBdU9WcG4yUQ?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 17:59",
+    "date_ts": 1782496759.0,
+    "title": "France Lineup vs Norway Confirmed for World Cup 2026 Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3ItVVJPdnVjWVBfNmwwVkVhUzlXa1prR1dTMnU4Q1gtZEp6TmhWRW9fdUVJNzZVa3R6bUpDTmJnUmxCR2thOTQ2MUFXSDU3ejc1dmNNaE5RZjBoVHdIbXY0dUkwY3FJdW5SemJ4azRkUEkyTER1Wjl1cG1ZQnVZWVoxUjhXVUpNVkZMNGd5UGJSaDFmOGZCSWlQd0JwT2E3Qk9iN0l0TzB5dXM?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 17:59",
+    "date_ts": 1782496759.0,
+    "title": "Norway Lineup vs France Confirmed for World Cup 2026 Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1FNcGVodWhrWkNsMWhScjNaY3BxRVh4RlBoS3FhWHdqMWstUmI5Rng3S3o2eEoxUlFqQVo3b0JRUl9NMWRhUkdOMWdqWGpmb19PbENxbzJUY3pSQV9CbmJ3ZFBVS3l2LWF3LW1YM0p2N3lpdjY3bG5Zd2xCS0ZxLW4tanQ1SERULWROU19QRmFpY0dGYlZtRF9wWjBfSjV4dlpCR3JVanE1elE?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 17:54",
+    "date_ts": 1782496499.0,
+    "title": "Norway vs France XIs: Starting lineups and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkl0UmtDek1sRnNmSE96OWp5bHlvYmVIQU9KbTFGWmgwU2hxWU9lbnlhcmpVMDBNbE9mWG5PTDlvQU5raGtnWk51VWl6Tm9NOUx1ajllMEpVaXg0SFhjR01Mc0RrVk1nbXEyVENEcExkOUFLdjZCbDg1bDJBWnlTTVBvU0JwYjg2UGhzb241RTZBMHhWN1RLck9QTS1SRU5tRVhJRUlCb1BmMnhXOGxxazloTWlNVUduWm16SmEzVXNBelJweDlpdGo4bXRqbGVQNTh3cjdYY3VZUXNxc0FmSWgtWW4?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 17:38",
+    "date_ts": 1782495488.0,
+    "title": "Senegal vs Iraq Prediction: Picks, Lineups & Best Bets Today for World Cup 2026 Match",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEFBTzZjbjNQaHN5SFVwbGZ3U2g5SDBlNWt6VjQwWG56dTBfS2YxTjl1czRZZVRiMzhlVjQ1UnVybWVhWnR3N2dMMGt1d1lqWmk2cDNBNXZBd2M5T0dlTUM2RjlBYjMwa1FJYTRVWTJIZjRleGtpZ0VUTUU4UkJ4dzhsbmE5bFQwdjRVR1F6UTYtamxGNS1Ya2Q5UUVibGxsODgtMU1SYVJMbzBfN3lXbGJBQktJSkZCOVE?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 15:57",
+    "date_ts": 1782489465.0,
+    "title": "Portugal World Cup 2026 squad: Lineup and tactics for Colombia",
+    "source": "talkSPORT",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93TUZjYmMxZ3VBRU5GNHJzemo3V2sxZjZHdF9taFRWTVp6OWd5NDdOQ1NCZUNyYW9VYTlUY0dUQ2NVREp5N2gxZVdpQ1lNRm5MZnhfdlJIZTRjdEJ3NGU1N09nUGhvM0pzdGJHYmd0c3pqMDhDWF9V?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 15:47",
     "date_ts": 1782488844.0,
     "title": "Are Haaland and Mbappe playing? Norway vs France projected lineups for the 2026 World Cup Group I game",
@@ -22,6 +127,28 @@
       "Senegal"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 15:00",
+    "date_ts": 1782486000.0,
+    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 14:56",
+    "date_ts": 1782485760.0,
+    "title": "2026 World Cup bracket: Scenarios, schedule, knockout stage predictions",
+    "source": "AL.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oc3NEMXN1SUJQZjF1YjU2d0VTRVp4ODJ4M0hNNjBmTFB0YUZOcmlOTzlHRmV0RUlUMy1mVU83M2Z3UjdTbWFHSC1td0lvN2pyRjVyZ2lWRzYyWHdBNWFj?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -597,134 +724,6 @@
       "Alemanha"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 19:16",
-    "date_ts": 1782414998.0,
-    "title": "Ecuador Lineup vs Germany Confirmed for World Cup 2026 Game",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2J3WHVmalFaWTRnMkYwS0paQ1NOU3BKcDZQVUx3VHhHZDFWc1pDei1BSDJOeWdHaHFGZ3B5N1poaHJxbU9FLTFRT2RRdXJsMUNYX1dvVGFrc09JVEIyc0RuQ1NZclNUcVBFQVBvYWdGNHFZcUtFSXFEU1J1NnV4a2Q0VG12Q2RwaFE0Rmk2UVZDcmJVSFNPNk5oX2lZZVROeGtJTm12QnZqTGdY?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 19:16",
-    "date_ts": 1782414998.0,
-    "title": "Germany Lineup vs Ecuador Confirmed for World Cup 2026 Game",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkdUVDZUd0s5RHlKNWtPQldsVU9RdTN3VDNPb1YtcEU3MC1RRlhSSndvV21hSmxFaUUxS292Z0pPMHd3aWtPcExKdS0yUzRuY2tpLVRGNjhHVENhUGk3V1JpNllTVVhDeXQxX3B6ZlVtUE1IenBDaG1fb0NWM2tDeHJfMi1WZU1QVHRMZ2txMnV4NDFlU2I0UndSUDBfdk9mMEZjUUgza01xZGxt?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 19:16",
-    "date_ts": 1782414998.0,
-    "title": "Curaçao Lineup vs Côte d’Ivoire Confirmed for World Cup 2026 Game",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTFWMk81VVlTc082a1dLRDh4UUlObDFDWkdjOXNhTGFOS1p3Y1JJWDRUdGlRM1FhbE5HR01iSnZ6eEdXX2M2MnhyUTlXLVUwdkNBUUdQRWw5REg3eFpwcWpvUF82cmwwdkUyWTRqQWEwTklhcHNQeUNvR2dLMmFiZW56NmY5QmQ4ZmctWGpPQXhkZHZ3MmJ0MWIxNGxIWGd0Wldqd2NrUXpPeEZJX19YdVJmVQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 19:00",
-    "date_ts": 1782414000.0,
-    "title": "Team News: Senegal vs. Iraq injury, suspension lists, predicted XIs | World Cup 2026",
-    "source": "Sports Mole",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONkhIa3BZS3pvN2gwSHM5UWxqVHYzaUVTZHptVTFZa3BPLWFzSXVTb2c1aVBpMkI2WVZTYUtEb1piQXFIZzZYbUZkMTZfR2xyU3ZycWJOX202WGhWNmFDakZPY2NTU2RzY2ExdWdmRFpJSE91TWpOeTEzbG55dWdpb01PLS1ieTdLS3pXZGFEN3NOdHE0RXZ0TWxYeTI2enFwRE81NHBiY0dyUnJyN1RMam1hM3NpX1ZkVGJOS3VuUXIwQW5kMzdDcTFQTWtRM0NRR0E?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 18:59",
-    "date_ts": 1782413959.0,
-    "title": "Germany lineup today vs. Ecuador: Confirmed Starting XI for World Cup game",
-    "source": "Central Oregon Daily",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSXp4Y0g1ajN5Z2JFWkswZ2dybDlRTHBhYkdwcE5ucnpVODlQZlVrU2tBRXhNTWFwWmtNWXI4X0Y4Qlg0NkdrZ1hqU0g1OEp0MzNOaXBZNlprMFJrVTNEM1FvM3ZwSEFGb1ZQcGcxYjRSdmw2SjRLS09wa0dXR3l6MVluZXRQTjhpUndPSXViVS05enB1UVRkQk93S0ZEaVlvV29Dd05tU0ZlRlMzMG5RTUpveVo5bTAzeEdMMllHRVlhTEtMX08zTHVHRFNUT0RLUnlsdU9kZ1FnSW9rYkM4V251dTJrSklIMXhGWDNSWFRXRm1sTDFz?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 18:54",
-    "date_ts": 1782413687.0,
-    "title": "Germany XI vs Ecuador: Starting lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0lhWEZlZjJ0NE0xWTFQTENHS0ZLYkdGbGRiNFpBZFE0aTdjdWVKNDBJR0RLVnFmVzVpMGJTNk5pcW55eHZYVWYyZ1JlektPOWs0NXNnZ3hKY2lBeTFFemRwSGpjUEQ2SGc5UmFOZHhnYzgwT29YbTQ1NXcwT3dYQUw5c0dOdERta3lfTkJYaHFOM0ZSaG1GeG9FWFY5ZjdiXzlCN0lBNktpY0Q1RXNFOEg4ajVWQ3c5ZXE3TlR5RTZhcTUwN3pCMzMxM0tWTFVHeFVLSUw0OWo2SUNuSWpILXhXV1IzblU?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 18:41",
-    "date_ts": 1782412860.0,
-    "title": "Confirmed lineups: Germany vs. Ecuador",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16SXMyc2ctSWlQVkpCY3Q3VzhycmQ0WTJBby1YakdKWXBNRkZidnM5bmxTRU9aTlM1bVNWMmpTMjZsa0VwcjMtMWVVaTVTQVl4bTVWRENKUHh1Smp1cFQtTElXWmg?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 18:40",
-    "date_ts": 1782412851.0,
-    "title": "Ecuador vs Germany: Confirmed lineups for the 2026 World Cup Group E game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeDBuTHRfZGtsOVo5TThrOG9JY3E2RjRialNRYU5fbGtyamdUbTh2dlRBWnNCbU1Zc2FtSFpfTFRrcWg4bEVzQmIwWm01c205a2hhQUJuYVZqdm9BSUNlbmdmbHBEMnBDdHFXVXFRUWNnU0xBc1JrRWhCTjJsQjdpZ0I2SEJmR29jQ3o3akJsd2V5U2U3NndRdTlXZmhhT3BPbmp2TTNJLV93bWRaNG9TMtIBtAFBVV95cUxQYXhib3Nmb3hCM1lGREp5eEdmZnY4MXpjWHd3WDhpVGc1MXpDaU9XY3RwYzNuVENZMjRHODlSN2k1SGY4OFRQbkdiZzlzTHJDNXhrRlBxU1htMDRtOVprb0hfM0VZdGtBd3d1VlpQMWlpTWNWMS12eXU4Q240eXktcHRyZV9hWHhjZ0RoUGlINzBvNEh1Z25mbnc0ZXVTQzRlV29TN2czZkxBN3hTU2VPVlFSV2w?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 18:38",
-    "date_ts": 1782412680.0,
-    "title": "World Cup: Yan Diomande’s Côte d'Ivoire aim Round of 32 as they face Curaçao",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjBXSm5tdGFEc0VzNktvdHhkdlpsZkhad01qUDktSzJoOTczbnhwWktwdmV3NDJiZG9PY0JtbEwyRnVWV3h6TDM3S2VFUEljQ2toMGc2SjJfOWRqd2w2NUE1R0FNOGRKVWRLM29hYU95dTZKc0FQeG1RN1JaSldpYnhZMlgxcGZxTEZjUF9UUQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 18:03",
-    "date_ts": 1782410580.0,
-    "title": "Forecasting the World Cup bracket – and the best knockout ties that could be coming our way - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkRXeUplTXc1MkxhakFCVXg5cmR2dHJNbV9Oamh4bVU1U3JtWG1iMXA3aDhZTjNxYjhaVUdXYTM1Y2hsQzROU1BkeDBtcHJrQ1VWc3cydHVxdkdRc08tcjJ2OW51dk1sak9TR2Y2N3BqdmEwY3EtcXl0Qm5UNGdwVVR5RDl4TDhLSVpqdQ?oc=5",
-    "teams": [],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
