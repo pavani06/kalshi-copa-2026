@@ -14,6 +14,17 @@
     "source_type": "news"
   },
   {
+    "date": "27/06 10:44",
+    "date_ts": 1782557064.0,
+    "title": "Which World Cup third-place teams will advance to knockout stage? Here’s all you need to know - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQUZjUl9JUl8yUjJlRXMwLUlKMEVRNjF6XzF6alFxeU9DMndreWpBa0hCZTVRd1ZySEVUNnRYZTdoZlRTTVlKTkxMMWlSM2RSVVA5MFpkS1R0NDNtZWlaNHR5OEVpY1cxTFNzMExUTEprQnRiZGVWZUhNaUVKT3dNdF9XTUFvUTJ4MkFXRVdIcGRCQQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 10:21",
     "date_ts": 1782555671.0,
     "title": "World Cup 2026: England through, Scotland wait goes on and joy for Cape Verde – live",
@@ -155,6 +166,19 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 05:15",
+    "date_ts": 1782537324.0,
+    "title": "Every Confirmed Round of 32 Match at the 2026 World Cup",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -722,30 +746,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 15:22",
-    "date_ts": 1782487320.0,
-    "title": "Is Sadio Mane playing? Senegal vs Iraq projected lineups for the 2026 World Cup Group I game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzhTbHp6OVZtb3V3aEQ0OWFCZXpfX2lGS3BuWm9ZTm45d2NDNm1mVW85OWp6em1kRnZRYVNRbWgyYThmMnM5bk1oOEVHUEJJUDFFTk80Q0VhZTd0VXR4ZExzQUZ2N0x1cDIyYlhRcGx3WmpSZjdWdXhHRVZ0TmE4eXNWSnh6T04taGxNWm50N2lxUFhUSWhpcDJuYnR2bHFxZ2YwNkUzRm5yUW9WWlNqbGNJY1I5NW51VjBKQWZ6VHc4WTh6YzIwYkln0gHOAUFVX3lxTE9yQ21jWXY4RkdrMDhSWkxfRkxiLXBKY0VoYTY0VTU4RE1qcGdZaV9oLVlwTEY4WEdTZmltM01lV3BYY3I0ZlByajVKTmhrVkdZV3ZMY3lULXhxX1pTTHFTZlR2U3l0SkFFSm1jSkZKRThaQUNFQ01ZTmVNN1l2R210MjN2aml0T0t6SDM0Mk9UMHZURGNEQVBfT0FlTUdZSnh4ZERBTTNqY0dwY25zZ3BjTEpNUEVvTWdZcGt3YTYyWG9vWm9rYUVKM3BUYVhn?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 15:00",
-    "date_ts": 1782486000.0,
-    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
