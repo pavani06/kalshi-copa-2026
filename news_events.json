@@ -1,5 +1,31 @@
 [
   {
+    "date": "27/06 20:30",
+    "date_ts": 1782592257.0,
+    "title": "Panama v England: World Cup 2026 – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzJrYXMxR21PMm1iMDd2MEVtUXRtWDBxdG5GWURXenJQeGJsSVFnUkNrcVBqdVVYY3pXemNycmxnSmFLWFY3dTNKZlpCemNVbzc2cEdYWHlPNFNsb3lVeGU0ZUpMamNrM3k3eFVBdFY5b3d5aGo1MXdTaVNWVnIxWlVUSzNpeTZnUnJ3SlVqbzYzdTRFWktNdXRMOGVKUlk?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 19:59",
+    "date_ts": 1782590360.0,
+    "title": "England Lineup vs Panama Confirmed for World Cup 2026 Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcU52MHBiV3FUaENmaEEyZ2R1ck5VZ3dRYUtocHM5d3NlWlNQSHZoUkN4Vl9fZTM3OE5jcHRXMDJMRUt4YnlzYjhFSUJtZ284U0pFNDJoOXpUYmRXaS1TdE1VLUh4SE5uaVFZanZzY211TExGVmQxcUJiWGxkbmJYbDEyUjN5di00VEVGdjZSVVVWRk52d2x4WlcyT1A5ZFNxSXFSc2taZkdNRksz?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 19:59",
     "date_ts": 1782590360.0,
     "title": "Ghana Lineup vs Croatia Confirmed for World Cup 2026 Clash",
@@ -110,6 +136,17 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 14:15",
+    "date_ts": 1782569747.0,
+    "title": "2026 World Cup: Each team’s chances - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -391,6 +428,17 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 05:58",
+    "date_ts": 1782539885.0,
+    "title": "Which teams are in the World Cup round of 32, and what’s the schedule?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOemdHSlNYUHRGX29HbnlNTnQxOTF6LWhUazdVSGJTSnRLV0t1bGUyclk1UDB1M2RZN2Nwc044VGF4eUNKWU10RkY4amtuZC14bm0yVnFTTG5CT1hnT2VDYUZsUV9kRktwYU9xWHAxOWpLeWhTSFlMMXZuRWNCN0VtQnA1TUpqRnByclcxZGt2dmV2N3dOMmJOUjJNTnljVE4wNDhicldDWDQ2VE9KR0xn0gG0AUFVX3lxTFBrTE1PZUxHRzlBQ3ZUTzYxTHh6UERncWtiNVdvZ1hDWEI2eEtDRWJJblBidWQwMUpreTRMMHF3MU9ZQk5UcThOZ2FvNjBHUUpfQWJERUZKMXlDNlE0MWRwTUl4cFpBQWhHajlhZFFkZDhHalBDdjZCaUJfaU0xRmgyZy1ZZGotNlhHQWFCRHFEM3dqMnJDZGVaYWx1Qi1lUW9XLVZRMU1YMXZQZHBlLWNKdjlQeQ?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -683,54 +731,6 @@
       "Noruega"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 21:20",
-    "date_ts": 1782508850.0,
-    "title": "World Cup 2026 Round of 32 tracker: Who’s qualified, who’s eliminated and who’s still alive",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdFFQQjdURmhyUXZFRWxqXy0tMnhtcEY3OTBlb1htQ0pfXzliRk9wY09YaXd5Y1c4UHlCLWpCN0dBZV9mRDZZU2dncE96RlFEOXJYQ052ZUVOQ29fblhGNXNVVjJBYUZNNGNmeGdjNEVxbUFIczBZREZ5XzV4V2xnSTFDVjJ5ckc2OVNOX2FqUzU0X2RLZ2t0SmVhNEZVY3JobVlqSk12YUJ5UWFpZ3RIRnhsSDlHX3M0WGxIWVhNaUpJMk1WRTQ3RHFqclJ2YUFVYW1qcm54YmM?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 21:16",
-    "date_ts": 1782508560.0,
-    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 21:11",
-    "date_ts": 1782508288.0,
-    "title": "Norway vs France Highlights | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SdEVtQ2QzLWhmU3ZLY0lLTk5xUjNkTEJNUDRYR1lKY0VwbmFSc3RZQnY0VnZxSkM2Vmh1UFpwcjRnZlJ6NERnN25COTJidjZMVEk1YWlNSi10U1VPeWtIdFV3?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 21:09",
-    "date_ts": 1782508166.0,
-    "title": "Uruguay vs Spain Prediction: Picks, Lineups, Preview & Best Bets World Cup 2026 Group H",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTBzOFdWTVVrTms1UHRjMFNLZkh2NkR4V0ZoRXhnZDlkZUFCUzdoc1FIQl9BXzdqTUYxWk9ocUZRd3BSQjc5dlc1ZU9QRUNFY1ZIVFVPQ0VzQjlMa2UtT3pmck43R1VoRnhwcUZxclRGZHF6emFSaFpMcEJGVmd0dG1rMURYODZDdzJWM1IyOThBSzhWVGNMaVBhWWhkeV9nMXlrdm9BWFJ2OXBYcXA3dWNtWEluSDc3eDFN?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
