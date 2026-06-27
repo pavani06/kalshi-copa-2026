@@ -1,5 +1,43 @@
 [
   {
+    "date": "27/06 23:01",
+    "date_ts": 1782601260.0,
+    "title": "World Cup 2026 live updates: England defeats Panama, Croatia beats Ghana",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUs0ZmxXdnJoMWs1VkFObDhIc1c2ZzBFNktBclBfRzIteEFhdFhPT2sxUWo2Zm50N09nYUNRYkFSNWx2b3p4enBfM1ZFc2pIXzMzekhuV1U5QTVWc0Ric1gtTXd0WVdEaUtUZGRhTWF3VnFSRWNOOHhzUXdTWmstY2FZUy1fZXNqNDI4Ti0wZmdCdHRnZk9sMzBtRWVnMGlLNERvdFRTdWg?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 22:12",
+    "date_ts": 1782598337.0,
+    "title": "Is Cristiano Ronaldo playing? Colombia vs Portugal projected lineups for the 2026 World Cup Group K game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjNnYzhBMnF3SFRoQkE5Zk1kOFkyMTVyTzRvbWpfNVBHTUVkOGw1U2lkamEwR1FKYWp5SDZ0eG9YNGhicnJ0elpheGFYaUY1ekFzelV1VUx2VWc3TXUzbjljTE1aRjdWdDIyZktpT3BPbnNucjlGM2F3V1g4UGQxRU1rMENTTGFWRkZCUkptZTBvbXJjdlNqY21STGNael9OU19xSHdhTVVYQ1Z2YVMyQ3I2WngzQmowczNrOHJhQ3pyLWxiaWdhd1VCbUdsN3RuV1RUbnpSaXJzQQ?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 21:57",
+    "date_ts": 1782597472.0,
+    "title": "2026 World Cup Bracket: Live Look At The Round Of 32 Matchups",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1hSc0FVc1ZNZjZqU3puWlFLYWcxWVhnUjNHV25jNU9DNWh5TzBVcXpzdVdsMGxaRUpqUFlaY2RnV2RZaDNCMnF5QktVZWJYNkFtVHVfMEx4OGtZVUpockJ3elF6UHNKZGNYTjJUeHVsdnJCNHRETExPcy01d1A1VWtWTEtwZkFE0gGIAUFVX3lxTE8ySjlRQ0JsTmFKMlBVS2c4MWN6eS1SOVRISExSbENFMUluZ2pCa2lPOVVvOV9oTG5waXI0ZlpLVkFyekZQaVMwcnJPY3d4bEtIaGlKdXpSOTlxcDl6Nk1zalhfdHpUWnhGbk1INE9NOUhESlNjeklnYlZoeDhHYy1vSTZjNUhNc0I?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 21:45",
     "date_ts": 1782596701.0,
     "title": "Colombia v Portugal: World Cup 2026 – live",
@@ -36,6 +74,20 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 20:31",
+    "date_ts": 1782592276.0,
+    "title": "Colombia vs Portugal LIVE: FIFA World Cup 2026",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWdjVldBMmUtNWVObUV0SF9wS0ZQYnY2a2FjbVplMTZkY2wzaTF3eUJLRGU5VDFERVpFTi1sZTh4LTZSU2UxTTRxMHJVdGFkX0YzWkRiMmdNd0M0NUtKbHlrV2FtMklfV2UyTWhLaDdOLTR4QjFMdzNoMFM1VVk4ZnNrUFA3b08xRnV2VzFUanNFTWhzaWZQdHNZYV9Vd9IBowFBVV95cUxQZ3ZqNXdxMG42bWp2VGhFWU5JZE1xVkx2QkJyTjdON01SX1kybXVzUEN0QUtGb2VtVnRwTHBlejBaWUVXWHdISk1uR3A2REtydGtTZnNUVE5rNkNucmhRbnFZSVlkTjBMbTl4dnVoWHV3YXgzQTlWYndJOWRWd0Z0dHRNNERuQmdyZFJEZTN2c3kybk94MVJwX3owb0kzVVpRb0hn?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -88,6 +140,17 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 19:42",
+    "date_ts": 1782589360.0,
+    "title": "World Cup 2026: Early odds, picks for Round of 32 matches including USA vs. Bosnia and Herzegovina, South Africa vs. Canada",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMGxWWVJMMEIxb0RnYlh3WExNUGxZdDJtVWFhUEZuYWZzU0lJSDY3dHB4Tl9NdWU5SzdBTGhOR0hvWnM2VnB6eHRHa3dzYmlHMU9saWk1anljeDI0dFZvenZsOE5DczdpUEl4UG1kUkg3RG1wUmEtY09KeG0xZExaUlowank3R1dhZWNQdjdLZjFhTFh5cU9uRWstVHluaTB0NHNMYzNxM0dlUnZSTFd4czh3MlZPWnJ2SDF1SG93MnhkNXZwT05sWDQ2N1VKTWpUa2xBSDZDQTJuTHg4cXRHcWFoZmJKdE5kZk5ZQXZJN1o0dldHNk85WGIydVZZLTYwME1xZXRndXh4Q2FRclE?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -349,6 +412,17 @@
     "source_type": "news"
   },
   {
+    "date": "27/06 10:43",
+    "date_ts": 1782556980.0,
+    "title": "Scotland's chance of qualifying for World Cup knockout stage falls to 0.07%",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWtiNXJST3hHcUx3RFFLeXJZY3M5SWUxNzlkOUxnQ2JFS0ZTc2Z5anpZck9nbUMtOUM2ZER0MXF4UmIxdjFfa1N5d1FFalpac1BtVGFrVm9QcVFFcXV6RTA5eEpSakVVVHhtVXQxVTVFbWZBWTlrYlFJVnhQTjBkUXVJbmVrS1JOd2NFVDhua3VVQWQ2blNYdEtB?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 10:31",
     "date_ts": 1782556260.0,
     "title": "World Cup Buzz: Egypt's Mohamed Salah Exits Match Vs. Iran With Injury",
@@ -372,6 +446,20 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 10:11",
+    "date_ts": 1782555093.0,
+    "title": "Portugal predicted lineup vs. Colombia: World Cup starting XI projection",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOUxXSFVhNTNEaGpvX1pOV3QwZk45LVkwc2J3TjVKcTlrRHg3WV9Pa3lQQ3hLcEJfVVRVdmYtOEdxNTV0bk9WVUZ2NW5wZ3VFREt0X2Vtc3prWE56ZFktV29IODR0X1pucGp5TnRBazl4M2hyOWk1Y2JVc29Ec0dFcnRXZEpsQkdlVjNnSEZfOFdoR1VCXzZPQ29ZaGJaQkRsV2kzQkVWQjF4Wm9wNXloRWxPT0RQZnVFT1E?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -647,91 +735,6 @@
       "Colombia"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 02:05",
-    "date_ts": 1782525900.0,
-    "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and potential opponents?",
-    "source": "CBS Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOektvRWQyaEJLdUZ1R0w0RVRuY0J1WDFxXzNBUGtYR3Y1dGplTEZVb0VEUExYT0NGT3FOdGo3dFNobUhNUk45RlcwOW1faDV1ZXRSTldjTlFQT2JoWWlBNFNRVjZReF80MVY2d2prSVVnSi03VFJDY3p4RXloVHBEVUJsY0dJenoy?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 02:04",
-    "date_ts": 1782525857.0,
-    "title": "Com falha bizarra de Muslera, Espanha vence e elimina o Uruguai da Copa do Mundo",
-    "source": "O GLOBO",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd3ZVNkJXX2RJajFZbExwTzJsT2ZpRHNtQzhxSVlBVEVDbmVmWGRRYWc2bUxsRHM4R1pJamYwWkxEMDV2YTFicUlPQXdROUk5V1M0bkJ0a25jVmNESGdQX1RSY2lpRVB5bE5kejdOZ2JRYjRQVEx4WmVQQUUtZXRKWU5RNUZ2ZFIyTnJnLV9hZWZsVFJ5QXZ5Q3EzZ2N6a0VYV3drSkJFWElwS1doQU5OMkk5MU1ZZHFVemcwUVBObHRpZUNDek85VkVMdHpPSG80d1UwRHc1cDVXN3E4cEZFalRZZmt6dTR5S3NUQWZB0gH8AUFVX3lxTE5TVExnUVFnU0VnU2tFeEl0aXlTR1F6eFVzU2dPS2JCVktodUdQQmN4anQzT0xjeXdDT0NkNWNOcEE2bDc1WTc4X0xYMEY2UzVCc0NZWGpnNklyZXdqSzFLSWd6WDllNDc0Qjh2d0JYWjN6MnUwZWc4YzkxR21xaUtSdlFoal9KUzJxdDVxNWx3ZmpwU1BxRHg0d1hJZmhRZ1REYUtmVEtmNUV1Qm5kU215bzJXanlSZFhJRmtYVjdhSXZfOTZMNTgyOVFQYnVaWHJ5cUx2UjFNaDJqX1VqSVF3MnlhS0V6VS1naDBzOGZRdTA1cXNUNkQ2c093SQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 01:12",
-    "date_ts": 1782522736.0,
-    "title": "FIFA World Cup 2026: Injured Reece James to miss England’s final group game vs Panama",
-    "source": "Sportstar",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2lPZnJQdldpOW9TcTJjUVdEakJKQUI1RUhBdWszVlJYUWpkR0ZtWTNnUi1NUk8xSW1TXzdHRl9XblFyU3FKMW0yU1V5UUhLN1Q5ZkZWd2h2N1ExcEhWYUJwMHd4eHNJVFNMUUx3R2hXdnNUNmhxREhycUhyWm9pWURmNU1uU2k1OWpiMGl4cGdoSnBndmMtSkJyVEJtMkpyMzl3UjVrbGRlMnJuZnJ0Q2JyQWxnNHlHTDlpMk15ZHZVaDdXZktQYS1DMNIB0gFBVV95cUxPN204N3Q0RkhVOEVmZTlUU1hocVNjRXNEYVl0S2d6RDF0Uy1TWUpWYUxUdjRpVl9ST1FJTmxfamRVc3M4NVFxLXFXa09WR2JKSGxnRHZ5Z0VIZG8wUlUzS2xpTERxSlVIRkFRZDRzYm53UldOc0VKQzVLTEFfN0VDY2RjZnZBYlp5bVJkQ1dTb0hCNmdhWk81TVJrLTFXakVvTU90QktkUlhqbDl5TkVVOHdQREtyVUtaZHdGaTAyOVl6a2xzZVladnhmS25JOUZiUkE?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 01:10",
-    "date_ts": 1782522614.0,
-    "title": "Egypt vs Iran Prediction: Picks, Lineups, Preview & Best Bets World Cup 2026 Group G",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGJQaHIxQU9DdGVQM0FoOXo3Y2NjRDlZbGU0RFVQRWttd0ZDaHd1Q20xUGtLTVNuOHZBcGZuSFFoWkVIdk9WWlBzYjhSZUxsWUZ2aWFXQ25KUlZGbDc0QlhBTFZzV0s2UEJ1eTVOM0ZtLWFWSHlBdUR3ZWFnNmcwY0ZzT1Q0MVdUbkxNUng2UWZaZW44N1YyR1QwX3VZUl9uT2VnVVJQeGVlUkRrSU9OMDN0TU1MNDQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 01:00",
-    "date_ts": 1782522000.0,
-    "title": "Panama vs. England—World Cup: Preview, Predictions and Lineups",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXpGRUFnYUNzNlpSN2xfQUZTTlE2VW1GRmxaaUdQMG1LaWRDZXp4Y2VxOXVQYlUweDhXUDFtVU9PdG9TTDFJY1R0LUNSaTFyWWE5UTNyNVhDN2VJeTlOSDI3cXpFMW9BNERKblpSUjFJSmQzOC1kRVdUMzVvdnR3X1VGYlNIbURPbFNDN1VmWG5UbWM?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 00:43",
-    "date_ts": 1782521015.0,
-    "title": "Muslera falha em gol da Espanha e é substituído no intervalo; veja lance",
-    "source": "ge",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZzJ5LXFhbXFCWlNuY2dkUEkwcmFGUTh2bUF0TVZwdUc1djk1SXQ4ZXpjNGlrU2k3Tko5RU01THl3U3BVV29JR21YX3FqdTlFY2lHdzR2X2Rkd1FfR2RsZHY2d3FMMXNNS0l5UXhBVW5KekxoMDRIOWt3dVg2eUhZT1RCcG5KdmpIT2RJQjcxcXJhQUtPbG9qS1ZMQVIwN0Z3Qm5Qc2FhelprYWg1SnJCU1BfVWNkcHB2SFHSAcgBQVVfeXFMUEp2Skd2a1pTeE43d0U0eXlCNXNCTmN5YXJUSXdkTWg0VjlpR2VsWGlwUjZnaXlmOFY5WVA0andiMW9DZDYtVWFvb2N2VXFoakJhdE5zX0ZTYl9hdXhVTmU0LTE5OXhVb253Y3ZkTjlkekUzbmQzZmdiejhFVl9sQjhlc3NiS1RjakpESUhOTDRSd2FkVTQ5cnIwZFN1S0E4QjRaOS0tOHJlR1E1XzNESkVRd0ZjaUVoRThySmFod09JQVdfZ1hKTVM?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 00:28",
-    "date_ts": 1782520126.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
