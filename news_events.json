@@ -1,5 +1,18 @@
 [
   {
+    "date": "27/06 08:32",
+    "date_ts": 1782549161.0,
+    "title": "England XI vs Panama: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTFhvR19MUGhfNjhlM2dlRUhpVG1ESG10RjlTa0sxVmhncmxyRVk2eFc2WWUxa0kxNERqUjdGRnVfb3dhQXV2anptT2U1TDBwcThsc3ZhMlI5MFZCWDdYSVNsNFBVN1U5ZXk5djJtUkZYYW9sWElpSk1NaGppdUgtYlM1RjR5NWc3bG5qS0t3UnlPUDMzcVY4T0NQdEg5SGNGSk80UjJHQ1ZYVmlUbVpQX3FPQi1ybFk1M0xrYWNYWWx3bEtvMy0tbVM2SFhvczgxMTlTcmVFT3YwRFNQX0paLUZB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 07:00",
     "date_ts": 1782543602.0,
     "title": "Colombia vs. Portugal projected lineups, starting 11 for World Cup Group K game in Miami",
@@ -14,6 +27,19 @@
     "source_type": "news"
   },
   {
+    "date": "27/06 06:25",
+    "date_ts": 1782541500.0,
+    "title": "England XI vs Panama – Predicted lineup and team news",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSlhzSEZDTWQtYVpuRV9Kb0U4YmpxTFpOcDFQV3lLQXBfdEQ2T1ZSU3RLcFA0LXFWTmpncjcwWmVXeGN5VFZ6eGRuOWhWYm9lSDdsX3Q4c0tVdDBCUHkzQVpDY011MjZIcjRDV3R1OHZWdFFFRkdQS0ZlQ1RBNEpBd0JKNHc1UQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 06:02",
     "date_ts": 1782540125.0,
     "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
@@ -21,6 +47,17 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmpsUVpmTVVETzN3NkUwSGZmREdZLV9JdmtQM1d4cGxHaGZKS1kzbjhtLXRaNkxWWmNCRkJsNDg2S3UyeGV2NGV6YmhaTkFZM3hRQ1hDbkVkTnJUeWt4VFZ6VFA5MG0wTkc3NGtfblkxem9EMVJGNmZuN0FYbUlzWTRDRXpGOEhhQlFPME5jWk81VUY5REhpb0owcmswalJjU09UYnZ3bE8wb0UwT1U4ZE9iSnjSAboBQVVfeXFMTWJJMG5LQnY4dlRmTjUwOHp1My1YZUloa1IzQm5YNTBrd2VPcnJmR2sxN29YMWRFOXZySFZzUVFzR0FNdmpWbm00LVZuNklfRkZMSzl1YjFZWS0yTVR2WEE4aVc1MFoxc1dWR0RyVVlJQXhseXNVS2otX0ZoLXBhdWZCRnhsMlhsdlJqLVpHcWlSX2hxTUdWVkp3LXpVTG00TmlCZHk3aEV0d25pOEdwcjdQQk11dWFfa1BB?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 05:37",
+    "date_ts": 1782538665.0,
+    "title": "2026 World Cup: Schedule and scores - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -44,6 +81,19 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 02:47",
+    "date_ts": 1782528472.0,
+    "title": "World Cup 2026: England through to last 32",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TdVN2cFBPdUIzTENSOUNHZUxIVHBUZ1RUQ1BxUDNOMGNIMHNULWxESHp0QTk0d3BNSlZNUG9TUDY0bjhoMi1UYXlrdEZST3pjT09qRUs3ZTh1RF9YR1dSc1Y3THB4dk0?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -103,6 +153,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 02:04",
+    "date_ts": 1782525857.0,
+    "title": "Com falha bizarra de Muslera, Espanha vence e elimina o Uruguai da Copa do Mundo",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd3ZVNkJXX2RJajFZbExwTzJsT2ZpRHNtQzhxSVlBVEVDbmVmWGRRYWc2bUxsRHM4R1pJamYwWkxEMDV2YTFicUlPQXdROUk5V1M0bkJ0a25jVmNESGdQX1RSY2lpRVB5bE5kejdOZ2JRYjRQVEx4WmVQQUUtZXRKWU5RNUZ2ZFIyTnJnLV9hZWZsVFJ5QXZ5Q3EzZ2N6a0VYV3drSkJFWElwS1doQU5OMkk5MU1ZZHFVemcwUVBObHRpZUNDek85VkVMdHpPSG80d1UwRHc1cDVXN3E4cEZFalRZZmt6dTR5S3NUQWZB0gH8AUFVX3lxTE5TVExnUVFnU0VnU2tFeEl0aXlTR1F6eFVzU2dPS2JCVktodUdQQmN4anQzT0xjeXdDT0NkNWNOcEE2bDc1WTc4X0xYMEY2UzVCc0NZWGpnNklyZXdqSzFLSWd6WDllNDc0Qjh2d0JYWjN6MnUwZWc4YzkxR21xaUtSdlFoal9KUzJxdDVxNWx3ZmpwU1BxRHg0d1hJZmhRZ1REYUtmVEtmNUV1Qm5kU215bzJXanlSZFhJRmtYVjdhSXZfOTZMNTgyOVFQYnVaWHJ5cUx2UjFNaDJqX1VqSVF3MnlhS0V6VS1naDBzOGZRdTA1cXNUNkQ2c093SQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -685,67 +746,6 @@
     ],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 10:14",
-    "date_ts": 1782468896.0,
-    "title": "Does Ecuador’s shock knock Germany down? Re-ranking the 48 World Cup teams after day 15 - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3FKa3lYcndLaFgxRnhHZjVDMG5WcnBPMjg3OHdZLTVlbkE5UlRHNWs0dHRGNWtkbzVLLWEzN1d2WDk2X0U1a1Fmc0haME9ldGh5dGpna0V3QXhVMEgxZ2tFVFhNYUgwRVdqZlhhZlEwN3hvWG1DQjBjRHBDRTJjWkZkVzBZak0?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 10:12",
-    "date_ts": 1782468734.0,
-    "title": "Declan Rice at risk of World Cup ban to compound new England injury fears",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDhBeHVwN1g0S2VvbHNNTWFKNnIzLVVzaXdadWlxMEhfT29ldTJFUE1oV29xYjNianBFOUZ3c2xydmZoU2thc0NTSkxhTk5vWTdDV05jMS12WFBwS0dzdWZ6ckYtZ1RLSUVTUlJSaDhYN0QyNWJzMURoSnF2LTRSTXhHbEo0cnZuNzNuUFEtT2tXNkRtTEdReUZpUnc0dHBDSlVVQ0w5bUR0cExvSnVz?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 10:09",
-    "date_ts": 1782468588.0,
-    "title": "FIFA World Cup: Friday schedule, predictions, standings, knockout race",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1ZrMWd0NXBZZ0tWbnphOFpvSndMaTh0eW40TmlPeTJRTFJIMkppSW1LNTYwTWluaUl6ekFPTWtxenVROFE0bWRHRnA3VTQ2bldsV3NyNm5lQ0hJc1NOcGw3N19kYVJyazF6bXBIclExLVBtQkxpb2ZETGJpbnN4Wml1OGVNRi15NU94WE12TWR3X2ZyekxtZ1pZaXZITWFSX1liTzNvQ2QzNHVidnfSAbMBQVVfeXFMT2gxeExmMURNQ2duc2NUejltZWlTVDZkOFJQQUdWcDRvV3VRanY3ZmlINC03S2lzc3NQR3o0NGZVRXp0bVJaXzZvYm53bTB1ZG5aVmdKYlQtWXpoalphaVFObEF0Sm5hSVRST0d1eGVmTGwycHA5UmxObHRad2ttM2RHZnlHWHZVSzd5YjJqYmJLOHpoWkhzX0NnLXBRcTU0SjRyQlNleWRaaEtLYzE2UzR6UkU?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 10:00",
-    "date_ts": 1782468000.0,
-    "title": "2026 World Cup full TV schedule, game previews, results and standings",
-    "source": "Los Angeles Times",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQai1Ga2UwQXVvQWs1RnNzWWVyYVNWZ05XeWFRNWlGWnJPbEgwMW1RRmYtMnNuMVljdXh2MXBxQUN4d29RT2x4R09qc2tRLThfNUhZc2VLZjk4c3BGN3l4dkI5c3A2NS1Bck1oTTM5WGJONkdLMHN3RWFMYmJldDRObEpRYm95d3dRRFhxSjVyNTlUS09LYmRXS0FSSWZqc1ZQazhiX05CZU9ycVdibWxyU21ZSzQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 09:23",
-    "date_ts": 1782465822.0,
-    "title": "Brazil Vs Panama 2026 Neymar Will Play This Match Confirmed Carlo Ancelotti ~ Brazil Xi 2026 Scooby Williams (20mBCOpxQt)",
-    "source": "Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CTkdLaE5VWVZ0cm11OHltNlpKamFBUUtZWmxCSmRMZzBwTUMybTVjaGY3bjVOR2VWeEFYVmZNcnVpYi1fX3F0RTYzUHIzbS04Y3F2SHl5d1otMjQxR1dzdw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
