@@ -1,5 +1,19 @@
 [
   {
+    "date": "27/06 17:46",
+    "date_ts": 1782582373.0,
+    "title": "Colombia vs Portugal: Potential Lineup, How, When to Watch the 2026 World Cup Match",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
+    "teams": [
+      "Colombia",
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 17:02",
     "date_ts": 1782579732.0,
     "title": "Portugal vs Colombia World Cup Prediction: Best Prop Bets Today For Cristiano Ronaldo",
@@ -10,6 +24,30 @@
       "Portugal"
     ],
     "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 17:00",
+    "date_ts": 1782579600.0,
+    "title": "England Starting XI vs Panama: Confirmed Team News and Predicted Lineup",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUVzYVpxcE1pTXdjenJ5ODJNOTRfbjc1UjhWUlhTa214d2tEbmF6X0pncUhTalhGUVFHaTRsMjFTRVQ4SG9XU0UyQmFOOXcxdjVZczhyVkdBeURXaENhT1lycDBPZTVtbS1pZ3RqZTV4dTdkR3M4LVl6LVJVSjlLUzhFUko?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 14:59",
+    "date_ts": 1782572390.0,
+    "title": "2026 World Cup Predictions: Group stage almost complete",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -43,6 +81,17 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFRMQ1hLYTZKQlg4U3JXRU9YMXVjdVFyRkx3SE8taWRFc3AtWDdXZGRRYmpTV3JaODhNUXFQME44T1NxemZxQ19zZGhWNjlYaldZdnFMX2w5QjA4R2tkTFpkR0ozRXM5MGI5dm5rTTFrMEZoRWl1eS1TWGMzQjViVkhNU1pCX0dCV3FB?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 12:56",
+    "date_ts": 1782565009.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, group stage updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -685,58 +734,6 @@
       "Noruega"
     ],
     "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 18:30",
-    "date_ts": 1782498630.0,
-    "title": "Norway v France: World Cup 2026 – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDhqcFZaRUdlb2dFSWg2Zk54MTA5WnpfZjM2dXB1bmdZNWllV2xRRzVweFpucGNVN0xYNERSNkNYcXhqR1dpMFJSZ19SSlpoWHVlZTVpeENmSkszQ3g1Vy1aaUR1Vm83bFFvSW5QajBZaWhFdWtpaXhVazBSNGVDNUstbG9TclJUX2lGN2FOWnhqcEVseExiZEtRS1VRUQ?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 18:28",
-    "date_ts": 1782498519.0,
-    "title": "Norway vs. France Lineups Confirmed, Starting XIs for World Cup Today",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVFOG95UjN5UVByT29sTVlRYmNieUI3eTVXbkZ0Ql9FaWxubjJCeDYyTlF0cTM3M3NvM2dWV3dJaEwxVHRsQzJXYU9TbUtWNG1zNjdETnhfQ0dnTjdhQk44elBoMXZkQU8zNTNpb1I2ZkkwQm5Xdk4xWmhleGhMa05Mb1ZjYkxxTzUxRE9pMDhiMnZ1SV9VaDY0UFZ0Zmd6eUJFa2xpRkhxdkE?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 18:27",
-    "date_ts": 1782498427.0,
-    "title": "Senegal Lineup vs Iraq Confirmed for World Cup 2026 Clash",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUdTZjNPdktqU1ZvQ1o2Tkl1azQ2djljWmMwQ24xdGVYdlJMYlc2RkxvRlNaS1YxZDBKU2JWTS1BZjdWbEpENkttMF9EdHcyUFhIY21xZXVoX2Vtc0w0Tm04TTFvSmVoMGRCaWR6SnFGRUdYZEd5dG9MYlBJYV82cFNGNUVraWltZmJlYmRBcTRDYmJzRGo4M0ZrRkVPZlQ3Q0JBdU9WcG4yUQ?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 18:21",
-    "date_ts": 1782498077.0,
-    "title": "Why Erling Haaland Isn’t Playing for Norway vs. France—2026 World Cup",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeTd3a0pOUFpVWGFhNERTOTNNSXVmOVJDRDNhMVRrWEVHXzEyTUJWd2IyU2RPUm5vdmI0TWFob3NsMzI1TElLM3dLcXVLTjlQVlhsNVlKN0N0VzRWLXJSWHQ0QjlEN1ZqbExJY0p4UUh4aWVJUUtqQlkzSlpwemE4WWM5WEFNSm01eDZpWWJhLWRVU2M?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   }
