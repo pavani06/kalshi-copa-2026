@@ -1,5 +1,16 @@
 [
   {
+    "date": "27/06 14:01",
+    "date_ts": 1782568886.0,
+    "title": "2026 FIFA World Cup: Which third-place teams will reach the knockout stage?",
+    "source": "Euronews",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjBacDFBejVLb3FjR3R1cmJDeWkxd3p1T2txOHZZT2N6T19aWDRSLTAxN2F0cnFoTFdaNE9oemdTdUY5bG56LWxtMWhnWXhEbGdSTnpTZmhxc2tWZ291Ykh0WmdKb3l6Rk85Mi05cUpJOXZPWW5HS3BKV2w4MmtJMUdIN1RCb1B2RWs0LTdsNUFicmg0bC1pdjlPWWNUYlh2SWVFRkQtR1Y3QnFpT2c?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 13:44",
     "date_ts": 1782567863.0,
     "title": "World Cup pathways and opponents for every third-place team in 2026 knockout bracket",
@@ -348,6 +359,19 @@
     "teams": [],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 01:12",
+    "date_ts": 1782522736.0,
+    "title": "FIFA World Cup 2026: Injured Reece James to miss England’s final group game vs Panama",
+    "source": "Sportstar",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2lPZnJQdldpOW9TcTJjUVdEakJKQUI1RUhBdWszVlJYUWpkR0ZtWTNnUi1NUk8xSW1TXzdHRl9XblFyU3FKMW0yU1V5UUhLN1Q5ZkZWd2h2N1ExcEhWYUJwMHd4eHNJVFNMUUx3R2hXdnNUNmhxREhycUhyWm9pWURmNU1uU2k1OWpiMGl4cGdoSnBndmMtSkJyVEJtMkpyMzl3UjVrbGRlMnJuZnJ0Q2JyQWxnNHlHTDlpMk15ZHZVaDdXZktQYS1DMNIB0gFBVV95cUxPN204N3Q0RkhVOEVmZTlUU1hocVNjRXNEYVl0S2d6RDF0Uy1TWUpWYUxUdjRpVl9ST1FJTmxfamRVc3M4NVFxLXFXa09WR2JKSGxnRHZ5Z0VIZG8wUlUzS2xpTERxSlVIRkFRZDRzYm53UldOc0VKQzVLTEFfN0VDY2RjZnZBYlp5bVJkQ1dTb0hCNmdhWk81TVJrLTFXakVvTU90QktkUlhqbDl5TkVVOHdQREtyVUtaZHdGaTAyOVl6a2xzZVladnhmS25JOUZiUkE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -717,32 +741,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 17:54",
-    "date_ts": 1782496499.0,
-    "title": "Norway vs France XIs: Starting lineups and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkl0UmtDek1sRnNmSE96OWp5bHlvYmVIQU9KbTFGWmgwU2hxWU9lbnlhcmpVMDBNbE9mWG5PTDlvQU5raGtnWk51VWl6Tm9NOUx1ajllMEpVaXg0SFhjR01Mc0RrVk1nbXEyVENEcExkOUFLdjZCbDg1bDJBWnlTTVBvU0JwYjg2UGhzb241RTZBMHhWN1RLck9QTS1SRU5tRVhJRUlCb1BmMnhXOGxxazloTWlNVUduWm16SmEzVXNBelJweDlpdGo4bXRqbGVQNTh3cjdYY3VZUXNxc0FmSWgtWW4?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 17:49",
-    "date_ts": 1782496140.0,
-    "title": "World Cup: Bayern's Jackson drops to bench as Senegal meet Iraq",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXBMLVB6RUNXME4wRGdrZHVsalFBSlB2Q0tNY0xodU5VSGtPTWdyNkxmaDZSUEFQSFdON2Fxc3huRVU2SDNBQ1JNUlhid3Fhd082VUVxQWxGalo5ZmJ3UGxwcktwb0JYc3Y1UVZwT0FEbjBoNFZ4NjlpWFQzVTVhOQ?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
