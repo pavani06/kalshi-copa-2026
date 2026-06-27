@@ -1,5 +1,18 @@
 [
   {
+    "date": "27/06 00:28",
+    "date_ts": 1782520126.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 22:37",
     "date_ts": 1782513461.0,
     "title": "2026 World Cup: Bracket projection - The Athletic",
@@ -21,6 +34,19 @@
       "Senegal"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 22:08",
+    "date_ts": 1782511704.0,
+    "title": "Iraq Lineup vs Senegal Confirmed for World Cup 2026 Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWRnTEdtekFYUnV2TkRDVS1Mb1J5RlBYYzFvN0tfT1JMQmNyQnZxS0swYWNYWG5wOGtray1ndHIwNnFBVXFKNDQ2MlNXQW10OWdLYmtFX2lQT3FnS0R3WHlUdWRyRGVncWdsanhGODZ5ZmF6c1c2S0trLThPYnd1TVU1aXBDQlRHbGktMFctbXJMS0UtSzdxZDJLbmFvNHFhM08ya3AwN2VxZw?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -58,6 +84,32 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdFFQQjdURmhyUXZFRWxqXy0tMnhtcEY3OTBlb1htQ0pfXzliRk9wY09YaXd5Y1c4UHlCLWpCN0dBZV9mRDZZU2dncE96RlFEOXJYQ052ZUVOQ29fblhGNXNVVjJBYUZNNGNmeGdjNEVxbUFIczBZREZ5XzV4V2xnSTFDVjJ5ckc2OVNOX2FqUzU0X2RLZ2t0SmVhNEZVY3JobVlqSk12YUJ5UWFpZ3RIRnhsSDlHX3M0WGxIWVhNaUpJMk1WRTQ3RHFqclJ2YUFVYW1qcm54YmM?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 21:11",
+    "date_ts": 1782508288.0,
+    "title": "Norway vs France Highlights | 2026 FIFA World Cup™",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SdEVtQ2QzLWhmU3ZLY0lLTk5xUjNkTEJNUDRYR1lKY0VwbmFSc3RZQnY0VnZxSkM2Vmh1UFpwcjRnZlJ6NERnN25COTJidjZMVEk1YWlNSi10U1VPeWtIdFV3?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "26/06 21:09",
+    "date_ts": 1782508166.0,
+    "title": "Uruguay vs Spain Prediction: Picks, Lineups, Preview & Best Bets World Cup 2026 Group H",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTBzOFdWTVVrTms1UHRjMFNLZkh2NkR4V0ZoRXhnZDlkZUFCUzdoc1FIQl9BXzdqTUYxWk9ocUZRd3BSQjc5dlc1ZU9QRUNFY1ZIVFVPQ0VzQjlMa2UtT3pmck43R1VoRnhwcUZxclRGZHF6emFSaFpMcEJGVmd0dG1rMURYODZDdzJWM1IyOThBSzhWVGNMaVBhWWhkeV9nMXlrdm9BWFJ2OXBYcXA3dWNtWEluSDc3eDFN?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -686,54 +738,6 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdldhdWJ6UVJXU0RmNzB2RWpUWWFGRk9yTUQyYW9CX2dEOVNsdXBMV2kwQVEzNDVmQzFTel9ieGdfQ0tPU3lEM0VoYlpBcTFFa3p4aHkzWVBmdlE3RVlmMnZYVmpSSXVVVzdWTnNHak5Fd1YyWEo3TzRPZXVMRDV6aEZTaWhFWjlKX01qMF9JVmpoWXN0c3M5LTlGVDMxS0ctalVESUhUYmpnTGJmeWxEY3AzUTE1bjhq?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 04:03",
-    "date_ts": 1782446580.0,
-    "title": "World Cup live updates: Türkiye beats USMNT with last-gasp winner",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRk41NnJXblExbGljNnJoY184RUZvNzNDSU55N2dtU2tNRktuY0NzSlFVeEpzMkRTUzNfQ0UxREJab25iUl9oejBrcVpVTk5wRE9GbmNvMHBfbU5rTWt1ckVhT3k1RmVyUUxscV9UU3NqUFFXSzZHSkIwTTdrRl9kTUI3c0g3ODMwY21qcENaempHUGdNcEpmQWI3VQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 04:01",
-    "date_ts": 1782446508.0,
-    "title": "Senegal vs Iraq Prediction: Picks, Preview, Lineups & Best Bets World Cup 2026 Group I",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXJGSVkwdE1hTDlXZjlxbVVJTnp5bHBnc1hXVkhmZTRGQTZMa2RYTk1KUlhJakRscnZLaE9qZFFXVm1ubnVnYU10ZkNHOWRTMVdzVlhyNVZTbFFZWHZ5LWdIZWhrSU9VNFlpNVJ0MmFvejRRc21rM1EwcG1xYWRIQXp2UFRTY1ZUZ2l3dW5tV2txZmNVc2NVWHJaRHY5d29DZTdjT0lPdXY3YVpzLWRlOWJ0WTc5NHVrZVE?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 04:01",
-    "date_ts": 1782446460.0,
-    "title": "2026 World Cup Bracket, Standings, Projections: USA In Round Of 32, Who Else Might Advance?",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVM5eE1QTHVERmZpRW52cGVqdl9tOURiN29rZDlpX2dhM056R2JxQVBHVWc5QzczV19nT0RGWjVBQldhaDYxS3drbkRaYmpVQi1jTml4dk4tNDgwY0txNmtJVXB3Sk1JUUtEUVFTM3hQOU04WXRVRHdRUksySzJPNHdRUi1vZzkwSExJRElMa0FUeThSdlNFbTVZN19DOWlWY2hSblZqVjN5cDBsbFlSZkotX0p5dHlPWmtsUlBR0gG-AUFVX3lxTE56VFNUMlZpUGw4TkRlQ2twc3dFWlE2UFA5N1V4djBORjF5YmJWT0M1czVpZFFRdXBXTjljRnFTYzNrZWdVWUhzeFhEYVVMS3dteWY1bHpwUE9VUmRFcnhxdzNkSW51TWtfYjVVVE1yS3lBdjE5YlB5Vm9HbjBuU3dqUGpiXzJpTmZTbnBVQnJzYld3WmRXeDgwU21DTExIWVlxLW95SkpSTkQ1SEVJYjRVQjZ3QmV0WXE2NzhpVFE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 03:59",
-    "date_ts": 1782446348.0,
-    "title": "Norway vs France Prediction: Picks, Lineups, Preview & Best Bets World Cup 2026 Group I",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0xUMld6MkJSc3lWLV9HVDFwVkRYWFk0aDJHUlVNR0N6LXp4VXhvM1hVNHozUXl2QUtFYmNPbFNBQU5IVExtdVBCWW80QkJRLVVQenZSc05wLTduaEluOFZBQkpldGZDckpaZG92Mmp5TTB0eEZnQkxDRlZZVTlRVnlZUEVRMXpGeHFYUmphN0VadE9HVm0tdnowdXJuSXJ6QU56dEYtb1ZoV3cxcmJHZHdkUTNaUnpobklB?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
