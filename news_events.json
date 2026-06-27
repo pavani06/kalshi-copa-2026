@@ -1,5 +1,16 @@
 [
   {
+    "date": "27/06 13:44",
+    "date_ts": 1782567863.0,
+    "title": "World Cup pathways and opponents for every third-place team in 2026 knockout bracket",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFRMQ1hLYTZKQlg4U3JXRU9YMXVjdVFyRkx3SE8taWRFc3AtWDdXZGRRYmpTV3JaODhNUXFQME44T1NxemZxQ19zZGhWNjlYaldZdnFMX2w5QjA4R2tkTFpkR0ozRXM5MGI5dm5rTTFrMEZoRWl1eS1TWGMzQjViVkhNU1pCX0dCV3FB?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 12:44",
     "date_ts": 1782564289.0,
     "title": "Portugal XI vs Colombia: Predicted lineup and confirmed team news",
@@ -732,19 +743,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 17:38",
-    "date_ts": 1782495488.0,
-    "title": "Senegal vs Iraq Prediction: Picks, Lineups & Best Bets Today for World Cup 2026 Match",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEFBTzZjbjNQaHN5SFVwbGZ3U2g5SDBlNWt6VjQwWG56dTBfS2YxTjl1czRZZVRiMzhlVjQ1UnVybWVhWnR3N2dMMGt1d1lqWmk2cDNBNXZBd2M5T0dlTUM2RjlBYjMwa1FJYTRVWTJIZjRleGtpZ0VUTUU4UkJ4dzhsbmE5bFQwdjRVR1F6UTYtamxGNS1Ya2Q5UUVibGxsODgtMU1SYVJMbzBfN3lXbGJBQktJSkZCOVE?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
