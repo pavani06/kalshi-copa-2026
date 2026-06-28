@@ -1,5 +1,16 @@
 [
   {
+    "date": "28/06 06:18",
+    "date_ts": 1782627525.0,
+    "title": "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2pBLUpkWjN2NHgxY1JOMWlRMWQ1WTZEb1VpcGoyZjNaUWRlOEk5V1hLWWlyamNRYXNEbGUydHk3eGlucEw2Nlo4WU1kQWRvRWJIb0RlQkQ4eVkwZHpRcmtxR2xZdjRFREZGcDdiZHBNX3dyLWZpOFlpTWpjVUh6cXVwMTczaTFITFAwUU41UEJ3RFV6QkZfUE9fc0VvNFpPekF6dGVqRE1aOTRDTjA5M1RfWUzSAboBQVVfeXFMTXl6M3NwREtIdmhCMmwtSVE4dTdFTXBqU0owU3BuYlZSdkxGckUwaGFnc2ZIWEhsbkZMMkhIWnE4Mzd5UmJVT1FBODJ5cmxVand6cmREZDA0TTlrSmlsbGJzVF9vb2VRSnhUY0hId190aVhEbjhmS1d6bUttVlRVOXFkYWNxM2ZwWU9UcGk0U00xVHQtQXlnVzZXX2doYVIyQ1R6cVFxQ1ZvWU1ZZ3Y3V3BrNHE5XzZab2R3?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 05:00",
     "date_ts": 1782622800.0,
     "title": "Brazil vs Japan Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
@@ -131,6 +142,20 @@
     "source_type": "news"
   },
   {
+    "date": "28/06 01:59",
+    "date_ts": 1782611948.0,
+    "title": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTM1ZXo0ekZibDhDTnZaLWtZR3NCblluUFhoMmVucGlIVG9oSFZsTXYyenlCdU9CQk9qOTh1U2tLNDVkMUdfSmVCUm9EVnhYYjFoZzRueHpfWmVLT2swelg0Zl9xekphTE80Z21GN2dadFBfZmhOLS1vaU9NSDFIM3dQdVEzNi1JVjRoMnVkVXppQjg1dDhOWHNMSGc1X3hpQ0E2OGdycjlLY2hQZ0dfbDNHNi1tU3JG0gG-AUFVX3lxTE9qLWhBcWI3X2tkVkpha2tmbmFxT1BHSFc0bFdXcXgxWjZVRzZIT1BEVS1uVlk2dDFmSXEyZ3otamxka1ZNWFVROEF6M3VwV2N2Zl84S3Q0RkNnRTNmVzQ0YlN0U1JxZkVJYmpZa3dKdmJZcVF3SjRSMzZxOEVRNXlxUmVuTjV6c3E4N1VMcXBqc2dhNkxSd3dyNWphTWx6RmRSN0ZZTGZIWWdvU3VFX3ZhblE0bC12VFo1YzQ5UEE?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 01:43",
     "date_ts": 1782610980.0,
     "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and potential opponents?",
@@ -209,6 +234,19 @@
     "source_type": "news"
   },
   {
+    "date": "27/06 23:28",
+    "date_ts": 1782602880.0,
+    "title": "World Cup Buzz: Norway's Erling Haaland Tries New York Deli Sandwich",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 23:03",
     "date_ts": 1782601394.0,
     "title": "Why isn’t Joao Neves starting for Portugal against Colombia at the 2026 World Cup?",
@@ -258,6 +296,20 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 22:41",
+    "date_ts": 1782600105.0,
+    "title": "Why isn’t Bernardo Silva starting today for Portugal vs Colombia at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDktdnB6cjM0WE5lVzBMaUZNVi1mMGRET0tyUi1xR1hKZm5ua0tOYTBGUVhaOF9ITHpBX2xwY09EVzdQS3ZURTlFRGQ3c1pTNkIxTnJjSkJIX1RlODZlamJnR2tnSTZ6QncwVFRZV08yWGdYd0JlSExxWnp2b1FiWlRLeUJ4Y2tBMFNwS3NCQVpYNEI1OGpQQ3VRaU5fbk9odnllLWVwMlJ0eVVVVVVUNlF6eDlSWUczb3fSAb8BQVVfeXFMUGhQU0lnZUQtNjZTcE56dFVKVnNQZXBnSmZjS3NnSkJNbDFET09DZ3dzUUg0S2gwbUZRUUluclJkYWpmODJLOGEyVUoxclhxM2taN3d6QS1SWFFweFBGTHVHZDN4R1o2V01oZXRLOEl4cXdaR3JmbGw3VU9oc2VaRlBReUkxWTQyLVdOUWZoSHducHNueWwtNTVxak5jdGk3U01ERWdxTlFTYzZrMFFkMmh3aXM1Y1NtRjhBYVVjVXM?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -701,58 +753,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 12:08",
-    "date_ts": 1782562080.0,
-    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Argentina, England, Portugal, More",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaGp3aDgxVGVGVmVZZDVoNU9ZalU5OXFfdUZIR0Q5YjdhMEV3SUVrckRRSE1KQ29GSV9hM2E5d1dIWm5EMlppUk9HUW4tel9nVDVBdXlyaktWMjRMQWduTWdHRkVSejR2SWhlTmlHdHB0aE83ci1PRWFIb3lkQ2pLdm5yZEhyTElJNjZYU2doVUc0b2xFaE0yamZxN0t4bk1Na2VmVzNHREluQXg3VW1XclRzRnR3OEhRVWZzbGtpWC05ZF9h?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 12:00",
-    "date_ts": 1782561600.0,
-    "title": "2026 World Cup full TV schedule, game previews, results and standings",
-    "source": "Los Angeles Times",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQai1Ga2UwQXVvQWs1RnNzWWVyYVNWZ05XeWFRNWlGWnJPbEgwMW1RRmYtMnNuMVljdXh2MXBxQUN4d29RT2x4R09qc2tRLThfNUhZc2VLZjk4c3BGN3l4dkI5c3A2NS1Bck1oTTM5WGJONkdLMHN3RWFMYmJldDRObEpRYm95d3dRRFhxSjVyNTlUS09LYmRXS0FSSWZqc1ZQazhiX05CZU9ycVdibWxyU21ZSzQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 11:50",
-    "date_ts": 1782561039.0,
-    "title": "2026 World Cup Group L Scenarios, Standings: What England, Ghana, Croatia, Panama Need To Advance",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQektrajZxZkRNdG9wbzhxX0tnMzJUalNrSXZJajJoTWczQnFTMXBSNkVJd1ZPUEdaNHhDZmlubnNqRnlKdEpnM0JkamZ3WHVpYkRsUjQ1Z0U3WUF2ekJQVjhvUXdyOTRBNl9QWUZHdW4zVmtkVXFqZmdwbEdGTE82bG1FMGNIQXRaSTZiV1RYM3BjVkI3YlhzYWI5WlFXYkVma05RbjFoeG11YlZSWncyRGk4dFFXci1sLVQ5dHpIV2g1c3JsOS0xTkd3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 11:47",
-    "date_ts": 1782560864.0,
-    "title": "2026 World Cup Group K Scenarios, Standings: Where Portugal, Colombia, DR Congo, Uzbekistan Stand",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWR0Y3pNTlBzOFhQcC1JUTQ1bkRJdjhFTERJYThnaHMxYlNiSDluaHA3dUJjU3J2dEZDZGh5QVdvN1gtZDhFRDhGUFNjdm5DYnpRblNTNXprWDF2UmVVRDM2aUZtMS1DRWp3RDNXQ2NiM1dWR1Z5SkZmMWttRGlUT3pIajdySlE0UDNFWFc2TUgzWWJUT0Z0bDNBWXk3MmtqcXFTZVJEeXpyQVBIZlVlZVlHNW1KZkc0TktoZlpKOTFZcVZaTGJrOHFn?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
