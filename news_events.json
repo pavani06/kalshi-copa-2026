@@ -11,6 +11,17 @@
     "source_type": "news"
   },
   {
+    "date": "28/06 14:04",
+    "date_ts": 1782655497.0,
+    "title": "Veja os resultados de ontem (27/6) e quem avança de fase na Copa do Mundo",
+    "source": "GZH",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQY1hIeTNJYi1FSzRsb3NwTjVwdEltbnZuZms1ZDVKM0xROV9jQUJyeVhkeVUzMWhXMWI1cmc4SGhTZzZETEEzd1dwelVVREdmbk8tYVJkWC1yc0NzNGJESU5maWZMM2R2UnQwRlVldmNoSEdLa3VGUkY0N0ZPZnNpYmVNTDc4LXA5VXRPZGtWNU9EZ3NSV2ExMFEyeWtLTG5FRVJZcjFkSUxzNmJmU0ZZZ29Ld1hlT3VxMjB6V1pxVF9pRnBwWEtMT3lyb3NRa0dUQW5yMmRMeXRxUlByZE9wYTAxMUcwWjZScEFhTWJFeS1VT2tVOHRPNlhCT1RyTWI1SGpZ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 12:57",
     "date_ts": 1782651420.0,
     "title": "World Cup Round of 32 bracket: Updated schedule, results for 2026 FIFA knockout round",
@@ -98,6 +109,19 @@
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2pBLUpkWjN2NHgxY1JOMWlRMWQ1WTZEb1VpcGoyZjNaUWRlOEk5V1hLWWlyamNRYXNEbGUydHk3eGlucEw2Nlo4WU1kQWRvRWJIb0RlQkQ4eVkwZHpRcmtxR2xZdjRFREZGcDdiZHBNX3dyLWZpOFlpTWpjVUh6cXVwMTczaTFITFAwUU41UEJ3RFV6QkZfUE9fc0VvNFpPekF6dGVqRE1aOTRDTjA5M1RfWUzSAboBQVVfeXFMTXl6M3NwREtIdmhCMmwtSVE4dTdFTXBqU0owU3BuYlZSdkxGckUwaGFnc2ZIWEhsbkZMMkhIWnE4Mzd5UmJVT1FBODJ5cmxVand6cmREZDA0TTlrSmlsbGJzVF9vb2VRSnhUY0hId190aVhEbjhmS1d6bUttVlRVOXFkYWNxM2ZwWU9UcGk0U00xVHQtQXlnVzZXX2doYVIyQ1R6cVFxQ1ZvWU1ZZ3Y3V3BrNHE5XzZab2R3?oc=5",
     "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 05:39",
+    "date_ts": 1782625186.0,
+    "title": "World Cup 2026 knockouts: England's path to the final explained after topping Group L",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcEFENlVEZDBSZG9lQUV5WU00cWgtcGVhUnJfNThiVHRUcW0xMTVORzM0cUtyak9uY2trQkF3TVVzMVNjV04wQ05xeU5aOV9XajRoM3BablkxSWYwUTJ4LXFUeXpUMTg?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
     "category": "injury",
     "impact": "MEDIUM",
     "source_type": "news"
@@ -450,6 +474,20 @@
   },
   {
     "date": "27/06 22:55",
+    "date_ts": 1782600913.0,
+    "title": "Copa: Kane bate recorde, Inglaterra vence Panamá e pode pegar Brasil nas quartas",
+    "source": "UOL",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX1dFUGhFTDlIZ3RWYS14Ykt2dkN5azhoZ1pGZlZhbmIzUE1kem1OV3JJRVpyZVhuQUplTjdySmlmZURlSmFBNTBtcFV3U3BLbHE0OEpmc2c1TDdjZ01sZXhpa1VUUG1vUjBrNVUtTUpaTExGeTFoTVZNOERCZlhVMmFzY1BGNEhTUlVBRnlwQXhwMFNXMFMyYnl0Und4X1lKb29qcVJ5Z2U1VDIxY0hUbU9mUXVVdFpFQ3VJQQ?oc=5",
+    "teams": [
+      "Brasil",
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 22:55",
     "date_ts": 1782600900.0,
     "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
     "source": "FOX Sports",
@@ -703,46 +741,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemgtM1Z0X24zSFRnR2Q5Z3BkUTN2R2ZXalV5NHF2cDBnUlB0ZFBMdlVFSnFxZ0Z2d3lFNHgzVjFXd1p0ZWRrcGY1ZHdBZmxMbmoxSHhZYlhnaUR5bGRRNmYzekdHYW8tZ0o2bm1hNi1ZM3hDMHJ5UFdGaDlab3d5M0NkRTNyU3k0ZEFwdEFJWVhJY3FuRXhKQTJxQmNlVTNyZUVsS01Ua0hJdw?oc=5",
     "teams": [
       "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 19:02",
-    "date_ts": 1782586966.0,
-    "title": "Panama vs England Prediction: Picks, Lineups & Best Bets Today World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckpfWkFVemtTdWpsS1hwRjBrZk5LNE9qeU5qMGNHTDJwclVxbTlzQkVNLWJaQXY0dkhvZHYweEp0X2ZuaUVlYjU1YmQtMUhyc0hfbnh2dVk2aFJZZ3RyY2FrOHViLVdLUk8zUXotRFlvTXhHTlVlR1I4cmczNEtSbm9qMTRxLVFSX2xqODRkaFFVSHM2cWstY1dPTDk5YkRDUV9iX2pVLUN0N29MVUpV?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 18:53",
-    "date_ts": 1782586418.0,
-    "title": "Is Harry Kane playing? Panama vs England confirmed lineups for the 2026 World Cup Group L game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2puUWtCTWNkSTVrNzY5YVl5bDlxa2JWRTFMdllScktYaVdjeWZ1QXB1Zzd0WDhWaldySHNKb0hPTWU2X3BqVFlDZHl2LXY3TVVDZFR2cVZISzlYb0xSSVl3VE5XQS1rTVFvZWpFYzMwMWN1VVZWRkM1elUyVVc2WEZIa0t6Z2d1aHctWWRDSXNXajMtanUzbS04TTFWejJoczVTLVc0UnMxNVN1NnFnc3F6dFhGT2EtcjdzaGhyMEcwMjlWQmZDSzVYaWvSAdABQVVfeXFMTzZ0QjlRRXNETkhIbUdsV2NTMmk3ZzdZd2swTUJWUHB1aTNJMzBfZ0prZnNWakhKVkNCYWxjcjVEbnBfdVBYOTY0X1Ribk1ISTFidEtkMTBtaTc3MGxZNmEwUUU2MWUyaFAyZU1KaGlpcy1hQktUU2FGcF84SkRneDNLcnVzLVMxM3ZWT19kUVdVeVBLSmZ3LUkxTjczb1Zrbi1oOFo0ZTNkSmtrNWtDRXFCc0w2RHk5WmZGcDRSamoyMmhsaFFDRGYtcjQ4VHRaWA?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 17:57",
-    "date_ts": 1782583022.0,
-    "title": "How Portugal’s win, draw, or loss vs Colombia could impact the 2026 World Cup Group K standings",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdS1YWDlOTmxwR3kwVDloSTNZMHRZNGhGRVZkaXFmRzFJU1B5dGc3LUdOU3p5Y0YzbVBrS3AxZHlweHZTbDVYc0ZpbzBBT3FfcW4tN3p3aXVkdGFBMXAxVEFTOXVZeHNPcExEc2ZIamd6MUV3dWVhVzdZLWxBUzVhaDU3dVRydXBvemhTZWVOUHRxczZvNGRnTWJTM0FnQTU4M0dIUnY1M1h3T0JXMzNISHVGRU9sZUVZRV9pZ1JncGNhUXdnUGhpdExuUdIBzwFBVV95cUxPeDdKOThmUkh6YzRsWkpjYzNrQlBEVlZVSmphemtJd3BDc1pXa0l5UjU0SGRybk9QaXZPbjlaQmhtRTFMWkpRSUhvSDUyTEFRSDhUS3FseE9YUFR6WE5vNkEyeEhwY0tQZGRFTFJiLVVfZDNmSF9uSjlkaVY0MW4tSW02NEpERFoxSTA2M21UV3RsYl82TVhRSHRIUXdpYUFQQTBsWm40RWdYOWVHbWxBeEJZZzBqMWIwb0lFeWNONF9rN0tHOXprNkticXZkNjg?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
     ],
     "category": "lineup",
     "impact": "LOW",
