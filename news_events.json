@@ -1,5 +1,16 @@
 [
   {
+    "date": "28/06 12:57",
+    "date_ts": 1782651420.0,
+    "title": "World Cup Round of 32 bracket: Updated schedule, results for 2026 FIFA knockout round",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVJrNGExT1FRWUh1eVpWNWJVWHRCZEt0TEczTU5Tek16ZGNEVXlXSzE0ZTliTURTVURJNzBGZ2w1MFY5NWtaa2VTdDAxX1dDU0RDVmFrQk1VTmNqVVVILVR6VXJ6bkx2VllvU1c0dTRDQ1R5VGNwSUtQZ01ORXBSVQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 11:57",
     "date_ts": 1782647859.0,
     "title": "World Cup Round of 32: Which teams qualified or exited the tournament",
@@ -43,6 +54,17 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 05:34",
+    "date_ts": 1782624840.0,
+    "title": "The 2026 World Cup bracket is set! See knockout round matchups and path to final",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2F4N1duMlZGaW9hS2tpSnBqd0hyOXRqT0pfLUhjamY4SWdkc2kwZE9WS3N3QUhqSVBhMGhES01MMTBSNFhhcUY3V1lRQnU5eVZmcDVlZzdBeW9RaE5GV011dmNuVXkwVEZfREQxUUdETDRSVHBjZzZqQzFXQ1pLYkVsT1ZaTFF4NGEyV2dIR0JHU00wckNaT2N2bGd1Z2p4MWNLNlRpdmZWR3REeHc?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -730,28 +752,6 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 14:59",
-    "date_ts": 1782572390.0,
-    "title": "2026 World Cup Predictions: Group stage almost complete",
-    "source": "Silver Bulletin",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 14:55",
-    "date_ts": 1782572100.0,
-    "title": "Every team's championship, group odds for the 2026 World Cup",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
