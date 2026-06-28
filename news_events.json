@@ -1,5 +1,69 @@
 [
   {
+    "date": "28/06 02:05",
+    "date_ts": 1782612304.0,
+    "title": "Every Confirmed Round of 32 Match at the 2026 World Cup",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 01:43",
+    "date_ts": 1782610980.0,
+    "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and potential opponents?",
+    "source": "CBS Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOektvRWQyaEJLdUZ1R0w0RVRuY0J1WDFxXzNBUGtYR3Y1dGplTEZVb0VEUExYT0NGT3FOdGo3dFNobUhNUk45RlcwOW1faDV1ZXRSTldjTlFQT2JoWWlBNFNRVjZReF80MVY2d2prSVVnSi03VFJDY3p4RXloVHBEVUJsY0dJenoy?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 01:39",
+    "date_ts": 1782610740.0,
+    "title": "FIFA World Cup 2026 MD16 recap: Portugal finish second, Colombia and England top groups, Congo DR through",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcmFQSE4xZmhsaXZBdDJnczRyZ1ptQjNVb3pUbjNfb3lhSXc3TGgxTTdaQ1Y3UDBLX1BXNEQ4azFURDhQdVcyYURwRjN6Y2JpbEZDdzlpVURnV21LVmtMblVZajIzcFRFZ29QbzJlUHRVR0l2bzMxS1dZOWVSZ2Qwb2RhMUxNMWh2M2dDWGljZm40UlNSd3BQRTRIc2hVdmlCamJLRG1HZVZHemh1ZXhBY09DZ2tneGNLcVFSOExua3BJY1lXdUs1SzhINmMzSVMzZTRFeE1vWXZmMFRnYXhsSlBzNWZNQlZpek5PTVI3Q19FbjlGYVF4enYzaEJDd05v?oc=5",
+    "teams": [
+      "Colombia",
+      "Inglaterra",
+      "Portugal"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 01:28",
+    "date_ts": 1782610112.0,
+    "title": "Colombia vs Portugal Highlights | 2026 FIFA World Cup™",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YWTBETWttVlBxSjg4R2s3TnpGODZxSkJ6c21fRWxVMWdtU25YbkhCVnVSbTVzemE2QXhIaUc5UjdJejBpa1JJLVFTLW5ERnRSMS1reGtXSWRYQ1JONDFuY09B?oc=5",
+    "teams": [
+      "Colombia",
+      "Portugal"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 00:45",
+    "date_ts": 1782607539.0,
+    "title": "2026 World Cup: Bracket projection - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 00:34",
     "date_ts": 1782606859.0,
     "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
@@ -49,6 +113,17 @@
     "teams": [
       "Inglaterra"
     ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 22:55",
+    "date_ts": 1782600900.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+    "teams": [],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
@@ -121,6 +196,20 @@
     "source_type": "news"
   },
   {
+    "date": "27/06 21:27",
+    "date_ts": 1782595642.0,
+    "title": "Who is the referee for Colombia vs Portugal today at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG51WTVVYVpZYVJ6NDVyOUpja3UydUg3NWtRQk1PMHRpXzhJU0VTYUQxWHI4aXJCSldVVF9QUnVMT1gzaEl6ak5RU3dKdGozS1RyMzVIZURsMHpxY2dwdl9tX281M21ROElkYjlTTnFfZjJjZGxBVHZJcENLc1lXdS1IdlJvZUMyODRnME0zczlKTUNDSk1uMkdNWXhTWmNORlZLbjVmONIBrAFBVV95cUxQZ19GNHdWcTBXeHJpclJ0MmlDX251LWN4S2xnSkVCdERUaGswMUlVVnpNeGxTMElBQXBBR003Ti1fLV8weGtfNUR2dFhGMV9abnJOTkt5aTA4cGpUUy1ZYjdsMjVNeUpJQ0t5d3lLZF9nZ3NuNzYweVY1WnFRZURPcnJqcl9UdDk1QXRRbFJiZnRiRU5sa1Y4M0Jsb0FfeU1mT2xvQ0xFNEpFZ1lF?oc=5",
+    "teams": [
+      "Colombia",
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 21:17",
     "date_ts": 1782595058.0,
     "title": "World Cup 2026 Round of 32 tracker: Who’s qualified, who’s eliminated and who’s still alive",
@@ -142,6 +231,17 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 21:01",
+    "date_ts": 1782594089.0,
+    "title": "USA World Cup bracket predictions: Expert picks for USMNT in 2026 knockout phase",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMUoyT2h3SlpMZkRMVlZiZnNiMkNHb3lQT1lMdUFrbVlLSEc2TEI5NXBGdmpjV2NlMmVoSVBab1hibDdyWkdwVUNIRERXWEk5eXVlem5wZHVLUG1LRmVNV0M4TlEwVmpoRXgzZHFhaVRmSC1TTjNqdVpHLWxUUjhrRk1ZLTNOYWpYMlE?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -655,101 +755,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 08:21",
-    "date_ts": 1782548460.0,
-    "title": "FIFA World Cup 2026 – Every match result on Saturday 27 June – Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTNJM0dqaFprZ3N6aHU3eUk2WmdjanlQOXdxYmtvY2I3YXBLdTE1QWxRRmpwb01qZ2w1SnRDaW1hOVJCRTJYU1l2TVdvcDR2aGdwd3NXd0lGV3JWTkh6ajYwczFOVlpvc3I0a2NmT2ZYY2N0SkpUNTlxTDBkSFU3Um9fQm9CZjUzUXcxTVZxVWRKT1N5NUEwUGVXQzVBTG04bWZVZ2t3?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 07:57",
-    "date_ts": 1782547049.0,
-    "title": "Every confirmed World Cup 2026 squad for summer tournament",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZERiNUh1anNWS2lNTjQwcmU4TV9kY2dHNWdSNHQ2Q0xzVlJsMjJXanlIUmR3YUNubjltT3NJN3Nidm1CMlRSQzkxbVhGR0RsNl9GeW1PU3UwOWV4cWVnZlNfNkhrNkZManJHNS1KYjJneE82WktpbHlaMnpYUUN5ZjdwU3Vjc0IwVDVLN2hPQzY3dDJ5SjU0?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 07:00",
-    "date_ts": 1782543602.0,
-    "title": "Colombia vs. Portugal projected lineups, starting 11 for World Cup Group K game in Miami",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDNGSVhEMVZOVFU1SEFaX28xU0NRVlN6M0tSOW1zN0xnX2ZWMkw4OXVsNTFST0FYeDdYUzRZaFp6MmNwS0dkbVVGZTJkMG5idEtPUVJVQ0FYa2w0dk90dk1wM3JleEFjMTNZVjRQcmtaRmloOVNmOVpIbjNDSi04X1R3LVVfUUR0MlVtakxjTHdNNHpvelltZDRPb2hnaTNSRDhBLUpYQVhfZzh5c2JGR1VrZUhVdzB6WnZpQ0ZQeGs2U2E5OUk1NA?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 06:36",
-    "date_ts": 1782542215.0,
-    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 06:25",
-    "date_ts": 1782541500.0,
-    "title": "England XI vs Panama – Predicted lineup and team news",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSlhzSEZDTWQtYVpuRV9Kb0U4YmpxTFpOcDFQV3lLQXBfdEQ2T1ZSU3RLcFA0LXFWTmpncjcwWmVXeGN5VFZ6eGRuOWhWYm9lSDdsX3Q4c0tVdDBCUHkzQVpDY011MjZIcjRDV3R1OHZWdFFFRkdQS0ZlQ1RBNEpBd0JKNHc1UQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 06:05",
-    "date_ts": 1782540300.0,
-    "title": "2026 World Cup Bracket, Standings, Projections: USA In Round Of 32, Who Else Might Advance?",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVM5eE1QTHVERmZpRW52cGVqdl9tOURiN29rZDlpX2dhM056R2JxQVBHVWc5QzczV19nT0RGWjVBQldhaDYxS3drbkRaYmpVQi1jTml4dk4tNDgwY0txNmtJVXB3Sk1JUUtEUVFTM3hQOU04WXRVRHdRUksySzJPNHdRUi1vZzkwSExJRElMa0FUeThSdlNFbTVZN19DOWlWY2hSblZqVjN5cDBsbFlSZkotX0p5dHlPWmtsUlBR0gG-AUFVX3lxTE56VFNUMlZpUGw4TkRlQ2twc3dFWlE2UFA5N1V4djBORjF5YmJWT0M1czVpZFFRdXBXTjljRnFTYzNrZWdVWUhzeFhEYVVMS3dteWY1bHpwUE9VUmRFcnhxdzNkSW51TWtfYjVVVE1yS3lBdjE5YlB5Vm9HbjBuU3dqUGpiXzJpTmZTbnBVQnJzYld3WmRXeDgwU21DTExIWVlxLW95SkpSTkQ1SEVJYjRVQjZ3QmV0WXE2NzhpVFE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 06:02",
-    "date_ts": 1782540125.0,
-    "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmpsUVpmTVVETzN3NkUwSGZmREdZLV9JdmtQM1d4cGxHaGZKS1kzbjhtLXRaNkxWWmNCRkJsNDg2S3UyeGV2NGV6YmhaTkFZM3hRQ1hDbkVkTnJUeWt4VFZ6VFA5MG0wTkc3NGtfblkxem9EMVJGNmZuN0FYbUlzWTRDRXpGOEhhQlFPME5jWk81VUY5REhpb0owcmswalJjU09UYnZ3bE8wb0UwT1U4ZE9iSnjSAboBQVVfeXFMTWJJMG5LQnY4dlRmTjUwOHp1My1YZUloa1IzQm5YNTBrd2VPcnJmR2sxN29YMWRFOXZySFZzUVFzR0FNdmpWbm00LVZuNklfRkZMSzl1YjFZWS0yTVR2WEE4aVc1MFoxc1dWR0RyVVlJQXhseXNVS2otX0ZoLXBhdWZCRnhsMlhsdlJqLVpHcWlSX2hxTUdWVkp3LXpVTG00TmlCZHk3aEV0d25pOEdwcjdQQk11dWFfa1BB?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 05:58",
-    "date_ts": 1782539885.0,
-    "title": "Which teams are in the World Cup round of 32, and what’s the schedule?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOemdHSlNYUHRGX29HbnlNTnQxOTF6LWhUazdVSGJTSnRLV0t1bGUyclk1UDB1M2RZN2Nwc044VGF4eUNKWU10RkY4amtuZC14bm0yVnFTTG5CT1hnT2VDYUZsUV9kRktwYU9xWHAxOWpLeWhTSFlMMXZuRWNCN0VtQnA1TUpqRnByclcxZGt2dmV2N3dOMmJOUjJNTnljVE4wNDhicldDWDQ2VE9KR0xn0gG0AUFVX3lxTFBrTE1PZUxHRzlBQ3ZUTzYxTHh6UERncWtiNVdvZ1hDWEI2eEtDRWJJblBidWQwMUpreTRMMHF3MU9ZQk5UcThOZ2FvNjBHUUpfQWJERUZKMXlDNlE0MWRwTUl4cFpBQWhHajlhZFFkZDhHalBDdjZCaUJfaU0xRmgyZy1ZZGotNlhHQWFCRHFEM3dqMnJDZGVaYWx1Qi1lUW9XLVZRMU1YMXZQZHBlLWNKdjlQeQ?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
