@@ -1,5 +1,46 @@
 [
   {
+    "date": "28/06 00:34",
+    "date_ts": 1782606859.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 23:34",
+    "date_ts": 1782603242.0,
+    "title": "Colombia vs. Portugal confirmed lineups, starting 11 for World Cup Group K game in Miami",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlByMDAyMVdEVF9BV1U3b1pJUU9NQkZWc1A5VDIwenNqMFdNUWdPN05LWHNGR0dMbXNwaTBTY1FJSGFyM1l6Y0ducXA5X0hDTmVsMDc5NEwxUUFJZmw0NTg3SWxHYkk3eGVmOEIwSjUtTFc0Tkt3T1J5UXlfS2FzQkNNMUV0bmxTelRraWlfeDhTWGl1aDNzVXM3ckdZMjJRWDg5SUQ4RkZxSnF6blQ3VFFVbDA2TUtaRHoteDlwWlJwem1sR3c?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 23:03",
+    "date_ts": 1782601394.0,
+    "title": "Why isn’t Joao Neves starting for Portugal against Colombia at the 2026 World Cup?",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 23:01",
     "date_ts": 1782601260.0,
     "title": "World Cup 2026 live updates: England defeats Panama, Croatia beats Ghana",
@@ -9,6 +50,20 @@
       "Inglaterra"
     ],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 22:46",
+    "date_ts": 1782600367.0,
+    "title": "Portugal XI vs Colombia: Starting lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcmVfYUhEX1R6dnpKcWhBMnA2Sy1FT21wNm9MdzNaVFpQZEtIX1JsVWpGNHB4aXNjbWxUSVllUVBpdXZGZjY0c21YZmFDMV91RzczQ2lIMFQwb2dRS3lpcnE1cHNHUlRzME1IX2lQcVBmaGtmTWVNYzFUUHI5NjBaN01LZDJNMFV3OXExWW9zdFVCMDFSYTE3RHZlWmxVeGk5cnRtYzNRNXY1R2hCWnk5Y3I3VmM2MXdVYUJLaERJSzY2X2NYamRRX3lYckZKODRQV3ZNNF95M3NkZEZsXzBLeHloS0s?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -23,6 +78,20 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 22:08",
+    "date_ts": 1782598118.0,
+    "title": "Colombia vs Portugal World Cup Prediction: Who Will Score the First Goal Tonight?",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTU0eWw5aDBlazBLcmpJN0lUS1NqYXYxdXRZWWlMS2s4dm9vUDc3YkpkNUVSZ09oX2NuQUN5RGZ6aG40dEJnR2NDVXMyMlBGRnRtd2JnQWdJSDRCaFQ3TUtsanloVlVYcklvUmVyVlctZjI3d1dTMzRORkVwYWdpbF9kcUVoRE9zank0RmhIU2xoOXNvdVBFYmI0N3B4d2x0VGtLTWYwbFBuUGticThEa2p3?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -177,6 +246,33 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 18:53",
+    "date_ts": 1782586418.0,
+    "title": "Is Harry Kane playing? Panama vs England confirmed lineups for the 2026 World Cup Group L game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2puUWtCTWNkSTVrNzY5YVl5bDlxa2JWRTFMdllScktYaVdjeWZ1QXB1Zzd0WDhWaldySHNKb0hPTWU2X3BqVFlDZHl2LXY3TVVDZFR2cVZISzlYb0xSSVl3VE5XQS1rTVFvZWpFYzMwMWN1VVZWRkM1elUyVVc2WEZIa0t6Z2d1aHctWWRDSXNXajMtanUzbS04TTFWejJoczVTLVc0UnMxNVN1NnFnc3F6dFhGT2EtcjdzaGhyMEcwMjlWQmZDSzVYaWvSAdABQVVfeXFMTzZ0QjlRRXNETkhIbUdsV2NTMmk3ZzdZd2swTUJWUHB1aTNJMzBfZ0prZnNWakhKVkNCYWxjcjVEbnBfdVBYOTY0X1Ribk1ISTFidEtkMTBtaTc3MGxZNmEwUUU2MWUyaFAyZU1KaGlpcy1hQktUU2FGcF84SkRneDNLcnVzLVMxM3ZWT19kUVdVeVBLSmZ3LUkxTjczb1Zrbi1oOFo0ZTNkSmtrNWtDRXFCc0w2RHk5WmZGcDRSamoyMmhsaFFDRGYtcjQ4VHRaWA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 17:57",
+    "date_ts": 1782583022.0,
+    "title": "How Portugal’s win, draw, or loss vs Colombia could impact the 2026 World Cup Group K standings",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdS1YWDlOTmxwR3kwVDloSTNZMHRZNGhGRVZkaXFmRzFJU1B5dGc3LUdOU3p5Y0YzbVBrS3AxZHlweHZTbDVYc0ZpbzBBT3FfcW4tN3p3aXVkdGFBMXAxVEFTOXVZeHNPcExEc2ZIamd6MUV3dWVhVzdZLWxBUzVhaDU3dVRydXBvemhTZWVOUHRxczZvNGRnTWJTM0FnQTU4M0dIUnY1M1h3T0JXMzNISHVGRU9sZUVZRV9pZ1JncGNhUXdnUGhpdExuUdIBzwFBVV95cUxPeDdKOThmUkh6YzRsWkpjYzNrQlBEVlZVSmphemtJd3BDc1pXa0l5UjU0SGRybk9QaXZPbjlaQmhtRTFMWkpRSUhvSDUyTEFRSDhUS3FseE9YUFR6WE5vNkEyeEhwY0tQZGRFTFJiLVVfZDNmSF9uSjlkaVY0MW4tSW02NEpERFoxSTA2M21UV3RsYl82TVhRSHRIUXdpYUFQQTBsWm40RWdYOWVHbWxBeEJZZzBqMWIwb0lFeWNONF9rN0tHOXprNkticXZkNjg?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -381,6 +477,20 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQektrajZxZkRNdG9wbzhxX0tnMzJUalNrSXZJajJoTWczQnFTMXBSNkVJd1ZPUEdaNHhDZmlubnNqRnlKdEpnM0JkamZ3WHVpYkRsUjQ1Z0U3WUF2ekJQVjhvUXdyOTRBNl9QWUZHdW4zVmtkVXFqZmdwbEdGTE82bG1FMGNIQXRaSTZiV1RYM3BjVkI3YlhzYWI5WlFXYkVma05RbjFoeG11YlZSWncyRGk4dFFXci1sLVQ5dHpIV2g1c3JsOS0xTkd3?oc=5",
     "teams": [
       "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 11:47",
+    "date_ts": 1782560864.0,
+    "title": "2026 World Cup Group K Scenarios, Standings: Where Portugal, Colombia, DR Congo, Uzbekistan Stand",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWR0Y3pNTlBzOFhQcC1JUTQ1bkRJdjhFTERJYThnaHMxYlNiSDluaHA3dUJjU3J2dEZDZGh5QVdvN1gtZDhFRDhGUFNjdm5DYnpRblNTNXprWDF2UmVVRDM2aUZtMS1DRWp3RDNXQ2NiM1dWR1Z5SkZmMWttRGlUT3pIajdySlE0UDNFWFc2TUgzWWJUT0Z0bDNBWXk3MmtqcXFTZVJEeXpyQVBIZlVlZVlHNW1KZkc0TktoZlpKOTFZcVZaTGJrOHFn?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
     ],
     "category": "general",
     "impact": "LOW",
@@ -610,6 +720,17 @@
     "source_type": "news"
   },
   {
+    "date": "27/06 06:05",
+    "date_ts": 1782540300.0,
+    "title": "2026 World Cup Bracket, Standings, Projections: USA In Round Of 32, Who Else Might Advance?",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVM5eE1QTHVERmZpRW52cGVqdl9tOURiN29rZDlpX2dhM056R2JxQVBHVWc5QzczV19nT0RGWjVBQldhaDYxS3drbkRaYmpVQi1jTml4dk4tNDgwY0txNmtJVXB3Sk1JUUtEUVFTM3hQOU04WXRVRHdRUksySzJPNHdRUi1vZzkwSExJRElMa0FUeThSdlNFbTVZN19DOWlWY2hSblZqVjN5cDBsbFlSZkotX0p5dHlPWmtsUlBR0gG-AUFVX3lxTE56VFNUMlZpUGw4TkRlQ2twc3dFWlE2UFA5N1V4djBORjF5YmJWT0M1czVpZFFRdXBXTjljRnFTYzNrZWdVWUhzeFhEYVVMS3dteWY1bHpwUE9VUmRFcnhxdzNkSW51TWtfYjVVVE1yS3lBdjE5YlB5Vm9HbjBuU3dqUGpiXzJpTmZTbnBVQnJzYld3WmRXeDgwU21DTExIWVlxLW95SkpSTkQ1SEVJYjRVQjZ3QmV0WXE2NzhpVFE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 06:02",
     "date_ts": 1782540125.0,
     "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
@@ -629,113 +750,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 05:37",
-    "date_ts": 1782538665.0,
-    "title": "2026 World Cup: Schedule and scores - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 05:15",
-    "date_ts": 1782537324.0,
-    "title": "Every Confirmed Round of 32 Match at the 2026 World Cup",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 04:23",
-    "date_ts": 1782534183.0,
-    "title": "Egypt v Iran: World Cup 2026 – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMi0wWFFNZy1lSjNtMGQ5ZTRoVkNHM3NBNS1PaUZnd195eXdvX2tmUnJ2anl3MzQxZ0JLUF9Ec29uajVZdEJQaGpSSW9QRWpocDdSYmVBY2hEbXg4VVZlZTR0MkR3bmlCX3RrVzFCYko5cjZLdkhnWDYtcExabXVCLWxRa25mcGZ5aGtkVl9oVXVsSUJtdFBUOHR4dXo5cmhIQ2swZGZteWU5RkNtMVg0TTc4b0ZRVWZ1Wm9GTTY4Q1hNZnJ3Q2N6QXNmLUZRWGhpTFBv?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 03:25",
-    "date_ts": 1782530758.0,
-    "title": "Uruguay eliminated from World Cup 2026 after Spain defeat in Group H: Live updates and reaction",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3gzLTJvaVBVRVpDcVgwd0lFaGJ1WUg0MTVhNUFSLUh1S05wRjhJMmdwS1d4UkpEZGpOZFl4c0phN2preEYzZkh4ZXd2VVB5dmdnRUhuc1RrQUtLUG5BRC1hRmlLR3lwMjFQbTVnOHRpX1djWHNrNWR0eXZjdENwQjF2VHFGdzdZYmhGUGFYLUhHRjBsTFFtMkV1UDhPN3BPTHRlamNTRkxiUkhnS0V1MGlhWHRkQQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 02:47",
-    "date_ts": 1782528472.0,
-    "title": "World Cup 2026: England through to last 32",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TdVN2cFBPdUIzTENSOUNHZUxIVHBUZ1RUQ1BxUDNOMGNIMHNULWxESHp0QTk0d3BNSlZNUG9TUDY0bjhoMi1UYXlrdEZST3pjT09qRUs3ZTh1RF9YR1dSc1Y3THB4dk0?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 02:45",
-    "date_ts": 1782528333.0,
-    "title": "Panama vs England Prediction: Picks, Lineups, Preview & Best Bets for World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVk1WcWtNSVI5WmRjd2VXNjluSEJ6cDZpdXlFMDBjZkQ2RjV5RDZnS0Q5M1dRb1ktTWxBSVVLMXNjaDh1NEZSUFNQczdpaXVNM1AyVm9NU0ZraHBwNHpFVDJJeE9pcHdjNDhNNWE5Sm1DQUlram50a0RYUkhvT19SbEVNa2F3U1FDN21kd19rQUxKRzFCU0g0azBxdmxOV19ha2FPdnBpU3U1WnV0eV9tdGJJMkVLQ0k?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 02:28",
-    "date_ts": 1782527280.0,
-    "title": "2026 World Cup: How teams can advance to the knockout rounds",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 02:20",
-    "date_ts": 1782526800.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHdncUxoZV92OUJwUVJsRmFyenVpWHk4bnZRNjdUNm52SkRnMTZnbG5LWUwyR1JrWXZJbnRWaE9UMXJUc19odjFWbUIyVVNnWHExRlhaZGJjLXk1dVhvV1FuTUhvWHpyR25UVXVfOFgyYmsyajRvSVhzandCcWpYZDFiWWZlQ0dNaVpXRVJobGVXYUZaeGRjZXJVVi1zRXpWU1oycWF3MzItbUJXVUUzQUh3Ml9Xb0JxZDA1OENDYk9zYzlTUTFxTw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 02:19",
-    "date_ts": 1782526757.0,
-    "title": "Egypt vs Iran Lineups & Formations Confirmed: Predictions forWorld Cup 2026 Group G",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2RWdWFaSUJ5MWtXd21mQjB2cGF4YVY3ZUpPR19wbTlSbXR3Z3hDdDk0U09FWXVqN2hKNWE0eURTQnpsMV9RcGNGZGlEcG81VTh2MktZRkUwUWFkUlVWLWxYQ1ZPY0pOMWRsRzJaTWJfUGwycy12X1NobGltOTVxVll3b2pGazNuNzF2V283WUw0ZFI3UE5xMFZFZFJLc3Zud1dJM0V4dGJhMjdCYkJMcXl5V1ZKejhx?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
