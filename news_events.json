@@ -1,5 +1,18 @@
 [
   {
+    "date": "28/06 11:57",
+    "date_ts": 1782647859.0,
+    "title": "World Cup Round of 32: Which teams qualified or exited the tournament",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlBjejdZSzZHTVJFcmJiRTBvazkwa0JOVjUyUTg1N1IwRnh5ejhmMV9vTEdOWHlxUUM1SWtfQy1zUzlHTjU5Q3dxZlVCQkZjZjBCWjY0VUZZUVlHU2dMQWFsZmZQcTIxSklIRElDZFVleXp6RUR6VEx3Yk85b0N5R3NWaGdmeV9RdTdONU5udkFUeWxBQXc1alJ2Q2NJeklFN0JmTGFOYkhxandZbzNCaTViTHrSAboBQVVfeXFMTmliUEN1eElveDNIMF9KM0Ywak5henpnNEJoVHBxZWJHNFNyY2tBYm5FMGF1THo0LWxtcWZ5Tjk1NFROZ1JqRVFCZmJiVzEwQV9sMVZndHBmeTBmSGpJOXFuREFDeUFRS0dyNkdRMXc2d0gtVjVYVk0wSTU3eXM0MzVXZnNmVlBSVGRKQWh2SUJNdHpPQ1V0cWZvUmliWUU5STlBNTVzVGtvLXhMNGRUeGQ1LTdwdWNVNC1R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 09:45",
     "date_ts": 1782639902.0,
     "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
@@ -7,6 +20,17 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHhhWTMtc0NVLTl4aXF5djJsTGY4UjhOb0tLRTdKdVZnMWJ6WkZmMG0xMHVmRDBRcXE5MHo2VEw0VlRBZ2xQZVRXLV83dzVLRGh3dFV2Sk51T29TLV82TVZsQ2VQM2NxQ19scDNmYlZkc0dOcHY2emp6VUdnQ0syMTVDdWd3aW9pbWpRdUR4T3hoZXhsUUdhaTdZWDJjYnlFQlR3R3NWcklpMk5rUzYyX9IBtgFBVV95cUxNd0dVbHdxOWNkU2xTdDM0OXNiQ3JRUmZkd3ZhaUhZM0xZb2UwTUtCZVFDSnFtNS1CeEJLZDFWTW1kdTlNcVYyN18zcDV1dkJIV0JIS081VGNUVk02d1lpWEZraFJDQjVlRi1Vd1lqdHBPVUhRZ0dLMGhVTEFYcHYyX09yWWZ0dUszQUQ1S1NpaVVpT3Q1RXZIYTdKZVFTeU55Z29KNWtBSTBrWGh6WE1VbGE5Vzh3UQ?oc=5",
     "teams": [],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 07:00",
+    "date_ts": 1782630000.0,
+    "title": "Onto the knockout round: 4 takeaways from the FIFA World Cup so far",
+    "source": "NPR",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb21wbWlDcy00dlNjM1NzaW44TmZEdVBTaTJWTnFTU3FMUzl2azBmcHdSSWJDLTBHcUp4ZmU3NVRwbF9SN3Jmb1FvWGZwMEJ6Y1RtTDlMbHBlcUlkcG1BNTlfdGZXQ210ZmpaSTNUODRZMHd4R1l5ajJQaU41b2tsYW9CLWhSVk8tR2hwbk93?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -187,6 +211,19 @@
       "Colombia"
     ],
     "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 01:49",
+    "date_ts": 1782611340.0,
+    "title": "2026 World Cup Round of 32: Full list of matches, potential round of 16 games",
+    "source": "SB Nation",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFFEQi1MdHVFX1phOEtiZGdFVk5NMHo2VnYxcmRyM2IweW0waHdxTXlwWERZd182Ujl1THJVX1ptRDJEbEhqdE1VdHRrSU0ycGJZN19HYk9YSUtQSm9HaDc0T3hENGhBbmVrWHhJYU1fclE4ZjdicXd3Ym4tOEhmcmNDMVBlUTU5blQ2MWdvVW1pYW5PZnVYSXgzQ1BCWDY1aXNVT1VrcnY0UllHd0NmeXp3cTBMT2c2UFVSbFVTUkw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -715,39 +752,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 14:27",
-    "date_ts": 1782570461.0,
-    "title": "Espanha elimina Uruguai, Cabo Verde avança e emociona, França goleia: veja RESUMÃO dos jogos de sábado (26)",
-    "source": "G1",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUlRZZG1LdHZjZHZTeGhaRGlFRW5tMG56MkotdXRWY1l5cjZWS2Z4ZEVNM1NSMFY4QlRvbEt6X1dnOG9Zbm5KSjF0LXdiQ0t0TEhuV0ZYVEpZYm5YTzhuTldRaGJ1UzdPcU5xb1pvS3JwbjljdHdydlZOZ2thMHB2SERoYnAwcHk1ZGR3enVRWkhFWVFzOTRpc0U4T3o2SmdRREk5bnJfc29YRHZyZUVHbmY5TnNGRkhDeGpzaXVDUlpMWGtvMFM0N3Y3VFQ3em96OFllRmRMeGhmOTTSAeoBQVVfeXFMTlJpeFdNaW1TWjJGakRzS29xRlBDakVnVEQyZk9ya09kaE83WWlNV1g2Z0FHR3EwYWIwSGlPQUtyWHlzMmhCaU1tU2xhN1JUOE1ySWYwYi1LLWtpNVU2MER6WFFvTHBEX0xfSVVKY0hGblBSWlBJbnR3NE5QdHJuemNXZURhMUszSWJ3b01McVJiTlplZmlXUVJlRHVnSUkwQnc0eVN5a2N3a19uWmN5MHhTME1QSlFHeXRDT1ZPd3A3Wm9sUzJqNlBUcjRBTk52eTZDLUh4ejZlY08xYUYtVGtxT1VyVnpHcXZR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 14:15",
-    "date_ts": 1782569747.0,
-    "title": "2026 World Cup: Each team’s chances - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 14:01",
-    "date_ts": 1782568886.0,
-    "title": "2026 FIFA World Cup: Which third-place teams will reach the knockout stage?",
-    "source": "Euronews",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjBacDFBejVLb3FjR3R1cmJDeWkxd3p1T2txOHZZT2N6T19aWDRSLTAxN2F0cnFoTFdaNE9oemdTdUY5bG56LWxtMWhnWXhEbGdSTnpTZmhxc2tWZ291Ykh0WmdKb3l6Rk85Mi05cUpJOXZPWW5HS3BKV2w4MmtJMUdIN1RCb1B2RWs0LTdsNUFicmg0bC1pdjlPWWNUYlh2SWVFRkQtR1Y3QnFpT2c?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
