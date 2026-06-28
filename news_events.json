@@ -24,6 +24,17 @@
     "source_type": "news"
   },
   {
+    "date": "28/06 11:00",
+    "date_ts": 1782644400.0,
+    "title": "2026 World Cup knockout round TV schedule, game previews and results",
+    "source": "Los Angeles Times",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzg2ZG1EMXdlWHhUNjBNSzFzQ2ZOdm82NjhOX2Y2bnZFQXdGM2Fsdk9OWGRORWl3aktrMDZtU0dxbnhzamZicmNfRW9DT2t6VXUyY0VKM0NDOTI3ZWNuRDhscHhJUldzcHhHNzhiaTB1eGpVUDlRNmM4aERfUEJES0FrdU84aHBxVmVIbGUxRElYREk4X1RqcC1qSGFOdGxfNGFTdVk4Q0FNTkdvRnVIcURiNklQNV9aMHc?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 09:45",
     "date_ts": 1782639902.0,
     "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
@@ -32,6 +43,17 @@
     "teams": [],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 09:24",
+    "date_ts": 1782638680.0,
+    "title": "Copa do Mundo 2026: veja a seleção dos melhores e dos piores da fase de grupos",
+    "source": "GE",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTWtPV2ZHWXdCam0tdExsUjdYRWNaeVM4LTNQRURFUk5lT1NQQVFTaTRxbU1WQWpxdml5MlVFN3kzRXhZcDZxcld5cEVkeDBfRHFlM3U4Zk96c1dmY0ZrY1N3ZVRSWG95MDJmRVl6RmY1TmxFbzY1YUQ2QS1JaVczY3d0Q0k4c0NCekViRVpnOGRtV0NzOHN2cTFRQWIzT0ZrX0pXTS0yRTBRSTdRc2FucTdrRGpCdzRDelc1SW1NZm92WUpWbG5xRXd5QmdtZE1BQmFCN3ZqekF1d2o2RlE?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -360,6 +382,19 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 23:23",
+    "date_ts": 1782602614.0,
+    "title": "Confirmed lineups without Lionel Messi for Argentina vs Jordan at 2026 World Cup today",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcW1RWTM0TUdfNmRzMnBSRHdoVmlqR3ZUamtCUjBrbU1ZTFkybTJveS1ZbC0xMnVTV2RCUTA1Nk9sQ0JMck5QZ0J3Tm04VWhTZFQyQ1ZSWjBxNDBKTjZlSnNqaFZSUHFyVnV6ZzVhZ2tuc0tyUVI3eXpESW5tNzg0UUtfQ2tmeGJhZl9qUmp5bDBiR0VrR2pVM2lMTUFOSWlzY2JoTzZEelJEa0xLcGJRakk0Q2lNVktJeFRN0gHAAUFVX3lxTE43WHp4eUhieTl3VlZHRERpd0twYTdjQmpLTTVpajB4TndKVlRCN1FPbUhEUUNLR080SkRuTFNPQUNMMjZuYTJmam5WWGZfTkNfV0s2Y0hyR0dvXzJveGkwRGhLSG1SR0hTazktMU8wcXNHVnRPZkNJSzdOYWRTZmtIRmY5ZHR1RGlITmhiSWtIdmFmN3RXOW91dGpaSk5ic21WOG1zdmhNQXM4U0NfcDhIOFJaTjN0QW8tQURmSFZQZg?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -715,43 +750,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 17:01",
-    "date_ts": 1782579679.0,
-    "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmpsUVpmTVVETzN3NkUwSGZmREdZLV9JdmtQM1d4cGxHaGZKS1kzbjhtLXRaNkxWWmNCRkJsNDg2S3UyeGV2NGV6YmhaTkFZM3hRQ1hDbkVkTnJUeWt4VFZ6VFA5MG0wTkc3NGtfblkxem9EMVJGNmZuN0FYbUlzWTRDRXpGOEhhQlFPME5jWk81VUY5REhpb0owcmswalJjU09UYnZ3bE8wb0UwT1U4ZE9iSnjSAboBQVVfeXFMTWJJMG5LQnY4dlRmTjUwOHp1My1YZUloa1IzQm5YNTBrd2VPcnJmR2sxN29YMWRFOXZySFZzUVFzR0FNdmpWbm00LVZuNklfRkZMSzl1YjFZWS0yTVR2WEE4aVc1MFoxc1dWR0RyVVlJQXhseXNVS2otX0ZoLXBhdWZCRnhsMlhsdlJqLVpHcWlSX2hxTUdWVkp3LXpVTG00TmlCZHk3aEV0d25pOEdwcjdQQk11dWFfa1BB?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 17:00",
-    "date_ts": 1782579600.0,
-    "title": "England Starting XI vs Panama: Confirmed Team News and Predicted Lineup",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUVzYVpxcE1pTXdjenJ5ODJNOTRfbjc1UjhWUlhTa214d2tEbmF6X0pncUhTalhGUVFHaTRsMjFTRVQ4SG9XU0UyQmFOOXcxdjVZczhyVkdBeURXaENhT1lycDBPZTVtbS1pZ3RqZTV4dTdkR3M4LVl6LVJVSjlLUzhFUko?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 16:29",
-    "date_ts": 1782577740.0,
-    "title": "2026 World Cup Odds: Teams Favored to Advance to Knockout Stage",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbnRzZi11SWF1QUJ3V01oeHRwOGFDdjZQTEN3Nmg4WXF6QVc4VWdZZ3FpUm1qcGJNV3JkRkhva0FhMy10dGpkZDgwTXF6YmVKVlcwQ2FyUmZ5NUxXOTd5NzZsY3VMUC1mTmNRdE41QnhIdHYzWUpUOEdlcTlZTmN3VHJhS3Y1UEFCYWUwRU9SRVhvQ2VvMWE1eHRtaTRUZ9IBngFBVV95cUxQLTB4WFVBa2lweXY2MFJ3NmNBd2Q4b2ZEbHBla1VZVUlsNjZtcV9YaC12ZlJfSUxEUWVLRlVqS0d5NE5KaGc4a3VsdjdlMmMxTm5qdWJRRGZtUlRMV29ZeFVPZ3RHbTlieEpBRVdOTGdsNy1KaDFUSHk5ZEQzUk15Z0R0ZkVmT0lpQjV1U21DaUZwalNIWFBBemtaM0pqUQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
