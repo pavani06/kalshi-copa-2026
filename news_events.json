@@ -1,5 +1,16 @@
 [
   {
+    "date": "28/06 15:00",
+    "date_ts": 1782658825.0,
+    "title": "Canada faces an unprecedented World Cup situation as the knockout rounds begin",
+    "source": "CNN",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91aE9samhKLXBSd2lYb3ZVT3BEeUZwbFo5c1JmZXFpQ1BJOWdvWERDTDI2MVBtUjA2dUJiUVE2cnZabnNmbDZORmNoM1didlFOT2p3bGF4eU5UTk1xYXQ4c3hVUGdiQlpjbzVvNmRRVlo?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 14:15",
     "date_ts": 1782656100.0,
     "title": "2026 World Cup: Best bets for the knockout round",
@@ -731,19 +742,6 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 19:10",
-    "date_ts": 1782587400.0,
-    "title": "England v Panama LIVE: Team news and latest updates from World Cup",
-    "source": "The Independent",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemgtM1Z0X24zSFRnR2Q5Z3BkUTN2R2ZXalV5NHF2cDBnUlB0ZFBMdlVFSnFxZ0Z2d3lFNHgzVjFXd1p0ZWRrcGY1ZHdBZmxMbmoxSHhZYlhnaUR5bGRRNmYzekdHYW8tZ0o2bm1hNi1ZM3hDMHJ5UFdGaDlab3d5M0NkRTNyU3k0ZEFwdEFJWVhJY3FuRXhKQTJxQmNlVTNyZUVsS01Ua0hJdw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
