@@ -1,5 +1,51 @@
 [
   {
+    "date": "28/06 23:22",
+    "date_ts": 1782688944.0,
+    "title": "World Cup Round of 32 live updates: Canada stuns South Africa to advance plus latest results and news",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlpsZV8yaVZwR1NTUTI1bUthM3lpa0xkSENULVJsa2lXcXd4MFhlRGpRUG9xRF9JRUNQUkpKUEpQV1NHQ1FkWmd4cllzV3ItQkhqS2Q1RklLcC1nelBzb0Jnc3FCNzREZDJsX3VVQXVScUYyS2Fpc2JlRUczMERfdElZbmxjQ3pHT3h5bkNENG9ibmVwVG0zbWdySWJuaUZSV3Rsakl3YmdWeFlId21mNU5Idmcxdw?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 22:27",
+    "date_ts": 1782685620.0,
+    "title": "Brazil projected lineup vs Japan: Who will start round of 32 match?",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFpjdm16NENsMzViM3JTQ2VQRHA5akNBT1ZoMjAwYWNIbDRObFozaXNuQkRGTXpYeE1samF0RjRQdGNsRjJuOGFJYjFKSlRCX1hYUUpLeHN4akk2QWxKTWk3dGpfamxJc3FYT2kxX0lQc2c3YXZ0YkVhRGJhUHhIamk3Q2FKNUhuemhacjBScllsUG9zS05vTDhLTUNhMDVyZlZ5V2xoZTFUaXc?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 21:42",
+    "date_ts": 1782682966.0,
+    "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkJ5Z3ZSTHV2TDUyRWFuQ3RWR2Z5d0QzYVBkWjMtOTB1dzIzNE5JN1ZCMVFJUzE0MGJNZThJeHBpUUJxVjEzd2k5Z2JPRkRtRGI2c1V2eV9oUEZOa0hfdjY5R3JJUkdDajA0bVI0X1RhZzhmY2ctd19yZWZINWt4dVY5YzhtNDNucUxyMGhLd0E4ZTBNc3FQWWZLRF85OTRsZGZ0T1Bva20tRGxZUndmX1hkcy1IVHg00gG-AUFVX3lxTE40aFFQNF9HVjVmUVRGOFI0ams5SlZZUmRzMFlwbFdkdXRxT18wcDRmR2I0Y3RGMFZYeU9oaVhVUFAzUE1XaWVGZVVnY1AtVUNERk44MFZnVWVXQ2I4bWVZbEl4XzNXbkphRm9IaTZOSm9aX05yV3Y1dnlTNmNPRDZ2TkZCbzg2T096NF9Nb3V5Q3Y4WFNab1p5OFhsR3Q3c0VmVi03a0JPcUNQMHZ5U1NkLVgySWlaSS16Z2xVTHc?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 21:40",
+    "date_ts": 1782682847.0,
+    "title": "World Cup Roundup: Everything To Know About Canada's Historic Win",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWROcjF5NFp1OEg2SVVkLXVvSThlTEEyb2RSSDJ2a3V1Z1BwSkU3bTd2TTNJUXhWZkJMWGRHQ2UycTJvQ25pdjlweWlUUHNNUlh1ZHJCQWZOdF83d25la1liQzl6NVRNa1ZKU0w3NXBTRGpKMElRMjlmSnNGQXV5Qmw5WWpSS0JrQXpSMTBCRERVMnlldWg2dFYxbDNBS0dzaDVN0gGjAUFVX3lxTE1Vc3dKX2Zfdmo2Q0ZxWnEwLUxLSWhoQVR3RUs5bnFVVWkwTUxYSlNZbDJGNEx3SFV6bko4Xzc0QXVvWEZDYUJNdkpIZjNqNEpqb3ZtT21wbklOSVVWUTdfYmVvaENBMmRUTkN6OHhlakdLbmtmRDBrVHNVdVp1SUdqQWVJd0RkREZnQ2d1VVNOUTcwdWpzaWs2anJPckd1THVYSEU?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 21:19",
     "date_ts": 1782681574.0,
     "title": "2026 World Cup betting: Odds for every knockout stage team to win it all",
@@ -191,6 +237,19 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlBjejdZSzZHTVJFcmJiRTBvazkwa0JOVjUyUTg1N1IwRnh5ejhmMV9vTEdOWHlxUUM1SWtfQy1zUzlHTjU5Q3dxZlVCQkZjZjBCWjY0VUZZUVlHU2dMQWFsZmZQcTIxSklIRElDZFVleXp6RUR6VEx3Yk85b0N5R3NWaGdmeV9RdTdONU5udkFUeWxBQXc1alJ2Q2NJeklFN0JmTGFOYkhxandZbzNCaTViTHrSAboBQVVfeXFMTmliUEN1eElveDNIMF9KM0Ywak5henpnNEJoVHBxZWJHNFNyY2tBYm5FMGF1THo0LWxtcWZ5Tjk1NFROZ1JqRVFCZmJiVzEwQV9sMVZndHBmeTBmSGpJOXFuREFDeUFRS0dyNkdRMXc2d0gtVjVYVk0wSTU3eXM0MzVXZnNmVlBSVGRKQWh2SUJNdHpPQ1V0cWZvUmliWUU5STlBNTVzVGtvLXhMNGRUeGQ1LTdwdWNVNC1R?oc=5",
     "teams": [
       "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 11:00",
+    "date_ts": 1782644403.0,
+    "title": "Brazil Predicted Lineup vs. Japan: World Cup Round of 32",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXVCSTdFamtCVHZmc3hUa1J5UDBrN1pQTkhVV2ktSnhYbUJZcVpPLXpHX0hfZGhNcEcwT3Q3NXdJeTZFc0VTNDhTUW1YS3h2bzdSdEZvRjFiREVENDVLVURkVmRTQWRVYU4yaU1wQk14cTlWakJ3ckRibFlMbm1VbW5B?oc=5",
+    "teams": [
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -657,76 +716,6 @@
     "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
     "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 22:46",
-    "date_ts": 1782600367.0,
-    "title": "Portugal XI vs Colombia: Starting lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcmVfYUhEX1R6dnpKcWhBMnA2Sy1FT21wNm9MdzNaVFpQZEtIX1JsVWpGNHB4aXNjbWxUSVllUVBpdXZGZjY0c21YZmFDMV91RzczQ2lIMFQwb2dRS3lpcnE1cHNHUlRzME1IX2lQcVBmaGtmTWVNYzFUUHI5NjBaN01LZDJNMFV3OXExWW9zdFVCMDFSYTE3RHZlWmxVeGk5cnRtYzNRNXY1R2hCWnk5Y3I3VmM2MXdVYUJLaERJSzY2X2NYamRRX3lYckZKODRQV3ZNNF95M3NkZEZsXzBLeHloS0s?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 22:41",
-    "date_ts": 1782600105.0,
-    "title": "Why isn’t Bernardo Silva starting today for Portugal vs Colombia at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDktdnB6cjM0WE5lVzBMaUZNVi1mMGRET0tyUi1xR1hKZm5ua0tOYTBGUVhaOF9ITHpBX2xwY09EVzdQS3ZURTlFRGQ3c1pTNkIxTnJjSkJIX1RlODZlamJnR2tnSTZ6QncwVFRZV08yWGdYd0JlSExxWnp2b1FiWlRLeUJ4Y2tBMFNwS3NCQVpYNEI1OGpQQ3VRaU5fbk9odnllLWVwMlJ0eVVVVVVUNlF6eDlSWUczb3fSAb8BQVVfeXFMUGhQU0lnZUQtNjZTcE56dFVKVnNQZXBnSmZjS3NnSkJNbDFET09DZ3dzUUg0S2gwbUZRUUluclJkYWpmODJLOGEyVUoxclhxM2taN3d6QS1SWFFweFBGTHVHZDN4R1o2V01oZXRLOEl4cXdaR3JmbGw3VU9oc2VaRlBReUkxWTQyLVdOUWZoSHducHNueWwtNTVxak5jdGk3U01ERWdxTlFTYzZrMFFkMmh3aXM1Y1NtRjhBYVVjVXM?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 22:12",
-    "date_ts": 1782598337.0,
-    "title": "Is Cristiano Ronaldo playing? Colombia vs Portugal confirmed lineups for the 2026 World Cup Group K game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjNnYzhBMnF3SFRoQkE5Zk1kOFkyMTVyTzRvbWpfNVBHTUVkOGw1U2lkamEwR1FKYWp5SDZ0eG9YNGhicnJ0elpheGFYaUY1ekFzelV1VUx2VWc3TXUzbjljTE1aRjdWdDIyZktpT3BPbnNucjlGM2F3V1g4UGQxRU1rMENTTGFWRkZCUkptZTBvbXJjdlNqY21STGNael9OU19xSHdhTVVYQ1Z2YVMyQ3I2WngzQmowczNrOHJhQ3pyLWxiaWdhd1VCbUdsN3RuV1RUbnpSaXJzQdIB3gFBVV95cUxQNWxZVWU4dXIyUUZRUFpsOXBwRl9jVzhKSW9BOWZmRUdOM3JHRzJtek5SVThHWXRXQkFLcjM0UzFEQlZGY3hnaDVMSGFzQUlRdnJUeUdjNFUtcUk2NDdUZEtOa1FEOTJ4MHJNYnlGTGJidHVxYlpLc0s3d2hyN0kzOVhSU1N2aEx2MEhGODdBaXozZzcyUy1BaWowRDRtUHdkTGJRU2lCYU91c2ZicmVkbHhIZ3ZNVGl0Q2QxblhvN2FxNWd5dW5pTDVzc2w0ZEhZWDFSUnRTY04zT0Z2eVE?oc=5",
-    "teams": [
-      "Colombia",
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 22:12",
-    "date_ts": 1782598337.0,
-    "title": "Is Cristiano Ronaldo playing? Colombia vs Portugal projected lineups for the 2026 World Cup Group K game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjNnYzhBMnF3SFRoQkE5Zk1kOFkyMTVyTzRvbWpfNVBHTUVkOGw1U2lkamEwR1FKYWp5SDZ0eG9YNGhicnJ0elpheGFYaUY1ekFzelV1VUx2VWc3TXUzbjljTE1aRjdWdDIyZktpT3BPbnNucjlGM2F3V1g4UGQxRU1rMENTTGFWRkZCUkptZTBvbXJjdlNqY21STGNael9OU19xSHdhTVVYQ1Z2YVMyQ3I2WngzQmowczNrOHJhQ3pyLWxiaWdhd1VCbUdsN3RuV1RUbnpSaXJzQQ?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 22:08",
-    "date_ts": 1782598118.0,
-    "title": "Colombia vs Portugal World Cup Prediction: Who Will Score the First Goal Tonight?",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTU0eWw5aDBlazBLcmpJN0lUS1NqYXYxdXRZWWlMS2s4dm9vUDc3YkpkNUVSZ09oX2NuQUN5RGZ6aG40dEJnR2NDVXMyMlBGRnRtd2JnQWdJSDRCaFQ3TUtsanloVlVYcklvUmVyVlctZjI3d1dTMzRORkVwYWdpbF9kcUVoRE9zank0RmhIU2xoOXNvdVBFYmI0N3B4d2x0VGtLTWYwbFBuUGticThEa2p3?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
