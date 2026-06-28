@@ -1,5 +1,18 @@
 [
   {
+    "date": "28/06 05:00",
+    "date_ts": 1782622800.0,
+    "title": "Brazil vs Japan Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYXVHOGx4eDdTUW1TYlgxbGprSzN4bVBYYmNKUzlOWWttZWItRzJvcUZtMkVjNlpwUlY5QWFGMzJia1R6VC1SYkhpaDJaYkZsT01xbkdlX2lGQTFnWmJLcEZZUlRuT3dyRDh5aWFYTHhmZ3A1U0lGSEZKZ3ZIaHdmZ1pKazEzdU52bWphQWJIWDBNLWVHMEhIU1ZyM1BRaDlaXzQ3V19LU3hPRVAwQ0toQjZRUFpDa0Y4MFU3SVhNRm0yRWh6Z0VCWGphMDZCRFZMX0p4SXNzRnJFU28?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 04:27",
     "date_ts": 1782620820.0,
     "title": "Final Round of 32 Line-up Confirmed",
@@ -9,6 +22,17 @@
       "Senegal"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 04:20",
+    "date_ts": 1782620416.0,
+    "title": "World Cup 2026 Round of 32: Full bracket, matchups, schedule and how each team qualified",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXhadlZsb1BYcmhmeFBTbXZqS2FUOHFXMDN0MjN2WWVoZHdJdXZSZ0ExajJzblJBSm93SEZyMndUV1pNLVNjYVNvVHJxdmVpZWprYzFpSHN1Z2FOZ2t4RnZJTnNCYjJrMmNOUlI0cS1iS255MHVDSDBValpMekNyY3pVWG02TkRReUtVMzVfcktwQ2hxMGE2X0ZsLVRaUy10VG1FSlRBaG9SMlhoZ2R5aHN3MmVrYzlHY1E4RXA3d3dOQW45aXBsUEZQRUtVUEtPd2gzdFI4WQ?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -59,6 +83,17 @@
     "source_type": "news"
   },
   {
+    "date": "28/06 03:47",
+    "date_ts": 1782618429.0,
+    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 03:09",
     "date_ts": 1782616170.0,
     "title": "2026 World Cup: Tournament schedule, scores and results",
@@ -66,6 +101,19 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 03:07",
+    "date_ts": 1782616041.0,
+    "title": "Reece James Injury: Who will Thomas Tuchel Pick as Replacement for England's World Cup Games?",
+    "source": "Chase Your Sport",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFZYb3lralFWbGFoYzRmbU8zZEEycWdDb0xqWk1pdXQzVEItNE54YW5xalVQVk9kUmg1N0d1ZnNxSENrSWE5TURfRm9icGhrSXV5dWphTE0wemdnNjF3dlZDdzdGeTJKckNRNFBiaEtVRmhrWm44YWRVeFJRUVJYZUVvcnBNdVJvRUFMWV9VaEU5VFhYblNHWjVXNHpTbi0wcGg1azZRQWQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -705,55 +753,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 11:15",
-    "date_ts": 1782558900.0,
-    "title": "Ronaldo, Portugal play Colombia in World Cup: Prediction, kickoff, schedule",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSC1IVlBLdWl6dnQ0Tm9qNFhlSmM2X2k3VWFHNGRnbXRqSmE0OF9rb3F1VjFQVVFhdlJILXdjcTFxRXZBQUZIRVZmS3M0dmJoUW5vLW1EYUM1cVQ2dUhNOURKZ0drZnZqVUpLR0hha1pMNDkxMkJXejRDbFZYTE5VME5lTC1wenptQ2hVNG1KV2F2NHJ1UlgtQkRTVDRqcXhoc1BnSFBOUFFwNktK0gGyAUFVX3lxTE96UUk5aC1mZ2ZhRDUzSDRnWFVQNUkwbGZfTXVYbUZDM0dUVHlOMUVXVXJwemprUzBzU1dBeDdDRXFFclNwRC1pRGxaenk3ZU5ETFNkMENHeGlKSzJNQXlDbF9oeU92UXpQWkNZcVFwTTl4VDFQOUJLbkZEOUxhSUNLT0E0Nm40Q0FqWUMyMEx0NGExMENTWDhKV1phMVdHSkl4N0lQdWlEUERqM3h4SzMyR3c?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 10:44",
-    "date_ts": 1782557064.0,
-    "title": "Which World Cup third-place teams will advance to knockout stage? Here’s all you need to know - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQUZjUl9JUl8yUjJlRXMwLUlKMEVRNjF6XzF6alFxeU9DMndreWpBa0hCZTVRd1ZySEVUNnRYZTdoZlRTTVlKTkxMMWlSM2RSVVA5MFpkS1R0NDNtZWlaNHR5OEVpY1cxTFNzMExUTEprQnRiZGVWZUhNaUVKT3dNdF9XTUFvUTJ4MkFXRVdIcGRCQQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 10:43",
-    "date_ts": 1782556980.0,
-    "title": "Scotland's chance of qualifying for World Cup knockout stage falls to 0.07%",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWtiNXJST3hHcUx3RFFLeXJZY3M5SWUxNzlkOUxnQ2JFS0ZTc2Z5anpZck9nbUMtOUM2ZER0MXF4UmIxdjFfa1N5d1FFalpac1BtVGFrVm9QcVFFcXV6RTA5eEpSakVVVHhtVXQxVTVFbWZBWTlrYlFJVnhQTjBkUXVJbmVrS1JOd2NFVDhua3VVQWQ2blNYdEtB?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 10:31",
-    "date_ts": 1782556260.0,
-    "title": "World Cup Buzz: Egypt's Mohamed Salah Exits Match Vs. Iran With Injury",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
