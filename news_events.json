@@ -1,5 +1,16 @@
 [
   {
+    "date": "28/06 14:15",
+    "date_ts": 1782656100.0,
+    "title": "2026 World Cup: Best bets for the knockout round",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVZDTVExVVJrdDhtV19YdkxVQ3lTRnFaTVl0SXA3dy1rdGdOemR5UkN4MDNWTWJRTHBYdVdweXQ0XzdJMEszcEMzcGhNTFRuVWtxYVNibWh6RXFEbkhrYmtnS091TXBtd2tiNldSWk5kcW1BZ2NrbmxqQ2JQM1ZBR0NFUF9PaWo1RGx0aGlCa2NoaWRZakx2OHZiMEwxMjlqdUNnQWd5eldaY090eG9UUUU1ekVmTVF1amJqWVVFRy1WWFViM0FaVDR6MA?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 12:57",
     "date_ts": 1782651420.0,
     "title": "World Cup Round of 32 bracket: Updated schedule, results for 2026 FIFA knockout round",
@@ -7,6 +18,19 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVJrNGExT1FRWUh1eVpWNWJVWHRCZEt0TEczTU5Tek16ZGNEVXlXSzE0ZTliTURTVURJNzBGZ2w1MFY5NWtaa2VTdDAxX1dDU0RDVmFrQk1VTmNqVVVILVR6VXJ6bkx2VllvU1c0dTRDQ1R5VGNwSUtQZ01ORXBSVQ?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 12:31",
+    "date_ts": 1782649860.0,
+    "title": "Germany vs Paraguay Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG9GQTdVbmRJWU5EYXhKcFFocW9GTGVJRDlfT1dTc3Z5ankzTDRxSjdfWTl3dTB4cVA2WURibTgyenJ4TkdYWkpybEJhZEdRNzcxYVJ0VENRNFg1Nk5iSG9TbENZaVNORk5GY1FPenkzSDFqR3Q1UVFzMDFhZGFMRGN3NlFORk03TWtIWHdZNnNIN1BUaEpnYmx3N1cyd2dYU2g3azAwV1pJRERlOU0wcWRra3BpeDZvd2swcHFSUW1pOFM2amxMdGVyMFMwa28weTMxOFVULVNoYi1tU091Nw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -719,34 +743,6 @@
     "teams": [
       "Portugal",
       "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 17:46",
-    "date_ts": 1782582373.0,
-    "title": "Colombia vs Portugal: Potential Lineup, How, When to Watch the 2026 World Cup Match",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
-    "teams": [
-      "Colombia",
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 17:02",
-    "date_ts": 1782579732.0,
-    "title": "Portugal vs Colombia World Cup Prediction: Best Prop Bets Today For Cristiano Ronaldo",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHhmQTVOUnNLRHVWSEJYeTZ5eXQwU1J3TnJ0ZXN0YkJldGQ4ODYxT2xhNURDRHM5ODJGNGZCclduTUozbEM4TmwtMzdpTjJscU1wMlBLRXZCX0g4ZW95dERRYURjYmM2cFcxRDJVOXhSOWlwQnd2TlI4U2l5dTZNcmFSUVpyYWdTTG1ydTFNeDJyaG42WWItbDkwZTBLYjBhemFJNDdkMzA0NVN1RFV4UnpqQm0wdURE?oc=5",
-    "teams": [
-      "Colombia",
-      "Portugal"
     ],
     "category": "lineup",
     "impact": "LOW",
