@@ -35,6 +35,17 @@
     "source_type": "news"
   },
   {
+    "date": "28/06 04:40",
+    "date_ts": 1782621614.0,
+    "title": "Cinco minutos de passes no meio, vaias e gols seguidos: veja como foi o fim de Argélia x Áustria",
+    "source": "GE",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTUpZTEotMEw1dUs0cDdFcUtFMFUzSEI1LXRpUUdtS1BVOWFKcHdTaU5oWHNOd3dsMEV6UFAtR1B2NUJ4bG8xY0lqSm5yWVNWaktZQ2lJWURGZlhNaHVPUWFHY0c4T0xlU0hJMFhrb09wU3BjQUF2LUpMR01BTUEyaWc4dFpaUGlnTktpb2NMdDhKRWhabUZIRWdGN3hzdHFzcVRBb1l6R2NKQTdzTFZ1amFZcVFoY1F1cUZxTENabTJreGpBU1VIX0J2X0MxbjExQ0l0T1pLSlRCUjJrOGhWZmZEbFJ2Z3ptSjJPMjlVQ2hKZk1Z0gGDAkFVX3lxTFB2RjUxbjQyLS1wTU9McWY1dERkVmJjNTc0UXFTSTJOMlZJcEtwSFlINVpwcHFjc3NKdTJNeE1SajUyT3NFeXp1TDdWVlZtWWV2dVg1bi00dE01ODdMQ3oxWk5kcERTdE9yNENnNkdzZ2J2ZjBzTHBmODhxZnN6WURrZUQ4ZUhxUEw5MmkxZVRjUG5Lb25OdUJ1dUZqbUxlVHpOSkdFQlhoWlFXcVU0d1RBVTlNWDdQV0w0NktGVlJwZGNPbl9HeGR1TnVDdXBOemcySVpGbmJxMEVPSS1GQkVOUDNWc25XWldRWVROX3gzY1FDczdpeURqNF9DZG5zTVR1M0k?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 04:27",
     "date_ts": 1782620820.0,
     "title": "Final Round of 32 Line-up Confirmed",
@@ -203,6 +214,17 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 01:37",
+    "date_ts": 1782610620.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, group stage updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -726,30 +748,6 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 13:44",
-    "date_ts": 1782567863.0,
-    "title": "World Cup pathways and opponents for every third-place team in 2026 knockout bracket",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFRMQ1hLYTZKQlg4U3JXRU9YMXVjdVFyRkx3SE8taWRFc3AtWDdXZGRRYmpTV3JaODhNUXFQME44T1NxemZxQ19zZGhWNjlYaldZdnFMX2w5QjA4R2tkTFpkR0ozRXM5MGI5dm5rTTFrMEZoRWl1eS1TWGMzQjViVkhNU1pCX0dCV3FB?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 13:29",
-    "date_ts": 1782566984.0,
-    "title": "2026 World Cup Round of 32: Full list of matches, potential round of 16 games",
-    "source": "SB Nation",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFFEQi1MdHVFX1phOEtiZGdFVk5NMHo2VnYxcmRyM2IweW0waHdxTXlwWERZd182Ujl1THJVX1ptRDJEbEhqdE1VdHRrSU0ycGJZN19HYk9YSUtQSm9HaDc0T3hENGhBbmVrWHhJYU1fclE4ZjdicXd3Ym4tOEhmcmNDMVBlUTU5blQ2MWdvVW1pYW5PZnVYSXgzQ1BCWDY1aXNVT1VrcnY0UllHd0NmeXp3cTBMT2c2UFVSbFVTUkw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
