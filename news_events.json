@@ -1,5 +1,42 @@
 [
   {
+    "date": "29/06 21:24",
+    "date_ts": 1782768240.0,
+    "title": "Paraguay scores! Julio Enciso gets first World Cup knockout stage goal",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZmVmUWlkNmlfVHRhWjFudWVCa09OUWhCQ0dRNGw1ckZGMzJhY3pKU1ZPeDdrS25qMDNobExTbHhCU3Rjcm91SVowRi1PVUdQekdSLXNReE5mbDB1VWpldnFqdWp2VFJPc3dtd1BnVWcwTjY5cllfSWlBWVU1X2FiVENPUzVYUUFBdEduZW51OVNjdm5FQVVzNmZRdTY4WXF6WHRabmdIVGJBYjhZeWRNaXo3TlpjdUtScGNSY2xkQ05UZ2JCTTBrQ3VXb25LZUtOSUdnc0FYVkw?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 21:17",
+    "date_ts": 1782767821.0,
+    "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOejNYNDNhWF9sNGp4NEc0S1hHLWJGdFFqbmhHWXgzY3JoNnA2S3lrWFVxbTZWMWV6N3paZ3E1aEhvc0I4dXJDeG45OV9SeWhvUThNWXVOa1dVNWxFcWZYUzFMTEIxYnVSZnRDQVhRM1A3dUd6Q085ZUtJRXRNbWFqdkRkSktQREFkSnBvWW04THlDSlBEb0lodFd3S0dZUHFrLUpSMnJ5X19KMzZCamU4NEY3Z2J2LVhQQlZpdXVQZHF3dFdFN01YQ09uRENYdmZUakxZZVRUVHU?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 20:33",
+    "date_ts": 1782765238.0,
+    "title": "Germany vs Paraguay live updates: Latest score from today’s 2026 World Cup knockout clash",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU1leldwQmp6LXJ0TVphV0FjT2pZcnFMby1WSW43TUhEeUVNZmNVS2dqeHgxdmVONWQzR2NHNmxNcFJjYXN3NXJ0ZWV4WE5Ka1NCMmZkMU1SeFZ0MGI2eG5nZDFkQ0FjRmtlWXIyRWNhUDdkSEotZEV6cXkyeTZQX1RyYkhqUXpfMGNkdkhEbDR4eEUxazg3eTBCMWhqY3VDTENWVWVoT3l5LXl0Qk5sRzNmQUdUdlNNU3c?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 20:17",
     "date_ts": 1782764260.0,
     "title": "Gabriel Martinelli scores late in injury time to help Brazil beat Japan 2-1 at World Cup",
@@ -286,6 +323,17 @@
     "teams": [
       "Brasil"
     ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 13:12",
+    "date_ts": 1782738720.0,
+    "title": "Printable World Cup bracket ahead of knockout stage for predictions, picks",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUVEU2N0WVBhZzB1dHZ4WFY2bDNtYy1za0xXSFd4R19pbnltTV9tRzFET2RMSjc3STRjc2lFR3I5ZGduYXpGd05GWk9mSnoxa0V0M3RlaTZyMW5DU0tyMFByendDeHBrQ19JcG5SZlRxU2ZFQUVGWTZKSmpnWDJLOG82TlFJeGhjaVN4TmhiSklfSmVNUzQ0c0ZQVndqTGM5V3pjQmFkenFBM1oyY19fdDZkN1E4T1hVLXFpcmN5MTZOdUJaSWJmNEwySmU3c1Vq?oc=5",
+    "teams": [],
     "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
@@ -679,54 +727,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 20:57",
-    "date_ts": 1782680220.0,
-    "title": "Com gol no fim, Canadá vence e encara Holanda ou Marrocos nas oitavas de final da Copa do Mundo",
-    "source": "Terra",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPaUhjYUNraC04cE53ZXJwM216dEp2OEVhd2FQZ2UxYVBqSlc5bU9tRDNRVEt1T2YtTEF1ZjhRdW5URldJMFZBNHNoMjU0VmxFMGhhZjRtMHNnMHNQWG00QWdtcW1uN3hvVDJqRmVMSHJ3OEs5Wlo5WlhfZzJMcFRTc3JUSnVFRV9lU2xHZHVISzhiMnU2em5majZDSHRDZC1ORkFHYXV2alMtal9HRUNCTXVFSnVqM0dlU0JBOFhXb0lodVNOV25MMmJxUzRqaWxEdDFOSFRHRVg2OFF2Y1k1Z0x3QjVnTlcyTlBlSzA5RVg1cWdEemZ2ejlxaHZCX0RiRlExVFlWX05nZWVTZnVVTnA4TXo2V0lmQU5MZA?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 20:30",
-    "date_ts": 1782678624.0,
-    "title": "World Cup 2026 live updates: Canada vs. South Africa begin knockout rounds",
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMTlnLWo0Tjdob1otaUhtTXp2ZEM1ZVlsZkUxUWFwQnBwTEtuM09zVWExYV9ZT0ctR0xJNnozNmJHaUhvSW5NRzNybl8zSWJyUXY4YXBubjNreE9JV0lpcGNLd181NTFaX25YQkVaT3ZUYmlFSjRlRzhScGMtemJBcjZseHA2OEtXcEVDZXYyNTlGMDlJa0dtdHQ4OEkxanBIM3JJMm83LW9rQQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 20:30",
-    "date_ts": 1782678600.0,
-    "title": "Team News: Germany vs. Paraguay injury, suspension list, predicted XIs",
-    "source": "Sports Mole",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkhMMVF1Q2xLWV9oYkdNM29HaXBWTm14WUVMQi1DcHBzcjJsZEN2SlhZYjYtYkZrY1FuTnJwN2JuUmd5VDFXR3ZkTEdON0RSQXlzTDhSWVBsaHBoUTRpejRqMm5xeVpzaEMtbmdEZzRpRWFKYlk2V1Y0aWlFVll1WmtDb3N2RkZlalNVZHV6aWQ2aGhLb0JOVkF3NXp1WFBVS2VRZmc4SFNpWlZWRFR6b3VieTV5ZzVTUmk2ckRRYjRHTjA1NEVkVjJkT1o0M1ZRTFNtMjZn?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 20:26",
-    "date_ts": 1782678375.0,
-    "title": "World Cup 2026 Knockout Stage Odds, Format, Rules and Predictions",
-    "source": "Bleacher Report",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2lEZF93ZkpjRFdabFkxSUJaS0RxZkdZTHlkQ0toZG9RSDVvN3FvNUw4WENzVmZpa2M5YUw0MTdpTXF4X0NaYlpsNm1QcDkyd0c4ZER2TnpoeDdXSzFRbzZxQkNxVnlXREVuel9EY3B1RWNUb19QMl9NYnVvbzFqcmNHQVdaT1F4WEJVR2hXMDdqUGppWWt5dzR2TlFvXzJyb2tWZ296WElSODhv?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
