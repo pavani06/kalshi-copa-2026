@@ -152,6 +152,17 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 19:08",
+    "date_ts": 1782760080.0,
+    "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and who will they play",
+    "source": "CBS Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOektvRWQyaEJLdUZ1R0w0RVRuY0J1WDFxXzNBUGtYR3Y1dGplTEZVb0VEUExYT0NGT3FOdGo3dFNobUhNUk45RlcwOW1faDV1ZXRSTldjTlFQT2JoWWlBNFNRVjZReF80MVY2d2prSVVnSi03VFJDY3p4RXloVHBEVUJsY0dJenoy?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 18:51",
     "date_ts": 1782759060.0,
     "title": "Germany vs Paraguay LIVE: 2026 World Cup round-of-32 updates",
@@ -254,6 +265,17 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 16:29",
+    "date_ts": 1782750540.0,
+    "title": "World Cup knockout bracket predictions: Picking the biggest shocks, best games and winners - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjJJdUFVMjFDM25FTUMyS19JNkd3dk1FWWh6Y2ZKWjU0dVgtd0FKak5UbTQyaWVuQUZZME1yeTRNZGVXZ3NhTlNGS0tnRks2TWlibmg2anRfVUJjMFJtamd6M3RZYXBTc2JNY1Z1TnhpazM3UHFoS095Rm82WGRKdktZZ2FLX0Y4RWc?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 16:02",
     "date_ts": 1782748938.0,
     "title": "Brazil XI vs Japan: Starting lineup and confirmed team news",
@@ -341,6 +363,19 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 14:43",
+    "date_ts": 1782744184.0,
+    "title": "Brazil vs. Japan: Where to watch the 2026 World Cup match today, TV channel, start time, free streaming info, and more",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGRNT0lfMV9JY1lmZUx6YmxkRThFaVprQXh2ZDhOLUVzY2dVMUlmZDdTamY5TVQxWGY5eTdIcDlvcTQyNDFCNWpWQnlib1MtS1huWHhQcDdXZHdzRTdrbVhaalVEa2tGcFZ1QlRkbEdjdTFhaHFmal9QM01yREQ0emQ5dl8zalEtMlFOUWtmTnVpSXJBQ2NsaTVoUlM4TGlScWNyVS13Q1ZKNmdWUkUwTndkZHFGRmFiY25KUDVja2pXaXlldUhsUXdoX24zTlN1Z0RaMTVxRGw4bEVoVU12VkxrS3NubHNMdEh4SXNLajZ2WklhNkdtX2pzbw?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 14:14",
     "date_ts": 1782742475.0,
     "title": "World Cup 2026 live updates: Brazil vs. Japan first knockout match of the day",
@@ -362,6 +397,19 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 13:06",
+    "date_ts": 1782738379.0,
+    "title": "Brazil Dealt Unfortunate News Amid Japan World Cup Game",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUtscTEzWjFIRWFqRkd1bDF1UU5mb3A0ek8wdV9JcGVVVWhjdFZfTGg3NDd3ejFyeHNJQmZVWVl5dk9ySWlxbEl0dnBMdE9KS05lZ1g4NS1zeEhOa09hcEZoWU5mQVBKRHR4RGl4a3lKMEljbFduVFU1UExPTzVjWG9jNkoyRVhVbFJr?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -441,11 +489,37 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 11:42",
+    "date_ts": 1782733355.0,
+    "title": "Palpites e dicas para Holanda x Marrocos pela Copa do Mundo",
+    "source": "ge",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkFtTGpMNDM4NUdPYkotMUJlTEl4YUt5NTFWeHVTa01FSE03bnB4QXdJcmtBVDZoVWxuTWJfZlRQQUJZWUJEZUdUNGdackpJNC1Ob2xkSHNGTnpkNURCTmVFbmR0SWozbmNtTmxlSG5RQjczbzk5VFVoLU1HRUVYVmJOTGtqTFVaS19neE5sWEtEbDdjYnZLejVuUWMtT1F2dEZCQ2REOVoxdU5QeTRNSVdySnZqLW5aTTd0cU1mczdUMDB2V0HSAdQBQVVfeXFMUElwNEpya3FGd1hsVk13ZlFHbGRZNzlQelBUQ1pmMWFJRC0wdWthRDRPT2RiWVhzMWM1OVJYMGtBdnF5ekpIVFpCbDBtbzhWbnVrbDFFdE1nTF9wZFE2M2VFMXNOM1IyZ2MyQ29FbkFVTnNsdnBycUtYMGU2VEU4ZDJiWkJvQWQzbVg3dzJoYXU0bWZ4V2MtdE9OeDRqQVNucEtKdVg0eXk1WG1NNTdVU3lROW1iMy13dzVzLXBrYmpEZmtlTmJGN3h3OWd5TVhOY1VFUEQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 11:31",
     "date_ts": 1782732679.0,
     "title": "Começou o mata-mata: e se Brasil e Japão empatarem? Entenda prorrogação, pênaltis e outros pontos da nova fase da Copa",
     "source": "O GLOBO",
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0s3Z0NnUUw5M2ZSZGViOHlOdUdqTjZaVG94VUNLWGhIUGVNbG96aEdGSUR1bTdtTnJEeWw0VkRhY1dlVDFieUpMaG4tU0JkWUJGZGUtSGQwNTg1bVljdFMzQTR3Vi1LdFB5MDN4TFc5MmpDbUYtY09Pb1gyakcyb2d3c3R5c0VQaVc3ZERVcXQyYzRWYmtIZTNBektZNWJ1dHhMQTlocDgzUGhVcW9uVlFJMXZ1bHdzenZod09ER2ZhYnl5MWdoUnRTN2ZxQW9nMWVZckpCaHcxR0FtUEkxSnZDR3lvMnVwX2VXNjR2M0xHUzM1QWVXMnU2YmdRZnRpWmozZFlnMXfSAZcCQVVfeXFMUE5hUDhNZHd3ZmpOLUdBTEFEdndkRTBfeEVTN0t3WndRSjhCdTJfb1BCaUFJcGE1ZjdNU1lDdTFjYWFYX2U1Z2dkeVJDb3FsWU50LVViX29YM1lKeUVtckE4M05ub1Y5emN2SVplcEM1Sl9jeV9ELVZWOTludlluR0VnM2M1TktHaTBpVC0yRmdqZ0Q5WktRN2FPbmxUeXRETmRETXNCd0VNcC05U2M0Q1NBbDRDTFFCMC1hUU9TTDFRTUQwQXE0YnhYWlUzSkVwT2M1cno2WWhwN2ZSNnhWWUl5UGU3SFRGUW1DUkRKRXp4Wlc3enBVZ3hKdGZacGVKRHEwbm1fUVphODJKODctbnQ3bWhVYm8w?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 11:30",
+    "date_ts": 1782732647.0,
+    "title": "Why Isn’t Neymar Playing for Brazil vs. Japan at 2026 World Cup?",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1icC1qaTZjMmhzY25HeW1qUTkyd2Fhc0g4WlN0NEF0aEpXQlBfSFlrZ2phX3FoXzZzMUdEanRpdnlRcXI4MGNvS0duQ0VfYU9UYTV0UjlNZnU1eUJ6b2xPekItWkdSbTdtdFUzTnpzdnlUaDM1T2gtY0lKM2lmQQ?oc=5",
     "teams": [
       "Brasil"
     ],
@@ -665,76 +739,6 @@
     ],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 23:22",
-    "date_ts": 1782688944.0,
-    "title": "World Cup Round of 32 live updates: Canada stuns South Africa to advance plus latest results and news",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlpsZV8yaVZwR1NTUTI1bUthM3lpa0xkSENULVJsa2lXcXd4MFhlRGpRUG9xRF9JRUNQUkpKUEpQV1NHQ1FkWmd4cllzV3ItQkhqS2Q1RklLcC1nelBzb0Jnc3FCNzREZDJsX3VVQXVScUYyS2Fpc2JlRUczMERfdElZbmxjQ3pHT3h5bkNENG9ibmVwVG0zbWdySWJuaUZSV3Rsakl3YmdWeFlId21mNU5Idmcxdw?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 22:55",
-    "date_ts": 1782687312.0,
-    "title": "Brazil vs Japan Prediction: Picks, Lineups, Preview & Best Bets World Cup 2026 Round of 32",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWV6YmJSQzlXNjVZYThTX09rc0hodXhXVGZkWXN6WGU3R2lNOS1mazZ3ZUdDNm51Si1FdVJSY1JQVHgyY2VyNlNFWEluUmU4dmFXRjlTYm03SXcxOTlMRGEzU1RzVVhYMC1nd0hWbXdrR2pkaHZiMFFWZHZoZGEwYjVvRmN3Rm5vbmVkQmR1VkRwWko4YVFnY0FTWk53Y2ZfSXh4YnRmb2IyLXdycG1zOFB6U0dUVURWMm4xTldMWXJKS2szN21hMnpSZw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 22:27",
-    "date_ts": 1782685620.0,
-    "title": "Brazil projected lineup vs Japan: Who will start round of 32 match?",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFpjdm16NENsMzViM3JTQ2VQRHA5akNBT1ZoMjAwYWNIbDRObFozaXNuQkRGTXpYeE1samF0RjRQdGNsRjJuOGFJYjFKSlRCX1hYUUpLeHN4akk2QWxKTWk3dGpfamxJc3FYT2kxX0lQc2c3YXZ0YkVhRGJhUHhIamk3Q2FKNUhuemhacjBScllsUG9zS05vTDhLTUNhMDVyZlZ5V2xoZTFUaXc?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 22:23",
-    "date_ts": 1782685380.0,
-    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 21:42",
-    "date_ts": 1782682966.0,
-    "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkJ5Z3ZSTHV2TDUyRWFuQ3RWR2Z5d0QzYVBkWjMtOTB1dzIzNE5JN1ZCMVFJUzE0MGJNZThJeHBpUUJxVjEzd2k5Z2JPRkRtRGI2c1V2eV9oUEZOa0hfdjY5R3JJUkdDajA0bVI0X1RhZzhmY2ctd19yZWZINWt4dVY5YzhtNDNucUxyMGhLd0E4ZTBNc3FQWWZLRF85OTRsZGZ0T1Bva20tRGxZUndmX1hkcy1IVHg00gG-AUFVX3lxTE40aFFQNF9HVjVmUVRGOFI0ams5SlZZUmRzMFlwbFdkdXRxT18wcDRmR2I0Y3RGMFZYeU9oaVhVUFAzUE1XaWVGZVVnY1AtVUNERk44MFZnVWVXQ2I4bWVZbEl4XzNXbkphRm9IaTZOSm9aX05yV3Y1dnlTNmNPRDZ2TkZCbzg2T096NF9Nb3V5Q3Y4WFNab1p5OFhsR3Q3c0VmVi03a0JPcUNQMHZ5U1NkLVgySWlaSS16Z2xVTHc?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 21:40",
-    "date_ts": 1782682847.0,
-    "title": "World Cup Roundup: Everything To Know About Canada's Historic Win",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWROcjF5NFp1OEg2SVVkLXVvSThlTEEyb2RSSDJ2a3V1Z1BwSkU3bTd2TTNJUXhWZkJMWGRHQ2UycTJvQ25pdjlweWlUUHNNUlh1ZHJCQWZOdF83d25la1liQzl6NVRNa1ZKU0w3NXBTRGpKMElRMjlmSnNGQXV5Qmw5WWpSS0JrQXpSMTBCRERVMnlldWg2dFYxbDNBS0dzaDVN0gGjAUFVX3lxTE1Vc3dKX2Zfdmo2Q0ZxWnEwLUxLSWhoQVR3RUs5bnFVVWkwTUxYSlNZbDJGNEx3SFV6bko4Xzc0QXVvWEZDYUJNdkpIZjNqNEpqb3ZtT21wbklOSVVWUTdfYmVvaENBMmRUTkN6OHhlakdLbmtmRDBrVHNVdVp1SUdqQWVJd0RkREZnQ2d1VVNOUTcwdWpzaWs2anJPckd1THVYSEU?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
