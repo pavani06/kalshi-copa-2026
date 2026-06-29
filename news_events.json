@@ -1,5 +1,51 @@
 [
   {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "How Bellingham and Kane unlocked Tuchel’s stodgy England attack | Andrew Beasley",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmVweTBoNXpkTThDSUV5WnhRZ1VxYjVvSTFkNEJCMHh3bE03bjBEd1JvS19nYXBmdEd0OWRBaFAyTFVxc1NOX1g1OW1lQmdWWlpBNDNfSEpXWjNpQzA1ak1jYkhzZl9nNFVteElnc0cwUzl1QTRKVTB2MURPSi1BbVo3cTBzUDg2NERSQUtGRTRvanhKN0tfQXJxcl9Zc2hqcHBwaVkzLWU?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 06:46",
+    "date_ts": 1782715606.0,
+    "title": "South Korean president, ex-players, fans demand change after World Cup exit",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjg0TE1aS3lGTGowNGE1OEt3TlNCVHNnWkRJRGJEcjl3dHl3aTRvNHZqWWlqMU9iU2J0Z3JVNEQ5dDBGLXJCMlJSODYyS3p0R3VqbTdDRWx3c0pOTUJiVTV6WHhPbHJaYXNpZ1lNT3dMUmQzTFUybG5RWlBnREgxeEFBTjZEZU81V0Y1TGVHVXJXalUxZnRPTUoycjlVckdaLUV3b29tbWwzM0ZFblliN2lmX3nSAboBQVVfeXFMUE0yVnp6NUtpOFVhdFFoYkFkVHE1TEdzMXN3WVFiaE16eTZUa2VKN0ViOWVvT2F0MjhZTzl1S2gwYS1CRU1RSUdsLWJ5THVzTnQzM25QOHRHY1FGSTdmSzY3Z0FtNE4tNjBpQkw2ZnBMeUFSTDgya1lYNi1EaEE1UUwwT2dYYkdxVjNKcVk3Y2xOLVY5RFdSZWlWcDgxb0U4NzEtYXlldi05TkFCX3FFNkk2bEx6bVFoLWhR?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 05:41",
+    "date_ts": 1782711677.0,
+    "title": "World Cup Bracket for Knockout Stage As It Stands: What Teams Have Qualified?",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGFtZVQyeDVEOWEtWVd5RjdTMExBVTNvbXlUNFBncmhKaFpZdjJTRWhCQzUzeW9LeHlJNF9SNHZUQUJHSk5EZmxGdFFjNk1MeFhrOU91ZjJSVG1IWEVMTVVaNDNBSXFtTFVJNnJmd25mcVRxdXZqNXBobEpVSUNhZHNfZUFURGI4aHRVUDZyckNuZHg2Tk1rSEpfaFZVTWJFRjRXSm1RRHJid25Pc1hIVFRZVkgxZw?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 03:01",
+    "date_ts": 1782702060.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 02:15",
     "date_ts": 1782699300.0,
     "title": "2026 World Cup Moment of the Day: Made in Portugal, finished in Canada - Eustaquio's incredible volley makes history",
@@ -664,58 +710,6 @@
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 01:28",
-    "date_ts": 1782610112.0,
-    "title": "Colombia vs Portugal Highlights | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YWTBETWttVlBxSjg4R2s3TnpGODZxSkJ6c21fRWxVMWdtU25YbkhCVnVSbTVzemE2QXhIaUc5UjdJejBpa1JJLVFTLW5ERnRSMS1reGtXSWRYQ1JONDFuY09B?oc=5",
-    "teams": [
-      "Colombia",
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 00:45",
-    "date_ts": 1782607539.0,
-    "title": "2026 World Cup: Bracket projection - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 00:34",
-    "date_ts": 1782606859.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 23:34",
-    "date_ts": 1782603242.0,
-    "title": "Colombia vs. Portugal confirmed lineups, starting 11 for World Cup Group K game in Miami",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlByMDAyMVdEVF9BV1U3b1pJUU9NQkZWc1A5VDIwenNqMFdNUWdPN05LWHNGR0dMbXNwaTBTY1FJSGFyM1l6Y0ducXA5X0hDTmVsMDc5NEwxUUFJZmw0NTg3SWxHYkk3eGVmOEIwSjUtTFc0Tkt3T1J5UXlfS2FzQkNNMUV0bmxTelRraWlfeDhTWGl1aDNzVXM3ckdZMjJRWDg5SUQ4RkZxSnF6blQ3VFFVbDA2TUtaRHoteDlwWlJwem1sR3c?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
