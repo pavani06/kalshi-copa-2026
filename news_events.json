@@ -105,6 +105,19 @@
     "source_type": "news"
   },
   {
+    "date": "28/06 20:30",
+    "date_ts": 1782678600.0,
+    "title": "Team News: Germany vs. Paraguay injury, suspension list, predicted XIs",
+    "source": "Sports Mole",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkhMMVF1Q2xLWV9oYkdNM29HaXBWTm14WUVMQi1DcHBzcjJsZEN2SlhZYjYtYkZrY1FuTnJwN2JuUmd5VDFXR3ZkTEdON0RSQXlzTDhSWVBsaHBoUTRpejRqMm5xeVpzaEMtbmdEZzRpRWFKYlk2V1Y0aWlFVll1WmtDb3N2RkZlalNVZHV6aWQ2aGhLb0JOVkF3NXp1WFBVS2VRZmc4SFNpWlZWRFR6b3VieTV5ZzVTUmk2ckRRYjRHTjA1NEVkVjJkT1o0M1ZRTFNtMjZn?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 20:26",
     "date_ts": 1782678375.0,
     "title": "World Cup 2026 Knockout Stage Odds, Format, Rules and Predictions",
@@ -703,17 +716,6 @@
       "Colombia"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 23:29",
-    "date_ts": 1782602985.0,
-    "title": "World Cup 2026 Knockout Bracket, Schedule, Odds and Predictions After Group Stage",
-    "source": "Bleacher Report",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFNTWlh0dERjcE5FUDRZRFdkSi1QVmZWN3JIMXMtVzJaNDk3TW5CX1ZQVkJ0NzMtTTR3S21neU93SnFKUndDcWNZZG9kaTNmYzl1X2M2OTdkZV9LbVk2RUg5QjVkZG9OV2NYTWtUdUJzc2h3dGQxQ0wtUzZXMVZyQWljRlE3b1owTkw4ZEhSekRMNEJPUVlxLURJajU1UWxYSGxOVlJBUWE5WHdETlVDU0l6OFdnMXczX1VCVXBLRWlIZw?oc=5",
-    "teams": [],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
