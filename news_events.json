@@ -1,5 +1,18 @@
 [
   {
+    "date": "29/06 11:49",
+    "date_ts": 1782733790.0,
+    "title": "Brazil XI vs Japan: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0ZXNVBfUmtka0hzUjZVenRuekJLbWh0S1ItTjNaSDJKSlRYUGZ1TmNDM01rVDliZGtsajI0cURIYjRoNVdoVUl4dnBYdS1XVXhwcFNQeFUzTFZsaVFEaGc2N2pNSkFzbU1ncXRBNml0aFd6a2E0aXNUNzdiQWEyUWEzazRFdU4tc1dNUnl6TjdjX24ta3hybHAxX1NvNEoxY1ExeS1wRXloVVNiamx6ZUs1bkJiUHdxU0g2SENhcEJGWFJ6RU16UFNuQVlVNUda?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 09:40",
     "date_ts": 1782726041.0,
     "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
@@ -34,6 +47,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 08:59",
+    "date_ts": 1782723540.0,
+    "title": "2026 World Cup bracket: Full Round of 32 matchups and preview",
+    "source": "AL.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oc3NEMXN1SUJQZjF1YjU2d0VTRVp4ODJ4M0hNNjBmTFB0YUZOcmlOTzlHRmV0RUlUMy1mVU83M2Z3UjdTbWFHSC1td0lvN2pyRjVyZ2lWRzYyWHdBNWFj?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -199,6 +223,30 @@
     "source_type": "news"
   },
   {
+    "date": "28/06 20:57",
+    "date_ts": 1782680237.0,
+    "title": "Copa do Mundo: Canadá faz nos acréscimos, vence África do Sul e é o 1º país nas oitavas",
+    "source": "UOL",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1ZtN1k3ek1VMVFlZkoxMXBsdms1azE3ajY1VU9XLVdCMWpLYVZ1dTk4WTZFdUpFM2JpTWdVckF2c3FXWjNGVnZLLWxwd19TUlZYTGFwLVhlVWVVdC1CU2s5aDAwUVlhaTJ1WHl1djFQakJHazFVd3VuUFNlSkNidm9xWF92aVd1T2ZvVmZ1LW85SklkYVZoWEVZWXBPSlFJYTM5aG84NVVDQVRUbEFxSjBBYmZxTFl2WjMxWjRjWmwxUQ?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 20:57",
+    "date_ts": 1782680220.0,
+    "title": "Com gol no fim, Canadá vence e encara Holanda ou Marrocos nas oitavas de final da Copa do Mundo",
+    "source": "Terra",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPaUhjYUNraC04cE53ZXJwM216dEp2OEVhd2FQZ2UxYVBqSlc5bU9tRDNRVEt1T2YtTEF1ZjhRdW5URldJMFZBNHNoMjU0VmxFMGhhZjRtMHNnMHNQWG00QWdtcW1uN3hvVDJqRmVMSHJ3OEs5Wlo5WlhfZzJMcFRTc3JUSnVFRV9lU2xHZHVISzhiMnU2em5majZDSHRDZC1ORkFHYXV2alMtal9HRUNCTXVFSnVqM0dlU0JBOFhXb0lodVNOV25MMmJxUzRqaWxEdDFOSFRHRVg2OFF2Y1k1Z0x3QjVnTlcyTlBlSzA5RVg1cWdEemZ2ejlxaHZCX0RiRlExVFlWX05nZWVTZnVVTnA4TXo2V0lmQU5MZA?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 20:30",
     "date_ts": 1782678624.0,
     "title": "World Cup 2026 live updates: Canada vs. South Africa begin knockout rounds",
@@ -230,6 +278,19 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2lEZF93ZkpjRFdabFkxSUJaS0RxZkdZTHlkQ0toZG9RSDVvN3FvNUw4WENzVmZpa2M5YUw0MTdpTXF4X0NaYlpsNm1QcDkyd0c4ZER2TnpoeDdXSzFRbzZxQkNxVnlXREVuel9EY3B1RWNUb19QMl9NYnVvbzFqcmNHQVdaT1F4WEJVR2hXMDdqUGppWWt5dzR2TlFvXzJyb2tWZ296WElSODhv?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "28/06 19:56",
+    "date_ts": 1782676579.0,
+    "title": "Possible Morocco lineup vs. Netherlands | Round of 32 | World Cup 2026",
+    "source": "beIN SPORTS",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSi1rQUlPUEN0a3BSelJQdzVJaXpMRDkwM3hOY1R4WXRiaXJPWUFRWjgydksyb1R5cnQ4eGhSTXhrXzItMHZUYTQ5Y3dCaFBFenR0VjBZdllKSnM5WWcyeTY3M0pRUE55MmpGcWlwX1QtbVk2anpmTUppRTFPdU81NlVDRS1QaThQT1pQNnZXdkpwdGdXOUtSNjFsUlZ4blBzc2lQUWYwQnZQTHRWbXFYTGRINFc1OXc5XzVLeGg4RElRUVoybXpKajZTamFHUkJFQlZWZXBRZjNCd1I2dWstOFRaV1NzcGhqUGNJSDMwemhLS2dGSmJrNm93?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -642,69 +703,6 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 03:44",
-    "date_ts": 1782618275.0,
-    "title": "Reece James injury: England right-back's World Cup potentially over due to hamstring problem",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUld2T3R2Uks4ZWlrS1ZKbW5pcnRlUnlUcUhQNXhSNDRQWFhoTlFhLU92djlHLUVQOTdhcHlpWFROekhQRkJNWVFGZFd1Q3F3XzBMSnlOZHVqczhESVhhdHpxQkdwdHdNMHNULUxFenRHV3hwaThNY2I0WS1sZXJhRVNzOE80UTl3N3Z3RGttVWVuNHBTX2haX1hOc28tTUw1WkFiMzJPb2paQ3VwTHNiM19aTmNvQm1JSHhtWXhBd2VvaW1WSml4WllVSnVEcEhzQlV6aktFS0VVTE11Znc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 03:09",
-    "date_ts": 1782616170.0,
-    "title": "2026 World Cup: Tournament schedule, scores and results",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 03:07",
-    "date_ts": 1782616041.0,
-    "title": "Reece James Injury: Who will Thomas Tuchel Pick as Replacement for England's World Cup Games?",
-    "source": "Chase Your Sport",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFZYb3lralFWbGFoYzRmbU8zZEEycWdDb0xqWk1pdXQzVEItNE54YW5xalVQVk9kUmg1N0d1ZnNxSENrSWE5TURfRm9icGhrSXV5dWphTE0wemdnNjF3dlZDdzdGeTJKckNRNFBiaEtVRmhrWm44YWRVeFJRUVJYZUVvcnBNdVJvRUFMWV9VaEU5VFhYblNHWjVXNHpTbi0wcGg1azZRQWQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 02:24",
-    "date_ts": 1782613440.0,
-    "title": "England at FIFA World Cup 2026: The Three Lions' results, scores and standings - full list",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjEyeWNWSHUyZ2lhVDBfMW9fd3NjMUYzdGo1RTMwZDZNaDhsaE54VlotR1Fsa2RFVXltdEpqcEE5MWtUTkdUNmZWUkpoUkxMcV9wWklnR2FCbU1jampGVlhCaC12bmphUF9jYTZMT3ozTUtmV1ZSeXF3cDROUHNlZlctM0hENWlOWmgwVF9xTXVZSmZYcE9UTGw2NkFjT1hnekVhSmk4UTN6TzA?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 02:05",
-    "date_ts": 1782612304.0,
-    "title": "Every Confirmed Round of 32 Match at the 2026 World Cup",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
