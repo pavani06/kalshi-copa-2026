@@ -90,6 +90,20 @@
     "source_type": "news"
   },
   {
+    "date": "28/06 19:16",
+    "date_ts": 1782674170.0,
+    "title": "Portugal XI vs Colombia: Starting lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcmVfYUhEX1R6dnpKcWhBMnA2Sy1FT21wNm9MdzNaVFpQZEtIX1JsVWpGNHB4aXNjbWxUSVllUVBpdXZGZjY0c21YZmFDMV91RzczQ2lIMFQwb2dRS3lpcnE1cHNHUlRzME1IX2lQcVBmaGtmTWVNYzFUUHI5NjBaN01LZDJNMFV3OXExWW9zdFVCMDFSYTE3RHZlWmxVeGk5cnRtYzNRNXY1R2hCWnk5Y3I3VmM2MXdVYUJLaERJSzY2X2NYamRRX3lYckZKODRQV3ZNNF95M3NkZEZsXzBLeHloS0s?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/06 19:09",
     "date_ts": 1782673740.0,
     "title": "England’s right-back problems deepen with Jarell Quansah likely to miss DR Congo tie",
@@ -707,17 +721,6 @@
     ],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 22:55",
-    "date_ts": 1782600900.0,
-    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
