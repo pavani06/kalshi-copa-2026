@@ -1,5 +1,42 @@
 [
   {
+    "date": "29/06 14:14",
+    "date_ts": 1782742475.0,
+    "title": "World Cup 2026 live updates: Brazil vs. Japan first knockout match of the day",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnY4MEthZUEybVoxeDFuMUxiNEY1azFWRU84dl9HZ09mS3B3MzBUQjhQUDQza1BKMGZZZVI3cTdLX1lhYWFhNl9tRTExUlJhbHM3REp3NXJBT3dxZ19IZTJLTEJvM0ctaXVub2RNU3RDVjdZNndPSVg4X21jYmhkeDlUTTVuQjlETzlEdzB3MGs4ckUyU1VoOWdzdjNHWmM0cU9fX09yNW0?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 12:15",
+    "date_ts": 1782735300.0,
+    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Netherlands, More",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWpsMVZaV3dPamV1ZlQ4LW1COVgzbDVoaEk0YjBpeFd2SnFpZzN2S1R6WkItT05VX3IyVnA5S2dPVE9aSzREekxSTm9JS2RVQ3VQcFA0MzEwS0p3OXJxMFBwWnRja2xKejlqMmZrSVJXQTlEYlNCLUtENkpSbEhjTWxYWUhQbFVNWEh5dlpycGp4OHhIVU1LcGVlOHRrR3doM1RaaC1sMEozdEU5X1dTei1QVE45Q2dsOEE?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 12:03",
+    "date_ts": 1782734605.0,
+    "title": "2026 World Cup: Schedule and scores - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 11:49",
     "date_ts": 1782733790.0,
     "title": "Brazil XI vs Japan: Predicted lineup and confirmed team news",
@@ -10,6 +47,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 11:42",
+    "date_ts": 1782733362.0,
+    "title": "Palpites e dicas para Brasil x Japão pela Copa do Mundo",
+    "source": "GE",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUlnVGZxcnVlbnZWRWhadC13STU2MmZQVUJpelVYNFlZZ0pPZDNFUEc3VDJtN3FJWFhtbDFkdlliNXFMbm5RRTdGbWZpWnVkU0dJb0RRc3BIeENKVVFlcnk1WWRpRlNfMUhpVWdEbXJLdVBIVFNwc19OODQ0NkphSk9RZUxXZm55LUpPNmh2aGNsZ0p4UV9nSXJlcU4xUHRZM1lOMWdKYm1zYl90SVNpZy1PNzVlZHk0RDZWRVN5SWfSAc8BQVVfeXFMTTViMmhoeFNSLWE0SGVkM1BKaFZabmRZVEVrTDRkdFVsZ1RFWnY5OVJYbEhWd1Mzd3g1d200NmtzeHZNVG9TalFTQ3BGMWc5U29pNTNXbXotU0VMNzI4WHFDX0JfVnlybkJnZll1TWpHdzFvU05fSkFwWE5NRjI0ZVRCWFRRY3NRMjAwTG1tMm82S0xmTEVaTnhGdkUzUDBwU1JCSDdQb1JrNXJtZ3lxNDVZTlpSOVRPbDkzZHFlUnZKRHA0cURGWFRUWlVvbmVR?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -657,52 +707,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ01NY2lGV3R2aGtKWHhUWVFqZk9IcWZEMjh2dF9xQVJCeDdPVmZLS2dJZHBWVmF3bC1XX2tSQ0pfRDVBU3hfQUduYnlOMVl4MlV2eVNtaHVCS2NxaF91YnFLQ1N3ajA2eE04NTVhZUdEc292MW5ETXpka3NyS0hkWmpVZXNUOHdzV2pGaTczNDZOWDJWZEFrNFVxM08tbkxHbFQ4WjkzMm0tOUJVOGJKTllrcw?oc=5",
     "teams": [],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 04:07",
-    "date_ts": 1782619644.0,
-    "title": "Ivory Coast vs Norway FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmpLazlwQzZsRXhDWGxkNHluMDBXWE0wY0ozNmRFVUZMZE0talhCYnp1VUw3RG5DTzFoWGNEaXo3Y1VGZzRuSFJUeUlPVUZuc0R3QUhSWk5PdUstQmxVVDdoeWZ0bF9CcUtkZlZVVU43QVVLWWdoa1JoN0ZkendUamxTN0U2X1hjWnVRcU1Md1YxUQ?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 04:03",
-    "date_ts": 1782619380.0,
-    "title": "2026 World Cup Bracket, Standings, Projections: USA In Round Of 32, Who Else Advanced?",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVM5eE1QTHVERmZpRW52cGVqdl9tOURiN29rZDlpX2dhM056R2JxQVBHVWc5QzczV19nT0RGWjVBQldhaDYxS3drbkRaYmpVQi1jTml4dk4tNDgwY0txNmtJVXB3Sk1JUUtEUVFTM3hQOU04WXRVRHdRUksySzJPNHdRUi1vZzkwSExJRElMa0FUeThSdlNFbTVZN19DOWlWY2hSblZqVjN5cDBsbFlSZkotX0p5dHlPWmtsUlBR0gG-AUFVX3lxTE56VFNUMlZpUGw4TkRlQ2twc3dFWlE2UFA5N1V4djBORjF5YmJWT0M1czVpZFFRdXBXTjljRnFTYzNrZWdVWUhzeFhEYVVMS3dteWY1bHpwUE9VUmRFcnhxdzNkSW51TWtfYjVVVE1yS3lBdjE5YlB5Vm9HbjBuU3dqUGpiXzJpTmZTbnBVQnJzYld3WmRXeDgwU21DTExIWVlxLW95SkpSTkQ1SEVJYjRVQjZ3QmV0WXE2NzhpVFE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 04:01",
-    "date_ts": 1782619285.0,
-    "title": "World Cup knockout bracket predictions: Picking the biggest shocks, best games and winners",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjJJdUFVMjFDM25FTUMyS19JNkd3dk1FWWh6Y2ZKWjU0dVgtd0FKak5UbTQyaWVuQUZZME1yeTRNZGVXZ3NhTlNGS0tnRks2TWlibmg2anRfVUJjMFJtamd6M3RZYXBTc2JNY1Z1TnhpazM3UHFoS095Rm82WGRKdktZZ2FLX0Y4RWc?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 03:47",
-    "date_ts": 1782618429.0,
-    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
