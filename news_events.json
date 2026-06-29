@@ -1,5 +1,68 @@
 [
   {
+    "date": "29/06 19:25",
+    "date_ts": 1782761107.0,
+    "title": "Germany XI vs Paraguay: Starting lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMmJnZFJJblRKUXpVbDBXVXJjVjdraHI4bUVJbXoyazFXRXhPRWdWV2sxVHd0VFdja0JGSXctSFZWQk9aZGpNeXNHTmZUa2xNNGdYMEZlNlVucmFmWlFsSnJSaEdfaDl0aEVaMURBdWY2Q0tWUy1lU2NXMUM4cHhOd1E0TUhoSVhsUmJfSktfNTVnaG9vazJiMTFMeWlHN0thQ2JQczlpWHg2R1NXYnFxUmtPUTVKdGRhQTBQck5xcXBXajhRczFLYS1Pcm5sYXBhSXh1ZnpoNHJFWW1NUlAzcXN1Zw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 19:24",
+    "date_ts": 1782761058.0,
+    "title": "Germany, Paraguay Confirm Lineups for 2026 World Cup Knockout Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRy1mMGdoMFZFRUlENDZVclNidGJlY3VQUnpMc0hNQW1NVEp0bnV4Z0ZGZmlOZFhOc01QaUhuUmNtd3RLSThMRkJPWjNyRFZyczNjZDF5RFI1UlVKaUNzQWl5d01yLUE2YjM3UzQ1emRUWVN2cC1SS3NWS3BQeURXT0s0NUFnMjduMk40YzhPaUNGWTd1cFI0eGpwcE5GNFNuRTBhcWlKZ2ZLblZvUDN0SXBBNW5XQQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 19:10",
+    "date_ts": 1782760240.0,
+    "title": "World Cup 2026 Round of 32: Full bracket, results, matchups, schedule and how each team qualified",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWFtVS1WT0F3cWFGc1NRajZfRzdkSGZkQTczcE1PVkF2Y1k3aTk5ZVBoZTAxMF9US0hTV2RWWDE4NlF5clBtVTdIckhYNVFMVXoySk1oV1h0Z3VhTnhnal9JYVNlSWR0VFdZamJqZDM0cGZRQ0huSHJNbEFXNXVfemtTZkJHMUNpLTdsNWJSTkJlQVVRLVdTeXR1NEpIMUVaWFJLSGxxLUpubDVZUTlfdjJVdjBLcHpJeV9LRmJXMWY1RTJIdFd2TFhvOVZXZS1lc0NzWHRUSXdCTDRjUElTVW93?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 19:10",
+    "date_ts": 1782760209.0,
+    "title": "Brazil break Japan hearts with last-gasp winner. How did Carlo Ancelotti do it?",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzZNeVUyWkpoZmlIRTlaaG1nV3BRd1J2WW8tcjYwTDFiUzRhSFVZYzZINldyQlkzSFhGa2EwaWhtWUlTN0dsZ1A4ZUdsTFNCb2hEN0NYbzJYSmF5T3Qwd3RCN240VzFlVEVEckZQODJfTnB2MVFDemI4LUFDRzZmeWdmUWZIMER3SlZQLXppNm13V3luX3c?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 18:51",
+    "date_ts": 1782759060.0,
+    "title": "Germany vs Paraguay LIVE: 2026 World Cup round-of-32 updates",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWFicnpIQjhYVnpweE45Wnh3MHFkQUJfOTIza1FOTmktUndyNnU1VER1SkRTbmVsQk50X0ZiaWo5TjB0bG5KUHhjU1FFaXpicUVIQVRIWXJxV09oaEFDS1BsRm1RamVxa0pGaHdjbUZDaWRFSVk1Tm02YWl5R1FKdFZIczVZODVUaUxVZTQ3LVlLWmFMWFZBaE9nTlF0RzRSVk1NSDN6bw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 18:23",
     "date_ts": 1782757380.0,
     "title": "Brazil vs Japan LIVE: World Cup 2026 updates as both sides chase winner in thriller",
@@ -29,6 +92,19 @@
     "title": "Brazil vs Japan LIVE: FIFA World Cup 2026",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWxiRmdfOUp1MFVNVUtvVFRzTy0tdUhxT0J6cmw0eWxBeHBDY25zSjJjN1dXcG9xb2pEWWdsUjVGLWp3R0hQWWRGczFtZVVRNUNHQi15V3BkMG1yVUk3S1VRWlRBNF9qNFhGZWU2aUtnS2k5enFSRS05YWhLNnJ2QTNsQ3RUemVWVVV4Z1E1ZWxaYlQ1MmhZ0gGcAUFVX3lxTFBtTE9DR213aUg0Y3N2ZEhCS0l6cjhmNVNaa1RJMzVpb21jSmstVHVaODJGbFlSdlhtU2xUbElxWEd0Uy1vNE9nSUVkOEdnMTRxWDdTUTlSVE5oSElVRFRPUmgzWWJiWW9rWkhNM1VTUXNyQmV0NTNKRF9JRFpuRHBtZnRMSDk2Qmw0STdOZkZZQ0EzUGtNbnhSZGJYWA?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 17:00",
+    "date_ts": 1782752400.0,
+    "title": "Brazil 2-1 Japan: World Cup 2026 last 32 – live reaction",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEJNZnNCczZvN2daZ3ZqX2x3VGo1b3RpOTZjbzR3YkhzM25QdEo0cGYxdmxrZHpFMERjZF9JdkhTMFlSSGM4TEJmRk85c1FkU2YtalZZV1hhTDY5bTM3R3N2WnQzRVpwU05taDhZMXRFSFN5V2xaT0FQSjZ3ZVNPZnBIdFJsMHhtekU5c1hCUktOVEdEenlGSUozUFA?oc=5",
     "teams": [
       "Brasil"
     ],
@@ -126,6 +202,19 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 13:00",
+    "date_ts": 1782738008.0,
+    "title": "Cara a cara no mata-mata: compare os jogadores de Brasil e Japão por posição",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZnMxeFU0MUhnWkJ0TllaZURMMDhEZ3JwelJsOUxZOElqUGE5alpHZ09naHNNbUVxZktoOE9fUmZwZUtpT2tSVUs5Ml9rRWdIMlg4RmY0NDd0TWtqaDJVMFNRbmFxWnprX0MxRlBUdXFza1ZJMFVpUkRwQnByUGpMd3huY3VUMEZpVE5GNEdObkJrcFhPR2ZYOEpTb1pvWHZibjRPMThnLVNIRTdRQlNMWklDMEduVUxUSWJ0OGZlcVNjQUdZUzBSc2ZtVWotYk5uUFZZRFZZN1pZVUg2MzlPdUR3WHRNWHNK0gH3AUFVX3lxTE1fd0VGUzA5d2VCd3hxSm5TNjlDNlF2TVVaZnh0N3FGbjJ1S2h5QmVRS2cwclBrblR1QlROWmFacVNuSl9iUkI5cnFaejEyTDFqOFNrVFBhZ2VweGNRejdaVXpsSmVLN0JMR0FrdElXa1pZWlNuWWkwQU53QjJ1elFyYndlOEgyaFlxaDltc1dsS3pCcm9SbnlyX1ppQW1zQ25WZ2l5RDZNLTZtMmZxOEFQSDcwRktIbXdpbzlSNHVYSXVzSjBobklNMlZlODBSY3J3a29yLWlkeVZhUHVPd2JOSmt6dVlBZ3V6Zy1WekxVemx1QzVmQms?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 12:15",
     "date_ts": 1782735300.0,
     "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Netherlands, More",
@@ -189,6 +278,19 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 11:31",
+    "date_ts": 1782732679.0,
+    "title": "Começou o mata-mata: e se Brasil e Japão empatarem? Entenda prorrogação, pênaltis e outros pontos da nova fase da Copa",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0s3Z0NnUUw5M2ZSZGViOHlOdUdqTjZaVG94VUNLWGhIUGVNbG96aEdGSUR1bTdtTnJEeWw0VkRhY1dlVDFieUpMaG4tU0JkWUJGZGUtSGQwNTg1bVljdFMzQTR3Vi1LdFB5MDN4TFc5MmpDbUYtY09Pb1gyakcyb2d3c3R5c0VQaVc3ZERVcXQyYzRWYmtIZTNBektZNWJ1dHhMQTlocDgzUGhVcW9uVlFJMXZ1bHdzenZod09ER2ZhYnl5MWdoUnRTN2ZxQW9nMWVZckpCaHcxR0FtUEkxSnZDR3lvMnVwX2VXNjR2M0xHUzM1QWVXMnU2YmdRZnRpWmozZFlnMXfSAZcCQVVfeXFMUE5hUDhNZHd3ZmpOLUdBTEFEdndkRTBfeEVTN0t3WndRSjhCdTJfb1BCaUFJcGE1ZjdNU1lDdTFjYWFYX2U1Z2dkeVJDb3FsWU50LVViX29YM1lKeUVtckE4M05ub1Y5emN2SVplcEM1Sl9jeV9ELVZWOTludlluR0VnM2M1TktHaTBpVC0yRmdqZ0Q5WktRN2FPbmxUeXRETmRETXNCd0VNcC05U2M0Q1NBbDRDTFFCMC1hUU9TTDFRTUQwQXE0YnhYWlUzSkVwT2M1cno2WWhwN2ZSNnhWWUl5UGU3SFRGUW1DUkRKRXp4Wlc3enBVZ3hKdGZacGVKRHEwbm1fUVphODJKODctbnQ3bWhVYm8w?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 09:40",
     "date_ts": 1782726041.0,
     "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
@@ -198,6 +300,19 @@
       "Alemanha"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 09:35",
+    "date_ts": 1782725730.0,
+    "title": "Netherlands vs. Morocco projected lineups, starting 11 for World Cup 2026 Round of 16 game in Monterrey",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUw0TTFxU0NIRzk4a245ZTQxYnd1dXdLLWMwX3pvTTNHVTdISUxPbDcwSEFVT2xaa0xoTlRtVEZpSHBlRkJTN0dpdUo2TUQ4Mjdab2V6OEFIcXNtYW1TR0lubTFxWVZnMzdGTlNwZ3RuZHZ5ZHM5N0c5cXluMTFkNWZNajdjUVBOb3lob2h5ZENxQW1RUWZNanZxcHNWdHBCYzNRSWRwSzZLOGRoS0ktTEQ0QlRJRVVJZGJfdUNoSGxPb3F2RUE?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -610,111 +725,6 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91aE9samhKLXBSd2lYb3ZVT3BEeUZwbFo5c1JmZXFpQ1BJOWdvWERDTDI2MVBtUjA2dUJiUVE2cnZabnNmbDZORmNoM1didlFOT2p3bGF4eU5UTk1xYXQ4c3hVUGdiQlpjbzVvNmRRVlo?oc=5",
     "teams": [],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 14:46",
-    "date_ts": 1782657985.0,
-    "title": "With 32 World Cup teams left, who has best route to the final and can Messi beat goals record? Day 17 recap",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWlseU1XZnlmbFQ5NjlZNDR6aDhJN0ZJNk1yVkJnMHR1dnFGMnB2Nmw2c2NzTGNSbGhSY2tLdHZuTXlHakVIc1E1ZHc5djJYYWhyVGVRRzdsUFhqRDFFcWRzTXRBYXJZalRKd0E3Ymdjc1ZnazgtblMwWkJhZTRBQ2lnTjVGQQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 14:15",
-    "date_ts": 1782656100.0,
-    "title": "2026 World Cup: Best bets for the knockout round",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVZDTVExVVJrdDhtV19YdkxVQ3lTRnFaTVl0SXA3dy1rdGdOemR5UkN4MDNWTWJRTHBYdVdweXQ0XzdJMEszcEMzcGhNTFRuVWtxYVNibWh6RXFEbkhrYmtnS091TXBtd2tiNldSWk5kcW1BZ2NrbmxqQ2JQM1ZBR0NFUF9PaWo1RGx0aGlCa2NoaWRZakx2OHZiMEwxMjlqdUNnQWd5eldaY090eG9UUUU1ekVmTVF1amJqWVVFRy1WWFViM0FaVDR6MA?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 14:08",
-    "date_ts": 1782655680.0,
-    "title": "Brasil x Haiti: qual resultado a Seleção precisa no jogo de hoje para chegar à próxima fase da Copa?",
-    "source": "Terra",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTVhfQWJqQXBST3ZNR2V5QWljVlFWUkk1bGNoU1FfeHAwSWVOTjd0QnV2aWZuS3A4cmpxanZZRzNKdEMtUC11ZTNBVWJYdHRwMWJQamQwcVVQelYyeE1xVGotbWp1cmFSSFFkTl9oMllJRkRhSGtPWk5JbGoxNkFUcnZNWVh4VkFBQW1sZEh1NHhGeUJFelU1a2FKRWFXZ3hhTnRPS1ZKRDF6QVg2RVl1RDVHeU9TX05wUHcwRTRkZjZHNkVDZ1Y4bWxLQVlVbDR4VWVjU2NkVGc3SFFoWVBRZDRhMlZ0aWt5dkkyejQtblNNTlhKZlFQQ1RsSmNDa1E?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 14:04",
-    "date_ts": 1782655497.0,
-    "title": "Veja os resultados de ontem (27/6) e quem avança de fase na Copa do Mundo",
-    "source": "GZH",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQY1hIeTNJYi1FSzRsb3NwTjVwdEltbnZuZms1ZDVKM0xROV9jQUJyeVhkeVUzMWhXMWI1cmc4SGhTZzZETEEzd1dwelVVREdmbk8tYVJkWC1yc0NzNGJESU5maWZMM2R2UnQwRlVldmNoSEdLa3VGUkY0N0ZPZnNpYmVNTDc4LXA5VXRPZGtWNU9EZ3NSV2ExMFEyeWtLTG5FRVJZcjFkSUxzNmJmU0ZZZ29Ld1hlT3VxMjB6V1pxVF9pRnBwWEtMT3lyb3NRa0dUQW5yMmRMeXRxUlByZE9wYTAxMUcwWjZScEFhTWJFeS1VT2tVOHRPNlhCT1RyTWI1SGpZ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 12:57",
-    "date_ts": 1782651420.0,
-    "title": "World Cup Round of 32 bracket: Updated schedule, results for 2026 FIFA knockout round",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVJrNGExT1FRWUh1eVpWNWJVWHRCZEt0TEczTU5Tek16ZGNEVXlXSzE0ZTliTURTVURJNzBGZ2w1MFY5NWtaa2VTdDAxX1dDU0RDVmFrQk1VTmNqVVVILVR6VXJ6bkx2VllvU1c0dTRDQ1R5VGNwSUtQZ01ORXBSVQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 12:31",
-    "date_ts": 1782649860.0,
-    "title": "Germany vs Paraguay Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG9GQTdVbmRJWU5EYXhKcFFocW9GTGVJRDlfT1dTc3Z5ankzTDRxSjdfWTl3dTB4cVA2WURibTgyenJ4TkdYWkpybEJhZEdRNzcxYVJ0VENRNFg1Nk5iSG9TbENZaVNORk5GY1FPenkzSDFqR3Q1UVFzMDFhZGFMRGN3NlFORk03TWtIWHdZNnNIN1BUaEpnYmx3N1cyd2dYU2g3azAwV1pJRERlOU0wcWRra3BpeDZvd2swcHFSUW1pOFM2amxMdGVyMFMwa28weTMxOFVULVNoYi1tU091Nw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 12:19",
-    "date_ts": 1782649150.0,
-    "title": "Tem vantagem do empate? E gol de ouro? Prorrogação, pênaltis, mata-mata: entenda nova fase da Copa",
-    "source": "O Globo",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQaVVBY3BfRVJBa3lTTkREU1pvTVRUbUUtdGZfS2ZxdGw2Ti1BUVR6OEd1c3NsSVJLdVpLTEVYcWFyRndLa2tWQVB5UzhJaFhncW9Gc3hPWUEtc01RdEsyeFljYXotdEh2TFBjS3B4RHV1SEhTTFpuNWJ0VnNXQmVWR2d1MmlCWDQwYkxEYktDV2JEQWVpUll5Nkk3Y0F4aE9lQ3FGMVd0UDFXQkNKdDJZRDJxTGlTXzU5dG5oemU3czc5Tkw1TlVFd0MwcUJxU1F0WG9HWUtCbXEtWjVoQVJaZ3E3Z3RnMWFLS2hQZEs1ZHRMNXdGSll2cHpxMjUtTGVS0gGPAkFVX3lxTE4zaFcxWWp3MVR0SDdjSTdMdjhrQjF5a2Y5WE5BRTZocWhrZnh3SmMzXzBqeTI3S2lWQW8xTG43SGVlQmJkSVJJMFhaeG1VcmhxUGM4ajZUQTJRaWdiNU0tZEpDUXhCZmo4X2JFRUJKSndoWm0yajFFdVRLdHY0V0FTUU9VX09lS0FOMi1WdUdlSGJTRmFzNmdJWTgwYnVJVGhRWFlBRF96akxJSG43UFN1SFV2aGJQaDJ4WkdRc19mR1lRZHpVYlZtYUNPZmIyaFpYT25jbklvLTU0RVg4OFlOdlQ1MmFfNmV1T3VBTVA4cWswcThYN3I4V09jN2VRc25aZ2hEUzJwQm45dFREQXM?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 11:57",
-    "date_ts": 1782647859.0,
-    "title": "World Cup Round of 32: Which teams qualified or exited the tournament",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlBjejdZSzZHTVJFcmJiRTBvazkwa0JOVjUyUTg1N1IwRnh5ejhmMV9vTEdOWHlxUUM1SWtfQy1zUzlHTjU5Q3dxZlVCQkZjZjBCWjY0VUZZUVlHU2dMQWFsZmZQcTIxSklIRElDZFVleXp6RUR6VEx3Yk85b0N5R3NWaGdmeV9RdTdONU5udkFUeWxBQXc1alJ2Q2NJeklFN0JmTGFOYkhxandZbzNCaTViTHrSAboBQVVfeXFMTmliUEN1eElveDNIMF9KM0Ywak5henpnNEJoVHBxZWJHNFNyY2tBYm5FMGF1THo0LWxtcWZ5Tjk1NFROZ1JqRVFCZmJiVzEwQV9sMVZndHBmeTBmSGpJOXFuREFDeUFRS0dyNkdRMXc2d0gtVjVYVk0wSTU3eXM0MzVXZnNmVlBSVGRKQWh2SUJNdHpPQ1V0cWZvUmliWUU5STlBNTVzVGtvLXhMNGRUeGQ1LTdwdWNVNC1R?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 11:06",
-    "date_ts": 1782644760.0,
-    "title": "FIFA World Cup 2026 – Every match result on Sunday 28 June – Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDBCV3FoLXpEd0Q3UUs5TVpZSjNKdTNOZHhDRUVQaVBkZUpISERIazcxTHc5NXd5NnhzVk5uNEJmbDVjcHBId1B6R29WcTRhYXZkb2FfazFudXNhZzhOWWVoNExpdmM3Q3pSZU9QNTh2UWhEdF96bmtSMF9oa0YwMjEtWWRtdkxVdG1SNVZaSk1pRzFWWVk2LU9zeFdleVk?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
