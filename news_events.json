@@ -13,6 +13,19 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 09:15",
+    "date_ts": 1782724557.0,
+    "title": "Germany XI vs Paraguay: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHBaVkR2N3Z1UTg3eU9qelEzekJmakktMC0xZmtTOVQ3TTQwZUEyRy1JY3JtS2Y5M2hnS1V5MTNjZnM4T0Nna1VGUmNCZDR2cXdrSmY4X0lXWDMxUVBORkpFcWxmbEZLcjdwcXh4eFM4a083NVFocEdXcGFuVHhYOUFCa3B3TlpUUnBYdUZDSkQ4V21penRSRzhSNTZKaUpPRGRXSE9JcktQRHlYU29yeHBmWllkZFQ4THlSeGhUeHZaTlF1c0J0ZXBpVDdQWWtxTHQwOUxIMXVILWl2SWlMM2hoQVM?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 09:10",
     "date_ts": 1782724229.0,
     "title": "FIFA World Cup: Round of 32 schedule, predictions and latest news",
@@ -21,6 +34,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 08:40",
+    "date_ts": 1782722445.0,
+    "title": "Watch World Cup Day 18: Canada beats South Africa, through to last 16",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WOFgxXzlPdlN3MXVMbjZIMWtTQXlhZjJNdTZtRjBhNVBJOTllVllFemZaN3VKWlY5NFgxSHMxN2E4WFo1dm5KZnhnN3JzWFhQakg0VndRTnpFV004TmQ5Q2E2OHd4dDJZSHR6WTdOZzRxQkR0YVlHUU0zQVRXQdIBgwFBVV95cUxON3d2RUJLRlVpMThSV2pSV2lsbDdpWXYwQVZsaEczNWdRd3ZvRTdpZExER1QyR0FrM3QtQlV1aGVQRTlrbmpMODhYUHEyZDVnbWJSWUJyc0xuZWwtZUk1SkphVTdOeHZKY0FEMTZDMjJMTVpEYmdvTHE0azN1cUQwZzM0QQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -682,33 +706,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 01:59",
-    "date_ts": 1782611948.0,
-    "title": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTM1ZXo0ekZibDhDTnZaLWtZR3NCblluUFhoMmVucGlIVG9oSFZsTXYyenlCdU9CQk9qOTh1U2tLNDVkMUdfSmVCUm9EVnhYYjFoZzRueHpfWmVLT2swelg0Zl9xekphTE80Z21GN2dadFBfZmhOLS1vaU9NSDFIM3dQdVEzNi1JVjRoMnVkVXppQjg1dDhOWHNMSGc1X3hpQ0E2OGdycjlLY2hQZ0dfbDNHNi1tU3JG0gG-AUFVX3lxTE9qLWhBcWI3X2tkVkpha2tmbmFxT1BHSFc0bFdXcXgxWjZVRzZIT1BEVS1uVlk2dDFmSXEyZ3otamxka1ZNWFVROEF6M3VwV2N2Zl84S3Q0RkNnRTNmVzQ0YlN0U1JxZkVJYmpZa3dKdmJZcVF3SjRSMzZxOEVRNXlxUmVuTjV6c3E4N1VMcXBqc2dhNkxSd3dyNWphTWx6RmRSN0ZZTGZIWWdvU3VFX3ZhblE0bC12VFo1YzQ5UEE?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "28/06 01:49",
-    "date_ts": 1782611340.0,
-    "title": "2026 World Cup Round of 32: Full list of matches, potential round of 16 games",
-    "source": "SB Nation",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFFEQi1MdHVFX1phOEtiZGdFVk5NMHo2VnYxcmRyM2IweW0waHdxTXlwWERZd182Ujl1THJVX1ptRDJEbEhqdE1VdHRrSU0ycGJZN19HYk9YSUtQSm9HaDc0T3hENGhBbmVrWHhJYU1fclE4ZjdicXd3Ym4tOEhmcmNDMVBlUTU5blQ2MWdvVW1pYW5PZnVYSXgzQ1BCWDY1aXNVT1VrcnY0UllHd0NmeXp3cTBMT2c2UFVSbFVTUkw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
