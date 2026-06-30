@@ -1,5 +1,18 @@
 [
   {
+    "date": "30/06 15:44",
+    "date_ts": 1782834240.0,
+    "title": "What next for Germany as Paraguay and penalties fuel more World Cup pain?",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnA4NmRIYUZacWdaRm9SaWhhbjl4dGs2dU5OS2hwc0F6TENpTzRaWEVUV0djMkk1b1pXc2FSWmZtWmtwVF9rdGZRNkV1ZTlSdkU5YzFVWmZEQUo2NzhzNHBlVnE4OGhDemxJNWxqdjRWc0FHT2pCdzBjZkpEUmlCNFZYOXdfLTNENjdkOXhZRS00ZjlQQ3VyWmd4dkRFT0Fka1U5bjFuTXZEWHl2Z0FKMVd1T3hTWDNESktfUnhB?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 13:55",
     "date_ts": 1782827735.0,
     "title": "Belgium XI vs Senegal: Confirmed team news and predicted lineup",
@@ -13,12 +26,62 @@
     "source_type": "news"
   },
   {
+    "date": "30/06 13:45",
+    "date_ts": 1782827129.0,
+    "title": "Belgium XI vs Senegal: Confirmed team news, predicted lineup, injury latest for World Cup 2026",
+    "source": "Yahoo Sports Canada",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1kxUUZLN0hGandNR0VNUjBwSm8tUm5pQV91bll5MXVLMEFzNlpNSkVFblNXNjllVHVacmozbU9sNlFVWG9xMGNfMmhpNlF0bHdqeE9vSTh6ZGVTMlFPN0QycjNGa3JYQ0dybE5RVGJnZTRtMHhOLXcxOUtVcmZvY3RKb3Q0dw?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 12:24",
     "date_ts": 1782822240.0,
     "title": "World Cup games today: France, Mexico headline Tuesday schedule, see latest results",
     "source": "Bergen Record",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekhaeXFwbjQ4V3ZkVnByUW9GZFl1Qi1wTjdCa1Z4NTZYZ01TSFRhMlEzbTd4MFV2VXNEdVEwbHlmdEEtYlp4VUozb2UwVi1VLXZVNElYNlh5Um5KNjE0eFc1SE1QZktkMHVvamxIYnNUamtOckQ5UU5DRmhZQnpLc0x1enBsekhJdy0zeUpqdGZ6ZzVGOTNRNjgyWFJJdkQ5OTByemVQdWZ3RmJLVEE0YWdqdVE1TjFhTVBuMk9WcklweFZ2LTVIX044eDBsQlRxZXRnZ0lrSng?oc=5",
     "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 11:35",
+    "date_ts": 1782819331.0,
+    "title": "World Cup 2026: Germany fans in need of hope after exit as Jurgen Klopp looms",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85TnluQ3hBWGt2aV9jZU5DcFZCSjE2TElRVTctOEF3Z1dtd3lMSEV2NnZPTHg1eHV2ZkFITVFXaFRzSHd2VXZfYjJCNzdrdVY2UndFUEZIamlrdFhLNlo0UDJaekJJZ2c?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 11:34",
+    "date_ts": 1782819240.0,
+    "title": "2026 World Cup bracket: Full Round of 32 matchups and preview",
+    "source": "AL.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oc3NEMXN1SUJQZjF1YjU2d0VTRVp4ODJ4M0hNNjBmTFB0YUZOcmlOTzlHRmV0RUlUMy1mVU83M2Z3UjdTbWFHSC1td0lvN2pyRjVyZ2lWRzYyWHdBNWFj?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 10:56",
+    "date_ts": 1782816962.0,
+    "title": "Every Confirmed Round of 16 Match at the 2026 World Cup",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wX3VxLVZGaW1SUTg3cUlyRHNIMGxLQ3IzUFJZcmJWTElLM0lpcWtWNExBT2thTDY2VVhxVnhnU3ZxOU5mQUp4T3NzYzd6Zkw0Q25tWlFvWExScUpJTFBvcUtQOHUyTjJmN1JXNkR6SmNTbWhRekUwbl9vTmZvQzg?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
     "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
@@ -82,6 +145,17 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 08:50",
+    "date_ts": 1782809426.0,
+    "title": "Programação da Copa do Mundo de 2026 para hoje, 30 de junho, e para a manhã de 1º de julho.",
+    "source": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmdwUjdZNF9wTnVhZU1ndlVveWxFM2RmcEpJRV9ScUp6R2xhYlhuUmFOT2dqTGtnZ3l4ckNIUmo2c21fWi1xSW5Ub0ZiYjkxNXZ3NkZuSFJGekc2OGlBMEUwOGhVUlNQV1VNNGhIUV9vaElMQjBJaVlQWVpRaDNPNHgtNFk?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -669,82 +743,6 @@
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWFtVS1WT0F3cWFGc1NRajZfRzdkSGZkQTczcE1PVkF2Y1k3aTk5ZVBoZTAxMF9US0hTV2RWWDE4NlF5clBtVTdIckhYNVFMVXoySk1oV1h0Z3VhTnhnal9JYVNlSWR0VFdZamJqZDM0cGZRQ0huSHJNbEFXNXVfemtTZkJHMUNpLTdsNWJSTkJlQVVRLVdTeXR1NEpIMUVaWFJLSGxxLUpubDVZUTlfdjJVdjBLcHpJeV9LRmJXMWY1RTJIdFd2TFhvOVZXZS1lc0NzWHRUSXdCTDRjUElTVW93?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 19:10",
-    "date_ts": 1782760209.0,
-    "title": "Brazil break Japan hearts with last-gasp winner. How did Carlo Ancelotti do it?",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzZNeVUyWkpoZmlIRTlaaG1nV3BRd1J2WW8tcjYwTDFiUzRhSFVZYzZINldyQlkzSFhGa2EwaWhtWUlTN0dsZ1A4ZUdsTFNCb2hEN0NYbzJYSmF5T3Qwd3RCN240VzFlVEVEckZQODJfTnB2MVFDemI4LUFDRzZmeWdmUWZIMER3SlZQLXppNm13V3luX3c?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 19:09",
-    "date_ts": 1782760196.0,
-    "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 19:08",
-    "date_ts": 1782760080.0,
-    "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and who will they play",
-    "source": "CBS Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOektvRWQyaEJLdUZ1R0w0RVRuY0J1WDFxXzNBUGtYR3Y1dGplTEZVb0VEUExYT0NGT3FOdGo3dFNobUhNUk45RlcwOW1faDV1ZXRSTldjTlFQT2JoWWlBNFNRVjZReF80MVY2d2prSVVnSi03VFJDY3p4RXloVHBEVUJsY0dJenoy?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 18:51",
-    "date_ts": 1782759060.0,
-    "title": "Germany vs Paraguay LIVE: 2026 World Cup round-of-32 updates",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWFicnpIQjhYVnpweE45Wnh3MHFkQUJfOTIza1FOTmktUndyNnU1VER1SkRTbmVsQk50X0ZiaWo5TjB0bG5KUHhjU1FFaXpicUVIQVRIWXJxV09oaEFDS1BsRm1RamVxa0pGaHdjbUZDaWRFSVk1Tm02YWl5R1FKdFZIczVZODVUaUxVZTQ3LVlLWmFMWFZBaE9nTlF0RzRSVk1NSDN6bw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 18:36",
-    "date_ts": 1782758179.0,
-    "title": "Brazil EQUALIZES 🚨 Casemiro Scores Powerful Header vs Japan | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PU0lFR2x4cXdBbWYwaUJFc0N5Wk00VEVxTG1EV0JseEd0SGhTaUQtenVtVUNlWkM5MURlQ2liTEZnNGlmWGc0cWlPcTFmLWVkRHdSR0tYNHp0Rk1DZl9ySVFraXl2dEZxdy1lV3F3?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 18:31",
-    "date_ts": 1782757864.0,
-    "title": "Ivory Coast vs. Norway injury, suspension list, predicted XIs | World Cup 2026",
-    "source": "Rugby Addict",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTDdiNXhrMFVKWFhyeENGZkpfMEZJSDI0TFBnV0tObmVxMUFsai04aWlDcHp5T3dKWjZZV3RpQ0otQXVUTjMyVkZEMGpQemJScEFnMUhqUUM3Sm1LcjJhaHhhdWZScXhmMnI4dlpva2ZzTVNlRVJpM2NycGdJMkZHYlF3MXNOam04Y3JIenJuRzdSLVk2c1hPOHQwbl8zQ1NsS0FQRXAtS2U4TE93OHI5ZzMxTEx0VWVXWlluVE42ZmFxdDdpa1FmSHh3bUJYampoM0xUeU9Dd1FwMDlJU0wxRnV3?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
