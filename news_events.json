@@ -1,5 +1,31 @@
 [
   {
+    "date": "30/06 04:14",
+    "date_ts": 1782792876.0,
+    "title": "FULL PENALTIES ⚽️ Netherlands vs Morocco 2026 FIFA World Cup™ Round of 32",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZExGaVBUV2h4QzFON2tEdlpvQjJLYVpRbW4xRjlQVElMY3Vqajk5R1VWTlYxZXV4VnQtSVU2aktlV2NGUng5ekVkSW5JeHY0TVN4MkpNQmozZ1pKMFlSaXN3?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 04:07",
+    "date_ts": 1782792460.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 02:28",
     "date_ts": 1782786480.0,
     "title": "Netherlands vs Morocco live updates: World Cup 2026 latest score in fiery round-of-32 match",
@@ -9,6 +35,19 @@
       "Marrocos"
     ],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 02:10",
+    "date_ts": 1782785424.0,
+    "title": "Ivory Coast vs Norway Prediction: Picks, Lineups, Preview & Best Bets World Cup 2026",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlowY2o4d0J5Ymw5QVg5Q0ZlWUF5T1lMOEhoREpHQW5EbWR5SmtWNWJjTUdkRXlaVDJHTkpxTTFjLUd5bjJ1bmpwZWNCMTlHbG9mdjlPMmRJRTMxS1pTdG1XNi1qV0x6ZURCZl90Yjc0cy13M3JfalVPQjZGSnlYY0RCazIzUnBfZTVGS29NaUdpMURMMWFaMnNFZk02cGRvOGpqdnNlYloxNGlFeVBVek1PNXY4SW8?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -88,6 +127,17 @@
     ],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 23:44",
+    "date_ts": 1782776640.0,
+    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHdncUxoZV92OUJwUVJsRmFyenVpWHk4bnZRNjdUNm52SkRnMTZnbG5LWUwyR1JrWXZJbnRWaE9UMXJUc19odjFWbUIyVVNnWHExRlhaZGJjLXk1dVhvV1FuTUhvWHpyR25UVXVfOFgyYmsyajRvSVhzandCcWpYZDFiWWZlQ0dNaVpXRVJobGVXYUZaeGRjZXJVVi1zRXpWU1oycWF3MzItbUJXVUUzQUh3Ml9Xb0JxZDA1OENDYk9zYzlTUTFxTw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -697,58 +747,6 @@
       "Brasil"
     ],
     "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 11:42",
-    "date_ts": 1782733359.0,
-    "title": "Palpites e dicas para Alemanha x Paraguai pela Copa do Mundo",
-    "source": "ge",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWdkdFBXN2FIZ1BwUVBsNEF1UjJTVU8tdl9fMVhHMlE2c0ZGUy1qTEUwYUpkbzNNTlFRTFBpVU1Ea2dBZENmaVRDZ0U2bzRWUnBZdGhwbUtwbkxqY0V2SXVzZ01HU2FDNUxfaUdBYVNnTEZNelUwZnJfNUxzaUFYaU51NXhNSUZDTUpvN1dBVXdoTm1BUkZENndsaUtza3FmdlozaTBTYU9wbnZDcXl4a2I5ZmZra0FzckF6NUVmZXFQZDFMYWNj0gHWAUFVX3lxTE5WNC13cHB5U2g0Y3dOMmhYN1dUTnIzaU52OFNKZmJEZG5tX3JDNnlJQXFBTHg4LS1LMUVqeXE4QjN6MkgxVWowaXk0di1raEMwMW5JcXo0ajd4cjBCRjBfQTlxSDZILWk0OHdPS25PVHh1dmpRanhndGJEdnRaTV9BVUpkWWJNeFdaaW44enNzcTE5UGtvSDhfY2NDQUJ4ME9oc0VnNVVIMDU3clZUMDk2UWt6WjFHeFBxdS1PekwwNjJEWEswdWlVUGtReXJkUnhCNlRZQlE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 11:42",
-    "date_ts": 1782733355.0,
-    "title": "Palpites e dicas para Holanda x Marrocos pela Copa do Mundo",
-    "source": "ge",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkFtTGpMNDM4NUdPYkotMUJlTEl4YUt5NTFWeHVTa01FSE03bnB4QXdJcmtBVDZoVWxuTWJfZlRQQUJZWUJEZUdUNGdackpJNC1Ob2xkSHNGTnpkNURCTmVFbmR0SWozbmNtTmxlSG5RQjczbzk5VFVoLU1HRUVYVmJOTGtqTFVaS19neE5sWEtEbDdjYnZLejVuUWMtT1F2dEZCQ2REOVoxdU5QeTRNSVdySnZqLW5aTTd0cU1mczdUMDB2V0HSAdQBQVVfeXFMUElwNEpya3FGd1hsVk13ZlFHbGRZNzlQelBUQ1pmMWFJRC0wdWthRDRPT2RiWVhzMWM1OVJYMGtBdnF5ekpIVFpCbDBtbzhWbnVrbDFFdE1nTF9wZFE2M2VFMXNOM1IyZ2MyQ29FbkFVTnNsdnBycUtYMGU2VEU4ZDJiWkJvQWQzbVg3dzJoYXU0bWZ4V2MtdE9OeDRqQVNucEtKdVg0eXk1WG1NNTdVU3lROW1iMy13dzVzLXBrYmpEZmtlTmJGN3h3OWd5TVhOY1VFUEQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 11:31",
-    "date_ts": 1782732679.0,
-    "title": "Começou o mata-mata: e se Brasil e Japão empatarem? Entenda prorrogação, pênaltis e outros pontos da nova fase da Copa",
-    "source": "O GLOBO",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0s3Z0NnUUw5M2ZSZGViOHlOdUdqTjZaVG94VUNLWGhIUGVNbG96aEdGSUR1bTdtTnJEeWw0VkRhY1dlVDFieUpMaG4tU0JkWUJGZGUtSGQwNTg1bVljdFMzQTR3Vi1LdFB5MDN4TFc5MmpDbUYtY09Pb1gyakcyb2d3c3R5c0VQaVc3ZERVcXQyYzRWYmtIZTNBektZNWJ1dHhMQTlocDgzUGhVcW9uVlFJMXZ1bHdzenZod09ER2ZhYnl5MWdoUnRTN2ZxQW9nMWVZckpCaHcxR0FtUEkxSnZDR3lvMnVwX2VXNjR2M0xHUzM1QWVXMnU2YmdRZnRpWmozZFlnMXfSAZcCQVVfeXFMUE5hUDhNZHd3ZmpOLUdBTEFEdndkRTBfeEVTN0t3WndRSjhCdTJfb1BCaUFJcGE1ZjdNU1lDdTFjYWFYX2U1Z2dkeVJDb3FsWU50LVViX29YM1lKeUVtckE4M05ub1Y5emN2SVplcEM1Sl9jeV9ELVZWOTludlluR0VnM2M1TktHaTBpVC0yRmdqZ0Q5WktRN2FPbmxUeXRETmRETXNCd0VNcC05U2M0Q1NBbDRDTFFCMC1hUU9TTDFRTUQwQXE0YnhYWlUzSkVwT2M1cno2WWhwN2ZSNnhWWUl5UGU3SFRGUW1DUkRKRXp4Wlc3enBVZ3hKdGZacGVKRHEwbm1fUVphODJKODctbnQ3bWhVYm8w?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 11:30",
-    "date_ts": 1782732647.0,
-    "title": "Why Isn’t Neymar Playing for Brazil vs. Japan at 2026 World Cup?",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1icC1qaTZjMmhzY25HeW1qUTkyd2Fhc0g4WlN0NEF0aEpXQlBfSFlrZ2phX3FoXzZzMUdEanRpdnlRcXI4MGNvS0duQ0VfYU9UYTV0UjlNZnU1eUJ6b2xPekItWkdSbTdtdFUzTnpzdnlUaDM1T2gtY0lKM2lmQQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   }
