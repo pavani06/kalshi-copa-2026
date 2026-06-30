@@ -13,6 +13,32 @@
     "source_type": "news"
   },
   {
+    "date": "30/06 16:16",
+    "date_ts": 1782836179.0,
+    "title": "England XI vs DR Congo: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNHBUd2NiQ1JMUWdHWXdXSTUxb2dxSnZoNEVYTG5jLUNFTDZ1OHZyam9fVGVoU2xkWlBYLVlEbnJNTVZ2VVVOQ2ZteTBYYVVnRFFEbjd4QVFEU1F3aERocG1PY0ZZY0ZjNWVFOXgtc0R3THVlb0wxQURHaldjbm9zOGREam91N1NWbExFZTJPLXBwN3lyYUZ6UnMzOXY0N2k2RTF6N3EzcUM4QldtREpVRFFLeFJmQXJoN09ScEw4bWkyVWlCb01ObGxFc1ZCMUJjekhXRHJFNVVMcWJK?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 16:14",
+    "date_ts": 1782836047.0,
+    "title": "Ivory Coast vs. Norway confirmed lineups, starting 11 for World Cup Round of 32 game in Dallas",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjN4TmRjcG1PWnpvNWI1OU1neHJ6Vk5VZ1FYNVdGX1k2SndIWXg1ODRMOUNFQnViQVRaT0RISy1JNmloT0FaRGF1TEZGMU4zNk9FMF9xYmhZZHFOZ0Y2dzZVa1M1OEgtalk0V0ZIUEQ5b3hIM01UZXlEUm44SmZJbXQ3dnJlSnlFTHFVcGpyQVhUcEtBQ1hqRWtvWFN0bUYwOEhnaXYzVHc3Ni1aTUJQcUJGbkM2eTJFcUdCUw?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 15:53",
     "date_ts": 1782834788.0,
     "title": "Is Erling Haaland playing? Ivory Coast vs Norway confirmed lineups for the 2026 World Cup match",
@@ -208,6 +234,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 06:17",
+    "date_ts": 1782800220.0,
+    "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -463,6 +502,19 @@
     "source_type": "news"
   },
   {
+    "date": "30/06 00:00",
+    "date_ts": 1782777600.0,
+    "title": "Team News: USA vs. Bosnia-Herzegovina injury, suspension list, predicted XIs",
+    "source": "Sports Mole",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHZhYjdPS0tTVUgxODlSdjRrSFlDM1pVLVpYbW1CTmh1cUlUaXBSd1VkZUI2SE5pUVR5cHo3azdoSWVrRnd0TU9RZkVYS0ExR1kyZTJKVF9WUmk0LU5QOW5DQllqTWlqWUtjMnRXS0dfMjRkSThHc25uNFNqUjVuVWJoNUxDOExFTkVnYU02RVp0ZW8xN3ZaclFjNzhSTjZjcVNkYVRGbktTN2RDczJnSHQ1NHJQcV9kdVlEdjBkTGYxQmZXUkpSV1V6dWVhWEl3NUlQV2VXVVI?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 23:53",
     "date_ts": 1782777230.0,
     "title": "Every confirmed World Cup 2026 squad for summer tournament",
@@ -691,56 +743,6 @@
     "title": "Germany lineup vs Paraguay: Who will start round of 32 match?",
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlVEVmk0VnVLQnA1ZGRGT1JzdzBoT3E2UE1pajVjUV83QzlPMHROdURDREtNUjluOEllUUZyb20yQ1BSdkZXRFhEMHU3RmlKYTJTUldHa3FjTHZmbGhDSXR0bTU1VHFVYzI1bG4tc0JfRmprX0ZvbG40T2dRbE9VdVI5N0x5ZWFIWmtLalhBN3JrbWpGVm9UcHVoY1I0MUVhSUxpbzhRUFUwQ2JreDZadA?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 20:04",
-    "date_ts": 1782763440.0,
-    "title": "2026 World Cup Bracket: Full Round Of 32 Matchups",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1hSc0FVc1ZNZjZqU3puWlFLYWcxWVhnUjNHV25jNU9DNWh5TzBVcXpzdVdsMGxaRUpqUFlaY2RnV2RZaDNCMnF5QktVZWJYNkFtVHVfMEx4OGtZVUpockJ3elF6UHNKZGNYTjJUeHVsdnJCNHRETExPcy01d1A1VWtWTEtwZkFE0gGIAUFVX3lxTE8ySjlRQ0JsTmFKMlBVS2c4MWN6eS1SOVRISExSbENFMUluZ2pCa2lPOVVvOV9oTG5waXI0ZlpLVkFyekZQaVMwcnJPY3d4bEtIaGlKdXpSOTlxcDl6Nk1zalhfdHpUWnhGbk1INE9NOUhESlNjeklnYlZoeDhHYy1vSTZjNUhNc0I?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 19:52",
-    "date_ts": 1782762731.0,
-    "title": "Germany vs Paraguay Lineups & Formations Confirmed: Predictions Today World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlllelVYanJOdzVDNWY0dG5Fb0wzZUN1b0oycjZ3WnRkM3paOVczeFlQRDA1dlFiNndoMGtBeGUxeEEtd092Vlo3azF6SjhPNDRKVzNSZ1lWSVNhMFI3RXA5WElvbDlqWXV0ZUhxckxXamNjVHZaUlpseG0xMXgxMGZlWDNjcC1GNkZXT2ZRRGtLXzExWFZMYVR1NkZNV1VFenp3YUVCWlRSNXRuUnYyRW5rZ3hNT1F4T2c?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 19:40",
-    "date_ts": 1782762000.0,
-    "title": "Germany vs. Paraguay—World Cup: Live Score and Match Stats",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVJ1NE9HamdqNHM0QVV6MTJ2VzFzMlJXYzBvYU9yUkh3cmNWXy1LN2NkcF9sc2hVYzFhSDY0U2xhSW1xRkF2c2JaVWlIeGRGLWVMQkFqeG11ZDdmNGhQZ0ltbC1TUUVRcGJ0U0FCNzFQWXlJVmZXY0VrMmpTbm5GcTlvZTA?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 19:25",
-    "date_ts": 1782761156.0,
-    "title": "Germany vs Paraguay confirmed lineups for the 2026 World Cup game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFZtUE1Fa0h4LVVsS3UzYTB2MGUyUFE4ZEN5a1ZsWWIxNVJDYmlQRnBxMzF0OGE2NEdPTFRJX09vbXVJZVdOcmItSDB0VlZNRUx0YUdYZFcxLURHbUg3dFRtVjdQZ3lvTlI0QUFwOUpqUVVLT1ZLZTV5RTFIaGdXdlpWaVkyRjh4VGtwWHNQWmhxMWt3cktndDR5bjJTYjVvdTQ4bm50a9IBqwFBVV95cUxNbndCVzh2bUg0d292cnYxaXo1OWJMbFFHVXFNWURBOWRGTXBOc0h0ZUJXcmUyRGlSNzIyaDBhUV9Bd2dXQkJfb28tNTJweGpiYkhuZUoyMm13VDFjd0s5Mk1pZExGSk1TX1h2NzNZcmhiYTQxU01WRy15c0R4bkpFN3pJcTVNYWw1ZjlMREFmY1dvdEgyVzg3NjJ4aVVTNS1ma0JYaHdtOTZWcjA?oc=5",
     "teams": [
       "Alemanha"
     ],
