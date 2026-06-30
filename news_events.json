@@ -1,5 +1,18 @@
 [
   {
+    "date": "30/06 17:00",
+    "date_ts": 1782838800.0,
+    "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjN6RUUzRFVSZl9ubHk2SDVQQ002VUxXZzljTVlGYUlKcDI1THdoSTNoRUZDVEpLUTNoelI3X0FyMXloQlA1a2tMT0xWOF9TVHdpZDJXTl90T3BPUWIwbjVsRDBMLXJRNmtjUFpJU01Gd0N5bmk5bGJtLTF4UWZGd09nLTVrRS1FZVZfQUp2allMR3l2MkctNVZFRkdOQUxYQ2dkUUF3?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 16:33",
     "date_ts": 1782837189.0,
     "title": "Ivory Coast vs Norway Confirmed Lineups & Formations Today: Predictions World Cup 2026",
@@ -8,6 +21,17 @@
     "teams": [
       "Noruega"
     ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 16:31",
+    "date_ts": 1782837109.0,
+    "title": "Mexico vs. Ecuador odds, predictions: 2026 World Cup Round of 32 picks from proven soccer expert",
+    "source": "CBS Sports",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWRvSUNfNm9yMWZDT3pHeWVIU2c1RjhaZHBSZGJTMHRCNFlRQjZYV0Fxb0dtOVVXRXBydVF0d1ZjVnFjWjlaNm1BaVhIbGN1ZlJ1Z3pvUXBOVGY5bUtvU3dqZS1qd0lZVzJXR2xUM0VxTlNOdm9HYnotNHMwcEMyLV8walpsNTBYWFJQNlZQa1FQVFptYm9PRl9DYkgzV21HV3pMN2UtNGVWTkdJ?oc=5",
+    "teams": [],
     "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
@@ -183,6 +207,19 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 09:00",
+    "date_ts": 1782810000.0,
+    "title": "Belgium vs Senegal Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORVZzSnAySzZ1X2NfRE9nM3VrNXJpdTQ2QmNLdGZXVWVsa1RVLXJCamozbTRYOUZBSUNJS0preVJIT1d2dG1jU2owMnJUNmI3bm1zSFNlYXRySmliYk54am9vWG80WWFNaU9tM2o1Zjl6Zi1xcGJRTV8xZHUtejJqb1B3VVVLelNER2V2ZUlKNkJzYXo2WlRJbW10U3loV2FFaGtvUW5wdmFBZmJkS0tTUU8zaThqeGdocDE4NkNrSTZBQjBuZXRldnRtd3RMb2xVSllkMnRBQzVUZEJTSE93?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -708,45 +745,6 @@
       "Alemanha"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 20:26",
-    "date_ts": 1782764816.0,
-    "title": "Brazil vs Japan: 2-1: FIFA World Cup 2026 – as it happened",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWxiRmdfOUp1MFVNVUtvVFRzTy0tdUhxT0J6cmw0eWxBeHBDY25zSjJjN1dXcG9xb2pEWWdsUjVGLWp3R0hQWWRGczFtZVVRNUNHQi15V3BkMG1yVUk3S1VRWlRBNF9qNFhGZWU2aUtnS2k5enFSRS05YWhLNnJ2QTNsQ3RUemVWVVV4Z1E1ZWxaYlQ1MmhZ0gGcAUFVX3lxTFBtTE9DR213aUg0Y3N2ZEhCS0l6cjhmNVNaa1RJMzVpb21jSmstVHVaODJGbFlSdlhtU2xUbElxWEd0Uy1vNE9nSUVkOEdnMTRxWDdTUTlSVE5oSElVRFRPUmgzWWJiWW9rWkhNM1VTUXNyQmV0NTNKRF9JRFpuRHBtZnRMSDk2Qmw0STdOZkZZQ0EzUGtNbnhSZGJYWA?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 20:17",
-    "date_ts": 1782764260.0,
-    "title": "Gabriel Martinelli scores late in injury time to help Brazil beat Japan 2-1 at World Cup",
-    "source": "TribLIVE.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGwtS01uZ1FSMnpvdmJ3NmhocV9ST01XTkcySHBCRXlsbTQ4aUJkTjVQS2hRVUQ1RFFOV3UyZFowdVZfLTlrRjd3N3FfWkw2WWlueVlseGV6elFvdnVDZGpqdFAwVDVzZ3dIeUJQWnhtZmk5eFVYNl9PN2NnYVJIYjE1UGxTU2xkU1QxeDdReFhGSExRV0ZDa0NxQzAxeE1JVEtsQmk2OE9nY2RpUzVRa0RpY29wLTlq?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 20:04",
-    "date_ts": 1782763440.0,
-    "title": "Germany lineup vs Paraguay: Who will start round of 32 match?",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlVEVmk0VnVLQnA1ZGRGT1JzdzBoT3E2UE1pajVjUV83QzlPMHROdURDREtNUjluOEllUUZyb20yQ1BSdkZXRFhEMHU3RmlKYTJTUldHa3FjTHZmbGhDSXR0bTU1VHFVYzI1bG4tc0JfRmprX0ZvbG40T2dRbE9VdVI5N0x5ZWFIWmtLalhBN3JrbWpGVm9UcHVoY1I0MUVhSUxpbzhRUFUwQ2JreDZadA?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
