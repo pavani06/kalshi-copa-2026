@@ -24,6 +24,30 @@
     "source_type": "news"
   },
   {
+    "date": "30/06 09:02",
+    "date_ts": 1782810172.0,
+    "title": "World Cup 2026 bracket: Live Round of 32 updates and results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 08:54",
+    "date_ts": 1782809692.0,
+    "title": "Norway XI vs Ivory Coast: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS2hKV2hBTGpNS3NPSWNDcG9IRkdrdjFsbGF1eDNlNlplYWQ2VkwtZmpjNHVIZ1RoTjc4eGVvMUpJejFvNkx4eFRtbTF6R3NDdENmbFJib0libjFEdm5DR29faGdRWEZsUnlJRFBGYmE5ZnBtdzZjdmJudWYzVktZd2k3dlFPMy1OT0RlRFlDTjI5bGdWcF85TVJHdDBCVnZMQ19JR0JnbEx2cl9qdGNycWlWcUNvQ0dpcFFhYURILXprT2x0aG5XQ0EwakxZMEJLTjE4eDFGcExHb0x5VEZ6UG41STZtVWc?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 06:07",
     "date_ts": 1782799620.0,
     "title": "FIFA World Cup 2026: Full schedule, all results, scores and standings – complete list",
@@ -44,6 +68,17 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 05:54",
+    "date_ts": 1782798840.0,
+    "title": "2026 World Cup Round Of 32: Who's Favored In First Knockout Stage Games?",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcDJ1LWFpaWpKUTVXRzJXOEltdjJmT295SmpPcnMwNnVaclE5SGs5d1JURVFRb0V1b0RRdWcyUFpSTGd4WUxaOVJHa3lSLXhzVWVtRkxoZzYyOW5ybFlWXzJpcGtzUUtkbnBjWktWdVBWYkIyOUp6UdIBeEFVX3lxTE9STlZfbmhDVml0UjFXRVc1WUkxS3dwVlpNSVJQdmNoZ3BEbHBVV29neW9ZUE5YS2hsdUhRdUwtc0pqeTBlZEI4YkU0cTNyTmYzQWZ6clMxQTI5bmFsU2dROHFsMEhnUXZ5ZGxKZjVpWlRfdjVQTzVGeA?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -706,43 +741,6 @@
     "title": "Brazil vs Japan Confirmed Lineups & Formations: Predictions Today World Cup Round of 32",
     "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHZZNjVXSHREa1l5SWh3cWFINW12TkVWbnppcFE3Zl9QRC1zNThOU0ZjcXpNUjlocGVCVkFMV2YxMTBpd25CVU55N1k1Ql9KcWg4T3JRU0V2dEVTMGZaTFMzMndRbWNReWJMV1RtYUllcktlT3ppTjF2OTRSZG9LYUN6MlJqeGRlLUN6N1dZUllBSm9DZEUybEpUbzRBb0xlb2ZCVy1FSldYTF9DZkprRktsTE54MWUwM3VWMGJR?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 16:29",
-    "date_ts": 1782750540.0,
-    "title": "World Cup knockout bracket predictions: Picking the biggest shocks, best games and winners - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjJJdUFVMjFDM25FTUMyS19JNkd3dk1FWWh6Y2ZKWjU0dVgtd0FKak5UbTQyaWVuQUZZME1yeTRNZGVXZ3NhTlNGS0tnRks2TWlibmg2anRfVUJjMFJtamd6M3RZYXBTc2JNY1Z1TnhpazM3UHFoS095Rm82WGRKdktZZ2FLX0Y4RWc?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 16:02",
-    "date_ts": 1782748938.0,
-    "title": "Brazil XI vs Japan: Starting lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXBtSmNEMDM0bGp3UkdoLWVsYnJDcllKVTdxLTZiZnRJc1NhZ0xFV29lN29ZVDJZSjI4MFZ3S3hCTTlOUkxXbXRpY01YanZkeEtydHd2VEM2bGgzelc1NV9aSkl5cDl3UG1rX1BDYV9FT2lLbXNjZUZBc2U0Wk9FN2ZpRW5uOGFUN1VVSXFzTnpEQ3ktMzFwaDY4VjA1Y2ZNeVZwOFdrdDhSdEFuTWF0bHk0Rm96d0tOejVYZUZCY2JWVl9qM1N5RjdlOWN6cjg?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 16:02",
-    "date_ts": 1782748921.0,
-    "title": "Brazil vs. Japan confirmed lineups, starting 11 for World Cup Round of 32 game in Houston",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeER0ZlUzWC04MkxYLWFnUU1RckZ0QXhheWdWU1NBQnVZWnlSankwbjh3THk5QWxQWlJnYWVCUng2NS1fb3NTOTI3Zm0yRjk0U01oa2QxNi1uS280SGx6RzVxWmZpV0FYbmNqMWFzaDBiQ2lGS1l0WFd0TGFua0JDeExVcTJxUTJRWVcyTDBlV21EOXBCcjVGSXJ0X05kam13c3ZOM21xdHZSWEVYXzJjWVdwc2ZINHBZR1kxbU1IWWJpQVk?oc=5",
     "teams": [
       "Brasil"
     ],
