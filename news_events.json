@@ -1,5 +1,29 @@
 [
   {
+    "date": "30/06 10:44",
+    "date_ts": 1782816268.0,
+    "title": "FIFA World Cup: Tuesday schedule, predictions and eliminated teams",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzh3dzdqbDBpLWV3TEctSHFKaEcwbGJyZURNZ3FfZjBBbzBzNlc1SXNKRm1UWEkzaGcwbGJ5WEdqeXk0WXNkSkZvYUNzWjRhUnI3RkpZbDh6REh0eGRYRUN4RXBISHBoUjBOUXhoY2NDVnVZeG5DVHMwNmE0QXI0SlduSm5ZWFFTUFE0ZVdjN2t5SzU5TTRlS0VoM25qcGUtby05YjFQTVrSAa4BQVVfeXFMTVYwUnBhcW42dlU2ZF91VUJTam5OeWdhMGxXT0pZbUJINUZNWVVfemEtbzJUbzk0V2JnRzB5MEw3LThXbl9WY19YaHRLRWd5UnRoYlc0aXVUZUFJR3A1dHRRSTR3OWptcVBBak8zU0hFRWo5Y1hObWQydTBjTVFJNEhQeUVwSl9KZG5KN3I3X2ZDQ3J3SlRZS0M0YTNBa3JCclVHNEZiQlU0T2lnR0dB?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 09:10",
+    "date_ts": 1782810607.0,
+    "title": "Ivory Coast vs. Norway projected lineups, starting 11 for World Cup Round of 32 game in Dallas",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejRTeEt3eEJCZEFOcEEwbVZlUVk4elQ5VkJRcDRvRlQ0aDZVX2dFQU8yVEoyc3hmRVlMS3l1R2xCRjJXY1JXMGVSWmZzQVhHbWY4NXRFQ3NOMWJRdUZreEFLbTRtcXg4VU1jbEJMaEE2aWdobkt0bkx5c3hTSTZxZGNvNlo2RmhNRGNrYmY5MVNDOUV5SDZSc0dQNlRyQ3lIWmdtY0ZsdlZFSzFqTnB0Y19GcGtfV0RMOXpBRTVWRQ?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 06:07",
     "date_ts": 1782799620.0,
     "title": "FIFA World Cup 2026: Full schedule, all results, scores and standings – complete list",
@@ -72,6 +96,21 @@
     "source_type": "news"
   },
   {
+    "date": "30/06 04:16",
+    "date_ts": 1782792981.0,
+    "title": "Paraguay upsets Germany on penalties, Morocco also knocks out the Netherlands on penalties, and Brazil beats Japan",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnY4MEthZUEybVoxeDFuMUxiNEY1azFWRU84dl9HZ09mS3B3MzBUQjhQUDQza1BKMGZZZVI3cTdLX1lhYWFhNl9tRTExUlJhbHM3REp3NXJBT3dxZ19IZTJLTEJvM0ctaXVub2RNU3RDVjdZNndPSVg4X21jYmhkeDlUTTVuQjlETzlEdzB3MGs4ckUyU1VoOWdzdjNHWmM0cU9fX09yNW0?oc=5",
+    "teams": [
+      "Alemanha",
+      "Marrocos",
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 04:14",
     "date_ts": 1782792876.0,
     "title": "FULL PENALTIES ⚽️ Netherlands vs Morocco 2026 FIFA World Cup™ Round of 32",
@@ -119,6 +158,19 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 02:38",
+    "date_ts": 1782787115.0,
+    "title": "World Cup 2026: Julian Nagelsmann faces pressure as Germany bow out",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WeVM1M2JWM0diSW1NaVVSeFpBVFJ3M3RrNTc4YW5nRTdpOGtfLVA3Wi1vOGJrUGxXUk9BeUxyLWx6TVhZa1l2cTNtOF91dUc4WXNoUmxjNVZudlJkVmdhdFE3aGg0ejA?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -373,6 +425,17 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 20:48",
+    "date_ts": 1782766080.0,
+    "title": "2026 World Cup: Schedule and scores - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 20:33",
     "date_ts": 1782765238.0,
     "title": "Germany vs Paraguay live updates: Latest score from today’s 2026 World Cup knockout clash",
@@ -395,6 +458,19 @@
       "Brasil"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 20:04",
+    "date_ts": 1782763440.0,
+    "title": "Germany lineup vs Paraguay: Who will start round of 32 match?",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlVEVmk0VnVLQnA1ZGRGT1JzdzBoT3E2UE1pajVjUV83QzlPMHROdURDREtNUjluOEllUUZyb20yQ1BSdkZXRFhEMHU3RmlKYTJTUldHa3FjTHZmbGhDSXR0bTU1VHFVYzI1bG4tc0JfRmprX0ZvbG40T2dRbE9VdVI5N0x5ZWFIWmtLalhBN3JrbWpGVm9UcHVoY1I0MUVhSUxpbzhRUFUwQ2JreDZadA?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -672,80 +748,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 15:37",
-    "date_ts": 1782747426.0,
-    "title": "Horário do jogo do Brasil x Japão: veja escalação e onde assistir à partida pela Copa do Mundo 2026",
-    "source": "O GLOBO",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbXlnNlBPdUFLUUpPWHVPenZoSVlvaDk5dlMxUG13MlY1R0RYWmxUSE5PVS1mX2lfV3dwMTM4ekJfZ0ZQNlRiVTkwWWc1SjFWNUJzY3BqRUIzUUhTSlJDRklXdmFEVlZtbl96UFVWSXV6MGhjSmJEWnVJQUFQQ3pBbDd0Q2hsTlhTSUVyNmtEbFdMcW1XQl9aeEhYa3lmMWc5MV9JVW8wWTJzLXBwSFJtczJySzBVQk5TRGgwekt1QnE2dHV1anVXUWcxcFNRLXYtc1c1VWJzT1oySkxpaHFkSjJ2UHVNaWFBbENuWjJEQVA2RDZaWThVMzFKR3pfaURhMUt0QXNLSG4yTTBjc0o2dGVjWdIBogJBVV95cUxQdmY3enhsSDd3RWVLZHFXbTgweUR2dW5xQUFNRXVJeWtpLVlTb3FhbFRyaFlBRWlvWlVDc3ZYcy1DQ0ZTTzBDanhvLTd4ZHFaT0RFZ2dvcTJ2YzdNMWNiazA0eWZhSGR0OTloUnJZU1FKT0lwakRacXhCX2NZUjl2VVJJLVIzcmVmbktoMEE0V0xYdnF5Ql9rdi1SX19vMjBHd0s0REZzazEzV19ZTGtWelVudnlobm9YTkNKS0Nua3NEanhpRkN0bjhVbksxOHQ3ZGFRc2hCV0pldno0enlfdTBiVTRaZ2h2cDJzdjlBX21HUnRtRDBLYkV3M1g0Ri1hZzEtaVI1d2JUYm0wVUJoU1NFN3U3UWxENHdaTjJUQTRnUQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 15:30",
-    "date_ts": 1782747052.0,
-    "title": "2026 World Cup Round Of 32: Who's Favored In First Knockout Stage Games?",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcDJ1LWFpaWpKUTVXRzJXOEltdjJmT295SmpPcnMwNnVaclE5SGs5d1JURVFRb0V1b0RRdWcyUFpSTGd4WUxaOVJHa3lSLXhzVWVtRkxoZzYyOW5ybFlWXzJpcGtzUUtkbnBjWktWdVBWYkIyOUp6UdIBeEFVX3lxTE9STlZfbmhDVml0UjFXRVc1WUkxS3dwVlpNSVJQdmNoZ3BEbHBVV29neW9ZUE5YS2hsdUhRdUwtc0pqeTBlZEI4YkU0cTNyTmYzQWZ6clMxQTI5bmFsU2dROHFsMEhnUXZ5ZGxKZjVpWlRfdjVQTzVGeA?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 15:30",
-    "date_ts": 1782747028.0,
-    "title": "Que horas é o jogo do Brasil x Japão? Veja horário e onde assistir à partida pela Copa do Mundo 2026",
-    "source": "O Globo",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTVI0Yk5iRXFBUHlncXNaVTBWekppejllTmpxRTBpWnNsak5GX05Fa2ZqUHNuV2swVkdZa0wtS2hwbXB5UDhQZl9FLUZvOHdWSXZydTUwU0RrWE9TSGhTUWF0YkgyRnFGcnBBMXdsZ2hpaDA3YmcxNFZHWE1NNnRBa2FfVGFRS1NSeTFta2ZqWGtSaEI3RE0tbG1MLW9PRGs0RHBmTlhhcEJJZWljUGlTQmxzcWplQzhBZ1pRa2pWdHR3MFdvckNyRHJMaW54ZC1iUU9NWlBlZ05nMHd5Mzg0UXYzNXE2a2NYZ0JSREJrTlBPX0lzVHlLb0lRWG1ubVFyVlpwUTJpZmzSAZcCQVVfeXFMTmtUdzFpc2lQVkhRNHF5V19VUXVmc3NzTFliMEpEa2lyZ2ctNDNXV21SYUJxNnExeGxjTV83Skwydk9wS2htQUxFUS02OVhMZ1lDU2p0SUV0SW1mTjlaRTRVQXBURHIyblIzOXpvYkV4RWtCRW15TUpucXdOUVFnNWt0QmF4dkowQkZBNjlqNXVrVkRZSXByNEM5OG41cTFSbDNLTG5wSzZMVzd4UHprMW9vTkF3TS1sM0NGLU14NjlTLU9maTEtdjhEZnhCOUMtUlIzVHJUdDJCbFkzbHJ4VW1XOUtvUnJYaG5vbDZhYUdvelpOb2pfYjZ6eHdNTnhGUUFlbWUydFVGcWtZU1VfU0NTRnBndVQ0?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 15:27",
-    "date_ts": 1782746841.0,
-    "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHMyYjRiSE5QVWJyR19JZkl4SS1MMF9qU2dFa0R6NVhvRjRRM25TRkRXUXlvajhvVW5FeWktZm9yWWk3TEpxNDlacnBVYnljSGlmVzhOX2RFekpMeWMwNHVjWHphWjRpbnpyY3Z5VzdXb05PZ1lxN3A0Ym5NVFlNbEd0dmNZcC1JOGl6aGU3UllnaHkyVnRtTUFXbWJmUUVpc2hDVnc1Z0hubHVHU3RjaTl6NWZndVo3N3RvWmtRRllRU28wN3JMMFZ3amxUbXJSSUFKTTVVTHZUbmhwRHVoWVhGZmdLd2JlQ0V3LVk3cw?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 15:24",
-    "date_ts": 1782746645.0,
-    "title": "Netherlands XI vs Morocco: Predicted lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXBmSFF2ZnR1eVhIWWl5aDlHcGZQLVRxN2c0WHlQQjg5a0Juel8xczJLRVZDcjdJckFhVnJFNVVuX3V3LWNNR0xFSmdoR3VKek5uWV9rbnVRUVpPY2JJOWc2Mi1XT1FhZkZwUC1iWEFVTmpJdU9KSTdXYXhWTG16UkRyM0JMZ09fWC04bTJLT0U3eGE4elNnUHdEQkdxSW1fQXprY0t4dldnOUxVYjF1T0JTNjZVd0JnLVZId2ttdHNtcjhTQVNwN2J0TVo5Yl9iekZiaklHd0tIZzYzWVAxOGFXUFpRVWRJ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 14:43",
-    "date_ts": 1782744184.0,
-    "title": "Brazil vs. Japan: Where to watch the 2026 World Cup match today, TV channel, start time, free streaming info, and more",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGRNT0lfMV9JY1lmZUx6YmxkRThFaVprQXh2ZDhOLUVzY2dVMUlmZDdTamY5TVQxWGY5eTdIcDlvcTQyNDFCNWpWQnlib1MtS1huWHhQcDdXZHdzRTdrbVhaalVEa2tGcFZ1QlRkbEdjdTFhaHFmal9QM01yREQ0emQ5dl8zalEtMlFOUWtmTnVpSXJBQ2NsaTVoUlM4TGlScWNyVS13Q1ZKNmdWUkUwTndkZHFGRmFiY25KUDVja2pXaXlldUhsUXdoX24zTlN1Z0RaMTVxRGw4bEVoVU12VkxrS3NubHNMdEh4SXNLajZ2WklhNkdtX2pzbw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
