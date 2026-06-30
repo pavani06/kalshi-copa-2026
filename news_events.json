@@ -48,6 +48,19 @@
     "source_type": "news"
   },
   {
+    "date": "30/06 06:58",
+    "date_ts": 1782802680.0,
+    "title": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTdpSjItb0xUV25NSndZbHR4NGR3OFpPb01XYzVtZTZOZEljQ3VObnlHajJxSjlTVjJ0Z3NXdUhnSmV0V285VWV1eVdTX0ptbzNqcEU2NHJiQVprTDEydy1PYkxhQU1FMi1xYWFVVlprb3N3UXY5STA4R2tPNURTSXNsMzVsRnRPd0xZdVEwakxUUE1HMVFNSmoyWS1FMlZkRlJiNEszMUpZNzV0c2FHenRhMkRWdWFPM3l0RUZjRkZuZVc3REt2aHJ6Q0FpN3BhVHplVFFWM3cyZw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 06:07",
     "date_ts": 1782799620.0,
     "title": "FIFA World Cup 2026: Full schedule, all results, scores and standings – complete list",
@@ -586,6 +599,19 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 19:15",
+    "date_ts": 1782760500.0,
+    "title": "Confirmed lineups: Germany vs Paraguay – World Cup 2026",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXNEpwZmlnUVpkZTd3TnB1SXZmTXB0NC1idENwMkx6d2x3NFVmOThvT0w1dTgtcHVucUVZVXdhOXN1aFZNMzg1empramNHeWs2SWdsMVpETFo5aTlYcFRGdHN2UTdfUQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 19:10",
     "date_ts": 1782760240.0,
     "title": "World Cup 2026 Round of 32: Full bracket, results, matchups, schedule and how each team qualified",
@@ -660,6 +686,19 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 18:31",
+    "date_ts": 1782757864.0,
+    "title": "Ivory Coast vs. Norway injury, suspension list, predicted XIs | World Cup 2026",
+    "source": "Rugby Addict",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTDdiNXhrMFVKWFhyeENGZkpfMEZJSDI0TFBnV0tObmVxMUFsai04aWlDcHp5T3dKWjZZV3RpQ0otQXVUTjMyVkZEMGpQemJScEFnMUhqUUM3Sm1LcjJhaHhhdWZScXhmMnI4dlpva2ZzTVNlRVJpM2NycGdJMkZHYlF3MXNOam04Y3JIenJuRzdSLVk2c1hPOHQwbl8zQ1NsS0FQRXAtS2U4TE93OHI5ZzMxTEx0VWVXWlluVE42ZmFxdDdpa1FmSHh3bUJYampoM0xUeU9Dd1FwMDlJU0wxRnV3?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 18:23",
     "date_ts": 1782757380.0,
     "title": "Brazil vs Japan LIVE: World Cup 2026 updates as both sides chase winner in thriller",
@@ -707,45 +746,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 17:00",
-    "date_ts": 1782752400.0,
-    "title": "Brazil 2-1 Japan: World Cup 2026 last 32 – live reaction",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEJNZnNCczZvN2daZ3ZqX2x3VGo1b3RpOTZjbzR3YkhzM25QdEo0cGYxdmxrZHpFMERjZF9JdkhTMFlSSGM4TEJmRk85c1FkU2YtalZZV1hhTDY5bTM3R3N2WnQzRVpwU05taDhZMXRFSFN5V2xaT0FQSjZ3ZVNPZnBIdFJsMHhtekU5c1hCUktOVEdEenlGSUozUFA?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 16:44",
-    "date_ts": 1782751446.0,
-    "title": "Brazil vs Japan live updates: Neymar on bench for today’s 2026 World Cup knockout clash",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHV5TzZsZkx0TVQ5eUduVExKb2c4TDdnTkRfcVZiZUV5NG53LVFhMnF0ZzUwOXBXSFZGaFNuUlNpbHF0Y3k4XzZSdGJ2RGhYM2dxVk52UlZsVF9oekpBMjZpVW43SG5KZVQ3Ykp4a0NlMkI5a25HVnpPQjRhWkFKNUFFb2JveHdpdzhQc3kwQkdvTnB6WWI0Vkszbk0xTHAzUHVKbVEwMVJHTjZ4SllzUHVRUEg?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 16:35",
-    "date_ts": 1782750953.0,
-    "title": "Brazil vs Japan Confirmed Lineups & Formations: Predictions Today World Cup Round of 32",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHZZNjVXSHREa1l5SWh3cWFINW12TkVWbnppcFE3Zl9QRC1zNThOU0ZjcXpNUjlocGVCVkFMV2YxMTBpd25CVU55N1k1Ql9KcWg4T3JRU0V2dEVTMGZaTFMzMndRbWNReWJMV1RtYUllcktlT3ppTjF2OTRSZG9LYUN6MlJqeGRlLUN6N1dZUllBSm9DZEUybEpUbzRBb0xlb2ZCVy1FSldYTF9DZkprRktsTE54MWUwM3VWMGJR?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
