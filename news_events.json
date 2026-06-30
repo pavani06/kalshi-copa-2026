@@ -1,5 +1,31 @@
 [
   {
+    "date": "30/06 20:15",
+    "date_ts": 1782850500.0,
+    "title": "France, Sweden Lineups Confirmed for World Cup Knockout Match",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTno2LUxwSDBnNGJhX0ExMkpqc0Yyb29RS3ZUV0Y3UUVTRF9GN1RacUZDZDN3Tlc2Yld1QmFYaHRqZ0t5Q0pYRVZGVFd6aW5oNzR4SDF0V015TXVXS3pLeWo4UFNBMnZmZjJDRUw2cEpReFZsMkwtWjVQV3JCZVEwOGo5enJkRDBYbVNOejZ6WHFtZUFuMUpTSjU4NmFXVUtDT09pazVqM19sblJxaHc?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 19:54",
+    "date_ts": 1782849240.0,
+    "title": "France lineup today vs. Sweden: Starting XI confirmed for World Cup round of 32",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmVaM1R6Zy1ZRWRBY1lvUzg1cE0tcTlBb29YSVlISnNxOVdGVi0yTTdDZGk1UjJoaHYxaFlQdHhSeklCb205MzNaekk2elFucUs5ZVRmQ1QxYk9hdEN3X3dZTl90TVRxODVheFJRbWhLdWx1bzRDZF9nVkpBYjMyUXh3SEFuRUtwLTR2eERaYkhrNEd1b0xBVGR3OVdjRmprSThYblU5RGk1cmFoYWZsVEtCVUg?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 19:00",
     "date_ts": 1782846011.0,
     "title": "Ivory Coast vs Norway Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
@@ -8,6 +34,17 @@
     "teams": [
       "Noruega"
     ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 18:18",
+    "date_ts": 1782843505.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
     "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
@@ -23,6 +60,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 16:58",
+    "date_ts": 1782838690.0,
+    "title": "England XI vs DR Congo: Confirmed team news, predicted lineup, injury latest for World Cup",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YSFZ3UTM0N0s4ZTFpZFJacE5VUTduWG5FMHRsSTZoY0U1aFZveTBncjI5TWFYN0RZOGFPaHU4NTJ2dGdIZ1dkb2RKTzFaOTJZLVVmXzlKQmQ5Nl9tQ1MwY0lwNU9Dbm40RU1hZE5wWmkwRFBSYkx1MUY0Yw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -99,6 +149,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 15:45",
+    "date_ts": 1782834300.0,
+    "title": "World Cup 2026 today: Live updates, latest news as it happened - June 30",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZkhGa3prdnQxZzJvVF9pZW56bzlKV3lIcG52ei1qbXphTWhoQWtXQUtKd1l2TXljeTFQMkJwZ3h5QTJZZmRpcGZjTXNlX2dIemdmdXZ3RnZGR1l6S2tGaUpMT1JlN1g4NTFVQl9yU3dfQUJmZEJLLUJuRXY5MldQbmNNbVo5Zy10SEpJTHdQaXg5RG12UWJyQ0RTZzVMM2Npdk03dXVzMVlnWllBVTRYbG91NUVTMmU3dzNVVFBVaFBEQ0xmbnFhT1Y0aElCN1J3REtfeGlFY3lGWk9WZGpVeHluX1dScDVRcWw1MDdubw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -220,6 +281,19 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzh3dzdqbDBpLWV3TEctSHFKaEcwbGJyZURNZ3FfZjBBbzBzNlc1SXNKRm1UWEkzaGcwbGJ5WEdqeXk0WXNkSkZvYUNzWjRhUnI3RkpZbDh6REh0eGRYRUN4RXBISHBoUjBOUXhoY2NDVnVZeG5DVHMwNmE0QXI0SlduSm5ZWFFTUFE0ZVdjN2t5SzU5TTRlS0VoM25qcGUtby05YjFQTVrSAa4BQVVfeXFMTVYwUnBhcW42dlU2ZF91VUJTam5OeWdhMGxXT0pZbUJINUZNWVVfemEtbzJUbzk0V2JnRzB5MEw3LThXbl9WY19YaHRLRWd5UnRoYlc0aXVUZUFJR3A1dHRRSTR3OWptcVBBak8zU0hFRWo5Y1hObWQydTBjTVFJNEhQeUVwSl9KZG5KN3I3X2ZDQ3J3SlRZS0M0YTNBa3JCclVHNEZiQlU0T2lnR0dB?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 10:43",
+    "date_ts": 1782816180.0,
+    "title": "World Cup Buzz: Son Heung-Min 'Indescribably Hurt' By South Korea World Cup Exit",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -671,81 +745,6 @@
     "source": "CBS Sports",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUJTLXlOOGw5VldMaVBRa3EzOWc0M2Q2U0x4X3I2NWtNcjlQZDVHWmxieEpHUU43RS1EMHNuSmlaZ2o5Zkd6V3NLNUdaVU1pT2c5NllFNXZEdWYwdUNrYzhDa2NpLUZHNThhMG04SmZJQ3Y3UFhWVVBlbzMwdFZFUzc1b29UOHdJMk5GNFRvbmsxV3BCakp0M0p4RVpOUWlQdExBa0lhRGFOOVU0ZlJUQkRWUQ?oc=5",
     "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 23:32",
-    "date_ts": 1782775920.0,
-    "title": "Germany dumped out of World Cup by Paraguay on penalties",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGNMRUVjdVl5SFhJN2c4RERHZmRsbGJpRUlFaFJWVWFkWFZFc1VDYThja1k0cXBUSjFIaklpYWEtSXBGczR1LXV1a2lCRXF1X05GeUFhc0dlaF9FZzVhQzZGMDVETjBOLWVuc00zQmk0WW9MdmRrZFRiZ1I4c3RWQ3FCTnlSalhqT0N4ZGtnRzI2OUV6anc?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 23:23",
-    "date_ts": 1782775417.0,
-    "title": "2026 World Cup Round of 32: Confirmed schedule, results, predictions for first knockout round",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 23:21",
-    "date_ts": 1782775287.0,
-    "title": "Are Virgil van Dijk and Achraf Hakimi playing? Netherlands vs Morocco confirmed lineups for the 2026 World ...",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZEt4c3NPOFJ6Y29PVzVZZWp0SlpYdG81cUVFaVVtSHlpNFdocHVzcVNEaXo2N0pUbFRGbFMtMS1vRm5MdkVzNms1S1FTQlFMeVQzZThSWW8tVkowR1Z1Mlp6SERNN0pCV0U0akFOdmdaZ1UwdGE4TXNNVDdVN1JqVTZLNlVpeUdOamZhTUF6T1pmOGtiaWVvcTZDNGxtemJDdkY4TGs5UV9Ca1BUOXVSZDJXanhnXzlMa081d1lqVko5S05oeUVoYV9nZ0RmNUZOUy03Y2VjVGctVGdQQkFDNXFwUXozM0xM0gHsAUFVX3lxTFBkYzc1OG1JUjd1RkU1T0VDLUV2eXpDbEdjY1R2UzBTSTFjbEJhRXBKdXk1d0JYRHBZMTNEb3FULXNKUmJQSzB2ZTVoYXdOUkp4V05BS29uMm5YdUdnbENiTm5Ib2ludWJLODhFSU5MRENWVjBVY1pNTEFuN3JWWmJPZGJwNTNqcmF5YU4wOW92b3FuYlA1WjBUeU00TWV4eVYyaTNqNVZNN3Q4a0NTdHdzNkJfUE4wMkw4ZmlXaVZwcHY4TzYxMWFSdFhXX25DVkk4eXJ5cmNZUzgtcl84MEVWQWZyaERqT1hRQmJU?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 23:06",
-    "date_ts": 1782774404.0,
-    "title": "Netherlands vs Morocco Prediction World Cup: Picks, Lineups, Preview & Best Bets Tonight",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEM0NGxmaDIyX0RCMXU0NFpQT095akF0THRvRV8yNjBZaXlwY3RyUFViaHlOc3ZJU1Mxekx0OWJqR3dKeHZSTUpDbnNfTlNSZU40eHdTUWV4OVZZQWFKd1h2VkFyM04zNWRWcmFyMnZsQTloQ0MzaWtPaVpRLVZodkhPSkxoVHpQcllzQVBOU0pBSXZUdldOcE9Sb19Gc1hmYkpyMVdkZHdkNnN4VEp6V21qZUxTdTd1MXo4Ug?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 22:37",
-    "date_ts": 1782772620.0,
-    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2Rg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 22:27",
-    "date_ts": 1782772061.0,
-    "title": "Alemanha sofreu gols em todos os jogos de Copas desde o título em 2014, no Brasil",
-    "source": "O Globo",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEZTQl9obkdGbXI2WUNsYlRpeGhxVFI5elRzbXpDYkFlOHdTTG1ON3liX09FVzloNWM4c0pyLU1laTFYazd0OTRsdW5vUXJYaGVoYnhHVTJpb0M4ZGtZMktXaDNCSlNVS1hpcmFjeWtFV3paQU9Ub3hDSGlmbEpNQXJibVA3SEl1SzByM1prM0dnMUd6ZXJzcWlMbXFRb2xEMi1EX1pJc2tJSEZJMzlFZy1yQUxBYjhxcDBTb25mNE9zTWtOcmw3cUdLWlIyRkV0d2NmaG1JT0RxRHJ2aktmYk5rcWxXeWZxSk02ZTZrQdIB_gFBVV95cUxQeXVZWllUY2lGTC1YOTQ1aDl1X3h1LWhES0szRjYxeTd0cmMyd01adTR4NDdTUmRmVlRiTzdRVFRIN0l6dG5rZFRZZFFfdWsybWtWSlZGVDNITFR3S3A4dGVkcFg4VlN6dG9YOGlXN0FqS2xEaHBXOHQ2Q2xEUktsZWNhVDlOcWFEMENZbHAwQmxCRmI0TGtSUHRPOWg1Z09XcTdHV0FNMWo2ZVd6UGNwWkQwRk9LYXB3bVFPMTM5dDBTallzVUE2Tjg5aWlhUDJLZnBTMmNtZEVxZGFqOEtPcndrQWVNNEVLTS04S3ctSERMMDlEUnVvSVFGQWE3Zw?oc=5",
-    "teams": [
-      "Brasil",
-      "Alemanha"
-    ],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
