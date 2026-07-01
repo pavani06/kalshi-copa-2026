@@ -1,5 +1,31 @@
 [
   {
+    "date": "01/07 04:39",
+    "date_ts": 1782880740.0,
+    "title": "World Cup What to Watch: USMNT begins knockout run; can DR Congo shock England?",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUWVETGQ1T3Z1bWFOQVVwbV85SHhMb2ZLbHIyaUZNWjNDcGVzR2l5cjJXNmpkRHIzNjdOYmhmUVJjRFBSQ0stTDJKMmpTRzBobi10dTE1TWxtLXFoX1VIdV9DS0ExcldMaFZnTHVxaWItbktrUlprMmVuRmVUVXlNZVI1V3ZwMFMwVTQ4NjduY1lSc012UUpVS2NIbUt5MHhFZm0tUTNlN1A4bnFUQjZ0M1kxX05HZWdxVTJiTnkxR1lldnFOc01EeG8zUQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 03:50",
+    "date_ts": 1782877842.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 01:58",
     "date_ts": 1782871080.0,
     "title": "FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record; Olise one behind Pele; Haaland 25 in 13",
@@ -141,6 +167,19 @@
     "source_type": "news"
   },
   {
+    "date": "30/06 20:00",
+    "date_ts": 1782849600.0,
+    "title": "Team News: Belgium vs. Senegal injury, suspension list, predicted XIs | World Cup 2026",
+    "source": "Sports Mole",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzJSMGc3emNCZVltU3h0eXZZajA3V0I4dXl2a09qa3cwaC0tTHpUamwyZm1jMmZTbEZaaW9kaTA5MHEtdFFGb1J2dEZnandpdlZJa3J3YVNBQkV1eE45ZTdZeWxlbWgzck1MMmFYV3dOc3hZYlYwR2I4WEcyUlRIYjEzSXZma2ZhSDVLS0pJeVVyUlJhZUZlTUdXbXRxRnBUSjJLN0sxazVRWl9RZWllaU42TC1vOTZKcnFPclp6V0ptZmZtbjh5QmZFalRlYk8yZnRIaw?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 19:54",
     "date_ts": 1782849240.0,
     "title": "France lineup today vs. Sweden: Starting XI confirmed for World Cup round of 32",
@@ -234,6 +273,20 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 18:58",
+    "date_ts": 1782845885.0,
+    "title": "Brazil vs Norway: Date, kickoff time and venue for 2026 World Cup Round of 16 clash",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjhZSDJvTjNYMU94TnlkT0F5YlBzUzMtRHJGc0x3dnhNTjdTYkdCVEJPeGNPRTNJVXZ4Nm96ZFBnYlhQclZIRVhvdnREYnh4bEJvTzFXSlNUUThjMjlSeDBoeWdFNlZEUU15ZlZ1NXFtOUR0Z2lzX0tqaXVacmhzTnY2UDFXOHFBM3hYa0tuUzRHN0RhRnhhY0FqYjdPdXF1U24wZ05WS0tDQVZnV1RveE53UXU1QkkzUzVjMdIBwAFBVV95cUxOWWdlWUxYaGJIVXdzeEstOXdlYW5NZWJGM3RCNldxSlVzMjhlSWtadHZuc3A4TGVCUWltWVdjSXdWRVRaa2ZKank5ZUFWSjB1WERYQ3huc1lpSE9BVDhDaGtwZDlaOE52dk1DcGRtak9BMFRvNWlfU0dZS2hwdERvaVlPOWY4ZDV4dVpweTk0NmlYZy1Gbzdqb2FkcVpXUWxucUZNWlJMMF9Vb0JPVDZjRGxDMmMydlpGbUY0WWZUUGM?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -344,6 +397,19 @@
       "Noruega"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 16:00",
+    "date_ts": 1782835200.0,
+    "title": "Team News: England vs. DR Congo injury, suspension list, predicted XIs | World Cup 2026",
+    "source": "Sports Mole",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcTI5TDhjbF9aNGM4a3RMSkphRmlGVUw4aV9LNGpkc1ZKSWlDdXZnQW91QzBxeFZMcUp3SDVoOEcyZ1ZoSV90Mk5TRWdfNmJjNVFoa09SbWpEYkI0RU83b01JSWp2T0NLTjZqX0VGTmo1c0ZIU0NHcG9Rdk5hYWpmSGRMUzFWQ0ZBZFE4UlRBSHJZUnlTcmRaamxnVFFEaDVuZjJVY0ZjLTBLYmNSZWxfVFdneTFsLTdYTUwwY1VieGV1M0h2RURIOC1oemVyQW1oVTFHbnB3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -594,6 +660,19 @@
     "source_type": "news"
   },
   {
+    "date": "30/06 07:00",
+    "date_ts": 1782802800.0,
+    "title": "England vs DR Congo Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdWxQRWJGUHV4N0J1T2pUSEtQVFE5ZF8xN0JJa281NXdGUnNZYkdOTUVTU2hpbFFsaEFYNWlIV2tuLS1iUTMtQ1Y4Wnd4bGNadG1aWjBsb0U4R2UwZXh5V2t2OHA1WkEwZGc5OS1HWXlJQkREUEM0MVJrRE52dndDR0NTUGhNMDhMMkRmTEZsOHBKdlkwSVljbnNQSmtuSG9sMEE0ZHczX0xJOE1pQXU1Vk9zQmdyalc1bVN0UXVYU1JIUmoxWHpGR25ZSnZPQzBxeGZaZlItWFNiV0FWZ0lyMA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/06 06:58",
     "date_ts": 1782802680.0,
     "title": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
@@ -652,82 +731,6 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 05:15",
-    "date_ts": 1782796500.0,
-    "title": "Jürgen Klopp won’t confirm, nor deny interest in Germany job",
-    "source": "Bavarian Football Works",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQellBd3QyQ05lRlRnZUNJcTZnZDRBUGZGMnA4RGtWcmxiNDlDSjBSOXZkaDhHZnJmd3RuX2ZLVUR3ckkyaUZuWVhEX2s5UUFPa2FGWFpQRGdBa1BJajQwRjlEMXBiX3Z4U1RHajVBbk1nM1oxZ0R2Ql9NUDlaMzZJUFc2WmVib3lLYTAtSlJ1ZDZGU3dtSENtd3BVcDlnQngtYTI0MjU2QnJYa1VrckZmaHRKTzJqUmNaRlE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 05:02",
-    "date_ts": 1782795769.0,
-    "title": "Morocco beat Netherlands in dramatic World Cup shootout to reach last 16",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWdUS0trbGcwc29RRTBuS1hxR1B0RHFuZE1lNGYzLVpFZXB2VnlCSnc1cmJCMUl0LW9ZWWk4Z0VyTUdXaklNRzZsREY1SEprR0xld0F2NDJGRWdvZVlmYlRReVJQZHRMN2s1MzhVNmVIZTlxVFg4N20zSzR4YjFTSFNYdHdudFN5TkpjbmFDejhlRmlxMzE5cGt4RkdUYV9ka2dES2xQN2x1NU5CVWRwY3pFel94SUFD0gG-AUFVX3lxTFBveW80aFZVSlBFcjBUUWljWFQ0bGd4STlzTWNkLWZTWDZZWTZ6SDB4WDlCYmxvV0JBYUtKWXhjS3pCQ0lRenN1MXJ4aEJVa3BQQlRHSGlHSmRLNTRIREF3emRURmlBbVc1WU04N1puRmRHXzRUR013TUxMYVdnSE5IMEVVLVlkQU84TFgzd3Z3ek40Z0tyblY0cW1sUHprNkhYamtRRl84NDN2cW1pa1BocGpJTUFud1JSSkV6YkE?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 04:49",
-    "date_ts": 1782794958.0,
-    "title": "World Cup scores, highlights from June 29: Two matches decided by PKs",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdEVJVHZHb2tCYUQzb3FCRDVGNzVEUFB1bWRxTEIzQ18wREFqYWp4LTF1eS1TY295dVhvOE5hMjYwOElmZ1MzLVRMWk1tTTBwemY5b21fV3BQcjBKSTBwYlYtZXFub01Xbzk4ZGhIMWdDZkV0ckhJQmlqbWV3QkctdTVGaWQ4LXgzUm4xMk9kYnA1TWh3LTR1SzVPYS12SW9WYXVHc29hSHU3OFBldTdmdVJCaE01VTVCRXVF?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 04:39",
-    "date_ts": 1782794340.0,
-    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 04:16",
-    "date_ts": 1782792981.0,
-    "title": "Paraguay upsets Germany on penalties, Morocco also knocks out the Netherlands on penalties, and Brazil beats Japan",
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnY4MEthZUEybVoxeDFuMUxiNEY1azFWRU84dl9HZ09mS3B3MzBUQjhQUDQza1BKMGZZZVI3cTdLX1lhYWFhNl9tRTExUlJhbHM3REp3NXJBT3dxZ19IZTJLTEJvM0ctaXVub2RNU3RDVjdZNndPSVg4X21jYmhkeDlUTTVuQjlETzlEdzB3MGs4ckUyU1VoOWdzdjNHWmM0cU9fX09yNW0?oc=5",
-    "teams": [
-      "Alemanha",
-      "Marrocos",
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 04:14",
-    "date_ts": 1782792876.0,
-    "title": "FULL PENALTIES ⚽️ Netherlands vs Morocco 2026 FIFA World Cup™ Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZExGaVBUV2h4QzFON2tEdlpvQjJLYVpRbW4xRjlQVElMY3Vqajk5R1VWTlYxZXV4VnQtSVU2aktlV2NGUng5ekVkSW5JeHY0TVN4MkpNQmozZ1pKMFlSaXN3?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
