@@ -1,5 +1,16 @@
 [
   {
+    "date": "01/07 08:34",
+    "date_ts": 1782894865.0,
+    "title": "FIFA World Cup: Wednesday schedule, predictions and bracket update",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGxjdFg1X3NHLXlzeHFEZUdGMC1DUjZ5UGp3TWMzOGQ5N3k5Qk44THJNcjZNNTdQRk1pVG9lbEd6Rkh2enhDTzFNWTNXMWhfaU8zbEdOSVRqSDI5bnhYbXd5VVJPYjF2ZV9GQ29hS2VlM3J3YzZ3T0xkc1hIRFc5WldyY1ZMengwTlF3WGV1TzNQR0J5OEQ3cUNyS2wxT2JadXNaUNIBqgFBVV95cUxNMC0weVlCTmJvaFhlZDFOdHFqNVlEQkEwX2N5SFZya2dsRU90YkNHTTRKTXh3SHp1ZmZncVpYUjRwbmxqR0F2TGFxcVZic1QxR0o0cFVpbUtxMUdTVmFqcTJjQVpjM3BwNlFpSWJUVlZ5cjUzWkdyYUgzTVRSX0QtODhxMGNDZ0dMWUVFMXFpSWFOWGw5SkVRc3RkTU05WWhiQ3hWd0JBb2RLUQ?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 06:10",
     "date_ts": 1782886200.0,
     "title": "World Cup 2026 today: Live updates, news as Mexico set up potential England tie with win over Ecuador - July 1",
@@ -34,6 +45,19 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 04:16",
+    "date_ts": 1782879360.0,
+    "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -700,32 +724,6 @@
       "Senegal"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 08:54",
-    "date_ts": 1782809692.0,
-    "title": "Norway XI vs Ivory Coast: Predicted lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS2hKV2hBTGpNS3NPSWNDcG9IRkdrdjFsbGF1eDNlNlplYWQ2VkwtZmpjNHVIZ1RoTjc4eGVvMUpJejFvNkx4eFRtbTF6R3NDdENmbFJib0libjFEdm5DR29faGdRWEZsUnlJRFBGYmE5ZnBtdzZjdmJudWYzVktZd2k3dlFPMy1OT0RlRFlDTjI5bGdWcF85TVJHdDBCVnZMQ19JR0JnbEx2cl9qdGNycWlWcUNvQ0dpcFFhYURILXprT2x0aG5XQ0EwakxZMEJLTjE4eDFGcExHb0x5VEZ6UG41STZtVWc?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 08:54",
-    "date_ts": 1782809650.0,
-    "title": "Norway XI vs Ivory Coast: Predicted lineup, confirmed team news, injury latest for World Cup 2026 today",
-    "source": "Yahoo Sports Australia",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wXzE0a0FLVElJWmR0Q0d4ZVd3QVNjbUhuVjJucllva3VGclBhQ2JReTFDbGYyR0M2dDdPRC03ZkFka001TkJiM3ktSWR4Z1Azb3JJZGNkMU9RNGc4a1VkcmRmU3dNdTlqdVYtaEdDWWxsOWdrUWc?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
