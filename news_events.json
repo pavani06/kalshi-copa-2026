@@ -1,5 +1,29 @@
 [
   {
+    "date": "01/07 10:23",
+    "date_ts": 1782901425.0,
+    "title": "Belgium XI vs Senegal: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDNfUmsyaXliVEdhU0Zkc1dRdkVOZ1kyT0F2eGdVSl9SYnBOQkg5M01zU1BCVzV3NUV2YmY4RkxiOFdhVF9tWHFGT1k5SjZ2Sk5Ic1FkNkU2VmhuNVoxYkU2RV9Ba05zUm41enpDYkZ0ZUdRakZUeFNxSDk2alVIRS1uUUxSd1JCdWpOMThCdEc3Mmhxa3Vpa3I1TWVLVTA0SnJsLW1nWUFMVjhSUmVGaVRiSF9HNGxPSVM2cm52T0V4Sk1yTVp1eWRpWG5uemdYNzhqZ2xzaWlBYUk?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 09:38",
+    "date_ts": 1782898732.0,
+    "title": "Mexico into the top six. Re-ranking the 48 World Cup teams after day 20 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEVvWWlYZURjWm91RmNiUkpZUUtPWnV2aXhQMENGQzhaOGFIcDFzbmNfaWRINWNMd2oyTGhKSTJfWVFhT2NwdkVfZWVwVUN4NHVZSC1Gb3JIQy1XWFZFaDd4T3RkRm4ycGgwbnZ2aDU5cHdUdFBQU3lJWEMwd2VvZ0tUVkhtQ00?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 08:34",
     "date_ts": 1782894865.0,
     "title": "FIFA World Cup: Wednesday schedule, predictions and bracket update",
@@ -8,6 +32,19 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 07:17",
+    "date_ts": 1782890232.0,
+    "title": "Portugal vs Croatia FIFA World Cup 2026 Preview: Everything you need to know",
+    "source": "Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTZKWjJEUHpkYlBUdG1SdFVScmVYZDdZVmNsZGpRMUJIVHJFMDVVYmU4NHd5NU5HdGtSa0NSb3l0aHdOYkYtanJFcHNGSWtzM3FhSnhSTWxyNHdQZjdOUXpKQVdvRWFNQ0Y3VzNydXBnLW55MHVWSEV6b0xzcTRzWUJvTnpvMXF6SDcw?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -33,6 +70,17 @@
       "Inglaterra"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 04:30",
+    "date_ts": 1782880200.0,
+    "title": "Mexico 2-0 Ecuador: Quiñones, Jimenez goals send co-hosts through to R16 - as it happened",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEJDVkN5SWM3SFY2QUlUWml1ajVpTkJ4Z0d5dTU5UkJzNENTN29CbzhldkVsS0llaFRkZEhPWjVoN3EyaU01VndHSnF4VFA1aUtVZDdGQjR2d2xlM1YwYjJkWGozWXJ6ekFJejl5Z0xxeUg2WTJoeE9xSDZfaGV1eG9FRlQ1QUJ1aGtHbWY0dmp4ZnI0VjBFa09ZTGpQZ1VJNjhFeFBBNGN6bUJZbUZ1N1JrRXA3U2RmdVh6aVpB?oc=5",
+    "teams": [],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -674,56 +722,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzh3dzdqbDBpLWV3TEctSHFKaEcwbGJyZURNZ3FfZjBBbzBzNlc1SXNKRm1UWEkzaGcwbGJ5WEdqeXk0WXNkSkZvYUNzWjRhUnI3RkpZbDh6REh0eGRYRUN4RXBISHBoUjBOUXhoY2NDVnVZeG5DVHMwNmE0QXI0SlduSm5ZWFFTUFE0ZVdjN2t5SzU5TTRlS0VoM25qcGUtby05YjFQTVrSAa4BQVVfeXFMTVYwUnBhcW42dlU2ZF91VUJTam5OeWdhMGxXT0pZbUJINUZNWVVfemEtbzJUbzk0V2JnRzB5MEw3LThXbl9WY19YaHRLRWd5UnRoYlc0aXVUZUFJR3A1dHRRSTR3OWptcVBBak8zU0hFRWo5Y1hObWQydTBjTVFJNEhQeUVwSl9KZG5KN3I3X2ZDQ3J3SlRZS0M0YTNBa3JCclVHNEZiQlU0T2lnR0dB?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 10:43",
-    "date_ts": 1782816180.0,
-    "title": "World Cup Buzz: Son Heung-Min 'Indescribably Hurt' By South Korea World Cup Exit",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 09:10",
-    "date_ts": 1782810607.0,
-    "title": "Ivory Coast vs. Norway projected lineups, starting 11 for World Cup Round of 32 game in Dallas",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejRTeEt3eEJCZEFOcEEwbVZlUVk4elQ5VkJRcDRvRlQ0aDZVX2dFQU8yVEoyc3hmRVlMS3l1R2xCRjJXY1JXMGVSWmZzQVhHbWY4NXRFQ3NOMWJRdUZreEFLbTRtcXg4VU1jbEJMaEE2aWdobkt0bkx5c3hTSTZxZGNvNlo2RmhNRGNrYmY5MVNDOUV5SDZSc0dQNlRyQ3lIWmdtY0ZsdlZFSzFqTnB0Y19GcGtfV0RMOXpBRTVWRQ?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 09:02",
-    "date_ts": 1782810172.0,
-    "title": "World Cup 2026 bracket: Live Round of 32 updates and results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 09:00",
-    "date_ts": 1782810000.0,
-    "title": "Belgium vs Senegal Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORVZzSnAySzZ1X2NfRE9nM3VrNXJpdTQ2QmNLdGZXVWVsa1RVLXJCamozbTRYOUZBSUNJS0preVJIT1d2dG1jU2owMnJUNmI3bm1zSFNlYXRySmliYk54am9vWG80WWFNaU9tM2o1Zjl6Zi1xcGJRTV8xZHUtejJqb1B3VVVLelNER2V2ZUlKNkJzYXo2WlRJbW10U3loV2FFaGtvUW5wdmFBZmJkS0tTUU8zaThqeGdocDE4NkNrSTZBQjBuZXRldnRtd3RMb2xVSllkMnRBQzVUZEJTSE93?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
