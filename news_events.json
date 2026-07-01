@@ -13,6 +13,19 @@
     "source_type": "news"
   },
   {
+    "date": "01/07 10:00",
+    "date_ts": 1782900002.0,
+    "title": "England World Cup starting 11: Predicted lineup and tactics for DR Congo",
+    "source": "talkSPORT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2WHJVcmJSZ2g1OUI0a1p2cTJXQjlKcTQzTUNXelJvWXowTWpkWjVQc0tDVHBJVnFNa0F3VHJSS0hqdXFob2lvR3BNS0tUZC1Sb1RqSVRKYTZBQlgwYVRISFJoY0thQ0F3LWduWjJWa29Id1pOdDhCb2tteFNDUQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 09:38",
     "date_ts": 1782898732.0,
     "title": "Mexico into the top six. Re-ranking the 48 World Cup teams after day 20 - The Athletic",
@@ -45,6 +58,17 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 06:28",
+    "date_ts": 1782887280.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -699,30 +723,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 10:56",
-    "date_ts": 1782816962.0,
-    "title": "Every Confirmed Round of 16 Match at the 2026 World Cup",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wX3VxLVZGaW1SUTg3cUlyRHNIMGxLQ3IzUFJZcmJWTElLM0lpcWtWNExBT2thTDY2VVhxVnhnU3ZxOU5mQUp4T3NzYzd6Zkw0Q25tWlFvWExScUpJTFBvcUtQOHUyTjJmN1JXNkR6SmNTbWhRekUwbl9vTmZvQzg?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 10:44",
-    "date_ts": 1782816268.0,
-    "title": "FIFA World Cup: Tuesday schedule, predictions and eliminated teams",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzh3dzdqbDBpLWV3TEctSHFKaEcwbGJyZURNZ3FfZjBBbzBzNlc1SXNKRm1UWEkzaGcwbGJ5WEdqeXk0WXNkSkZvYUNzWjRhUnI3RkpZbDh6REh0eGRYRUN4RXBISHBoUjBOUXhoY2NDVnVZeG5DVHMwNmE0QXI0SlduSm5ZWFFTUFE0ZVdjN2t5SzU5TTRlS0VoM25qcGUtby05YjFQTVrSAa4BQVVfeXFMTVYwUnBhcW42dlU2ZF91VUJTam5OeWdhMGxXT0pZbUJINUZNWVVfemEtbzJUbzk0V2JnRzB5MEw3LThXbl9WY19YaHRLRWd5UnRoYlc0aXVUZUFJR3A1dHRRSTR3OWptcVBBak8zU0hFRWo5Y1hObWQydTBjTVFJNEhQeUVwSl9KZG5KN3I3X2ZDQ3J3SlRZS0M0YTNBa3JCclVHNEZiQlU0T2lnR0dB?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
