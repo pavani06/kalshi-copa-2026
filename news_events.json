@@ -52,6 +52,30 @@
     "source_type": "news"
   },
   {
+    "date": "01/07 18:57",
+    "date_ts": 1782932237.0,
+    "title": "Belgium XI vs Senegal: Starting lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRzVRcG1KYkE2TWtZajFPX1BoVXQ4OU10WWtHaS1sNFkxTDlWTDlDNTVjZ1hNbEdnQ083dlUydkJVR1dLNUZidWFUOGdreS12WGU1SzdnUnE1VkwtSnlnd2gyUFRudkJ5RUJsd3JVQmJhbXI2a1FVTmtQUlo1V3BJVlZsOUtyLTVid1lNSjdEOU1WWlQ5V01ybEZsQ3Y1Ukk0OWpudWo1eVlMeEFrLVdGcWczcVhWUzJZUjBoQUd5N3lDalVRWVN3UDc0M0N3UjAteTRCNTZQSF9TUQ?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 18:12",
+    "date_ts": 1782929545.0,
+    "title": "Updated World Cup 2026 Bracket, Odds and Round of 32 Schedule After Wednesday's Results",
+    "source": "Bleacher Report",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY2NPZVJ6eGtWZWJGN1N1dTFoN0NvMFdQemxDeU5wVU1KMVM2N3laa2ZQaTJXMkxkRTlqOGRYNWtGWXg0Z1BqbHoxeGFzVjZJdlFJTXR4X1NJSi1sa3lQdFktNHdSb1lnOVRPRjROaEZ6dUtxS0U5aUwzYzdYZUVXTjNRZmJxWEtoU3hzVlEyWmpjNjZCaFNRa3piZ0pOSzB0VW5FWnBpYjFITFpmMWJ0dDBHdjdhT3VUeDhSTnRUUnZZVGxoMnc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 17:10",
     "date_ts": 1782925811.0,
     "title": "Belgium vs. Senegal Prediction, World Cup Picks, Lineups for Round of 32",
@@ -227,6 +251,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 11:02",
+    "date_ts": 1782903720.0,
+    "title": "World Cup Buzz: Senegal Keeper Édouard Mendy Out Against Belgium",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -689,46 +726,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 19:00",
-    "date_ts": 1782846011.0,
-    "title": "Ivory Coast vs Norway Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93YUtrX3VHZHNqcm9hRmlUOFRXNXltUFF6ZVZNNlJ2bUNaOGszdzJiUVloS3Fyd0xqTnZjY3hnaDUyWUt6ZmtPa3FzQ2VmSmdRUnB0ZjRHNVI0N0JYVEVpN2tn?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 18:59",
-    "date_ts": 1782845973.0,
-    "title": "England vs DR Congo: World Cup Round of 32: Kane, match prediction, lineups",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGU0OV8yald6WTVZdlhiRDR6cWNEblFBWUYxVm9RWTktNlAtTDRGVW02NEIyWmtVNUJ1ZmkyUjY3NGRPWnRfdWtuaTNZX3lvcWNodVZMY1hoSHd0b29DcDF0cVlNNjNwLS11cEE0a1BkbTlkRS1kQ1F1RW8tUWxuVXNuWGdXbFR0NC1MbGl5Qy1BOU1ieFBZNnVRUFNPM2Q5ZEtTNmJQbkRQSmkxbjZyYUgxb1PSAboBQVVfeXFMT3MwNmFvWUl6cWRiQ1dwZzF5MHNZUk9RcFVLTkwtbmJaUkRKZS11UC1BaHdjdHhmajdaUkdlQXR5ZjRUZXlPT1VYUFE4Si1rVnF6MXJ0N0ZDY3hzdkhPa0pCSl9OaWFtdGFCb1BkX2plMjRzOEo3XzhOcEx0Z0pnbm1QR3BfWG5aRDd1S3luWWZTa1VmQXZlcU9STTc5ZG9ONTJkb0tOQUlXUHRRQmJsaUNvT016SXZydGxn?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 18:58",
-    "date_ts": 1782845885.0,
-    "title": "Brazil vs Norway: Date, kickoff time and venue for 2026 World Cup Round of 16 clash",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjhZSDJvTjNYMU94TnlkT0F5YlBzUzMtRHJGc0x3dnhNTjdTYkdCVEJPeGNPRTNJVXZ4Nm96ZFBnYlhQclZIRVhvdnREYnh4bEJvTzFXSlNUUThjMjlSeDBoeWdFNlZEUU15ZlZ1NXFtOUR0Z2lzX0tqaXVacmhzTnY2UDFXOHFBM3hYa0tuUzRHN0RhRnhhY0FqYjdPdXF1U24wZ05WS0tDQVZnV1RveE53UXU1QkkzUzVjMdIBwAFBVV95cUxOWWdlWUxYaGJIVXdzeEstOXdlYW5NZWJGM3RCNldxSlVzMjhlSWtadHZuc3A4TGVCUWltWVdjSXdWRVRaa2ZKank5ZUFWSjB1WERYQ3huc1lpSE9BVDhDaGtwZDlaOE52dk1DcGRtak9BMFRvNWlfU0dZS2hwdERvaVlPOWY4ZDV4dVpweTk0NmlYZy1Gbzdqb2FkcVpXUWxucUZNWlJMMF9Vb0JPVDZjRGxDMmMydlpGbUY0WWZUUGM?oc=5",
-    "teams": [
-      "Noruega",
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
