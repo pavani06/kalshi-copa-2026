@@ -1,5 +1,16 @@
 [
   {
+    "date": "01/07 01:58",
+    "date_ts": 1782871080.0,
+    "title": "FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record; Olise one behind Pele; Haaland 25 in 13",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZElKbjB3MmV2dUhhZ1p6OXBwRmVDX2t4bm9pNDlHWUtsWDNzMVdPbXpJWmhjR0xlaDZ6eWR5N3ZEd1RGbkQtUHdBUVlHQ3B6YTB5cmlKeEQtT1U3SFVfc2xVMG1UMW5WclgxaHBxdlNBQWJtVTZUSVRfS1hrSDU5dmd1eVJWZ0w3V1dnWnc4VHpheENiUk1PYlFzMndzWWxrR1Y5YzhKUERkc1ZNVDA0eHBFSUIteG9BUU16bXJUb0VxVHJhOTZWVURsVVppTDd4RXluQXBTZmtzUXZYNWJSWlJ6X3pKYUk3MUhlSGdLV3hOdmdES1pFWFZlbFQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 00:44",
     "date_ts": 1782866640.0,
     "title": "Mexico vs Ecuador live updates: Severe weather threatens kick-off delay in World Cup 2026 match - The Athletic",
@@ -19,6 +30,19 @@
     "teams": [],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 23:24",
+    "date_ts": 1782861840.0,
+    "title": "2026 World Cup Odds: France Strengthens Grip As Favorites; Norway Rises",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -172,6 +196,17 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2Rfc1VRODdNMXFjanVPMkVvcmhuTEN1cjdXQ01QUkJKNm9Sei10Z3JQSkF0ZV83SWFibE5KdUsxa196MlgwT21YTmpGaDViT1BwMmF3aGdIM1ZJbGwxRzRmaE9nLTVTWTV4Q1k1cXVXTWZSMGszMXBNbVZ5T3lGUXhod0FXXzE3dFVkWmZ6RQ?oc=5",
     "teams": [],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "30/06 19:07",
+    "date_ts": 1782846420.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -693,43 +728,6 @@
     ],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 04:07",
-    "date_ts": 1782792460.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 04:02",
-    "date_ts": 1782792145.0,
-    "title": "Netherlands vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LQUNJT0NvMGpHa05CenBPUjhHeU9uQVo0eTNWUV9jX0xjOG8tSVNqcXlMQUF4OWZ0bzd6dTVpVTMyQU14Vkl0WUNTRFNkYXNLYlYtWmpBRzU3ZGstUGZka0Z3?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 04:02",
-    "date_ts": 1782792120.0,
-    "title": "World Cup Round of 32 bracket: Updated schedule, results for 2026 FIFA knockout round",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVJrNGExT1FRWUh1eVpWNWJVWHRCZEt0TEczTU5Tek16ZGNEVXlXSzE0ZTliTURTVURJNzBGZ2w1MFY5NWtaa2VTdDAxX1dDU0RDVmFrQk1VTmNqVVVILVR6VXJ6bkx2VllvU1c0dTRDQ1R5VGNwSUtQZ01ORXBSVQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
