@@ -1,5 +1,44 @@
 [
   {
+    "date": "01/07 14:45",
+    "date_ts": 1782917134.0,
+    "title": "England vs DR Congo: Both Teams’ Lineups are Confirmed",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlhURWlLcVFaVUNtbEQ1WGlGbkJyWGhjaXowbHV4aVExWkpjLThBWDBYMUM0TWowcENQRk4xX05OUTJ2TGZSZTROYjFuNUMwQUctLTRiX0czVVE2YmFVa0prRHlKQTVuaTVyQVliQWVmRjI0RTdOaDVHWHVXVXR1c0xValpyOXhqZXJWbWY1TF85dnE0YWhJcnpvZXVYLXRoNE80?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 14:36",
+    "date_ts": 1782916566.0,
+    "title": "Is Harry Kane playing? England vs DR Congo confirmed lineups for the 2026 World Cup game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHFtcktfSHlMWU1kcEp0THowcFlJVEVMWmVJcDcydlF1QkV6Y09YM0RsQ1MxenpkYjhjOGlLSWF5Mld6SjVaaHJCamc0YXhBekZjV3VDY0g4RnpLMUUxVWVPNFk5WFh5R0tsa05UR2tkS2pxWUVEcF9KVVU1S3ZrTU90YUFqaGJaZFZ5NXpUX09YMzZ0MWl4QW00ZHEyMmp2a2pHTXlzNEVsTmVXLVlNWFkwb1BEM0RIcnFWdW84X1AzYXUt0gHIAUFVX3lxTFBCcUIyN1BEVWlSMFVDbmtzWE1Mc25saWlwWHM4NHNQd1JhTEtCeGFxSjdneTdmalR4NjFKX2l4THR2dUlnUkc2XzBQNGthNXJFRFRieWhaR1JOU2xRZmJLNTg0ZlRBc0xqaG54cGswQ1IxWE1ZQWVuaUdjMnM2T2steC1DN3I5a2wzTGhSS3lYalQ4Zl9vYUxpWG5NQ3VzblZEMUpBTDFBc0YwcENKWm56bDQyQjdtY2V2V1NsVEotMTVweHVpMm00?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 13:20",
+    "date_ts": 1782912027.0,
+    "title": "Belgium XI vs Senegal: Predicted lineup, confirmed team news, injury latest for World Cup 2026",
+    "source": "AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rYWhPZHJwVGFOeldLMlBfRVlDNWVyeHY4bkgyb1NydFhmRlFMYUlJR2ZNVmlaanlYTzhsOHl3VUQtS1Y5N2R6T2dyVkIwSm9DWVFvQXVBeFR1QWxGMzdLQkdEcjI0SGZTdVZPQW5XVFVBaW1ab3VybXRxTQ?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 10:23",
     "date_ts": 1782901425.0,
     "title": "Belgium XI vs Senegal: Predicted lineup and confirmed team news",
@@ -688,41 +727,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 12:24",
-    "date_ts": 1782822240.0,
-    "title": "World Cup games today: France, Mexico headline Tuesday schedule, see latest results",
-    "source": "Bergen Record",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekhaeXFwbjQ4V3ZkVnByUW9GZFl1Qi1wTjdCa1Z4NTZYZ01TSFRhMlEzbTd4MFV2VXNEdVEwbHlmdEEtYlp4VUozb2UwVi1VLXZVNElYNlh5Um5KNjE0eFc1SE1QZktkMHVvamxIYnNUamtOckQ5UU5DRmhZQnpLc0x1enBsekhJdy0zeUpqdGZ6ZzVGOTNRNjgyWFJJdkQ5OTByemVQdWZ3RmJLVEE0YWdqdVE1TjFhTVBuMk9WcklweFZ2LTVIX044eDBsQlRxZXRnZ0lrSng?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 11:35",
-    "date_ts": 1782819331.0,
-    "title": "World Cup 2026: Germany fans in need of hope after exit as Jurgen Klopp looms",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85TnluQ3hBWGt2aV9jZU5DcFZCSjE2TElRVTctOEF3Z1dtd3lMSEV2NnZPTHg1eHV2ZkFITVFXaFRzSHd2VXZfYjJCNzdrdVY2UndFUEZIamlrdFhLNlo0UDJaekJJZ2c?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 11:34",
-    "date_ts": 1782819240.0,
-    "title": "2026 World Cup bracket: Full Round of 32 matchups and preview",
-    "source": "AL.com",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oc3NEMXN1SUJQZjF1YjU2d0VTRVp4ODJ4M0hNNjBmTFB0YUZOcmlOTzlHRmV0RUlUMy1mVU83M2Z3UjdTbWFHSC1td0lvN2pyRjVyZ2lWRzYyWHdBNWFj?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
