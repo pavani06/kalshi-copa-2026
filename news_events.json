@@ -1,5 +1,18 @@
 [
   {
+    "date": "02/07 15:30",
+    "date_ts": 1783006241.0,
+    "title": "World Cup Round of 32 bracket, schedule, live updates: Spain, Portugal return for Thursday's slate of action",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU3ZQRGlqS1RQUzhwcGpBMndUSzdidUExVy1tNHBCRjBWZUVtQjBVUnhMU3ZndzVCcXJ5My1SNENUQmlPN3M0SHVMa1p5YnJnZUVodUNDcnY0ODQ2aUQzQVJ3YjZHaDZBZi1CUl93QWJqa2FKTXdhanh3ay03NXlQUWFNekFFZHdFLWlBbXVpYW9zUVB4NGxEZVNOLWR0aTJOdHJzcmJTRzZfNUdPZ1R5dHpfaTFVM3ZURlNSallNUjQ?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 12:09",
     "date_ts": 1782994184.0,
     "title": "Portugal vs Croatia lineups: Predicted XIs and confirmed team news",
@@ -121,6 +134,19 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 03:52",
+    "date_ts": 1782964327.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -705,30 +731,6 @@
     ],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 04:15",
-    "date_ts": 1782879300.0,
-    "title": "Jürgen Klopp won’t confirm, nor deny interest in Germany job",
-    "source": "Bavarian Football Works",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQellBd3QyQ05lRlRnZUNJcTZnZDRBUGZGMnA4RGtWcmxiNDlDSjBSOXZkaDhHZnJmd3RuX2ZLVUR3ckkyaUZuWVhEX2s5UUFPa2FGWFpQRGdBa1BJajQwRjlEMXBiX3Z4U1RHajVBbk1nM1oxZ0R2Ql9NUDlaMzZJUFc2WmVib3lLYTAtSlJ1ZDZGU3dtSENtd3BVcDlnQngtYTI0MjU2QnJYa1VrckZmaHRKTzJqUmNaRlE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 04:01",
-    "date_ts": 1782878486.0,
-    "title": "Mexico vs Ecuador Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85Nk45TG54MmFhUTJIWFd6dTNuY3VfVFE4TEJ6VGZkakI2OTJFS3BvUVJrcUxvcGdYZ0FxZGE0aGtzeXNiMFZyLVJmMXp1eWZwdUlTUFg0Mzlyc3dzMEgtS0xB?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
