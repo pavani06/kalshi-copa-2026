@@ -1,5 +1,31 @@
 [
   {
+    "date": "02/07 12:09",
+    "date_ts": 1782994184.0,
+    "title": "Portugal vs Croatia lineups: Predicted XIs and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNckQxOVF3YlNiOGxxdjN0WUxaRmRzakN1MTJacVBQVHJ5dUVKWG5HUkZFODZ6T0JRWTY1MlVXUks0c1NjbjEwOXdlSW9PQWRqN0NYcGJPeURHRjAxNEQ4cnNrSnVja05kQnZ5Q2lxaDJMdFNtVTNnU1RHRUlNU0k1Y2t4YXIzbmNUUG5WcTFnT0FVVFQzM2FhSmFIZVhmclpSSXJaMUt4Q3FZQktGVGZaR0FGSHBnWDFRRnV4akdiMjdkdnpQb3B1X3VnYnhRNkJKam5CY2V2T2Z3NjY4Z1RJZG04VQ?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 11:53",
+    "date_ts": 1782993180.0,
+    "title": "Where is the Portugal vs. Croatia FIFA World Cup round of 32 match?",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZ4WHEzNVhaWWxlZzBfV0dxZU54MmRYMW4xWXhsZU9XdTRkWjF3amNaMWxLQ0NReGZqeHIzalZaSi14STVmX3NkcW9iYmhzdTR4UVVESWt3SGhVa3BBa3NhdWZvUlZ2TG5INUlMOXF0X2ZvNW1nVGd3cmtMd2J2TGRDeU9LSVg1Z0FkY09TLTU1SzVRUl9sLVZNYTRlbENiY1kzV2RLell1a0JhOHZYY2VVWWs3MjlVTmR1bWxaOA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 11:16",
     "date_ts": 1782990997.0,
     "title": "World Cup Round of 32 bracket: Results, schedule, matchups and how each team qualified",
@@ -90,6 +116,19 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDJEdTg0enVYVl95ZjZpanlxWU1YeWlWR1paYTFGRlVSRUlMN3d4dXJucFVTbktQWE9fazQ3T2JxQTdPME5TcUFnN0xDNkhWbXI3QzlNRVZJOFRzenZ6NkdjaGhPNmNSdkwwRl9wOS1aSWxyOXhwOHdHLWhxdi1US2hHMGJWYmRrZ3RPZ3hvMEVzSUpf0gGUAUFVX3lxTE50U25KQXNYSnY3RlZwQ0N1dFEzTlVzd0lNYXhWSVNSMTJOSHVSMTRDOWJXZi1GbHlib0xZSkJkcHhNamMxLUNrdWdSMnRjNFB3S1J3VlRnM0h0R2RYQXJkcGMteFdIb1dBcEt4Q0ZBUTA3Wl9ZTUtMd09sR1VnYlVNTV9sR2ltYUN2Umo0QWZvX20wX00?oc=5",
     "teams": [
       "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 02:02",
+    "date_ts": 1782957740.0,
+    "title": "Portugal lineup confirmed: Is Cristiano Ronaldo starting World Cup game today?",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOd3B4S3FEbGI4Z0VUQ04zSk5KaHhpTkttZnBKNURKR1FSWjgwdTV3RC1QTVdvVmFTT3plSFlJZm5LWHh0MmRBWjhaNUpkbXZTUHlYMEVYNGpjOUgyM25Qczd4OExDbmJ1eDRJSnlBT3puZFpRRWNmR1JnLUI4LTVNSjF6RFczMmVDaFdEZ1lwQlhQWEFaaWpPLXE4WFhVci1UdjFUN1JQNHpwZjJ1VmRJTVE3eUhkRjFsQ01pYXVOUjBNa3ZLZWl2VXNiY2pRZnVWQmtXOUxkQk5mQ2JHanB3MlBrTFZVVjlxdkl4Y1U1UVRwaG15cXFlUlllU3hVQ2NJTkxYVmZDT0xfZw?oc=5",
+    "teams": [
+      "Portugal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -688,39 +727,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 01:58",
-    "date_ts": 1782871080.0,
-    "title": "FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record; Olise one behind Pele; Haaland 25 in 13",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZElKbjB3MmV2dUhhZ1p6OXBwRmVDX2t4bm9pNDlHWUtsWDNzMVdPbXpJWmhjR0xlaDZ6eWR5N3ZEd1RGbkQtUHdBUVlHQ3B6YTB5cmlKeEQtT1U3SFVfc2xVMG1UMW5WclgxaHBxdlNBQWJtVTZUSVRfS1hrSDU5dmd1eVJWZ0w3V1dnWnc4VHpheENiUk1PYlFzMndzWWxrR1Y5YzhKUERkc1ZNVDA0eHBFSUIteG9BUU16bXJUb0VxVHJhOTZWVURsVVppTDd4RXluQXBTZmtzUXZYNWJSWlJ6X3pKYUk3MUhlSGdLV3hOdmdES1pFWFZlbFQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 00:44",
-    "date_ts": 1782866640.0,
-    "title": "Mexico vs Ecuador live updates: Severe weather threatens kick-off delay in World Cup 2026 match - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzJ5UUNNUGJBLURxOVp2U2FWeHNVR2hCblQ5LWQyWTNEbGV0NkV5OUFHZUtGRGczdjFNRHR2S0ZVaWxScTBUX0pQcGs2MFNIV2pRMWtPSVZFS2tkYVRXNEdYcEpIUnYweU5rMTRVSGN3S05QSUwtc0RLMjdWUUs5TDlyQjVaaHJlcVRUenZCSVlhc1o0OUgtaG5HUlBzeUQ0eEoteDNHQTRqOUFUcVpxLTdmV1E5UWc?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 00:41",
-    "date_ts": 1782866460.0,
-    "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and who will they play",
-    "source": "CBS Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOektvRWQyaEJLdUZ1R0w0RVRuY0J1WDFxXzNBUGtYR3Y1dGplTEZVb0VEUExYT0NGT3FOdGo3dFNobUhNUk45RlcwOW1faDV1ZXRSTldjTlFQT2JoWWlBNFNRVjZReF80MVY2d2prSVVnSi03VFJDY3p4RXloVHBEVUJsY0dJenoy?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
