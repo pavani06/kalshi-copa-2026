@@ -1,10 +1,34 @@
 [
   {
+    "date": "02/07 02:06",
+    "date_ts": 1782957997.0,
+    "title": "USA vs. Belgium Confirmed For The Round Of 16: Here's What To Know",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDJEdTg0enVYVl95ZjZpanlxWU1YeWlWR1paYTFGRlVSRUlMN3d4dXJucFVTbktQWE9fazQ3T2JxQTdPME5TcUFnN0xDNkhWbXI3QzlNRVZJOFRzenZ6NkdjaGhPNmNSdkwwRl9wOS1aSWxyOXhwOHdHLWhxdi1US2hHMGJWYmRrZ3RPZ3hvMEVzSUpf0gGUAUFVX3lxTE50U25KQXNYSnY3RlZwQ0N1dFEzTlVzd0lNYXhWSVNSMTJOSHVSMTRDOWJXZi1GbHlib0xZSkJkcHhNamMxLUNrdWdSMnRjNFB3S1J3VlRnM0h0R2RYQXJkcGMteFdIb1dBcEt4Q0ZBUTA3Wl9ZTUtMd09sR1VnYlVNTV9sR2ltYUN2Umo0QWZvX20wX00?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 22:55",
     "date_ts": 1782946554.0,
     "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 22:49",
+    "date_ts": 1782946140.0,
+    "title": "2026 World Cup Round Of 32: Who's Favored In First Knockout Stage Games?",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcDJ1LWFpaWpKUTVXRzJXOEltdjJmT295SmpPcnMwNnVaclE5SGs5d1JURVFRb0V1b0RRdWcyUFpSTGd4WUxaOVJHa3lSLXhzVWVtRkxoZzYyOW5ybFlWXzJpcGtzUUtkbnBjWktWdVBWYkIyOUp6UdIBeEFVX3lxTE9STlZfbmhDVml0UjFXRVc1WUkxS3dwVlpNSVJQdmNoZ3BEbHBVV29neW9ZUE5YS2hsdUhRdUwtc0pqeTBlZEI4YkU0cTNyTmYzQWZ6clMxQTI5bmFsU2dROHFsMEhnUXZ5ZGxKZjVpWlRfdjVQTzVGeA?oc=5",
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
@@ -694,32 +718,6 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 20:15",
-    "date_ts": 1782850500.0,
-    "title": "France, Sweden Lineups Confirmed for World Cup Knockout Match",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTno2LUxwSDBnNGJhX0ExMkpqc0Yyb29RS3ZUV0Y3UUVTRF9GN1RacUZDZDN3Tlc2Yld1QmFYaHRqZ0t5Q0pYRVZGVFd6aW5oNzR4SDF0V015TXVXS3pLeWo4UFNBMnZmZjJDRUw2cEpReFZsMkwtWjVQV3JCZVEwOGo5enJkRDBYbVNOejZ6WHFtZUFuMUpTSjU4NmFXVUtDT09pazVqM19sblJxaHc?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 20:06",
-    "date_ts": 1782849992.0,
-    "title": "Declan Rice recall is a no-brainer - but who starts on the wings?! How England SHOULD line up vs DR Congo as 2026 World Cup knockouts begin",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2JPazNEck5qdE5JVHNMQV9EQmNmNVk2MkZIT1pwMlRfVTBZMDd4MEE0T1prd01VcmhzOG1sNnZBMk1WVUdNRXRYSVljbzRpQWNNWTJrTkJ3UUpScEFWYjdQM1c4ellVWGZkX3ZTYmowTXE4ZzJmRUg0TWJVQ1JOR1pZamRHQzk0dF9pQmZ3MjBBbkRkNk1haW04UEpjUzlkVXdnZkh6NHIybXhMaUdXNkNxRU9OR3FoWjJWQnlnYUM?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
