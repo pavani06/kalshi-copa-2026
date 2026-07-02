@@ -87,6 +87,17 @@
     "source_type": "news"
   },
   {
+    "date": "02/07 14:14",
+    "date_ts": 1783001640.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 12:43",
     "date_ts": 1782996222.0,
     "title": "Squabbling Belgians, late controversy and a new No 1: Ranking every match at the 2026 World Cup - The Athletic",
@@ -222,11 +233,35 @@
     "source_type": "news"
   },
   {
+    "date": "02/07 06:51",
+    "date_ts": 1782975067.0,
+    "title": "Portugal vs Croatia FIFA World Cup 2026 Preview: Everything you need to know",
+    "source": "Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTZKWjJEUHpkYlBUdG1SdFVScmVYZDdZVmNsZGpRMUJIVHJFMDVVYmU4NHd5NU5HdGtSa0NSb3l0aHdOYkYtanJFcHNGSWtzM3FhSnhSTWxyNHdQZjdOUXpKQVdvRWFNQ0Y3VzNydXBnLW55MHVWSEV6b0xzcTRzWUJvTnpvMXF6SDcw?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 06:49",
     "date_ts": 1782974940.0,
     "title": "FIFA World Cup 2026 – Every match result on Thursday 2 July – Live scores",
     "source": "olympics.com",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFZtR2NKUTdNTjdJQlRLZW5kVll1eEQ0VFNqVm9OdjJQMlFlbkRjU0tBRlUtMkhlZzl0MENQOThRMDBWeXhPZmxsN1RnTlp6Z0htMFBaeGdkbHA4Z1BYemtsX3U3SVJyUXpUaFFkeXByLVJWbHNIWFVFb0VveF9EV3IxcGh6YWJwRXcyT1BSMG9VYlpDcU81MFZBalZ2MEM1N24xbw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 04:42",
+    "date_ts": 1782967320.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
@@ -698,41 +733,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 10:00",
-    "date_ts": 1782900002.0,
-    "title": "England World Cup starting 11: Predicted lineup and tactics for DR Congo",
-    "source": "talkSPORT",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2WHJVcmJSZ2g1OUI0a1p2cTJXQjlKcTQzTUNXelJvWXowTWpkWjVQc0tDVHBJVnFNa0F3VHJSS0hqdXFob2lvR3BNS0tUZC1Sb1RqSVRKYTZBQlgwYVRISFJoY0thQ0F3LWduWjJWa29Id1pOdDhCb2tteFNDUQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 09:38",
-    "date_ts": 1782898732.0,
-    "title": "Mexico into the top six. Re-ranking the 48 World Cup teams after day 20 - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEVvWWlYZURjWm91RmNiUkpZUUtPWnV2aXhQMENGQzhaOGFIcDFzbmNfaWRINWNMd2oyTGhKSTJfWVFhT2NwdkVfZWVwVUN4NHVZSC1Gb3JIQy1XWFZFaDd4T3RkRm4ycGgwbnZ2aDU5cHdUdFBQU3lJWEMwd2VvZ0tUVkhtQ00?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 08:34",
-    "date_ts": 1782894865.0,
-    "title": "FIFA World Cup: Wednesday schedule, predictions and bracket update",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGxjdFg1X3NHLXlzeHFEZUdGMC1DUjZ5UGp3TWMzOGQ5N3k5Qk44THJNcjZNNTdQRk1pVG9lbEd6Rkh2enhDTzFNWTNXMWhfaU8zbEdOSVRqSDI5bnhYbXd5VVJPYjF2ZV9GQ29hS2VlM3J3YzZ3T0xkc1hIRFc5WldyY1ZMengwTlF3WGV1TzNQR0J5OEQ3cUNyS2wxT2JadXNaUNIBqgFBVV95cUxNMC0weVlCTmJvaFhlZDFOdHFqNVlEQkEwX2N5SFZya2dsRU90YkNHTTRKTXh3SHp1ZmZncVpYUjRwbmxqR0F2TGFxcVZic1QxR0o0cFVpbUtxMUdTVmFqcTJjQVpjM3BwNlFpSWJUVlZ5cjUzWkdyYUgzTVRSX0QtODhxMGNDZ0dMWUVFMXFpSWFOWGw5SkVRc3RkTU05WWhiQ3hWd0JBb2RLUQ?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
