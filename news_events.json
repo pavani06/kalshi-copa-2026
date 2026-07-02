@@ -1,5 +1,55 @@
 [
   {
+    "date": "02/07 09:09",
+    "date_ts": 1782983375.0,
+    "title": "World Cup 2026: England to play Mexico as Belgium & USA progress to last 16",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hXzdmTmhVajcxQ0xsbEg3WVVjVm9zS0k3Ymk0MVZqLU5XeEFuVU5XbGwyOEM1NmNlTENsLUhEQW5XT19rOWFlXzFacXpLRnF5cDNkY1E0NWlFSEJJdG96TFpn?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 09:02",
+    "date_ts": 1782982945.0,
+    "title": "World Cup 2026 bracket: Latest Round of 32 results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 08:31",
+    "date_ts": 1782981085.0,
+    "title": "World Cup 2026 Round of 16 Match 3 Prediction & Best Bets",
+    "source": "Total Football Analysis",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmR5Q016dTRnd3pjMFJuMWYtS1h3ay13NXJTd2VMckdsRXAwLVRGTlZ6NVpEZ09pRXNNN2ZFUU5lRXNIbEdUM24zQ1Q4NUhSQ1E5WTlWVS16dktMX3Y3OHpKQmJOdUR1Qlh3ZkQya0M0SmNJRnpCYkgtaHRTQ05mWmxlR3ZUU2xyOFN1Y05vY0tncU5mcFZpX1UzRWw4dW5NU0xoVS1JZUR1azhy?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:31",
+    "date_ts": 1782977460.0,
+    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
+    "source": "Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaWlRdUpTLWdIWjBkOFhRVExHaHNqdnBXYlo1VDJ3T1NRQlg5Ry1fY1ozVzloRUhMM3c2d1hBMWliV2RQRTdXVFZLYW9WR0UyOG1WTXdEaFZhcFVyb2RXNHp3Q19mVHpqb01YT1hka3BkMTMzaEgtVW5XbEg4amIwUzJYdWtlT3ZjR0pjSw?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 02:07",
     "date_ts": 1782958026.0,
     "title": "United States vs Bosnia and Herzegovina Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
@@ -671,53 +721,6 @@
     "teams": [
       "Noruega"
     ],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 22:55",
-    "date_ts": 1782860124.0,
-    "title": "France vs Sweden Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2NVpGb1hrNU1oXzdEelpJSXlqVWRXZ2haM0Z1S0pkMkx3Qm1BZGFGWFUyOF9HdTZVbGd5c0xQT3FWSlNJX1Q4R01LblJyOV9YdUxmNGJITkMzVWphMTdYZDVn?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 22:18",
-    "date_ts": 1782857924.0,
-    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 21:54",
-    "date_ts": 1782856456.0,
-    "title": "Placar Noruega e Costa do Marfim: os gols do jogo de onde saiu o próximo adversário do Brasil na Copa",
-    "source": "O Globo",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYy1mbV81ci0tWE01UThVcUtZVWMyc2VWOVI2ZElGYmhCWUdGVDhrWVZKWWVlRnZHWldFd2xOeVhkdmt6eWpMcXlDWlR1YXBMdmhIYThmYmxLMWVCUDFmU19VNzRYN2Z2Y21wcGh0d09PUlRWS3pqS1h4SGc1dnFSNlFVTFZMNVhzaHhnWTkyR1pBNWNUalpHV3RTRVVybVVoTnFJN3hvM1YwZVpLaDRQbTFFc2pVaDZYc2N0U241eVdncno0ci05aGhFbU4yZnJXbmd0UmpHQ2NKZ1JFMkJIX1RqdzBRYnhiQzRYeWNJSUlwVzFJSGNoYkduYV9xYlVXZFh4cThzSjNCQQ?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 21:49",
-    "date_ts": 1782856163.0,
-    "title": "2026 World Cup forecast: Latest odds and updates - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
-    "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
     "source_type": "news"
