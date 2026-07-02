@@ -39,6 +39,19 @@
     "source_type": "news"
   },
   {
+    "date": "02/07 11:37",
+    "date_ts": 1782992257.0,
+    "title": "2026 World Cup Round of 32: Full list of matches, potential round of 16 games",
+    "source": "SB Nation",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFFEQi1MdHVFX1phOEtiZGdFVk5NMHo2VnYxcmRyM2IweW0waHdxTXlwWERZd182Ujl1THJVX1ptRDJEbEhqdE1VdHRrSU0ycGJZN19HYk9YSUtQSm9HaDc0T3hENGhBbmVrWHhJYU1fclE4ZjdicXd3Ym4tOEhmcmNDMVBlUTU5blQ2MWdvVW1pYW5PZnVYSXgzQ1BCWDY1aXNVT1VrcnY0UllHd0NmeXp3cTBMT2c2UFVSbFVTUkw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 11:16",
     "date_ts": 1782990997.0,
     "title": "World Cup Round of 32 bracket: Results, schedule, matchups and how each team qualified",
@@ -715,19 +728,6 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85Nk45TG54MmFhUTJIWFd6dTNuY3VfVFE4TEJ6VGZkakI2OTJFS3BvUVJrcUxvcGdYZ0FxZGE0aGtzeXNiMFZyLVJmMXp1eWZwdUlTUFg0Mzlyc3dzMEgtS0xB?oc=5",
     "teams": [],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 03:50",
-    "date_ts": 1782877842.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
