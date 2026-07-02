@@ -13,6 +13,19 @@
     "source_type": "news"
   },
   {
+    "date": "02/07 12:05",
+    "date_ts": 1782993900.0,
+    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Spain, Portugal, More",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXpmWXpVeHhyUzFPOVh2UVB4dldZVnBEVnpCX1V0VGpURVAxeHlPWjlPYVVWRUVZbzZjQmNkWW9KM0ZtTFZLV3lJcWhrRmY5ZkdpcDRrM09YV0pJSjVRdHlkMkYtWnh4SnVIclRHcFc0ZzdYYmhEdHVnaFV2NE12ZFJvQ3AxcDBJRzdfRnlZU0FXNlNDNVJxMWtuV0FrenBMVDRqZmR4TWJqMUlHamIwZTY5UTM?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 11:53",
     "date_ts": 1782993180.0,
     "title": "Where is the Portugal vs. Croatia FIFA World Cup round of 32 match?",
@@ -106,6 +119,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 02:07",
+    "date_ts": 1782958020.0,
+    "title": "World Cup recap: 10-man U.S. defeat Bosnia-Herzegovina to advance to last 16",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGc2dk5nYklMUTFvZk5OVV9jdnpBSmtyZm5mQlFaTTVHMnBkWUY1OV9kb3ctTGI0ODVwMHM1M0hCQmYxdEhqRll2WFBDMjJPLXB5SFNhXzZHcXNyaXRrMUY4cVNXY0dKSlR6aWJwNDNHelc4NjExVkN5YkVDVkJlR2pyeDBoR3ZYRHF4N1ZEd2tXdThRWHdLclRiR3NLRC0tTDl0N004NHZXQlJLUEFEMmdn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -704,28 +728,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 03:49",
-    "date_ts": 1782877740.0,
-    "title": "France, Argentina favorites to win World Cup as teams enter knockout stage - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkVjOU9yUVZrU3NWOE5wcFFLQWZBZFQyd1ZobDYyeFR3cGdqN2VjOGpLeXpTTXgwTi1qR2NwQnVTWXg2enYzQ29DOGVBNHBpcTlzb0VNOXp3UlVBLU9Fd1hQQVhpSXBsUkwzRE1wMHFVSG9LT0RrX2czcFotYzNSSzZDalBVNUE3dzRuYXFFSWpwOVhEalhPMGswaHRSb2s?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 03:20",
-    "date_ts": 1782876030.0,
-    "title": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX19TU1lOUGNUaGdLZE9NaVVDc192VVFadFF2WW1ZZ1ZQUjAySHNYWEJTeFROWDRjWmFwTUsyVUMwZ25oaUlURXFNT2JDOHljV3l6Um9oNFV5RktNZEt0cE93Qm01c2tOWFRPTEZJVzZWQ0hya0p6LVR5UVA5S0lNYUNJVXJoVEFkT0t0NjQyOHZKYnEzZmNSSHA0QVlIT1ltbUYtZ253UjFIMlNIakdfWtIBtgFBVV95cUxNdnJSS1hwVmdFdXBmdzNkLTNNMmZTT05KZkh6czVDX3gzSTUyS2ZYVDJHVzZQMVJBRC1CQkk3eWZZN2U2Yzd4VmJWcjFEVW9jaVktSUpMc3hHdDhJM1diTzBMdW1BaDRUUUd4aHBNdE5qZWQzSjU5aUFsY19Gelk0U0tBT1IxUk5CTFZRVzFPZjJBMVBCVDFhb21ZbU9la1RzWEJaSTBrSHlPWGZGY0JObkN0V1NLZw?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
