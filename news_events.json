@@ -1,5 +1,18 @@
 [
   {
+    "date": "02/07 19:37",
+    "date_ts": 1783021069.0,
+    "title": "World Cup 2026 live updates: Spain leads Austria 1-0 in first half; Portugal vs. Croatia follows",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0ZHR1l1Sms0WTRFTXlYTHozZjdTcFc4bmt1ejY4RVhGQXhOLXgwT1hZUGV2QlA3Si1YVWYzbEJqVjNMei1lT25KZlRhQ3ZkQjJSZkNfQW1nWExvdS02eGx3WGdzQmxqSElrY2FNS1pUMkFnMEI0SGJYRGlzSlRBZHR6NkF5a0VfTGFMbUJld041dVNncmFGV2JvMk5wWnlFdFE1SXJfNA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 19:30",
     "date_ts": 1783020627.0,
     "title": "Spain vs Austria live updates: Yamal denied penalty in 2026 World Cup knockout clash",
@@ -8,6 +21,19 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 19:19",
+    "date_ts": 1783019995.0,
+    "title": "Watch World Cup Day 21: Late goals see England and Belgium reach last 16",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wS1RZWkdydThnMnVBQkdqNkVGZUNuckE0MEVSZERqbHZmWGw4ODlmTXAyLUdxb3dEaFdCeTB1cU9TeWVzNlJqOHJhS0pfTGlWYnVuMzdlM1FiN0RsMGVtNlM0SWNmM05tcnhMb2J2cnpZQU8wWHVLTXViOFDSAYIBQVVfeXFMTmVXV2Vvemd2dV9wUWN6b3E0clBXcWpjVEVPUE1tVGhHQ2dockFIZTBHRnREX1BoY1czSHhybHRJNWVXbnlVcWhlc0tKQVRBR3p3Szd6SUg3UmRRRkg5YlR2d1EtWEFVZVMwYmFCbXM1VzVpdENtcDhzVU9Fb3RWV2JUdw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -707,30 +733,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 07:17",
-    "date_ts": 1782890232.0,
-    "title": "Portugal vs Croatia FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTZKWjJEUHpkYlBUdG1SdFVScmVYZDdZVmNsZGpRMUJIVHJFMDVVYmU4NHd5NU5HdGtSa0NSb3l0aHdOYkYtanJFcHNGSWtzM3FhSnhSTWxyNHdQZjdOUXpKQVdvRWFNQ0Y3VzNydXBnLW55MHVWSEV6b0xzcTRzWUJvTnpvMXF6SDcw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 06:28",
-    "date_ts": 1782887280.0,
-    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
