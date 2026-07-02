@@ -1,5 +1,16 @@
 [
   {
+    "date": "02/07 02:07",
+    "date_ts": 1782958026.0,
+    "title": "United States vs Bosnia and Herzegovina Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lcXRqbWt0WG9zMVRWcHZVbFZQQWNNcU1wa0lYTjg4YzlXNU0yNDlFdEhhc0hpQlpZbDQ4SWktY1Y4Nmk5SXo0VjR5RE5PTkFja3h3blZOVDhoRDJyMzVHTWx3?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 02:06",
     "date_ts": 1782957997.0,
     "title": "USA vs. Belgium Confirmed For The Round Of 16: Here's What To Know",
@@ -21,6 +32,19 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 22:54",
+    "date_ts": 1782946446.0,
+    "title": "Belgium vs Senegal Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OX3U5alQ4aFRqR0pCMnc1Q1VFSm5zQUtsS2UwcF91NWE1RUM0QXpEQkVRdF82ejRTbGJIQTFzOUt0QzlJMUo1UVVGNEVWU1BJSmw4Zl9ZZUFZZENtbU9makR3?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -696,28 +720,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 21:16",
-    "date_ts": 1782854178.0,
-    "title": "World Cup 2026 Round of 32: Full bracket, results, matchups, schedule and how each team qualified",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXhadlZsb1BYcmhmeFBTbXZqS2FUOHFXMDN0MjN2WWVoZHdJdXZSZ0ExajJzblJBSm93SEZyMndUV1pNLVNjYVNvVHJxdmVpZWprYzFpSHN1Z2FOZ2t4RnZJTnNCYjJrMmNOUlI0cS1iS255MHVDSDBValpMekNyY3pVWG02TkRReUtVMzVfcktwQ2hxMGE2X0ZsLVRaUy10VG1FSlRBaG9SMlhoZ2R5aHN3MmVrYzlHY1E4RXA3d3dOQW45aXBsUEZQRUtVUEtPd2gzdFI4WQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 21:01",
-    "date_ts": 1782853271.0,
-    "title": "France vs Sweden live updates: Latest score as Mbappe stars in World Cup knockout clash",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHNJY3RIb1BCdGRoZUNqaFktNTdzd2pXc3ZLbmxzQTRwbDQ5b0RIeXhMS2lXZVBmSnplc0RYaG9HSHNjdElxUVktMUdmbkp5cHRMZUNaaUFwdU9qY3dBazZQWTctVGJ6TzBVb3BzUjlwXzVIZWJsWnZmRUtaM1JPcDVnWTNHSG0tYVNuYkJIOUxXSDdsalRKN3hnZmltMmVxNGlTeG41ZlNFbk1XZnVZdUFDSmVaUQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
