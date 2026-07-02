@@ -1,5 +1,29 @@
 [
   {
+    "date": "02/07 19:30",
+    "date_ts": 1783020627.0,
+    "title": "Spain vs Austria live updates: Yamal denied penalty in 2026 World Cup knockout clash",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdllSVy1xUzNWaXk5Z09icVcteVRVUnFLUU5ETllGbmVvQnRmRno5aWFiby1ia3lCemsyeXZ4N3drNjVONVVaSEg5bG5Lcl9XR2hWa196ZzE3a0tCX05QNmpWMlo1MEgxU3V3Y0hUTGJnY0FsRWt4V0tFY2NFV2FNaW5oUG9kYTdabkRGQ2JITTE3TUxiYXI0dHJUZXd4eEQ3RnBGcWFTWm5IT05OblVyNnItdzFBQQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 17:51",
+    "date_ts": 1783014712.0,
+    "title": "Spain vs Austria Lineups Confirmed for World Cup 2026 Knockout Match",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR05BRUtYdmZFcTFxME5uOXo0ejlaSTZiR09oQkQySVJmMmU2anV1aDFNVmxhMUlHRk56Z0NUeDNyUl9ndGRZTUNyMlZwYkFwdFVUUUNxX1RBeUw3MHp2aktqbkk1U1F6b2tVeUN1TWZrUk8yTDQ4VUFEdTV2YlE4TThENGNzdUZhOU9mRHBaWEMybjlvRVpnMDNhOTlxNWF5ZmRVY21xUVM3bGVoTmpQdzZOVDJqb2JO?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 16:14",
     "date_ts": 1783008890.0,
     "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
@@ -10,6 +34,17 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 15:54",
+    "date_ts": 1783007640.0,
+    "title": "2026 World Cup bracket: Full Round of 32 matchups and preview",
+    "source": "AL.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oc3NEMXN1SUJQZjF1YjU2d0VTRVp4ODJ4M0hNNjBmTFB0YUZOcmlOTzlHRmV0RUlUMy1mVU83M2Z3UjdTbWFHSC1td0lvN2pyRjVyZ2lWRzYyWHdBNWFj?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -182,6 +217,19 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 02:13",
+    "date_ts": 1782958380.0,
+    "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -475,6 +523,19 @@
     "source_type": "news"
   },
   {
+    "date": "01/07 15:30",
+    "date_ts": 1782919800.0,
+    "title": "World Cup rule change explained as two England players handed suspension lifeline",
+    "source": "Wales Online",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMi1uVGpzRHgyaTRJeTlWNlhWQktGZ0xpd3lvSG43RV9WZnBrNDFsOU5yMG1fblNmdmZ0NmhGTmJESmlfTjAtZTlDRmllTWhtaVloWkgtd1BXMXd0RTc2VzVCR1JIdEVtWFFQR2d2b0o1Sko5ZEhCOEZLbUhINEI4SzlZRExjdHZEajRHUkZzbWFvemtxWGxHdEk0ODVBRHJINUxJbg?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "01/07 15:22",
     "date_ts": 1782919345.0,
     "title": "England vs DR Congo Lineups & Formations Today Confirmed: Predictions World Cup 2026",
@@ -669,67 +730,6 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 06:25",
-    "date_ts": 1782887100.0,
-    "title": "FIFA World Cup 2026 – Every match result on Wednesday 1 July – Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjg2WVo1MHZvdzVwUXFveXFXSDQyZWJFZ2E2cVNFcS1ZOUx5MDRJT3B0SG43QXM3RXVzaEJ3OE9aM3dia25JTDd6RW0wQUJFVFhRS2FfY1VtN2FxTGY3SUYzdnZlaU9QdzQ2c3ZjeF8xZkFhOFdJY1VmYktwSC1tUFpDYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 06:10",
-    "date_ts": 1782886200.0,
-    "title": "World Cup 2026 today: Live updates, news as Mexico set up potential England tie with win over Ecuador - July 1",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWXVxNzVSVjJjMDNrRnVQUzhiek5xZlRTZFMteUh6dEc3WjhXcjFvWlZ4N1UzMTRZZzdIZTdZbHh1T0R5UEo5MjlCNU5RNVBhX2hHYUtGbkY3azhjZ2wxSUNFaFpOQ2VyNFRmanM1bXJ2NFo0OUd0bmVDUXdtcUVrT2hTVmdiSVlTNGJjbEJjMWIxUExpdmZtdlNyb2lCYlVTLTRtZkNyS3pSZkpMcUs3b213UmtfQmJhOFl1dHF1NVRTSkxWRGZJWG1EbkFBcXVDTERBOUtSZzNGM1RxZ2daNjRGWVRNcTl5dEtBNWF1dTRGcy1uVENWQmUyZTVnTnpfZzhlSXRURFZndnZoSGdWN2lR?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 05:38",
-    "date_ts": 1782884294.0,
-    "title": "World Cup 2026: Mexico rampant at Azteca - could England be next in last 16?",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wWHBYS1VzT0pDeW5OZjc5RnFUazZiZzRneVVHRklZTzJOeTRrZzhDcXJHRHU3bE5YekhmRHljTWM5Sk5VdmxIb3BjeTZIZ1lFWk4zQUtsbTJnZ0VfRmFJOENYNWt1THM?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 05:08",
-    "date_ts": 1782882480.0,
-    "title": "FIFA World Cup 2026: How to watch the Socceroos, fixtures, results, all you need to know",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlNNRWZoLXJDSW8yYkJhd3BKWFdJRkxmTlNzQ0lkUWdYdHFPT3ctYVNGdzNSdTUwS25YVGttb3I3NGoxbWtjSnQ4SXRoSjk2R3BNLUtULS1DWEZ5b0tQRmE5MjlxZFp6OUpBNTVGTjQ0TlMwOGFQVkFGZnVZT19CdGdSMFpsSjBtN3hMY2JpMTJoUGQ0WlVGbElhN0tMbUkxRnd0N01MZw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 04:39",
-    "date_ts": 1782880740.0,
-    "title": "World Cup What to Watch: USMNT begins knockout run; can DR Congo shock England?",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUWVETGQ1T3Z1bWFOQVVwbV85SHhMb2ZLbHIyaUZNWjNDcGVzR2l5cjJXNmpkRHIzNjdOYmhmUVJjRFBSQ0stTDJKMmpTRzBobi10dTE1TWxtLXFoX1VIdV9DS0ExcldMaFZnTHVxaWItbktrUlprMmVuRmVUVXlNZVI1V3ZwMFMwVTQ4NjduY1lSc012UUpVS2NIbUt5MHhFZm0tUTNlN1A4bnFUQjZ0M1kxX05HZWdxVTJiTnkxR1lldnFOc01EeG8zUQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
