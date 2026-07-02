@@ -1,5 +1,16 @@
 [
   {
+    "date": "02/07 11:16",
+    "date_ts": 1782990997.0,
+    "title": "World Cup Round of 32 bracket: Results, schedule, matchups and how each team qualified",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXhadlZsb1BYcmhmeFBTbXZqS2FUOHFXMDN0MjN2WWVoZHdJdXZSZ0ExajJzblJBSm93SEZyMndUV1pNLVNjYVNvVHJxdmVpZWprYzFpSHN1Z2FOZ2t4RnZJTnNCYjJrMmNOUlI0cS1iS255MHVDSDBValpMekNyY3pVWG02TkRReUtVMzVfcktwQ2hxMGE2X0ZsLVRaUy10VG1FSlRBaG9SMlhoZ2R5aHN3MmVrYzlHY1E4RXA3d3dOQW45aXBsUEZQRUtVUEtPd2gzdFI4WQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 09:09",
     "date_ts": 1782983375.0,
     "title": "World Cup 2026: England to play Mexico as Belgium & USA progress to last 16",
@@ -34,6 +45,17 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:38",
+    "date_ts": 1782977889.0,
+    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -697,30 +719,6 @@
     "source": "CBS Sports",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOektvRWQyaEJLdUZ1R0w0RVRuY0J1WDFxXzNBUGtYR3Y1dGplTEZVb0VEUExYT0NGT3FOdGo3dFNobUhNUk45RlcwOW1faDV1ZXRSTldjTlFQT2JoWWlBNFNRVjZReF80MVY2d2prSVVnSi03VFJDY3p4RXloVHBEVUJsY0dJenoy?oc=5",
     "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 00:30",
-    "date_ts": 1782865844.0,
-    "title": "Mexico v Ecuador: World Cup 2026 last 32 – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWRsak00TFFfZmVkV3VqT0N1a0tBa2o1bzBNX1g2MkJjNTFMa1pFOFh1THZUelJXc2p0dkNMQ19ELWZuNE9nb3dzalpoY1JFTXFyNlA5Z3Nza3VvSjhlRUplZVh1Yy13VFowVDh4QjRGYndzdEUxS1A4ejJEQWg3ekdxSnQ0MmdWZjlOMmZhbUdSaldzcGZXZ3BUOVJjajBhdDE5MnNTYUJXVTd6Rzk3WFJvWEVBSHQ2MHNOQTQ4R3BnY25HQ2xJZnpRU2xUeFRLU1BsX0pOTGxlZmU4WXV5OA?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "30/06 23:24",
-    "date_ts": 1782861840.0,
-    "title": "2026 World Cup Odds: France Strengthens Grip As Favorites; Norway Rises",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
-    "teams": [
-      "Noruega"
-    ],
     "category": "bracket",
     "impact": "MEDIUM",
     "source_type": "news"
