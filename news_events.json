@@ -26,6 +26,19 @@
     "source_type": "news"
   },
   {
+    "date": "02/07 21:50",
+    "date_ts": 1783029000.0,
+    "title": "Portugal vs. Croatia lineups, starting 11 for World Cup Round of 32 game in Toronto",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0NNdHF4WDlyV2F3SzY4em0wN0tqVWsyTVR1TDZNdVdpNmJmSFVqSDhkWWxmV0JJaUJjRUJ3NVh3OFhPQmdXYXB0ZThVcU9UdXhXRkJHMFUzZmE5OWcxN3dnbDVaLWh2aEhWOEZEdXdQUjdXNWhVaTRYWG16Q2NoVFBXUmZZS0hjQld6dERrS0xGSnVpQjRmWjZGTzN4emczZmc4M1d3S0Z6OHNxZ05Kd3VFejRYRUQxb2c?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 21:44",
     "date_ts": 1783028663.0,
     "title": "Portugal vs Croatia lineups: Starting XIs and confirmed team news",
@@ -36,6 +49,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 21:30",
+    "date_ts": 1783027800.0,
+    "title": "Portugal vs. Croatia LIVE: World Cup 2026 updates as Ronaldo and Modric face off",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTVjeksxQXVRRFgtd2pDQS1taTFOcjUxOHpCcVNqcXJyY0xJeEdrajRHMFk3VDltbHQ4eWNReHlORDU2aHJxT1V2QktqaDlXLU1rSmx0ajBGenF5X2hrZ1pvTEh4SzQzYTl5X1VRcHhtczhuOHV0SzdDakVod2NPR3VTVEJianlvSllDZEFZR2RCQ0dzRnA4bm1EaXpoSkJ2MDJ6anVtckYwUXA1SWVIRnB3QmVkVXA1emF6c1hmUUw?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -702,30 +728,6 @@
     "title": "FIFA World Cup 2026 – England v DR Congo, Round of 32: Score, lineups and live updates",
     "source": "olympics.com",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXBoVjM1VUZoTXUySUVrU3NEYmxrTEY2ZjVTeHBBaEZSSHVWUVh5ZHVrcThRRlR5Qjd5UXZDM25ON19oMGJNc3lodmQxV3ctRDktdVJTMEdNSzNnRGNMT29GU1RmU2luMVI5dnlXM3VjQWVPZi15RWlSZ3U4alA3UzZJajJ5X2RUZm1KckFIVmZhQmNpLXdRbmtFZXJ1R0FyYy1ERWk5LU4?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 14:53",
-    "date_ts": 1782917612.0,
-    "title": "2026 World Cup Round of 32: Confirmed schedule, results, predictions for first knockout round",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 14:45",
-    "date_ts": 1782917134.0,
-    "title": "England vs DR Congo: Both Teams’ Lineups are Confirmed",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlhURWlLcVFaVUNtbEQ1WGlGbkJyWGhjaXowbHV4aVExWkpjLThBWDBYMUM0TWowcENQRk4xX05OUTJ2TGZSZTROYjFuNUMwQUctLTRiX0czVVE2YmFVa0prRHlKQTVuaTVyQVliQWVmRjI0RTdOaDVHWHVXVXR1c0xValpyOXhqZXJWbWY1TF85dnE0YWhJcnpvZXVYLXRoNE80?oc=5",
     "teams": [
       "Inglaterra"
     ],
