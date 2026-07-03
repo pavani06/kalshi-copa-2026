@@ -1,5 +1,16 @@
 [
   {
+    "date": "03/07 12:31",
+    "date_ts": 1783081860.0,
+    "title": "World Cup 2026 live updates: Knockout round results, TV schedule and news",
+    "source": "Los Angeles Times",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDB2WWhwdUVKUDB4bHJCQXhHSG1CVk5EMi1KOGtSajBWVXBvS0stdUJuMXVIZTBQRlYwd3VESGJPVktid0xSN3BTdm9ldGNvWFFLZkhoREp0U08tamFKWUxWLVBmVFBFSnVKcTI3eGZ4Q3p5dTVyVWJUY0ZsZm4zTUpFc1M0NFpkYmpyT2RueUpoT3BETzJpaVhMcWx1OHhjZTdFcHpmRjYyV1Ff?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 09:28",
     "date_ts": 1783070896.0,
     "title": "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions",
@@ -719,17 +730,6 @@
       "Senegal"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 18:15",
-    "date_ts": 1782929700.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNExLUnZXZlpubEVkN1E2NGFCLUc4T3pyakhETnpSdC1BU2l1WFREcFhadUI0MTRLMkJiQktzQ3JyS3lEX3k2a04tck5kR1REZ2tSY0E0LXFGQ3dPV1hWd251SkMyTUR3TmxleDZhQW5XVE5fU09WWmxhNktXVi1yd0Z5ZVBIVEhIXzVIcVFZM0gxRjMybndKZXlCaEVGNGlTbmg4b3h0NTdzU213VHA3Rzc3R2NqamY0d3N4LUc5TngyQkNYTnc?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
