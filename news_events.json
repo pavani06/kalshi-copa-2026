@@ -1,11 +1,46 @@
 [
   {
+    "date": "03/07 20:58",
+    "date_ts": 1783112287.0,
+    "title": "Argentina vs Cape Verde live updates: Messi set to start today’s World Cup knockout clash",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzNlazZ3VEJDMWpmbXdIano5Vy1ka0x6a194Rnp5MkNGbzlZODg5R1J6eEtjOFZfVVVyekJqSmRIR1ZYUm9neDBYd2NJUzItdGVxS28xb0FXNUdLZjgzaTF6dUtaXzR3aTBjaTRBNjkzSExXa2tjVzB1YUJTcUl2QTdValZmbFZPbkF0V0hLWFpLQW14SmJJa1dmVlpPU0JIcVFQYXdqRTZ2SzkzM3pzZnNRSWxjVTBEelBKcHM1cHR4TlptUDBV?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 19:09",
+    "date_ts": 1783105762.0,
+    "title": "2026 World Cup forecast: Latest odds and updates - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 17:50",
     "date_ts": 1783101047.0,
     "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
     "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 17:20",
+    "date_ts": 1783099200.0,
+    "title": "World Cup Buzz: Mohamed Salah Starting For Egypt After Knockout Round Injury",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
+    "teams": [
+      "Brasil"
+    ],
     "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
@@ -179,6 +214,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 06:35",
+    "date_ts": 1783060500.0,
+    "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -681,54 +729,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 06:51",
-    "date_ts": 1782975067.0,
-    "title": "Portugal vs Croatia FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTZKWjJEUHpkYlBUdG1SdFVScmVYZDdZVmNsZGpRMUJIVHJFMDVVYmU4NHd5NU5HdGtSa0NSb3l0aHdOYkYtanJFcHNGSWtzM3FhSnhSTWxyNHdQZjdOUXpKQVdvRWFNQ0Y3VzNydXBnLW55MHVWSEV6b0xzcTRzWUJvTnpvMXF6SDcw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 06:49",
-    "date_ts": 1782974940.0,
-    "title": "FIFA World Cup 2026 – Every match result on Thursday 2 July – Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFZtR2NKUTdNTjdJQlRLZW5kVll1eEQ0VFNqVm9OdjJQMlFlbkRjU0tBRlUtMkhlZzl0MENQOThRMDBWeXhPZmxsN1RnTlp6Z0htMFBaeGdkbHA4Z1BYemtsX3U3SVJyUXpUaFFkeXByLVJWbHNIWFVFb0VveF9EV3IxcGh6YWJwRXcyT1BSMG9VYlpDcU81MFZBalZ2MEM1N24xbw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 04:42",
-    "date_ts": 1782967320.0,
-    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 03:52",
-    "date_ts": 1782964327.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
