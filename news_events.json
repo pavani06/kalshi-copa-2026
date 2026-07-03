@@ -1,5 +1,16 @@
 [
   {
+    "date": "03/07 17:50",
+    "date_ts": 1783101047.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 17:09",
     "date_ts": 1783098589.0,
     "title": "Canada vs Morocco XIs: Confirmed team news and predicted lineup",
@@ -95,6 +106,19 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 10:12",
+    "date_ts": 1783073530.0,
+    "title": "Germany part ways with head coach Julian Nagelsmann and look to appoint Jürgen Klopp",
+    "source": "bundesliga.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkFveUFuMnZNakZEcTVEQXUyRnc4WlJsVHpqQ0FiY2Q0eEREbWhubWJOaDM1cUt6bXZ0bExYSDNGUmVuazhEdDFKTlNCSkR5WlQzcE1wNHB1VTZyZUIzNlBoRlBoZWRnS3QzVERobS0taEMxcVZXTG50VXo3QkRPc0MtTTBtX3pyMkxNZmtHcTh4aTZkT25SbWNSTHJBYkl6Y3kwMUNSc3BmRjZ6c0ZoZ2NGTV8?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -705,30 +729,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 02:13",
-    "date_ts": 1782958380.0,
-    "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 02:07",
-    "date_ts": 1782958026.0,
-    "title": "United States vs Bosnia and Herzegovina Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lcXRqbWt0WG9zMVRWcHZVbFZQQWNNcU1wa0lYTjg4YzlXNU0yNDlFdEhhc0hpQlpZbDQ4SWktY1Y4Nmk5SXo0VjR5RE5PTkFja3h3blZOVDhoRDJyMzVHTWx3?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
