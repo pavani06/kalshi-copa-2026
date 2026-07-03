@@ -48,6 +48,20 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 00:21",
+    "date_ts": 1783038089.0,
+    "title": "Brazil vs Norway FIFA World Cup 2026 Preview: Everything you need to know",
+    "source": "Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXJJWVVBdUFPaXpaN3ZCSWxETFdYTlZMRkVrbUdWZ1JLRkU3aDE4ZF9aRjdoeDNGZ05LQktRZ2RqNm5BNV9CM05STVA5dU9BSUotWHFhb2lQVzFGaEVGcnBLZ2dzeVZSbGtCdjAtM0Jxcm1iQUlqcUlDV0I5aGs1SnoyYS1oTWVJY3FJ?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 22:11",
     "date_ts": 1783030271.0,
     "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
@@ -716,19 +730,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 16:48",
-    "date_ts": 1782924524.0,
-    "title": "World Cup 2026 live updates: England vs. DR Congo, USA takes on Bosnia and Herzegovina",
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlVKMkMwZ3lhSTFDcDBkbmhEZV9NakdrT0dsdC16c2h4Ri1LUDhKbGtiM0xLNFBSOWxZNzk0TWNJOHhFLXdHbnA4OXlwTWxBWlRsR01oSVFTX3ZSdnplZFNNSzdLODdzMmhyVXNEaTBLOVpRMzd1UWVXbU1BMG9TZm9oN0RYYXg3MlBrT0VNQXJRM0VvbjVGTkx3dVNfLTFUbDBiZw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
