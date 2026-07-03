@@ -1,5 +1,31 @@
 [
   {
+    "date": "03/07 22:06",
+    "date_ts": 1783116360.0,
+    "title": "Argentina vs Cape Verde LIVE: World Cup 2026 updates as Lionel Messi's side face Vozinha in round of 32",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUlpVzhoSnNHX0JIZHBiZkVybkFLQXVSdmpNOFpkc3QxUFRwUTF4TllEazBwUGJHeGdoQlFya1lsLXlhd3Z1RGxwOTVQNFlaNm5VMUlwWnl4U3JCVkFWUHkybGRBX1RTVFFIck45Q2hNaGxxU1NNYjA3R3ZMYUt6V1BUY190cDNCWjVFSllzNGxKNFZWcjQzZU5ORjhoUDZhT29XRXJCbW9KX1FISzVjZmFmQW13ZzRlbTZqT1VheU4tTVZmZGl2QkhldzMyRUE0ZU5XYXBvcw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 21:09",
+    "date_ts": 1783112982.0,
+    "title": "FIFA considering moving World Cup kick-off times for Mexico-England, Brazil-Norway - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWjBLUUtkQ0dnQnUyOEdMLUNVUXVnMFBBNVVXbDJ6QWs2TldxUkNpUUFJMzlaVnBWbE1idGtSZklOckpNWVZGSXJ4bGFDSWV5WXJhdUZ5bkdsZGljNlc5Sk95ZzEwVWlqWE10UU11dG4xYUJMSS1hY3FGOUxLZTJUZVRMQ1B5UDJmQUdjcGhyclJoQWF6MFE?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra",
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 20:58",
     "date_ts": 1783112287.0,
     "title": "Argentina vs Cape Verde live updates: Messi set to start today’s World Cup knockout clash",
@@ -170,6 +196,17 @@
   {
     "date": "03/07 09:28",
     "date_ts": 1783070896.0,
+    "title": "World Cup Day 23: Who will claim the final three places in the last 16?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUWN5V0ZhVmZiN1M2b2p0amVMQXUxVGlRSlpfdUV6SmlISmpPZXdrU3pxdXR5MmxXazJmNjZUWDBHMEdpVlA2NkpWV3FOelJJZGpHeFR2WXV3MmM4eDZabVhlcDFRZHU1RHo1STNXUUJ4bmlNQ2hWSUpwYWdybDF0Y3FSQlIwcFB1clBRNWhGZnFLNGtuTmp5eXBuSUp0MzZGZVYxblhkWWNib1RjUVE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 09:28",
+    "date_ts": 1783070896.0,
     "title": "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUWN5V0ZhVmZiN1M2b2p0amVMQXUxVGlRSlpfdUV6SmlISmpPZXdrU3pxdXR5MmxXazJmNjZUWDBHMEdpVlA2NkpWV3FOelJJZGpHeFR2WXV3MmM4eDZabVhlcDFRZHU1RHo1STNXUUJ4bmlNQ2hWSUpwYWdybDF0Y3FSQlIwcFB1clBRNWhGZnFLNGtuTmp5eXBuSUp0MzZGZVYxblhkWWNib1RjUVHSAbMBQVVfeXFMTVZaRTBmUXU4VndESHktbksxNGotSDB0ZlR0WEZreWRHVVVBWXFLb3laN1lCb3duWGtBMmoxMlhrTFlfb0hoekwwSGRTZ1VBVjRWVE1oVmhwQmFjSG4wLU1hREJyT1ZVMUVUZzluY3paSDl0V2tTZ1dCejlVNFJOMVh5WGkxTExqZnp3cEcwWlJOQWdQNjk4eVBEY1hIN0xYNC04Tjh0YVc3Z3VFT3U1OVRYZEE?oc=5",
@@ -246,6 +283,30 @@
     "title": "Switzerland beat Algeria 2-0 to reach World Cup Round of 16 in style",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalZUSkhwVWFVUEs4RUk5X0hLaTBHSE1jNXctZTZoUk1TdUhZdGU0QWowbHVjM2t4S1lVUk5jZ3NHTU45SVNFNy1ub0hTUlpDX0xMRHFJUjVCck1DY0p5eUdKbUd4SklYZlpkdktPa250V0dyaFc1VS03VWhTNkFMeTd3ZldhZUs2NWx6WFpQZ1lxcjdHZ3VJLUhZVHJKd1prUUHSAacBQVVfeXFMTmdTRUptbm82ZEw0WmtmbWpuZDhEWVMzamUxQ1FoOW1JbWl6THVDcXhjd1dnNkIxdlY1MmVOZGdXZ3A5SjdUa0plMTFIUUxsa2xhM1ZmSVhxeTFSSWM3aWZoUU9lQWhGTk1KYVVZS3NWRC1JeVZDcDZrQW4zbWtqaUJOS2p0ejZKUURLajUwT2dJa1lZTDc0c2hlQlItM0pBOXkyVGFFRnc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 05:31",
+    "date_ts": 1783056704.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT19ocmJUWUVZaUEzcVViay1mMlJvdEd5R0hCaFdEVG5NRzFNQUE0VkhhQXJRNjJCZXZiTmVGZUM0ZUFuYVV5RFMyOTExM2xYeC03YXRqTzhQajhWcWlCTHdKMnpRSFFMbUpBN1NvUGlfdDJGLU5KV1F1Ql9JWUgyR0xSZS10VGdxalNhaXUxQXliYk1FWmV5Tm1qdy1VRDZTWDYwSjhVM05PS1NOWUJmbDZiZFQ3bmlNdENuV04yV0JFVzdDaUVnWDdVcERtU05VUlNoVFJlRFNVejJxUVFMOEx5WQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 05:19",
+    "date_ts": 1783055940.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
@@ -668,67 +729,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 09:09",
-    "date_ts": 1782983375.0,
-    "title": "World Cup 2026: England to play Mexico as Belgium & USA progress to last 16",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hXzdmTmhVajcxQ0xsbEg3WVVjVm9zS0k3Ymk0MVZqLU5XeEFuVU5XbGwyOEM1NmNlTENsLUhEQW5XT19rOWFlXzFacXpLRnF5cDNkY1E0NWlFSEJJdG96TFpn?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 09:02",
-    "date_ts": 1782982945.0,
-    "title": "World Cup 2026 bracket: Latest Round of 32 results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 08:31",
-    "date_ts": 1782981085.0,
-    "title": "World Cup 2026 Round of 16 Match 3 Prediction & Best Bets",
-    "source": "Total Football Analysis",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmR5Q016dTRnd3pjMFJuMWYtS1h3ay13NXJTd2VMckdsRXAwLVRGTlZ6NVpEZ09pRXNNN2ZFUU5lRXNIbEdUM24zQ1Q4NUhSQ1E5WTlWVS16dktMX3Y3OHpKQmJOdUR1Qlh3ZkQya0M0SmNJRnpCYkgtaHRTQ05mWmxlR3ZUU2xyOFN1Y05vY0tncU5mcFZpX1UzRWw4dW5NU0xoVS1JZUR1azhy?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:38",
-    "date_ts": 1782977889.0,
-    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:31",
-    "date_ts": 1782977460.0,
-    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaWlRdUpTLWdIWjBkOFhRVExHaHNqdnBXYlo1VDJ3T1NRQlg5Ry1fY1ozVzloRUhMM3c2d1hBMWliV2RQRTdXVFZLYW9WR0UyOG1WTXdEaFZhcFVyb2RXNHp3Q19mVHpqb01YT1hka3BkMTMzaEgtVW5XbEg4amIwUzJYdWtlT3ZjR0pjSw?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
