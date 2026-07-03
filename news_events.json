@@ -83,6 +83,17 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 09:02",
+    "date_ts": 1783069349.0,
+    "title": "2026 World Cup: Schedule and scores - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 07:03",
     "date_ts": 1783062180.0,
     "title": "World Cup 2026: Nagelsmann quits Germany job; Portugal to face Spain after VAR drama – live",
@@ -343,6 +354,17 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 17:51",
+    "date_ts": 1783014660.0,
+    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -707,28 +729,6 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 22:05",
-    "date_ts": 1782943558.0,
-    "title": "USMNT vs Bosnia live updates: Latest news ahead of today’s World Cup knockout clash",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVWxDaXZrcVFwUmF6MlRkSjZxYjNvdVNxeXpuYVJLTlJkNlRlSnFKQkRKVmZ6dld2LWQxWEZKakxpc0lJQjhIdkNRWUowdkx2LUxnRVVhSEk3a2xVSnVKSXNIcmV3aWdYaTRxSHBfU3BNQ0pRazlGY3drNldBZWZuRlJYWWlRM1BXYTFUREctRGpIVVNUU08yeXlMNkl6Nk43YV95azVmcmpoUjA2Uno4SkhNZVZJSzVGSlN0Q1BpX2N1VnU1eHZEazhB?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 20:01",
-    "date_ts": 1782936085.0,
-    "title": "World Cup 2026: Which teams will get a third-place berth? Live tracker",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0tDSmNNMHAwSjJRYlNacW5VMDgxNkc1U1dqajRRb3h6ZVl5NmhBUjdHWW1tMWk2RjVEQy1MMHp1LVJzU2JMM1llVWlVcEFUMk5zbVdqU1k1OHZMOXNVQko3bVdSNEt3UW9uejBxbXFPZmtsdnN5ekVBS3QyOVRiQTlTWWN5NjllV3dTUURZRi0wV0tnbV9kX1V2MFVyaEE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
