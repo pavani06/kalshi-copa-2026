@@ -50,6 +50,17 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 11:01",
+    "date_ts": 1783076461.0,
+    "title": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51NTY2c0xEbHJnWThTNDZIcDUxQXpNVml1a1dDNmx3TE13VGRZSUhjZ3B2aWw2YVJyRFZFeUEyN25DOHBYVFVrTTd4MU9uOWlMVU1jRlhnR3dZTUpoLW8zd3NaSjF2ejQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 10:00",
     "date_ts": 1783072800.0,
     "title": "2026 World Cup knockout round TV schedule, game previews and results",
@@ -718,17 +729,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 19:57",
-    "date_ts": 1782935820.0,
-    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
