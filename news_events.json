@@ -11,6 +11,19 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 22:05",
+    "date_ts": 1783116312.0,
+    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
+    "source": "Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 21:09",
     "date_ts": 1783112982.0,
     "title": "FIFA considering moving World Cup kick-off times for Mexico-England, Brazil-Norway - The Athletic",
@@ -33,6 +46,17 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzNlazZ3VEJDMWpmbXdIano5Vy1ka0x6a194Rnp5MkNGbzlZODg5R1J6eEtjOFZfVVVyekJqSmRIR1ZYUm9neDBYd2NJUzItdGVxS28xb0FXNUdLZjgzaTF6dUtaXzR3aTBjaTRBNjkzSExXa2tjVzB1YUJTcUl2QTdValZmbFZPbkF0V0hLWFpLQW14SmJJa1dmVlpPU0JIcVFQYXdqRTZ2SzkzM3pzZnNRSWxjVTBEelBKcHM1cHR4TlptUDBV?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 19:53",
+    "date_ts": 1783108396.0,
+    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -705,30 +729,6 @@
     ],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 11:37",
-    "date_ts": 1782992257.0,
-    "title": "2026 World Cup Round of 32: Full list of matches, potential round of 16 games",
-    "source": "SB Nation",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFFEQi1MdHVFX1phOEtiZGdFVk5NMHo2VnYxcmRyM2IweW0waHdxTXlwWERZd182Ujl1THJVX1ptRDJEbEhqdE1VdHRrSU0ycGJZN19HYk9YSUtQSm9HaDc0T3hENGhBbmVrWHhJYU1fclE4ZjdicXd3Ym4tOEhmcmNDMVBlUTU5blQ2MWdvVW1pYW5PZnVYSXgzQ1BCWDY1aXNVT1VrcnY0UllHd0NmeXp3cTBMT2c2UFVSbFVTUkw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 11:16",
-    "date_ts": 1782990997.0,
-    "title": "World Cup Round of 32 bracket: Results, schedule, matchups and how each team qualified",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXhadlZsb1BYcmhmeFBTbXZqS2FUOHFXMDN0MjN2WWVoZHdJdXZSZ0ExajJzblJBSm93SEZyMndUV1pNLVNjYVNvVHJxdmVpZWprYzFpSHN1Z2FOZ2t4RnZJTnNCYjJrMmNOUlI0cS1iS255MHVDSDBValpMekNyY3pVWG02TkRReUtVMzVfcktwQ2hxMGE2X0ZsLVRaUy10VG1FSlRBaG9SMlhoZ2R5aHN3MmVrYzlHY1E4RXA3d3dOQW45aXBsUEZQRUtVUEtPd2gzdFI4WQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
