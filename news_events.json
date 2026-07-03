@@ -1,5 +1,31 @@
 [
   {
+    "date": "03/07 14:39",
+    "date_ts": 1783089541.0,
+    "title": "England XI vs Mexico: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN2ZITHY4bEJ1b2JsYVhxUjl6bllFU2VqbE5TMnRZUkxGMVBSUHFpNHpWWW14dGVfVTAzSU9WY0p1elMtS04tdUdNSy1JaHhSajlwY1NiaWR6T0FEOXhFT2hxR2Y0UFNndk5yczhUQlV0U05GOXJFY2ZfSV9TLXFUMXA2aDM4WVRrWXdmMmp4WjZ6aGVXd3NuV2JuSTNnNGtPOUNLMzlSQjRBcm1DYXZYVGI1M3h0bk9ULUZ1SmlGYVdNRUFzSE9OTmZvb3Itb2JiZnlWb3hqUjA3UQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 14:18",
+    "date_ts": 1783088339.0,
+    "title": "Colombia vs Ghana XIs: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWnpjeXoxcjVYMVdDdlh0Ti11NWpSVEZtU21TN1dINm5kOXA5OWFjVjBfVmEwRHBQYmo4LVhfaHZQcHoxN25ZR1hZQVNHYXZVb0lkUzRTa2VVRmpWem0zajhUWmdlQXRBUWJzalloejc3N052TVFoNE5GQTgwYXBmaDh5Q3QzQUNPSk1FZlJESTRKWmN1ZVlvR210ZkV3ckV5ZGdHM0YxN2E1azBMcy15ODJtcVZlYzNlX2hLdkY5QnNnN3lRSjlrU3NWSEtQZGI2LWlXS2piRFV5S1IxMVFPeVMwSQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 12:31",
     "date_ts": 1783081860.0,
     "title": "World Cup 2026 live updates: Knockout round results, TV schedule and news",
@@ -21,6 +47,17 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 10:00",
+    "date_ts": 1783072800.0,
+    "title": "2026 World Cup knockout round TV schedule, game previews and results",
+    "source": "Los Angeles Times",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEI1VnVkSFRRYUh0aUZGOE4wZlZWdzg4RGZvLXBLWnV6SVV4T2puUkt5ZGNfcV9Vejl0bjJKNDBSOW5rTzg0NVV6RUVqR0lTeWdYZjNaRmtUenZuTnRNdngteWk5SXhpYXlJQ0NjRDBOSXdRQjI3a0t6X3NOczI0YV9pbV9ubEhzbWxQMG1mdTJCNUpPMWlKTEduLXotN3RyVDdmVl9fOExJanVhUEJLWnN6U3RlNWxSOGxoTlBXYTZrZw?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -343,6 +380,19 @@
     ],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 14:18",
+    "date_ts": 1783001916.0,
+    "title": "Belgium XI vs Senegal: Starting lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRzVRcG1KYkE2TWtZajFPX1BoVXQ4OU10WWtHaS1sNFkxTDlWTDlDNTVjZ1hNbEdnQ083dlUydkJVR1dLNUZidWFUOGdreS12WGU1SzdnUnE1VkwtSnlnd2gyUFRudkJ5RUJsd3JVQmJhbXI2a1FVTmtQUlo1V3BJVlZsOUtyLTVid1lNSjdEOU1WWlQ5V01ybEZsQ3Y1Ukk0OWpudWo1eVlMeEFrLVdGcWczcVhWUzJZUjBoQUd5N3lDalVRWVN3UDc0M0N3UjAteTRCNTZQSF9TUQ?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -679,56 +729,6 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 19:31",
-    "date_ts": 1782934310.0,
-    "title": "2026 World Cup: Schedule and scores - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 19:22",
-    "date_ts": 1782933764.0,
-    "title": "Live Blog! Belgium vs Senegal in the 2026 FIFA World Cup",
-    "source": "beIN SPORTS",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS0VvRFZwVTdERk13ZlUyWnRQUWR3dVhaeUNjSF9vZGJVcjRLTVo1ZnBFX0s4VXpWSzFwS2l2SmZZM3BQbHJBSFpjamdIeXV1U2ZRRV85TXNrVVVwdHB0RmtDaXpuM0dLZmpKZnVSbGF6M0J2VmE3eGdibXFlX3h6ZGdXMm0wbVVzX1l0UlM3SzVPOUgtQ09RdkRBNGNXRy1Td3FsckVXQ0tTNG9QQ0NGNVQxT19wVEVWY0NvTFNnZkZIRUNQY0JueVdVLUdkX1J5?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 19:16",
-    "date_ts": 1782933414.0,
-    "title": "Belgium vs Senegal Confirmed Lineups & Formations Today Predictions World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEZYanJKeWdFSDdNR3c1bUxaYnFQbHdpemp4TVB4S0MyOEE5NS1hWHpqSmdZU1RHLUxWeElYeUFFNnlBaUpMeTk0eVdkRFhwQ25ST0FYVFRqc2RhUE5qU1NsN3BCVmo3ekJCYmtZakt6TWxCbTQxbld1OG04TDBrSk93NUtXTi13WFVPc0phZzg3YWx6OTA1TlloVE1YRDA3bG1jeVBkV0VGV2RYSlJtRXJLVWE3X2Q3?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 19:09",
-    "date_ts": 1782932993.0,
-    "title": "Belgium vs Senegal live updates: World Cup 2026 round of 32 game latest team news and buildup",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjUzR1RDU09UTXVqT1ZYaTNuTXRuLUpqc2EzMFJEWnFIdDZ3NXlLVkVzRkp5QTk2U3l3dDljTTdCOHo3ZHE3ZkF0V0tPRG9tS2ZydENDMGQ1LWMzcWNuNXhMZVlJdFlYMDhpRTkzTkhYUjFtYlJhdjlGMGlrYno3QWdqTTVQTWU2U1g4bzE2Q041X25vSzNjaVl5QzRiYjN1QjQxY09VY2UzR3oyNkt6SmYwUEtIY2ZD?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
