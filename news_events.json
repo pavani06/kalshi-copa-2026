@@ -126,6 +126,19 @@
     "source_type": "news"
   },
   {
+    "date": "02/07 21:00",
+    "date_ts": 1783026000.0,
+    "title": "Portugal’s confirmed starting lineup vs Croatia: Roberto Martinez’s XI for the round of 32 game",
+    "source": "Diario AS",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFZFNXBBVmZZUnNmZ050emNwNk5VLUlFT2JTSmhfcmZYclJDNy1jQXlsZExKS09EM3F4c0lwQmREWWZFcHJRblVQdWNYOVVNUkxjSWFwSmtoT2ROM2dzRkVINmV2U2N6UEM1b05hMEhiR0g4ajd4a0ZFTm1IZm1qQXhab3R6RWhTYkpNRUZaeEtkS3dZMlBrOGZwWGZBZTRZbFZzYXNIdGhadjBsU1ZMTk9OVmI1Q1FiMkhnaUZGOTRVanJMWXfSAdoBQVVfeXFMTzZDOHowdndUVmJlZGdUOXRwanhiSEZIenY2NFd5NDBkVXhidmIzeFF1MlB6NjVjVjBxOXVZVE1uUmF1eEE0QzlaQ21QTGNzRWx5SklJRnZhQWZhaVNuRW5kT2RISjF6c0RHd3k4YVREYnZJclAyYjZqYWRKVHJUTHA4ZGhmUzhBbXNnWnVjM083ZXVVNm84STRUcjF4R013UUpNR09mU2pHWkc0c1BXVGlWOFdhck9uZU1FcUlLZ0FlS25fR3EtejhNWi14OWxnRGdzRm1RcDMwSFE?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 19:54",
     "date_ts": 1783022079.0,
     "title": "LIVE: Portugal vs Croatia – FIFA World Cup 2026",
@@ -717,19 +730,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 15:48",
-    "date_ts": 1782920881.0,
-    "title": "England vs. DR Congo confirmed lineups, starting 11 for World Cup 2026 Round of 32 game",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1RQd0x1SS1uRklTSTU5Szc0QVhSd3A3bXM2MTVTUDJQQ1YtMl9xLXdEZ2h4c1FPQmNDQlVfYVZ5MnBwMWNGY3NCRFIydXZkR1JOYXVubHBQUVlMUHZKNnhjeG0xUHdJdGlRLW5xUkllNzlleXRxTlFlNzBnQ21RU1Q5eThpZUJGX0pSQmRZekZmWXdCSktHZjNjRFB5Z29qRkxUOFVRME03Y3lhTHFwM3Z5Y2dORWtJWVg0?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
