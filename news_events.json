@@ -26,6 +26,17 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 16:21",
+    "date_ts": 1783095660.0,
+    "title": "Every team's championship odds for the 2026 World Cup",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 14:39",
     "date_ts": 1783089541.0,
     "title": "England XI vs Mexico: Confirmed team news and predicted lineup",
@@ -120,6 +131,19 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 08:30",
+    "date_ts": 1783067401.0,
+    "title": "Colombia vs. Ghana projected lineups, starting 11 for World Cup Round of 32 game in Kansas City",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGEtVmdmNElnUHBYd0NiYlYxQm1IR1JZdnpINy1VSUg1LVZQcENUelJfZGw4Unp5UnE1OEFTYXFSTGVXSjBHYnBOQzdvVk9OcFVmUjNsclRoOTA0SjZRSWo4Qk1GcDd6RHNaTGlzeFpHVjk4ZUFjMW81REh5TUR5T0Y4TU1pWHA4dFVRWXhmOU0yZHY1M1BkN2hLTDNxb3UzQUhrdDJYU1FqWE5WOWNWRnNHbExWVVRZY2c?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 07:03",
     "date_ts": 1783062180.0,
     "title": "World Cup 2026: Nagelsmann quits Germany job; Portugal to face Spain after VAR drama – live",
@@ -130,6 +154,17 @@
       "Portugal"
     ],
     "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 06:08",
+    "date_ts": 1783058916.0,
+    "title": "2026 FIFA World Cup: When do the Socceroos play?",
+    "source": "Forbes Australia",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2pCTEFhdTNGWTVHZ2l5ODZyd1lJbGxQXzRjdnFEZnpRRzJ3UU9ORVpQSHZ1NHphNHVSQXlxMTVnSmxCMUNBMk9XdXRTNHdjT3dpQ0RvYldZZ3RnSjRBU25Bd1phV0NKd3ZweEM4eFNlNXAzelE2UmtyRlZVbURTRzluY1YxdFZ0dXZvVWM5NA?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -215,6 +250,17 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 22:30",
+    "date_ts": 1783031400.0,
+    "title": "2026 World Cup Round Of 32: Who's Favored In First Knockout Stage Games?",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcDJ1LWFpaWpKUTVXRzJXOEltdjJmT295SmpPcnMwNnVaclE5SGs5d1JURVFRb0V1b0RRdWcyUFpSTGd4WUxaOVJHa3lSLXhzVWVtRkxoZzYyOW5ybFlWXzJpcGtzUUtkbnBjWktWdVBWYkIyOUp6UdIBeEFVX3lxTE9STlZfbmhDVml0UjFXRVc1WUkxS3dwVlpNSVJQdmNoZ3BEbHBVV29neW9ZUE5YS2hsdUhRdUwtc0pqeTBlZEI4YkU0cTNyTmYzQWZ6clMxQTI5bmFsU2dROHFsMEhnUXZ5ZGxKZjVpWlRfdjVQTzVGeA?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -683,54 +729,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 02:07",
-    "date_ts": 1782958020.0,
-    "title": "World Cup recap: 10-man U.S. defeat Bosnia-Herzegovina to advance to last 16",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGc2dk5nYklMUTFvZk5OVV9jdnpBSmtyZm5mQlFaTTVHMnBkWUY1OV9kb3ctTGI0ODVwMHM1M0hCQmYxdEhqRll2WFBDMjJPLXB5SFNhXzZHcXNyaXRrMUY4cVNXY0dKSlR6aWJwNDNHelc4NjExVkN5YkVDVkJlR2pyeDBoR3ZYRHF4N1ZEd2tXdThRWHdLclRiR3NLRC0tTDl0N004NHZXQlJLUEFEMmdn?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 02:06",
-    "date_ts": 1782957997.0,
-    "title": "USA vs. Belgium Confirmed For The Round Of 16: Here's What To Know",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDJEdTg0enVYVl95ZjZpanlxWU1YeWlWR1paYTFGRlVSRUlMN3d4dXJucFVTbktQWE9fazQ3T2JxQTdPME5TcUFnN0xDNkhWbXI3QzlNRVZJOFRzenZ6NkdjaGhPNmNSdkwwRl9wOS1aSWxyOXhwOHdHLWhxdi1US2hHMGJWYmRrZ3RPZ3hvMEVzSUpf0gGUAUFVX3lxTE50U25KQXNYSnY3RlZwQ0N1dFEzTlVzd0lNYXhWSVNSMTJOSHVSMTRDOWJXZi1GbHlib0xZSkJkcHhNamMxLUNrdWdSMnRjNFB3S1J3VlRnM0h0R2RYQXJkcGMteFdIb1dBcEt4Q0ZBUTA3Wl9ZTUtMd09sR1VnYlVNTV9sR2ltYUN2Umo0QWZvX20wX00?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 02:02",
-    "date_ts": 1782957740.0,
-    "title": "Portugal lineup confirmed: Is Cristiano Ronaldo starting World Cup game today?",
-    "source": "MSN",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOd3B4S3FEbGI4Z0VUQ04zSk5KaHhpTkttZnBKNURKR1FSWjgwdTV3RC1QTVdvVmFTT3plSFlJZm5LWHh0MmRBWjhaNUpkbXZTUHlYMEVYNGpjOUgyM25Qczd4OExDbmJ1eDRJSnlBT3puZFpRRWNmR1JnLUI4LTVNSjF6RFczMmVDaFdEZ1lwQlhQWEFaaWpPLXE4WFhVci1UdjFUN1JQNHpwZjJ1VmRJTVE3eUhkRjFsQ01pYXVOUjBNa3ZLZWl2VXNiY2pRZnVWQmtXOUxkQk5mQ2JHanB3MlBrTFZVVjlxdkl4Y1U1UVRwaG15cXFlUlllU3hVQ2NJTkxYVmZDT0xfZw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 22:55",
-    "date_ts": 1782946554.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
