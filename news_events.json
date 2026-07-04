@@ -33,6 +33,17 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 02:24",
+    "date_ts": 1783131840.0,
+    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 02:18",
     "date_ts": 1783131487.0,
     "title": "Messi scores again but Argentina given World Cup upset fright by Cape Verde",
@@ -177,6 +188,19 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 21:04",
+    "date_ts": 1783112640.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 20:58",
     "date_ts": 1783112287.0,
     "title": "Argentina vs Cape Verde live updates: Messi set to start today’s World Cup knockout clash",
@@ -184,6 +208,19 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzNlazZ3VEJDMWpmbXdIano5Vy1ka0x6a194Rnp5MkNGbzlZODg5R1J6eEtjOFZfVVVyekJqSmRIR1ZYUm9neDBYd2NJUzItdGVxS28xb0FXNUdLZjgzaTF6dUtaXzR3aTBjaTRBNjkzSExXa2tjVzB1YUJTcUl2QTdValZmbFZPbkF0V0hLWFpLQW14SmJJa1dmVlpPU0JIcVFQYXdqRTZ2SzkzM3pzZnNRSWxjVTBEelBKcHM1cHR4TlptUDBV?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 20:13",
+    "date_ts": 1783109589.0,
+    "title": "Is Lionel Messi playing? Argentina vs Cape Verde confirmed lineups for the 2026 World Cup game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2czQ2RqNWRLQzRsS0M0ZVdzdVFiRU1lRGlCcWotNVZJc0RJMGF3eGM2LTh3ZnphMXpsU2lMdzRBT3puLVhSeVd6cldJSmh1eHZpYUxLSkp3b3ZzUWd6WVVhUGlpYzBLUXQ2SGFxeDRRZ1c5Z0pFTlNpX2NSNDFqRklTYjJKVjZzZ0hwNkFTaWVEOUlQcDFGdW8xZlVFRldiNGxjaVJvSndrRV8wNkVzeXhhcUtYZW5PWGR4RFp6dGRfaW9nUmxKc2NUcXLSAdABQVVfeXFMT1pSTDNTMi1OY2x5cWt2VjVKT2pLR0N1VGxmVGtUZ3g5YlNnLXdCaU1DMVNvUHZ6Y2hwM3ZWTG1NcmZ5X0d2ZG0yRzFFa3R3THpjazNVNER2UkxaelhqcnZmeE5mQlNCODRWRGZ6c095aV9hZHBWU1FhMUlJZ0NjQnc1MnZZREVMcDcxaVdPanFTS3V6NmlXOHppQnhGZmI1ZnZMcXBUMG5oTjBock44UWJBSzROZzFONExaUXpsMXA5bDZWTG5uNDEwQ1QxOUFpTQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -683,43 +720,6 @@
       "Portugal"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 19:54",
-    "date_ts": 1783022079.0,
-    "title": "LIVE: Portugal vs Croatia – FIFA World Cup 2026",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTlZnaFBNYXItcm0yVWdSUU9FeTRCSHc0QWw1Umx3UEFJUTNlUHdjRjFfTlN2bjlnaXNOeWt6bXVCUDBBRXkyZGVLRTBXNTByUWhHVEpEX1M0UDdFZS0yOFNtcm4xd0RaaWVKbFpSYkpfbkRBRkFZenYyWDEwcGNTM01jN3dycHI2X2pxVDRyN0NOYWVTOFpxMmIzZ9IBoAFBVV95cUxOaWF4QmJsR1F2UkhsNE5sQUt2STMzcmlOdFlFMWVndk8wVTF6WG9sYm5fLWxWbEJMeGVWQ1hPZnlOZm1paGRoTVp3ZXNFTm9TRWQ3UzFENGxYUEhDejZCeEpScEk2THFJeEFpN3RrX1ZDN2F4U0NjdlpaYUhUWlhULUhmejJYX0EyS0tWcFlCdzBXTE5DeXQ1dUJ3YV9XcGFf?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 19:37",
-    "date_ts": 1783021069.0,
-    "title": "World Cup 2026 live updates: Spain leads Austria 1-0 in first half; Portugal vs. Croatia follows",
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0ZHR1l1Sms0WTRFTXlYTHozZjdTcFc4bmt1ejY4RVhGQXhOLXgwT1hZUGV2QlA3Si1YVWYzbEJqVjNMei1lT25KZlRhQ3ZkQjJSZkNfQW1nWExvdS02eGx3WGdzQmxqSElrY2FNS1pUMkFnMEI0SGJYRGlzSlRBZHR6NkF5a0VfTGFMbUJld041dVNncmFGV2JvMk5wWnlFdFE1SXJfNA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 19:30",
-    "date_ts": 1783020627.0,
-    "title": "Spain vs Austria live updates: Yamal denied penalty in 2026 World Cup knockout clash",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdllSVy1xUzNWaXk5Z09icVcteVRVUnFLUU5ETllGbmVvQnRmRno5aWFiby1ia3lCemsyeXZ4N3drNjVONVVaSEg5bG5Lcl9XR2hWa196ZzE3a0tCX05QNmpWMlo1MEgxU3V3Y0hUTGJnY0FsRWt4V0tFY2NFV2FNaW5oUG9kYTdabkRGQ2JITTE3TUxiYXI0dHJUZXd4eEQ3RnBGcWFTWm5IT05OblVyNnItdzFBQQ?oc=5",
-    "teams": [],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
