@@ -1,5 +1,32 @@
 [
   {
+    "date": "04/07 19:57",
+    "date_ts": 1783195056.0,
+    "title": "Norway XI vs Brazil: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVBRNTB6Vkg1d3dnZC0ya29YdlVLMlpoTEQ2M0V1R3I1Uno2TlRiSkdNMVVyRUJWck02c0lSQ0hEcV9tSTlkNTZydkljVGVkc1Q1T2ZGSlV4VlNJZGVZMzc1LTJlNEJyT1hfSlRrT2Z0TkUySlJJaVUwNHZ6ZkhFSzdjN296SnRiUXhxTjZjcThhbDJQdTlQY0xrd0l5TTNjZEJxQlYwSG1WRW9POXlBczhjdy12YXB0NlNrZW5TS0o5VWlNcFl1Z0xhYms0SUVPUDlaUHBHYTY?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 18:56",
+    "date_ts": 1783191390.0,
+    "title": "Spain XI vs Portugal: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
+    "source": "Yahoo Sports UK",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcV9KMTNrcERsT29qXzZ6U2t1Y2dnWkZSdWVrNXh1YTZ3azdZTS1Xb3pJc2gzX0g4RFlIaDhNSG1lUDN1bUNPcmc3MWFaU1FZRjJZdXBOWTlDd25uZXFTSEMzT0pRNWxmUmhKTzZybE52RnlZNXE4WFh4dUlPbFVHaHFHUWc?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 18:00",
     "date_ts": 1783188000.0,
     "title": "World Cup bracket predictions 2026: Our pick for every round of 16 game",
@@ -409,6 +436,19 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 07:23",
+    "date_ts": 1783149780.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 07:05",
     "date_ts": 1783148732.0,
     "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
@@ -687,41 +727,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 22:39",
-    "date_ts": 1783118371.0,
-    "title": "MESSI MAGIC ⭐️ Lionel Messi Scores His 20th FIFA World Cup™ Goal For Argentina",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNVNvcEhRaGRyOHI1b2dibXRPbEdXcFdIOUZGamNwYU0wdWlyemY1SXJla3ZGVDJNRWg3RFl2Y2NEQ1VIdkdxd19hODhlVXRpdUtUZm9iUkRsWHNRNTJxWm5R?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 22:06",
-    "date_ts": 1783116360.0,
-    "title": "Argentina vs Cape Verde LIVE: World Cup 2026 updates as Lionel Messi's side face Vozinha in round of 32",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUlpVzhoSnNHX0JIZHBiZkVybkFLQXVSdmpNOFpkc3QxUFRwUTF4TllEazBwUGJHeGdoQlFya1lsLXlhd3Z1RGxwOTVQNFlaNm5VMUlwWnl4U3JCVkFWUHkybGRBX1RTVFFIck45Q2hNaGxxU1NNYjA3R3ZMYUt6V1BUY190cDNCWjVFSllzNGxKNFZWcjQzZU5ORjhoUDZhT29XRXJCbW9KX1FISzVjZmFmQW13ZzRlbTZqT1VheU4tTVZmZGl2QkhldzMyRUE0ZU5XYXBvcw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 22:05",
-    "date_ts": 1783116312.0,
-    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
