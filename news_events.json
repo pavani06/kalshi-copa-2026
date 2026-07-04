@@ -1,5 +1,29 @@
 [
   {
+    "date": "03/07 23:10",
+    "date_ts": 1783120200.0,
+    "title": "Klopp confirms talks over Germany job after Nagelsmann exit",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVZzODh6YVJ5d0VOc2dTR2JLbDduYUNsazR5SG9vLXgzb0VaeElSZ2FuMWxjQTQxOEJrcUlxZE1KV1pJVml3NHJaU1RIVkVJSFhMTDlKclZRSEVGblFpUVotOVZRRlk1a3phQ19ua3drY1A4RFVuODIweGlTUmlFMjJvUHFIN2VTazdPeXBrT0FtZw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 22:39",
+    "date_ts": 1783118371.0,
+    "title": "MESSI MAGIC ⭐️ Lionel Messi Scores His 20th FIFA World Cup™ Goal For Argentina",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNVNvcEhRaGRyOHI1b2dibXRPbEdXcFdIOUZGamNwYU0wdWlyemY1SXJla3ZGVDJNRWg3RFl2Y2NEQ1VIdkdxd19hODhlVXRpdUtUZm9iUkRsWHNRNTJxWm5R?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 22:06",
     "date_ts": 1783116360.0,
     "title": "Argentina vs Cape Verde LIVE: World Cup 2026 updates as Lionel Messi's side face Vozinha in round of 32",
@@ -21,6 +45,17 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 21:34",
+    "date_ts": 1783114443.0,
+    "title": "World Cup Round of 32 bracket: Results, schedule, matchups and how each team qualified",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXhadlZsb1BYcmhmeFBTbXZqS2FUOHFXMDN0MjN2WWVoZHdJdXZSZ0ExajJzblJBSm93SEZyMndUV1pNLVNjYVNvVHJxdmVpZWprYzFpSHN1Z2FOZ2t4RnZJTnNCYjJrMmNOUlI0cS1iS255MHVDSDBValpMekNyY3pVWG02TkRReUtVMzVfcktwQ2hxMGE2X0ZsLVRaUy10VG1FSlRBaG9SMlhoZ2R5aHN3MmVrYzlHY1E4RXA3d3dOQW45aXBsUEZQRUtVUEtPd2gzdFI4WQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -689,45 +724,6 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZTlnX0xPQ3NyaTVuZDV6SUljQUMtYVZTNk1DbTZOakNPN0ZGRU9QaGZBSXEyVDJGaUtILVdOemFtcHVLT1V0VGt6REZGN0lQMkhMZlVrNlVGOUdmZEtkNEItN3ZjdW84MGU5MThTdFJTeHI3c2RpXy1vb2p5QzUzcGZSbnY4RTBja3c?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 12:09",
-    "date_ts": 1782994184.0,
-    "title": "Portugal vs Croatia lineups: Predicted XIs and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNckQxOVF3YlNiOGxxdjN0WUxaRmRzakN1MTJacVBQVHJ5dUVKWG5HUkZFODZ6T0JRWTY1MlVXUks0c1NjbjEwOXdlSW9PQWRqN0NYcGJPeURHRjAxNEQ4cnNrSnVja05kQnZ5Q2lxaDJMdFNtVTNnU1RHRUlNU0k1Y2t4YXIzbmNUUG5WcTFnT0FVVFQzM2FhSmFIZVhmclpSSXJaMUt4Q3FZQktGVGZaR0FGSHBnWDFRRnV4akdiMjdkdnpQb3B1X3VnYnhRNkJKam5CY2V2T2Z3NjY4Z1RJZG04VQ?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 12:05",
-    "date_ts": 1782993900.0,
-    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Spain, Portugal, More",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXpmWXpVeHhyUzFPOVh2UVB4dldZVnBEVnpCX1V0VGpURVAxeHlPWjlPYVVWRUVZbzZjQmNkWW9KM0ZtTFZLV3lJcWhrRmY5ZkdpcDRrM09YV0pJSjVRdHlkMkYtWnh4SnVIclRHcFc0ZzdYYmhEdHVnaFV2NE12ZFJvQ3AxcDBJRzdfRnlZU0FXNlNDNVJxMWtuV0FrenBMVDRqZmR4TWJqMUlHamIwZTY5UTM?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 11:53",
-    "date_ts": 1782993180.0,
-    "title": "Where is the Portugal vs. Croatia FIFA World Cup round of 32 match?",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZ4WHEzNVhaWWxlZzBfV0dxZU54MmRYMW4xWXhsZU9XdTRkWjF3amNaMWxLQ0NReGZqeHIzalZaSi14STVmX3NkcW9iYmhzdTR4UVVESWt3SGhVa3BBa3NhdWZvUlZ2TG5INUlMOXF0X2ZvNW1nVGd3cmtMd2J2TGRDeU9LSVg1Z0FkY09TLTU1SzVRUl9sLVZNYTRlbENiY1kzV2RLell1a0JhOHZYY2VVWWs3MjlVTmR1bWxaOA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   }
