@@ -1,5 +1,32 @@
 [
   {
+    "date": "04/07 14:17",
+    "date_ts": 1783174620.0,
+    "title": "World Cup 2026 today: Live updates, news as Morocco face Canada, France take on Paraguay in Round of 16 - July 4",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZDBwRjBocDNsOEJyUkRHNDQyZFNDNk9QYlF4U1g3c2ExQ3RNWU9Bd1A3WHdKazFNQWhiUzhsZ1p6eDVQaFB5QlBZR0JWcFc3Z3RuaGtoU1g5ZU9aNlM0aWFwQ3g3RUtiUS1OOVhmbnZJMjVXdml2cTJ4bTBhTUdpZnBTTEtmelB2VFdJZGpqbk5JNUo3alpkVkNBeExINEZHWGZ1RE5CZFhBTlBFMC1FajVSaXhLNGxlSXhkTlQ4a2NmUDl4T0IyWXJXVFVqTFVVeU85a25rUDhlMjVzQ3Rmc1ZkN0xqUQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 12:41",
+    "date_ts": 1783168863.0,
+    "title": "Brazil XI vs Norway: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmFldG81TUM0R2pBWDZHODBGX0NNcVdmU3RpZ0ZITU9rSEJFdU91UlhnVXl2X2ROdE9JUWJCU29lVGxwU0ZIdnRCZGkwUkhhTE8xUk1Gb3NldkhNVm1HdmdIOXVmTTV4d3FPNE45XzFSUy11bFlGRFY1NGw1WlgtdjVuX2RBZXpfUkgwV3RmMjJCTkpBMFlSRXdocmlieXBqX2o4RV9lTnk3aXRfWW1JRlpMYUZ4dTRiQWRxdzhiRjNtUXpXcUZlRlY0dngyRWdCWWFWbElHbzY?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 12:27",
     "date_ts": 1783168074.0,
     "title": "Brazil XI vs Norway: Confirmed team news, predicted lineup, injury latest for World Cup 2026",
@@ -8,6 +35,19 @@
     "teams": [
       "Noruega",
       "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 11:31",
+    "date_ts": 1783164716.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 16 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT19ocmJUWUVZaUEzcVViay1mMlJvdEd5R0hCaFdEVG5NRzFNQUE0VkhhQXJRNjJCZXZiTmVGZUM0ZUFuYVV5RFMyOTExM2xYeC03YXRqTzhQajhWcWlCTHdKMnpRSFFMbUpBN1NvUGlfdDJGLU5KV1F1Ql9JWUgyR0xSZS10VGdxalNhaXUxQXliYk1FWmV5Tm1qdy1VRDZTWDYwSjhVM05PS1NOWUJmbDZiZFQ3bmlNdENuV04yV0JFVzdDaUVnWDdVcERtU05VUlNoVFJlRFNVejJxUVFMOEx5WQ?oc=5",
+    "teams": [
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -101,6 +141,19 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 07:05",
+    "date_ts": 1783148732.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 07:01",
     "date_ts": 1783148472.0,
     "title": "\"Vidente das Copas\" aposta em vitória do Brasil sobre a Noruega e duelo com o México nas quartas",
@@ -146,6 +199,17 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 04:03",
+    "date_ts": 1783137780.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -656,70 +720,6 @@
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUWN5V0ZhVmZiN1M2b2p0amVMQXUxVGlRSlpfdUV6SmlISmpPZXdrU3pxdXR5MmxXazJmNjZUWDBHMEdpVlA2NkpWV3FOelJJZGpHeFR2WXV3MmM4eDZabVhlcDFRZHU1RHo1STNXUUJ4bmlNQ2hWSUpwYWdybDF0Y3FSQlIwcFB1clBRNWhGZnFLNGtuTmp5eXBuSUp0MzZGZVYxblhkWWNib1RjUVHSAbMBQVVfeXFMTVZaRTBmUXU4VndESHktbksxNGotSDB0ZlR0WEZreWRHVVVBWXFLb3laN1lCb3duWGtBMmoxMlhrTFlfb0hoekwwSGRTZ1VBVjRWVE1oVmhwQmFjSG4wLU1hREJyT1ZVMUVUZzluY3paSDl0V2tTZ1dCejlVNFJOMVh5WGkxTExqZnp3cEcwWlJOQWdQNjk4eVBEY1hIN0xYNC04Tjh0YVc3Z3VFT3U1OVRYZEE?oc=5",
     "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 09:02",
-    "date_ts": 1783069349.0,
-    "title": "2026 World Cup: Schedule and scores - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 08:30",
-    "date_ts": 1783067401.0,
-    "title": "Colombia vs. Ghana projected lineups, starting 11 for World Cup Round of 32 game in Kansas City",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGEtVmdmNElnUHBYd0NiYlYxQm1IR1JZdnpINy1VSUg1LVZQcENUelJfZGw4Unp5UnE1OEFTYXFSTGVXSjBHYnBOQzdvVk9OcFVmUjNsclRoOTA0SjZRSWo4Qk1GcDd6RHNaTGlzeFpHVjk4ZUFjMW81REh5TUR5T0Y4TU1pWHA4dFVRWXhmOU0yZHY1M1BkN2hLTDNxb3UzQUhrdDJYU1FqWE5WOWNWRnNHbExWVVRZY2c?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:20",
-    "date_ts": 1783063200.0,
-    "title": "Colombia vs Ghana Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdEVYVzNZVFV4QV96SjlEdDVabHdfajVhdWdwV29jamJBcmZLMnl0b1V0WUtQcUpBMG45TjJWTG4wVzRmTTBOSkNHTlpuZ05GUFFhNko1MGpfUXRfUzRWdWN5RnN5YURhZzRha1B2MUpranM3NTZsVENNV3ZIczFHc3lpZFc1cUFnSUExT3FJUlZDVHBFUWxpTFpqUGprVzNSR2xYdnVHdWFXRnJ6ejZzNjBYWDVKRFBsM3N6eWpZSWFLOVRLdE4tb2xxR3V2RThaZUJCWEZyeTJtNHI5Znc?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:03",
-    "date_ts": 1783062180.0,
-    "title": "World Cup 2026: Nagelsmann quits Germany job; Portugal to face Spain after VAR drama – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWUw4VTBPdWxZVkxnekZsa19peHB2VDIwM0dVRm1tNzJuSmdNZ0F1RjB2cVpCSkVJdFAzUmh5cnRhZVdKc3dkdC1LSGl4S3lhRHNaSDR5S1VLZG04VW93ZlgzWTRjLUFYbE5xc1dBWEZYVkdLMUg4bWZmN3BBYVlNWnNrTHVfbGp3Mnl4TGxkQ2xaa0U0Zm50NGw2c2RVUUluV1ZWRWRwdWI3SFU4b2JKYjhVVkZIdTh0ODlxTThNdk5uQVRfV1l4emFraGZJMXAtR3p1RDl3RGFjX1RreWlUUzk0dE9OOGc?oc=5",
-    "teams": [
-      "Alemanha",
-      "Portugal"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 06:35",
-    "date_ts": 1783060500.0,
-    "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
-    "teams": [
-      "Brasil"
-    ],
     "category": "bracket",
     "impact": "MEDIUM",
     "source_type": "news"
