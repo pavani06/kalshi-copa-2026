@@ -70,6 +70,17 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 03:00",
+    "date_ts": 1783134043.0,
+    "title": "World Cup 2026: Cape Verde say goodbye after defeat by Argentina",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81OG5UN00tNXN2aE41ekU3TG9YQW5KcDVORWVydmJVcUFveWlwTUNLejJVWGFJZDc2M2RZcG1VVS1XNnREUFRjREo0TlkybHFmckpJWlJCY1VDTHNIcDJFLXJJUnNxX1U?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 02:24",
     "date_ts": 1783131840.0,
     "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
@@ -173,6 +184,28 @@
       "Alemanha"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 22:51",
+    "date_ts": 1783119060.0,
+    "title": "World Cup 2026 bracket: Latest Round of 32 results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 22:45",
+    "date_ts": 1783118700.0,
+    "title": "How Egypt beat Australia on penalties to reach 2026 World Cup last 16 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGFGUXZtUzl0bzZNcHhaaHFmdTlTOW1hNWR4NnpvUk0zZXhaT01ITDFkMkthaXpJamRfOTk2MFdVVHJrRGRVSW1tS1l1RmlNejFLa0NiNFQtUlhkMU5mc0l1aVp2VkJsMmlRN2NLazRjVlRWN1VTYnFDOGFGMnJCMnl3czZzbnlCLWlSYUtUeTZmV1VSeWVzRTdXbTZVa2pEd1ZOa2hQejFKRE8weG5QbVRkN0tuUmFo?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -683,43 +716,6 @@
       "Noruega"
     ],
     "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 22:30",
-    "date_ts": 1783031400.0,
-    "title": "2026 World Cup Round Of 32: Who's Favored In First Knockout Stage Games?",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcDJ1LWFpaWpKUTVXRzJXOEltdjJmT295SmpPcnMwNnVaclE5SGs5d1JURVFRb0V1b0RRdWcyUFpSTGd4WUxaOVJHa3lSLXhzVWVtRkxoZzYyOW5ybFlWXzJpcGtzUUtkbnBjWktWdVBWYkIyOUp6UdIBeEFVX3lxTE9STlZfbmhDVml0UjFXRVc1WUkxS3dwVlpNSVJQdmNoZ3BEbHBVV29neW9ZUE5YS2hsdUhRdUwtc0pqeTBlZEI4YkU0cTNyTmYzQWZ6clMxQTI5bmFsU2dROHFsMEhnUXZ5ZGxKZjVpWlRfdjVQTzVGeA?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 22:11",
-    "date_ts": 1783030271.0,
-    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 22:01",
-    "date_ts": 1783029672.0,
-    "title": "Why isn’t Joao Felix starting today for Portugal vs Croatia at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDBpT0VSbTRIVXMycE1Hbml2VERMUmZYMkhnZ3d5WVVPbDdHVlhHOExDQU1HaTFYY21FMHhJMk5JNU5JM2t4NFdrZy1pRGZOQXpzRlJTbU9iaU5rWVBPLXR2V2NSWEhmUmtZRWQ5M3c0eFVIZ241SGZXTHpJQWFzYTk3U0s4X3doQlVfcUp3eUt1RTZvaDhoNkp5Q295S3dDdE4xR1YyOFZENmlzaENLQUszUdIBuAFBVV95cUxNc3JmVy1VOWwtdWdlSDFFaDZsVnZBQTM2dzVHc0lJME1uNmRjOEVDZHpzaE5yYU42V2dpSlFCMmtfRzJ1empZTEwtTmtJMkhxVjItSDlILWF5dW1fYllhbGs0UkI5dlhUMEpKZ1VGdG9sQjljYzE5WHM3bVV1RldndVdzRnlHWWZ4c3Y5QXdwaGM2cVA2b2lQT3V0RzE0VllxOFFIeHJReWJwdm90eHBrZjM5OGQ4RXhR?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   }
