@@ -1,5 +1,29 @@
 [
   {
+    "date": "04/07 11:00",
+    "date_ts": 1783162831.0,
+    "title": "Do 7 a 3 ao gol de ouro: os dois capítulos de França x Paraguai em Copas do Mundo",
+    "source": "GE",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTFpheUtvNzBid0hrTWllNkVDckEyVXJjVmI1RFhBTEdQQ3o0b2l5N0ZvOFM3YmJSYVBEY1ZNUzQ0SkU5N21XUUxfRnFtTnhjN0VkS1JRMXVIUUx3UTNsZWVUcWlaaFlrZ3N3bFpyQ2ZJUWVLaHVCZjh6aFpPZkZWWmhtOHl0ZXRVTlhvOHA4cW1TZjFnUWhabl9BWXF5UUlJYWhndVpnMlhINUxoMkZhVVZNeDk4cm5ZNTQ1RGpOMTlOVjdXR2luczN5cDE2RGduelhwYU5zdTRvdlNic2xzVUl30gHwAUFVX3lxTE9rMmRucWRVcjdBNkZUT0t0bTZEZVhRVGc2aGlPR2xNZmQ4MnhMblFFRnk0a0p2ZWJueGJvME1qRUwyQ0QtaFNYNDVUY014cG55VElXOGFrbXJjU3ltMW9GbTQ0YTZCbC1VeHE1YThuY1piQ2RoVzBJQ3R3SlpmUHBRR0RHX0RzeVJiNTJmM3U5N0FRM0h2aXhPTkRLNHV2NG1OeG9wSHVIVFZROXlJbzhuZXNfTDRHZzMxdUdaMl9hV3BlT29Zel83NkJzdHg3cVZkbVIzd1YyU3RGNDRudXRnVlJCOVQwUUNLaTd3V3QydA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 10:36",
+    "date_ts": 1783161390.0,
+    "title": "France XI vs Paraguay: Predicted lineup, confirmed team news, injury latest for World Cup 2026",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnNOcVdVbzJkSmVrQ1pjMG44YXZnM1dDd2M5ejIxUGMwaGNyNy1XUDVkdGdQTFM4Q3NyTEt3cElHclhvcE5EYzhTTW94VmZLNWRyWG13dV8wUHhET1lXVWVEbjVZZFBEQUxDUGNfdi1qdENEV3BCeW5PM2oySWg2TTJzUXgwbXhoQU5oanAyVlo1bnlMM1htUi0tTWdCbXN5NHNpWjNtczJIUWNuLVRZM2VkWDVWSjJRdlljMkJ4bFdxR1g0UWx5VllLekFYeUVCWUVLcA?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 08:28",
     "date_ts": 1783153701.0,
     "title": "Palpites e dicas para Paraguai x França pela Copa do Mundo",
@@ -692,30 +716,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 04:35",
-    "date_ts": 1783053300.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNExLUnZXZlpubEVkN1E2NGFCLUc4T3pyakhETnpSdC1BU2l1WFREcFhadUI0MTRLMkJiQktzQ3JyS3lEX3k2a04tck5kR1REZ2tSY0E0LXFGQ3dPV1hWd251SkMyTUR3TmxleDZhQW5XVE5fU09WWmxhNktXVi1yd0Z5ZVBIVEhIXzVIcVFZM0gxRjMybndKZXlCaEVGNGlTbmg4b3h0NTdzU213VHA3Rzc3R2NqamY0d3N4LUc5TngyQkNYTnc?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 01:43",
-    "date_ts": 1783042980.0,
-    "title": "Portugal vs Croatia Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41RVBBYjdUekhJY2hEaDhXQWRGTDh4dkFhZVhYRUtpTXJadVhqMUNpRFJKZlZWUXB4dFVUUF9ZX1J5NVpCTEZBMDdfemlfRHlKbGRvb0JGS19YeTNOTnZQZ0pB?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
