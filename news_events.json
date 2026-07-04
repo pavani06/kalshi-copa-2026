@@ -1,5 +1,16 @@
 [
   {
+    "date": "04/07 18:00",
+    "date_ts": 1783188000.0,
+    "title": "World Cup bracket predictions 2026: Our pick for every round of 16 game",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3d1elk4c2xlMUViU3VmVXY0NnlOMWNQbGhhRUxpYkp3dXk2N2hsZlZHbjRocXI2TlFaaTRsNVpOeW1MMG5QVWpCbVU5alV0dzFSTUx0TFNzR3pxOUswX2stUG1URlA2YUNaUGt4UG9QdmM1NTY3QVZ0aUl5clgyQTB2bFh1alZma3ZXVEw4aHVnSm1YbS14M2RJd3hVcDRsNGlIS2x4UU1FTFp6Z0l2TFFSV2dkZkRhMFlmSlgtUU5wS3pXbnQ4V2VYWW00YVdyY2c?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 17:31",
     "date_ts": 1783186314.0,
     "title": "Canada vs. Morocco live updates, score: World Cup Round of 16 action begins",
@@ -23,6 +34,30 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 16:50",
+    "date_ts": 1783183823.0,
+    "title": "Lionel Messi scores 20th World Cup goal, extends streak to 8 games and takes Golden Boot lead",
+    "source": "PBS",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWdSNUFlSGNGeXlyWVVjVDFnZjVSMFdjVlIzNkFwNV9oN1RTcVdnLTM3Z29CM2tiRWVNalpoNkt0Y1lPN01vekhISzhHSGdCRnVzbmZNS0JvT2RtSEx6cEMzd3lRY0lZQlhFRl84MjZ6a3dpNVlNUEhYZm5NcjE1cHJQRGdna2daMEpNY0xFcWhsa3ZJLXFfdC1qbGlFVDU5Zl9DazY3alU4N2JIMWVzbFNkdzNNd2lpVlItLU9EWjhoa3RwMXfSAcsBQVVfeXFMTTJLRUp1ZThIWF9oeURQU1JpOGpob2ZHZmZNdk5MWU9TV2hKOWM5XzVEaHNIeEhCLUVWejdGM1RhcDE0M1hNaW5RTmhneXpHRmtfcDVsQVVuVXU2NDhIYjlXS1hPVEJNdHdBeTUzNko5QWZMOWFDTGgzampIV2pQYjdLWm00NzB4cGRTZFlMaFZINlhQOXhtbnp6by0xVjI2Yk9RZGZ2TWJLakpJbHdQR1JoZ1ZaM1BEVHliaDRxaTI5RGdRajduMTZicHc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 16:42",
+    "date_ts": 1783183325.0,
+    "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTZ0OXJPM3lBbkxpTy1rR296WEkyVEphRVRHckF5Rm9ScEdjcmJ2WUtod01JcDhiM2NpZUFTQVd3MFhrLXhjX0JMOGVEYXhPX1dWOC1DWVVZMFhrTTlHRC1tTFU5bU4zazZMak9POVlOaVJlV1p6MGxVaHUycF9JT2xSZnJWNE45YVEzbmhwd3NHNmtKNG5GNzlXMkY2c0JaSl800gGoAUFVX3lxTE5LVko5NzZmMkJUS0YyRGpxaVozNmYtRTNyb2ktcVduWGYyRVp4X3E1b0dlU2xHWm9CZG9IN1Vuc3owcU9PeWNDb29SX1hid1NtVTZ6c1hjNmRvb1FET080Umc1YThwTlRCSXFjX21MS25wYnNBdzl4Tlo1OTl4TDV3MFNEUWJ6VWtSTmotY3J5MHRrRmV3endZNEtRblR0V1FtSmdXVHNXVw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -104,6 +139,19 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 15:27",
+    "date_ts": 1783178825.0,
+    "title": "England XI vs Mexico: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN2ZITHY4bEJ1b2JsYVhxUjl6bllFU2VqbE5TMnRZUkxGMVBSUHFpNHpWWW14dGVfVTAzSU9WY0p1elMtS04tdUdNSy1JaHhSajlwY1NiaWR6T0FEOXhFT2hxR2Y0UFNndk5yczhUQlV0U05GOXJFY2ZfSV9TLXFUMXA2aDM4WVRrWXdmMmp4WjZ6aGVXd3NuV2JuSTNnNGtPOUNLMzlSQjRBcm1DYXZYVGI1M3h0bk9ULUZ1SmlGYVdNRUFzSE9OTmZvb3Itb2JiZnlWb3hqUjA3UQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 14:24",
     "date_ts": 1783175041.0,
     "title": "So close to tournament’s biggest shock: Ranking every match at the 2026 World Cup - The Athletic",
@@ -138,6 +186,17 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 14:04",
+    "date_ts": 1783173860.0,
+    "title": "World Cup Round of 16 bracket, schedule, live updates: France vs. Paraguay kicks off second round",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGtPWnlUcUJZWk01Sm5DVkVkTzNhekppUnhJbTByVjRFeVZDRXBjVjlGNm01aW1jVnR2Ml9vSm1Mb2xTX2d2Y3JFdWdFYW5Sa0FCYzQ3YVBtMS1kdXNSZnllenp5WEtQY1h1aWdRRS1ObXRGRkZrSlJ1MWxDTHpFS2NneGU4Q2s1Qmg0VTBzc21ZZm82OWttU0Y4a0NvQVA0cmJ2SGVyYllja2ZTc2dkZXhMNXRaR1hEWHJMN2xCV2drR042SmdsZ1hlWmNraEZiUHFxbFhtZ2RkajQtZ3c?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -212,6 +271,19 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 12:06",
+    "date_ts": 1783166760.0,
+    "title": "Jurgen Klopp confirms Germany talks after Julian Nagelsmann resignation",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMS1sQUR2Mjg2NlBiME1MZU5qdXpzcWJaMVo2WTE0d0tKMkt3V1BoNGhrdTM2RmNEMVc4eFU5cW1TU0w0LU04Zkw4VDdUZ3J1ZnZMOXBnT1dCWFVSdXhUU0tLRV90Nlo5aFJ5T2EzZFpJb3VLZUJITzZoZkg0SUdya1hDZGdlTjM1MHMzd3U2X2MwWl9kS2JtWjc1NjR2MG53dlRZYkVyVQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -650,83 +722,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 21:34",
-    "date_ts": 1783114443.0,
-    "title": "World Cup Round of 32 bracket: Results, schedule, matchups and how each team qualified",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXhadlZsb1BYcmhmeFBTbXZqS2FUOHFXMDN0MjN2WWVoZHdJdXZSZ0ExajJzblJBSm93SEZyMndUV1pNLVNjYVNvVHJxdmVpZWprYzFpSHN1Z2FOZ2t4RnZJTnNCYjJrMmNOUlI0cS1iS255MHVDSDBValpMekNyY3pVWG02TkRReUtVMzVfcktwQ2hxMGE2X0ZsLVRaUy10VG1FSlRBaG9SMlhoZ2R5aHN3MmVrYzlHY1E4RXA3d3dOQW45aXBsUEZQRUtVUEtPd2gzdFI4WQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 21:09",
-    "date_ts": 1783112982.0,
-    "title": "FIFA considering moving World Cup kick-off times for Mexico-England, Brazil-Norway - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWjBLUUtkQ0dnQnUyOEdMLUNVUXVnMFBBNVVXbDJ6QWs2TldxUkNpUUFJMzlaVnBWbE1idGtSZklOckpNWVZGSXJ4bGFDSWV5WXJhdUZ5bkdsZGljNlc5Sk95ZzEwVWlqWE10UU11dG4xYUJMSS1hY3FGOUxLZTJUZVRMQ1B5UDJmQUdjcGhyclJoQWF6MFE?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra",
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 21:04",
-    "date_ts": 1783112640.0,
-    "title": "World Cup 2026: Which teams have been eliminated?",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 20:58",
-    "date_ts": 1783112287.0,
-    "title": "Argentina vs Cape Verde live updates: Messi set to start today’s World Cup knockout clash",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzNlazZ3VEJDMWpmbXdIano5Vy1ka0x6a194Rnp5MkNGbzlZODg5R1J6eEtjOFZfVVVyekJqSmRIR1ZYUm9neDBYd2NJUzItdGVxS28xb0FXNUdLZjgzaTF6dUtaXzR3aTBjaTRBNjkzSExXa2tjVzB1YUJTcUl2QTdValZmbFZPbkF0V0hLWFpLQW14SmJJa1dmVlpPU0JIcVFQYXdqRTZ2SzkzM3pzZnNRSWxjVTBEelBKcHM1cHR4TlptUDBV?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 20:13",
-    "date_ts": 1783109592.0,
-    "title": "🚨 Fifa may CHANGE Brazil v Norway kick-off, here's the scenario",
-    "source": "OneFootball",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFliNVJ3cEQwYk1QVG5EMUY3ajZSYnplTF8yN0dlRmJkaUlQQ2NuYlBfTm81R0xtbFEzajhtM2VSUHRhS3N1RFZ6TXprbG1mODR2QVd3Y3ZaY1kzY3pKMEdpVXg0UVNGRzAxbGtmWVdoTXVXeVVfOGpFdF9lZTZXNnBVdzFSSTdQZnFJY2hOTjF5TUsyb1pmQlhMbU4xS2ZweFE?oc=5",
-    "teams": [
-      "Noruega",
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 20:13",
-    "date_ts": 1783109589.0,
-    "title": "Is Lionel Messi playing? Argentina vs Cape Verde confirmed lineups for the 2026 World Cup game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2czQ2RqNWRLQzRsS0M0ZVdzdVFiRU1lRGlCcWotNVZJc0RJMGF3eGM2LTh3ZnphMXpsU2lMdzRBT3puLVhSeVd6cldJSmh1eHZpYUxLSkp3b3ZzUWd6WVVhUGlpYzBLUXQ2SGFxeDRRZ1c5Z0pFTlNpX2NSNDFqRklTYjJKVjZzZ0hwNkFTaWVEOUlQcDFGdW8xZlVFRldiNGxjaVJvSndrRV8wNkVzeXhhcUtYZW5PWGR4RFp6dGRfaW9nUmxKc2NUcXLSAdABQVVfeXFMT1pSTDNTMi1OY2x5cWt2VjVKT2pLR0N1VGxmVGtUZ3g5YlNnLXdCaU1DMVNvUHZ6Y2hwM3ZWTG1NcmZ5X0d2ZG0yRzFFa3R3THpjazNVNER2UkxaelhqcnZmeE5mQlNCODRWRGZ6c095aV9hZHBWU1FhMUlJZ0NjQnc1MnZZREVMcDcxaVdPanFTS3V6NmlXOHppQnhGZmI1ZnZMcXBUMG5oTjBock44UWJBSzROZzFONExaUXpsMXA5bDZWTG5uNDEwQ1QxOUFpTQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
