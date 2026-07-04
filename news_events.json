@@ -14,6 +14,17 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 19:06",
+    "date_ts": 1783191960.0,
+    "title": "2026 World Cup Round Of 16 Odds: Who's Favored To Advance?",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05QWs1QkxTc2ctdUZhWHVCWVZEd09pWFd0eUhUN29wMUZSU3hoaU13c1V3X3VjZ2VIcXk5X0hKMzhGZlU2RWQxLWlNc0diN2cxYUJQNzVDd0dtNF9uNC1NR2lHMlZOM3FBUXB6ekV0ak1rUGdBejFPQdIBeEFVX3lxTE44Qy1YT2NsakpwWUoyU2RqRzg5UUoyOExITDR1M3dRaDVZNHg3NW5qWURTbGVmdVNhZDg1MW9WU3VRWUZDa2NVU3JvdmFYMGFfekV2dWZmV0dhbXVudVRjZEYtZ203VjEwLVRTcFVZLW1YOFJ6anJoMw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 18:56",
     "date_ts": 1783191390.0,
     "title": "Spain XI vs Portugal: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
@@ -22,6 +33,17 @@
     "teams": [
       "Portugal"
     ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 18:00",
+    "date_ts": 1783188014.0,
+    "title": "Paraguay vs France live updates: World Cup knockout game latest as weather threatens kick-off",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXM4UVVaUzV5WUN3SjZ6OXhVMGloQ1BxMDBIOUhRcVRFUVR3RW90c3FHWTRpNkpwNFRXNV9CUk9ha2VNQkR0alZnZU1BdlQyd0VSYW1RQWxEZW9TdExuYlpXZ1dXN21nMGRELV96dXNFNmdJSkYwekdTcVJhZDMwYUM2dktNQWl4UnNzSlRWam1IYUNrc0l5YmJKeUFZTVIyYjYyMWJRQ2dGRDIwSWhDdXJ0TVJPODhlamhVUXRBVzdhN3c?oc=5",
+    "teams": [],
     "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
@@ -500,6 +522,19 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 04:15",
+    "date_ts": 1783138549.0,
+    "title": "FIFA World Cup: Round of 16 match schedule and which teams qualified",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdCSU1vTFh4TkpQaHRJNnlTTndsckVGMXBKNkNRVllfQTdKTGhmaDBITWRSS3FxXzdDZ3hrR2lYakFhbEVadjQzcGxDT3R2OHlRcnFnWmxSZWRwelB5RjIyM1NDaHBaQVFqZUR1U3EyWEx6RVlwdWxsU21xZnlCejd1RDZ0c1ZfYVVZVUJSbEowR1NuU0x6Wmk2QVFoRW9EN0pGYndEUDPSAa4BQVVfeXFMT3U2TWIzaGRCTHFHbXRQTS1na0wtbzhUSGJPVjBZUXpLU1pjR3E4eUlibWlSQUNUTktoNFJEZURzRHc0OXRhTlpZbmd4TFo3dEk4QzFzTlBQZDRsUTZOVldwY28wal9oeVlEYnZPcU9KYVVZdVhlMVlPRzhqbGtWMnFTel9NUGpoVk5ybXRielEwTzFKQ1c2VV9mbUVIYlBMSzhqc0cxakdSS3FmMzJR?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 04:06",
     "date_ts": 1783137969.0,
     "title": "2026 World Cup Round of 16: Confirmed schedule, results, predictions for first knockout round",
@@ -691,41 +726,6 @@
       "Colombia"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 23:10",
-    "date_ts": 1783120200.0,
-    "title": "Klopp confirms talks over Germany job after Nagelsmann exit",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVZzODh6YVJ5d0VOc2dTR2JLbDduYUNsazR5SG9vLXgzb0VaeElSZ2FuMWxjQTQxOEJrcUlxZE1KV1pJVml3NHJaU1RIVkVJSFhMTDlKclZRSEVGblFpUVotOVZRRlk1a3phQ19ua3drY1A4RFVuODIweGlTUmlFMjJvUHFIN2VTazdPeXBrT0FtZw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 22:51",
-    "date_ts": 1783119060.0,
-    "title": "World Cup 2026 bracket: Latest Round of 32 results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 22:45",
-    "date_ts": 1783118700.0,
-    "title": "How Egypt beat Australia on penalties to reach 2026 World Cup last 16 - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGFGUXZtUzl0bzZNcHhaaHFmdTlTOW1hNWR4NnpvUk0zZXhaT01ITDFkMkthaXpJamRfOTk2MFdVVHJrRGRVSW1tS1l1RmlNejFLa0NiNFQtUlhkMU5mc0l1aVp2VkJsMmlRN2NLazRjVlRWN1VTYnFDOGFGMnJCMnl3czZzbnlCLWlSYUtUeTZmV1VSeWVzRTdXbTZVa2pEd1ZOa2hQejFKRE8weG5QbVRkN0tuUmFo?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
