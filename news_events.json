@@ -1,5 +1,27 @@
 [
   {
+    "date": "04/07 21:11",
+    "date_ts": 1783199488.0,
+    "title": "World Cup 2026 bracket: Latest Round of 32 results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 20:11",
+    "date_ts": 1783195891.0,
+    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 19:57",
     "date_ts": 1783195056.0,
     "title": "Norway XI vs Brazil: Confirmed team news and predicted lineup",
@@ -11,6 +33,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 19:14",
+    "date_ts": 1783192462.0,
+    "title": "Canada vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZ041M19XVUswdTZ2SFFMTEpyUEtyRXd0bDhYMGVpSGRZTUI2OF84R2g2MzAwdlk0ZnpoaVF4LUJZUWVQa0MzQVE0WUNYREVWT1hLLWM5Y3NRZDRaZ05ZaXhB?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -34,6 +69,17 @@
       "Portugal"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 18:29",
+    "date_ts": 1783189759.0,
+    "title": "2026 World Cup: Schedule and scores - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -188,6 +234,19 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 15:41",
+    "date_ts": 1783179683.0,
+    "title": "Morocco Name Starting XI for Canada World Cup Last-16 Match",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmNFQzFxN0J3OTBFYno1cEFiYVlZYkFzc19yU0NwTmtLT08zR1N4U1BndWQ0UnQxVWt6WnBGVV9URm1DWlA2cGFLaWVuR1Q2NUJwT1BxMm9ub0hSbzFuNUNhQUM1Q0llOVJVTEZBdUNhZUxaQnBtaUM2SWZ6X2FEazlhaFNEbm9VbDVpMXc1aThSWXhKUzYxejJ1RHFCZnNTeG1sWkg0SW4yNUZX?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 15:27",
     "date_ts": 1783178825.0,
     "title": "England XI vs Mexico: Confirmed team news and predicted lineup",
@@ -303,6 +362,19 @@
     "teams": [
       "Noruega",
       "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 12:30",
+    "date_ts": 1783168205.0,
+    "title": "Colombia vs Ghana XIs: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWnpjeXoxcjVYMVdDdlh0Ti11NWpSVEZtU21TN1dINm5kOXA5OWFjVjBfVmEwRHBQYmo4LVhfaHZQcHoxN25ZR1hZQVNHYXZVb0lkUzRTa2VVRmpWem0zajhUWmdlQXRBUWJzalloejc3N052TVFoNE5GQTgwYXBmaDh5Q3QzQUNPSk1FZlJESTRKWmN1ZVlvR210ZkV3ckV5ZGdHM0YxN2E1azBMcy15ODJtcVZlYzNlX2hLdkY5QnNnN3lRSjlrU3NWSEtQZGI2LWlXS2piRFV5S1IxMVFPeVMwSQ?oc=5",
+    "teams": [
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -654,78 +726,6 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNU1VNEloeWFNUm14YU9mWVBTazdIUVBBUk02OVo3NEhpeXBncW1CWGRpMXcxUEV1UkZEcFBSVnV1TVlxVkRWN1Ffek1RV3F1M2RSeXhwVWl1RUhEYWlGLXVuQUx3dHhWRnFYcWM3V2NSdGdHUWQwck1GbklfNEwtY2k3UkRyenZXSFhpQlpfYzhGLUF2MWZLcjVaUnNzcU5PSC1MbGpXYWw4UExvM0ozekN1RlpHbXMy0gG-AUFVX3lxTE43TFFYdzJKYWhsSTFNd1dBNWowdk51M3pJNXEzVVhGbmlRb2RzaDRyX1hSQnBka1VvZWpVOHptejZRSjJIbFBnUWZUdVgyTktla3V5MnpPYUNLbWNrLWVrS1RfVkZ1SXgyUEVzdjVLel8tLV9DVnZGY3BGY2dnSTh6blNzbm1pcWNhUXg5NzAtcFhpc3M3RGJuZlRJWlhUOURFN0s4Zm9XZ1NOakx2cmdZUDBQNjdWV2NaV1pMUXc?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 01:33",
-    "date_ts": 1783128800.0,
-    "title": "World Cup 2026: Which teams will get a third-place berth? Live tracker",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0tDSmNNMHAwSjJRYlNacW5VMDgxNkc1U1dqajRRb3h6ZVl5NmhBUjdHWW1tMWk2RjVEQy1MMHp1LVJzU2JMM1llVWlVcEFUMk5zbVdqU1k1OHZMOXNVQko3bVdSNEt3UW9uejBxbXFPZmtsdnN5ekVBS3QyOVRiQTlTWWN5NjllV3dTUURZRi0wV0tnbV9kX1V2MFVyaEE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 01:19",
-    "date_ts": 1783127948.0,
-    "title": "2026 FIFA WORLD CUP: Colombia and Ghana confirmed lineup",
-    "source": "Africa Top Sports",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMzZucU5BRVEyYUJQb3ZmQ1FiUE16b1l5WUxKRHBpLWFjN3FpcDl2cnB4RC13ejUybF9TNnAxbnhlcnFYdmhLVEpGbnpmT0cyUHVDcUNEaEhEcjNpTXp4aTdYaU9iT3MyV0NaMW55R1djSTJINXFxTzBiQTZlVS10T18tOTZtY0loUFlSN1VjT1k?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 00:48",
-    "date_ts": 1783126131.0,
-    "title": "Colombia vs Ghana Confirmed Lineups & Formations Tonight: World Cup Predictions",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ096ZHh3cjdUNklLS0FUeE93VjlhRVhCbW9tQ0RGZl94dDZoZ3huQTNrOHVkeVJnX2N5VTFzTGVuTTE3SVNSdzd6YnVON2JibXF6M3lqWVFvYk9tTHYtX2VvVXZkWVg1MUQ5bmotVTQ4dkNLTmhTZHo1RDd4Z0hMeUkzOEVCNUJ6NlZ3QVZlNGRqNm5MblFLMTczMk9mZERIT2NaSm5GQlhHX2hCeVpJMzY2MA?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 00:47",
-    "date_ts": 1783126057.0,
-    "title": "Argentina vs Cape Verde Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVkR5cnp0YnRDNHRTbjNJVnhWa0V2dDJDd3QxeWRjcGNTLVdUcjVjYWNrT2VDQVZ0aDgydlhFRXNud21zeWZHTXBUWENLdi0tZHBMbi1CWFFsaWtmcmwyTnJ3?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 00:45",
-    "date_ts": 1783125900.0,
-    "title": "2026 World Cup Bracket: Live Look At The Round Of 16 Matchups",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUnhBZVp4SnB4clIyLXhkOFhhSGxmeW5ycVU1VVNoRnJkOGd0TkNWUEZSMW5pSWFpbk4tOVRjR0FRcHlWNEhUU2p4cXBKRmtlOURsM1o2T1RDVC1MTjl2eXh2STM?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 23:19",
-    "date_ts": 1783120747.0,
-    "title": "Is James Rodríguez playing? Colombia vs Ghana projected lineups for the 2026 World Cup game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYVRpYmp0UE92V3JIbFJxN3hSR3QycWh2d0pVU3h3d2RQRlJTVW5jOFE4cjV4OVFjdWxvaTVWaVZyTFhCXzQta1VwUDJPS0hHaTFWeXM1WnE2cm5NSHhmdWhxUzlvbU1HZ1Q1VmlNZF9ZOWVsWEdRQXlmX0xVbERwYzJjdzZuU0tLWmdWNkRPZWNtNTBnU2JxeXkybVUxOTR2YVEtdWRkUkh5UDMxQllDaWlWRjBBWlJzRmpxTGJJODk2bFpHMlpHV9IBzAFBVV95cUxOc2xMdnZiYlVOdmtrN3hicjZsRzdEcTVtU2ZuTkFmNHlLRGtFalQtWFBRN0QxTnBrTThPanp1cjlTM3R6YnhwMGdueUowWkdGZWpFSHM2NmZjWmNjTXFsOGtpWWduVi1GdjhCdUxvSmlRMkstUUNqaDNvQ3otb0E5N2tfTUdLcW94R3VxU1lyelgzMkhsSTlsTlNELUo2eTJsa1doQUhPVjByZ1N4dFFwUFFqRkltR2tVUk1PQ1Q4NkpfLVlOcG9yTjdjRVc?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
