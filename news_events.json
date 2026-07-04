@@ -1,5 +1,44 @@
 [
   {
+    "date": "04/07 17:31",
+    "date_ts": 1783186314.0,
+    "title": "Canada vs. Morocco live updates, score: World Cup Round of 16 action begins",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3NLeTRyV282dWNObDNTdHBHRVhXNGh5OXpEdjN2Sm9YOENYaElHRTQtYzhNZUcxNGQ4LWpUTk1uaWo4N0pRRFY5MFVQTnc4UG9mQ2lKX0pDSWpyX2xmSHJMdEx1R201T001MlpUSDdXUEF0cndhVkY1N2FPZUJxUDdaTzRRdDdlenhDdjZZZG9HY2E0b0E5VW1QdTg3MUFsZTlMZkV1bC1HcG45eXk4NnVnZTJrVlFMckg4MTVtQUQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 17:23",
+    "date_ts": 1783185799.0,
+    "title": "Portugal XI vs Spain: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGIySi1DdWgyd1FQYzBZeVc4WW9WWUZLM25VejhfUUJjUzlQY1laV2lZdGZQNDdQOC02VnBMQnFBYXZtZHJXUEE5RzBLQ0QxUGFJLVUwQ0pkaG4tb1R0UHZxTnRqLWhwRnV2NnZfTVpnVmlHM0lVZWlXMU0zTWNBSk5weV9iUldhMkxPdkN4V0lMMWhTUXFJemlQSDYxV0FraU9lemJtUFRIbmVLRzBPSHZLSXpNN21IYTlVWjBQLUU0NmhONXpXRDluOGt1RURaemhn?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 16:30",
+    "date_ts": 1783182604.0,
+    "title": "Canada vs Morocco live updates: Latest news ahead of 2026 World Cup knockout match",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzZEOW5fckJzd1NBa1dVQzhJMkJWTnV0WFBoY2tFZTdGeF9iU0dsNkhuaktpRlFkdDYzS2p2V0JFeVRJeHJ6N1IyOUZULU85d2pBNkpkZ2JhazFwcEpjMTFwSThvc3FHU1Z0MEt0WnZGVTJMUUVHRWlGRTdDam1EUGtkTEFvUXp6SHlmZHVEMnNvbmZ4YnVDWDZ3dXNsVExHZnBTZ0NMOERNTndkaDRhcDN4SkdBaXM?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 16:17",
     "date_ts": 1783181868.0,
     "title": "Canada starting lineup vs. Morocco: World Cup Round of 16",
@@ -99,6 +138,17 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 13:44",
+    "date_ts": 1783172682.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -674,54 +724,6 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2czQ2RqNWRLQzRsS0M0ZVdzdVFiRU1lRGlCcWotNVZJc0RJMGF3eGM2LTh3ZnphMXpsU2lMdzRBT3puLVhSeVd6cldJSmh1eHZpYUxLSkp3b3ZzUWd6WVVhUGlpYzBLUXQ2SGFxeDRRZ1c5Z0pFTlNpX2NSNDFqRklTYjJKVjZzZ0hwNkFTaWVEOUlQcDFGdW8xZlVFRldiNGxjaVJvSndrRV8wNkVzeXhhcUtYZW5PWGR4RFp6dGRfaW9nUmxKc2NUcXLSAdABQVVfeXFMT1pSTDNTMi1OY2x5cWt2VjVKT2pLR0N1VGxmVGtUZ3g5YlNnLXdCaU1DMVNvUHZ6Y2hwM3ZWTG1NcmZ5X0d2ZG0yRzFFa3R3THpjazNVNER2UkxaelhqcnZmeE5mQlNCODRWRGZ6c095aV9hZHBWU1FhMUlJZ0NjQnc1MnZZREVMcDcxaVdPanFTS3V6NmlXOHppQnhGZmI1ZnZMcXBUMG5oTjBock44UWJBSzROZzFONExaUXpsMXA5bDZWTG5uNDEwQ1QxOUFpTQ?oc=5",
     "teams": [
       "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 19:53",
-    "date_ts": 1783108396.0,
-    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 19:09",
-    "date_ts": 1783105762.0,
-    "title": "2026 World Cup forecast: Latest odds and updates - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 18:59",
-    "date_ts": 1783105140.0,
-    "title": "England’s game against Mexico to stay at 1am UK kick-off after day of chaos",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHptY2lkSmdWQzhzRGloeGRMSzktR0U3Zy1XcTJzRzVDNHlWVTVkb3BYREQ1NUFZekp4QVZYUV9fWHcyTnhqa196VDh2R2laTWs5aGhwVTdFckFNUTJ2aDlHNHFTcWJ5UDFFbTdrZXo4UHBuUEhBWC1seVVYUHRFTFR3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 18:43",
-    "date_ts": 1783104216.0,
-    "title": "World Cup 2026: England-Mexico kick-off unchanged after Fifa U-turn",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yX0UwMUJFcms5R01qTjV1eGFyTTRXdGVicldQLVR6YTZLWFdsWXBRNHQ3R3hfeDR4cUVWaTRWNDdMNGJPTEhIZV82ay1ob3RaSmhuSURmT2xQQlRXOTR5cEluOHFGVms?oc=5",
-    "teams": [
-      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
