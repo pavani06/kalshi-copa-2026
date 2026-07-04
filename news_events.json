@@ -151,6 +151,19 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 23:19",
+    "date_ts": 1783120747.0,
+    "title": "Is James Rodríguez playing? Colombia vs Ghana projected lineups for the 2026 World Cup game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYVRpYmp0UE92V3JIbFJxN3hSR3QycWh2d0pVU3h3d2RQRlJTVW5jOFE4cjV4OVFjdWxvaTVWaVZyTFhCXzQta1VwUDJPS0hHaTFWeXM1WnE2cm5NSHhmdWhxUzlvbU1HZ1Q1VmlNZF9ZOWVsWEdRQXlmX0xVbERwYzJjdzZuU0tLWmdWNkRPZWNtNTBnU2JxeXkybVUxOTR2YVEtdWRkUkh5UDMxQllDaWlWRjBBWlJzRmpxTGJJODk2bFpHMlpHV9IBzAFBVV95cUxOc2xMdnZiYlVOdmtrN3hicjZsRzdEcTVtU2ZuTkFmNHlLRGtFalQtWFBRN0QxTnBrTThPanp1cjlTM3R6YnhwMGdueUowWkdGZWpFSHM2NmZjWmNjTXFsOGtpWWduVi1GdjhCdUxvSmlRMkstUUNqaDNvQ3otb0E5N2tfTUdLcW94R3VxU1lyelgzMkhsSTlsTlNELUo2eTJsa1doQUhPVjByZ1N4dFFwUFFqRkltR2tVUk1PQ1Q4NkpfLVlOcG9yTjdjRVc?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "03/07 23:10",
     "date_ts": 1783120200.0,
     "title": "Klopp confirms talks over Germany job after Nagelsmann exit",
@@ -708,19 +721,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 21:50",
-    "date_ts": 1783029000.0,
-    "title": "Portugal vs. Croatia lineups, starting 11 for World Cup Round of 32 game in Toronto",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0NNdHF4WDlyV2F3SzY4em0wN0tqVWsyTVR1TDZNdVdpNmJmSFVqSDhkWWxmV0JJaUJjRUJ3NVh3OFhPQmdXYXB0ZThVcU9UdXhXRkJHMFUzZmE5OWcxN3dnbDVaLWh2aEhWOEZEdXdQUjdXNWhVaTRYWG16Q2NoVFBXUmZZS0hjQld6dERrS0xGSnVpQjRmWjZGTzN4emczZmc4M1d3S0Z6OHNxZ05Kd3VFejRYRUQxb2c?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
