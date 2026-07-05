@@ -1,5 +1,18 @@
 [
   {
+    "date": "05/07 11:37",
+    "date_ts": 1783251449.0,
+    "title": "World Cup 2026 today: Live updates, news as England prepare for biggest challenge yet against Mexico - July 5",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRERGNU1NV3pWcUU2dmR6UkFpRDQwSGJxWXZZaEozU0Joa1BicFhmUVY4RHlKSFd3Rk9jVWFKeGZVUUF0aks1T0R3R0NUSGx6dnZnVmxXbVBXc2RxRDc1NWY1Q2pUeDN2djNtYU13UHkzVnJ3b2VoeXMtRFF1cGg5SFl0dGlxNWFJelk1b2tRd3RQc05wUmxlTXRkV0dDTDNqVDlSNWp6QjRyR0ZWaFVaXzJTbzRHNXBvLUpWSW5SVzF5TUhMUnNMRzhoanFReVZKdHBFTTZnUm9PN2FpVUdNTG41NHNMb3ROVC1TLWRqbTdSRTA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 10:08",
     "date_ts": 1783246103.0,
     "title": "England XI vs Mexico: Predicted lineup and confirmed team news",
@@ -9,6 +22,19 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 09:55",
+    "date_ts": 1783245359.0,
+    "title": "England XI vs Mexico: Predicted lineup, confirmed team news, injury latest for World Cup 2026 today",
+    "source": "Yahoo Sports UK",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHFrRl84OXl4WUdLS1BiX19aUWVEZExERmlaTExudWVRT3hVWkJuNXAyT3dKc0dpS0lWOVc2TG5QdkFmaUtGdWdTczU5d3dPOGpEVFp2SjlkM0dpN0Vnc1hJb2hEQTBlMXFhbHg2S1FNN3NfdUxWcXZJYmVaOV9SbnRmX2Y?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -703,30 +729,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:35",
-    "date_ts": 1783150542.0,
-    "title": "EVERY Goal From Round of 32 🔥 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZaU1haE1uYS1LTWdXTHVRYWdnNXhGdTdUdUlDZFBBbXJrVkxrT0xhMnplUW5yaG1BQ3NCSjJ3cFBMTHJYRDV4dllLOWZCOXItU19MWGc1d0hwRzJwdTlxdkpB?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:23",
-    "date_ts": 1783149780.0,
-    "title": "World Cup 2026: Which teams have been eliminated?",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
