@@ -1,5 +1,59 @@
 [
   {
+    "date": "05/07 22:11",
+    "date_ts": 1783289508.0,
+    "title": "World Cup Round of 16 live updates: Erling Haaland nets brace, Norway sends Brazil home",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3NLeTRyV282dWNObDNTdHBHRVhXNGh5OXpEdjN2Sm9YOENYaElHRTQtYzhNZUcxNGQ4LWpUTk1uaWo4N0pRRFY5MFVQTnc4UG9mQ2lKX0pDSWpyX2xmSHJMdEx1R201T001MlpUSDdXUEF0cndhVkY1N2FPZUJxUDdaTzRRdDdlenhDdjZZZG9HY2E0b0E5VW1QdTg3MUFsZTlMZkV1bC1HcG45eXk4NnVnZTJrVlFMckg4MTVtQUQ?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 22:00",
+    "date_ts": 1783288800.0,
+    "title": "World Cup 2026 reaction as Haaland scores stunning brace against Brazil to send Norway into quarterfinals",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlVjbFIyNV9qVTAtLW5OVjVRYkJrLTZWOVZoRXhzMERqUXlOOW5tS3ZiYWQzcUxTeDNCY2Z3YVczU045aUJfWlJsYzdEMWVYYUVBOGsxTVhDYkRrY1dDbXo0N0V6c3ZPRWxBVDRUY2dWb3FjVmFvc3I4YWpvV080U3lJSmU2SUFlSU5ZakFCdnViNXd0WWpyY05yUEE0WGJ4Q3kzTTRLdkN0MEtRNWl0dGlSSElNODA?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 22:00",
+    "date_ts": 1783288800.0,
+    "title": "FIFA World Cup 2026: Mexico vs England Round of 16 – Score, lineups and live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmZqN2MxRUY2NVVROGRCX0Z1T2pBbEJ6d3MtWHIzUFMxNFEwRENLWWNKSnQzY0JYcEQ3VEdiWHNtM1hERVZJOEwtZWNFbk10czdfaDU1RWgtOXViZlowX3NNOFJaMDhaeTJjdW5PNE1GejcyaHgxd2QyX2g1cHh0Z1ZrX25Eek9SNFA1TnFoZW5EVndOVDNUMUM2Ni1qS1VNQzI5RVNPWUtmZw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 21:22",
+    "date_ts": 1783286551.0,
+    "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjJwWll1YmNjOVdWenA1aXZmYWh3TzlHVnY3TFB2bTB2Y1lMTGRFNUZwaTBiLThMUWlpZnU5WGJqSWFqemFncmF3UFlmVWxNZTlodnZfdnJWWmlSYkQ3eUFUQ0ItTFktdXlLMks1WFQ2UmJUWUFFRDFOV0NlRWZ3amtwVHJFdUxoTXJscEctVWthNXhRekZxU29DYjN1QW8?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 20:55",
     "date_ts": 1783284951.0,
     "title": "Watch World Cup Day 24: France and Morocco advance to quarterfinals",
@@ -707,57 +761,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 19:58",
-    "date_ts": 1783195080.0,
-    "title": "World Cup 2026: Which teams have been eliminated?",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 19:57",
-    "date_ts": 1783195056.0,
-    "title": "Norway XI vs Brazil: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVBRNTB6Vkg1d3dnZC0ya29YdlVLMlpoTEQ2M0V1R3I1Uno2TlRiSkdNMVVyRUJWck02c0lSQ0hEcV9tSTlkNTZydkljVGVkc1Q1T2ZGSlV4VlNJZGVZMzc1LTJlNEJyT1hfSlRrT2Z0TkUySlJJaVUwNHZ6ZkhFSzdjN296SnRiUXhxTjZjcThhbDJQdTlQY0xrd0l5TTNjZEJxQlYwSG1WRW9POXlBczhjdy12YXB0NlNrZW5TS0o5VWlNcFl1Z0xhYms0SUVPUDlaUHBHYTY?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 19:14",
-    "date_ts": 1783192462.0,
-    "title": "Canada vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZ041M19XVUswdTZ2SFFMTEpyUEtyRXd0bDhYMGVpSGRZTUI2OF84R2g2MzAwdlk0ZnpoaVF4LUJZUWVQa0MzQVE0WUNYREVWT1hLLWM5Y3NRZDRaZ05ZaXhB?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 19:06",
-    "date_ts": 1783191960.0,
-    "title": "2026 World Cup Round Of 16 Odds: Who's Favored To Advance?",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05QWs1QkxTc2ctdUZhWHVCWVZEd09pWFd0eUhUN29wMUZSU3hoaU13c1V3X3VjZ2VIcXk5X0hKMzhGZlU2RWQxLWlNc0diN2cxYUJQNzVDd0dtNF9uNC1NR2lHMlZOM3FBUXB6ekV0ak1rUGdBejFPQdIBeEFVX3lxTE44Qy1YT2NsakpwWUoyU2RqRzg5UUoyOExITDR1M3dRaDVZNHg3NW5qWURTbGVmdVNhZDg1MW9WU3VRWUZDa2NVU3JvdmFYMGFfekV2dWZmV0dhbXVudVRjZEYtZ203VjEwLVRTcFVZLW1YOFJ6anJoMw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
