@@ -1,5 +1,18 @@
 [
   {
+    "date": "05/07 20:55",
+    "date_ts": 1783284951.0,
+    "title": "Watch World Cup Day 24: France and Morocco advance to quarterfinals",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVjA5LVh0Y0RYMzdHNXVFYWVXZ09ZcE45QlFJWFl4UFlrY05pRnV5M3kxSUpuT1pGaDFKSnJ2WGhwSUxueE1ldlZXRTBvS2RCQUVCa2QtbWJFbnc0RGMxenMzZVhjTHJnVGExRDVxa3ZBSzhibzZ6Z18tcTbSAYIBQVVfeXFMUGdtWnpZT2hSaTh3NDNqS1dUM1ZTc25JVFQ1TzhOakZyYW9SQ1g0UVhNYktRcUxMQlRzZ1JPNFYzRFVTNFRURk1VUkpVNng1WVdncC11SkxUT2kxeXF2TUtndlRSV2tGbDZ4T1lDQ1pKcUdoT3I1aHRmS1NfOWMtTUktdw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 19:38",
     "date_ts": 1783280296.0,
     "title": "From Mbappe and Spence to Caceres and Zidane: How you make a mask for a soccer player",
@@ -9,6 +22,19 @@
       "Noruega"
     ],
     "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 19:37",
+    "date_ts": 1783280220.0,
+    "title": "Cristiano Ronaldo confirms 2026 FIFA World Cup will be his last",
+    "source": "Sportsnet.ca",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWVaUXBMZjBOaXVDZWZ2VHlqTU9EcnlUYVd5UVc5U2JUUVpfdE83R1hPNklFeU85anpfaEhnOWs3TVZmcFJEamJOU3ZxYjNfU3dMTTY1OGVJcktidTBReldiOU5PajY2ZVhwb1V2emdnQkNTbTJrUmdpMlNFWmlmOTlPaWhKWWg1T1RnOURaNkZOUC1DcV9UdnpGcEpXNkIxWHo5NkwzSzk3NkFFSTlwUjBR?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -91,6 +117,17 @@
       "Noruega"
     ],
     "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 19:00",
+    "date_ts": 1783278037.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -289,6 +326,19 @@
     "title": "World Cup 2026 today: Live updates, news as England prepare for biggest challenge yet against Mexico - July 5",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRERGNU1NV3pWcUU2dmR6UkFpRDQwSGJxWXZZaEozU0Joa1BicFhmUVY4RHlKSFd3Rk9jVWFKeGZVUUF0aks1T0R3R0NUSGx6dnZnVmxXbVBXc2RxRDc1NWY1Q2pUeDN2djNtYU13UHkzVnJ3b2VoeXMtRFF1cGg5SFl0dGlxNWFJelk1b2tRd3RQc05wUmxlTXRkV0dDTDNqVDlSNWp6QjRyR0ZWaFVaXzJTbzRHNXBvLUpWSW5SVzF5TUhMUnNMRzhoanFReVZKdHBFTTZnUm9PN2FpVUdNTG41NHNMb3ROVC1TLWRqbTdSRTA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 11:34",
+    "date_ts": 1783251289.0,
+    "title": "World Cup 2026: England fighting against history in Mexico",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pM3czdUFLbmpuSnQzU3ZlVjU4N3ByS1VISVA1QXlaYmcwOUl5S3I0d2FRaEluSGlkOTVlODZ0dEhwdjdiQ29IYk9FbWhVLVlfQUUwOUs3WXoxODM3SEVocldHNnJCYkU?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -638,6 +688,17 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 20:53",
+    "date_ts": 1783198432.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 20:11",
     "date_ts": 1783195891.0,
     "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
@@ -697,65 +758,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 18:56",
-    "date_ts": 1783191390.0,
-    "title": "Spain XI vs Portugal: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
-    "source": "Yahoo Sports UK",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcV9KMTNrcERsT29qXzZ6U2t1Y2dnWkZSdWVrNXh1YTZ3azdZTS1Xb3pJc2gzX0g4RFlIaDhNSG1lUDN1bUNPcmc3MWFaU1FZRjJZdXBOWTlDd25uZXFTSEMzT0pRNWxmUmhKTzZybE52RnlZNXE4WFh4dUlPbFVHaHFHUWc?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 18:29",
-    "date_ts": 1783189759.0,
-    "title": "2026 World Cup: Schedule and scores - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 18:00",
-    "date_ts": 1783188014.0,
-    "title": "Paraguay vs France live updates: World Cup knockout game latest as weather threatens kick-off",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXM4UVVaUzV5WUN3SjZ6OXhVMGloQ1BxMDBIOUhRcVRFUVR3RW90c3FHWTRpNkpwNFRXNV9CUk9ha2VNQkR0alZnZU1BdlQyd0VSYW1RQWxEZW9TdExuYlpXZ1dXN21nMGRELV96dXNFNmdJSkYwekdTcVJhZDMwYUM2dktNQWl4UnNzSlRWam1IYUNrc0l5YmJKeUFZTVIyYjYyMWJRQ2dGRDIwSWhDdXJ0TVJPODhlamhVUXRBVzdhN3c?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 18:00",
-    "date_ts": 1783188000.0,
-    "title": "World Cup bracket predictions 2026: Our pick for every round of 16 game",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3d1elk4c2xlMUViU3VmVXY0NnlOMWNQbGhhRUxpYkp3dXk2N2hsZlZHbjRocXI2TlFaaTRsNVpOeW1MMG5QVWpCbVU5alV0dzFSTUx0TFNzR3pxOUswX2stUG1URlA2YUNaUGt4UG9QdmM1NTY3QVZ0aUl5clgyQTB2bFh1alZma3ZXVEw4aHVnSm1YbS14M2RJd3hVcDRsNGlIS2x4UU1FTFp6Z0l2TFFSV2dkZkRhMFlmSlgtUU5wS3pXbnQ4V2VYWW00YVdyY2c?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 17:31",
-    "date_ts": 1783186314.0,
-    "title": "Canada vs. Morocco live updates, score: World Cup Round of 16 action begins",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3NLeTRyV282dWNObDNTdHBHRVhXNGh5OXpEdjN2Sm9YOENYaElHRTQtYzhNZUcxNGQ4LWpUTk1uaWo4N0pRRFY5MFVQTnc4UG9mQ2lKX0pDSWpyX2xmSHJMdEx1R201T001MlpUSDdXUEF0cndhVkY1N2FPZUJxUDdaTzRRdDdlenhDdjZZZG9HY2E0b0E5VW1QdTg3MUFsZTlMZkV1bC1HcG45eXk4NnVnZTJrVlFMckg4MTVtQUQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
