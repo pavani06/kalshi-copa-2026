@@ -1,5 +1,18 @@
 [
   {
+    "date": "05/07 14:51",
+    "date_ts": 1783263102.0,
+    "title": "World Cup 2026: England v Mexico latest - team news, predictions & weather update",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44dGZ2QW90dDlXbTdCTzVvWDNrZEhxV1pJcUFzdXNRYlVlOHlienNFbHVxbHlQdnZ0MW12SGRoSDFIQWJrTWdhSl95d096SFRBakU3d05FTExpd1JrN2VwWVNR?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 13:24",
     "date_ts": 1783257842.0,
     "title": "Brazil XI vs Norway: Predicted lineup and confirmed team news",
@@ -79,6 +92,17 @@
   {
     "date": "05/07 09:02",
     "date_ts": 1783242133.0,
+    "title": "World Cup 2026: Which teams will get a third-place berth? Live tracker",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0tDSmNNMHAwSjJRYlNacW5VMDgxNkc1U1dqajRRb3h6ZVl5NmhBUjdHWW1tMWk2RjVEQy1MMHp1LVJzU2JMM1llVWlVcEFUMk5zbVdqU1k1OHZMOXNVQko3bVdSNEt3UW9uejBxbXFPZmtsdnN5ekVBS3QyOVRiQTlTWWN5NjllV3dTUURZRi0wV0tnbV9kX1V2MFVyaEE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 09:02",
+    "date_ts": 1783242133.0,
     "title": "2026 World Cup forecast: Latest odds and updates - The Athletic",
     "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
@@ -96,6 +120,20 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 08:00",
+    "date_ts": 1783238416.0,
+    "title": "Brazil vs Norway: World Cup 2026 Round of 16 preview",
+    "source": "Sofascore",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM253MzFZRFU0Y29ldlZib2RDU2Z0NEhwNFZCQVRTU2xiSkR1Uy11UWRCV01qV29pLXBwNHREMk9MVWFFcHhMU2dRMEtycGRVMWtlQ0Jha3hNcmVfZlh0RmE1QjB3UVN0STc4UHhCdTNMSDFrelJwZ29zdGZBRDJMcDlsdEoxSk9Ya1E?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -205,6 +243,19 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 23:50",
+    "date_ts": 1783209000.0,
+    "title": "Every Confirmed Quarterfinal Match at the 2026 World Cup",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFpMVV9sY1NmREt5blFZV3RZYktoU0pNR3lmLXBMMEoxSnFpWWFQSWZ2dmdEWTRaV1J0VVc2eXZqX3VwV2NGb1JpMGZfMzNfNEJNdEhlZW5KRFdSRnAwdVJoUDZTVWNkT2Uwc280d2N0d2tVSGZfbWFKYlB2T1ZlUlowRUoxeG5aTUE?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -681,57 +732,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 11:31",
-    "date_ts": 1783164716.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 16 and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT19ocmJUWUVZaUEzcVViay1mMlJvdEd5R0hCaFdEVG5NRzFNQUE0VkhhQXJRNjJCZXZiTmVGZUM0ZUFuYVV5RFMyOTExM2xYeC03YXRqTzhQajhWcWlCTHdKMnpRSFFMbUpBN1NvUGlfdDJGLU5KV1F1Ql9JWUgyR0xSZS10VGdxalNhaXUxQXliYk1FWmV5Tm1qdy1VRDZTWDYwSjhVM05PS1NOWUJmbDZiZFQ3bmlNdENuV04yV0JFVzdDaUVnWDdVcERtU05VUlNoVFJlRFNVejJxUVFMOEx5WQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 11:03",
-    "date_ts": 1783162984.0,
-    "title": "Klopp Confirms Germany Talks, And Says He's 'Recharged' Since Liverpool Exit",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObFk3a1Q2alBGSlN0dTJlZFpwQWNKN0lBVnI1YVcxclVUR3UxVkhNTXhRY1VmYkUwdm9CLVhoNWFXZ29XTURMYnRDZDZDZGlIOG9SelVBM1QybWJ0Qll1dVFwbExaelRxZHFiazZhd3hzdmZKRW85bXdtbTM2TWRFOEdyWldQdWVna1E?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 11:00",
-    "date_ts": 1783162831.0,
-    "title": "Do 7 a 3 ao gol de ouro: os dois capítulos de França x Paraguai em Copas do Mundo",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTFpheUtvNzBid0hrTWllNkVDckEyVXJjVmI1RFhBTEdQQ3o0b2l5N0ZvOFM3YmJSYVBEY1ZNUzQ0SkU5N21XUUxfRnFtTnhjN0VkS1JRMXVIUUx3UTNsZWVUcWlaaFlrZ3N3bFpyQ2ZJUWVLaHVCZjh6aFpPZkZWWmhtOHl0ZXRVTlhvOHA4cW1TZjFnUWhabl9BWXF5UUlJYWhndVpnMlhINUxoMkZhVVZNeDk4cm5ZNTQ1RGpOMTlOVjdXR2luczN5cDE2RGduelhwYU5zdTRvdlNic2xzVUl30gHwAUFVX3lxTE9rMmRucWRVcjdBNkZUT0t0bTZEZVhRVGc2aGlPR2xNZmQ4MnhMblFFRnk0a0p2ZWJueGJvME1qRUwyQ0QtaFNYNDVUY014cG55VElXOGFrbXJjU3ltMW9GbTQ0YTZCbC1VeHE1YThuY1piQ2RoVzBJQ3R3SlpmUHBRR0RHX0RzeVJiNTJmM3U5N0FRM0h2aXhPTkRLNHV2NG1OeG9wSHVIVFZROXlJbzhuZXNfTDRHZzMxdUdaMl9hV3BlT29Zel83NkJzdHg3cVZkbVIzd1YyU3RGNDRudXRnVlJCOVQwUUNLaTd3V3QydA?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 10:45",
-    "date_ts": 1783161958.0,
-    "title": "Brazil Predicted Lineup vs. Norway: World Cup Round of 16",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjlGRDFYWV9YVG13Qm1mMklpbjZ5VjBvajREY05MQ2pCRDJTV1VzdkttWkUwTm5YQW1YNkprU1ljUDJTaFhfUmlNTnRsVzlqbW01RUlGek1MMnFpcFNkMlVoNHJsNTUxTF9BOWd6TG9wWWFvNFRQN2xiNW1HUHota0x3?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
