@@ -77,6 +77,17 @@
     "source_type": "news"
   },
   {
+    "date": "05/07 09:02",
+    "date_ts": 1783242133.0,
+    "title": "2026 World Cup forecast: Latest odds and updates - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 08:21",
     "date_ts": 1783239689.0,
     "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
@@ -85,6 +96,20 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:12",
+    "date_ts": 1783235520.0,
+    "title": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVm8zT3JKTTY3RmtyMjBnWVMzR1gzbFJjX0JfeE5NQ2pqYm1MTlo5WmF1MUVWZVNJRkpKZlZ0LWpwT1hYWFVGNF8taEl4QW1ZbFBGVEZranRzS2pFUWJkdGZXLVRCMlMzZTIzNnFZMUZzd0JtbEVRNGZpSUd2c3VEYXZFX0xBcTlCV243bjFFbFVTT3lIQjFWSWhjS0ZxRkExRlp0SmxMbldvZGRmSW02V0pwUzZOdw?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -704,32 +729,6 @@
     "teams": [
       "Brasil",
       "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 10:36",
-    "date_ts": 1783161390.0,
-    "title": "France XI vs Paraguay: Predicted lineup, confirmed team news, injury latest for World Cup 2026",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnNOcVdVbzJkSmVrQ1pjMG44YXZnM1dDd2M5ejIxUGMwaGNyNy1XUDVkdGdQTFM4Q3NyTEt3cElHclhvcE5EYzhTTW94VmZLNWRyWG13dV8wUHhET1lXVWVEbjVZZFBEQUxDUGNfdi1qdENEV3BCeW5PM2oySWg2TTJzUXgwbXhoQU5oanAyVlo1bnlMM1htUi0tTWdCbXN5NHNpWjNtczJIUWNuLVRZM2VkWDVWSjJRdlljMkJ4bFdxR1g0UWx5VllLekFYeUVCWUVLcA?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 10:18",
-    "date_ts": 1783160325.0,
-    "title": "Canada vs Morocco lineups: Predicted XI and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZjhiYm52a19YbGNkUTA5QWVEal9MY3NLTzhMQnpna1ZFU0h5NWdHWmZFcFpyV250YmJPNmlIanllUGVhakgyZlZKOURsVlFZUVo1S2h1N1FlZmROdTFiTkFEdGxROXNhaHVxekR3RDc1Zi1oQkxjUHNkeVR0RlJidGt6LW4wNjNZU0pRU1FVcG9fc0RVV1ZFc0JWMEJJQlg2Ymx1UUhiLVplX2hrM3UwamVTdzk0aC01bWVxU2hxSGRWTEZLZ3NyZ2p1V0M1c0FnRHZaWQ?oc=5",
-    "teams": [
-      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
