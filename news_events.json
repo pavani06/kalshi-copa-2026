@@ -1,10 +1,34 @@
 [
   {
+    "date": "05/07 02:09",
+    "date_ts": 1783217340.0,
+    "title": "World Cup live scores and games today: France and Morocco advance to quarterfinals",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVXVsbkNkYlk2OFBJNFVwTEFSRFEwQk1kT0dOMGNiZVpsX2ctdUlBdUZzSGhXa2YxOFMzMjdJOE5zOHE2ZklNM1N3OHR5ZDlDdmVCazE3bzhIMkVrc3hTM1NJTHBpN0c0YmtrdnNFVG56clppNkk2QjFBbkhac3pZb1lhQ1lrZ0RHTldLZEp1T2g2aVZRSTkxYmRSWVhlNVhYOTMzbkgya19HcVhFLWtiazh6djllc242TnRNXzExMFBYWUcyak83RzQzT2c3Y1E?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 23:33",
     "date_ts": 1783208021.0,
     "title": "Paraguay vs France Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
     "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83Q1lFSnlfRDZXUmFNeDFEV2NZVHhRekxEeTA5eGNEME1UWkhUNVlaTWx1M1A4WklOUnBtNXdKaDRXLTVMYXNOS0pFdDFWcVVyb0tPSVBxeXMzdWJWdmNWSE53?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 21:29",
+    "date_ts": 1783200577.0,
+    "title": "FOX Sports Presents Broadcaster Match Assignments for FIFA World Cup 2026™ Round of 16",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWlVUU2RDLTZpQkQyVmVQZ1A3d1otaVVuYTFzd0RHVDlHQ25YZFVuT1UzNHdaUkNXVVExTS0wcXdUVEo2aTFyeU1RRmRrdGs1MVBLbkRqOU5kTHpqT3p6RGd4S0lrM0Fjb0ktVEVTXzNkM3hWanpQaGFQS09HeEJvdFVtSWFOdFByeVZSVndCOFRDSzBBWGRHc09ZLUtndGlLbWpZdDZKMklvWXR0REl5bk5oRkdpbGdXemQyYzBGdw?oc=5",
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
@@ -702,28 +726,6 @@
     "title": "World Cup Round of 16 bracket: Full schedule, matchups and how each team qualified",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGxvalFLOE9fUUFUellTb24yNTVieXdZMTZnQjF4UkxUckkwTGpCRk81Yks1dWwyU0VzTXc0X3dJRGkzeXFsYmxWNFFsNS1hQkJ0UzN0RnBIMjFJcWg1MUNwcUpzUF9pXzFpWGUzSlRsbzV6aDlYUXp2OE1mdFpJUDNMWjkyWUUwOWJlREk4V3FSOTYwLWxaQkJUQXNYbHRUZTV6bkxlTk1rNENITXZHZHZuZFZHTnZQZGVUX3ZfZkx5R2Y3NVVMQnZOVEVCeG1L?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 03:30",
-    "date_ts": 1783135800.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHdncUxoZV92OUJwUVJsRmFyenVpWHk4bnZRNjdUNm52SkRnMTZnbG5LWUwyR1JrWXZJbnRWaE9UMXJUc19odjFWbUIyVVNnWHExRlhaZGJjLXk1dVhvV1FuTUhvWHpyR25UVXVfOFgyYmsyajRvSVhzandCcWpYZDFiWWZlQ0dNaVpXRVJobGVXYUZaeGRjZXJVVi1zRXpWU1oycWF3MzItbUJXVUUzQUh3Ml9Xb0JxZDA1OENDYk9zYzlTUTFxTw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 03:00",
-    "date_ts": 1783134043.0,
-    "title": "World Cup 2026: Cape Verde say goodbye after defeat by Argentina",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81OG5UN00tNXN2aE41ekU3TG9YQW5KcDVORWVydmJVcUFveWlwTUNLejJVWGFJZDc2M2RZcG1VVS1XNnREUFRjREo0TlkybHFmckpJWlJCY1VDTHNIcDJFLXJJUnNxX1U?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
