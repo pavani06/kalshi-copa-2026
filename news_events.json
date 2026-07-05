@@ -1,5 +1,73 @@
 [
   {
+    "date": "05/07 16:50",
+    "date_ts": 1783270200.0,
+    "title": "Brazil Starting XI vs Norway: Confirmed Team News and Predicted Lineup",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXF2YmEzR0VrWWhSMGpJMTJSYUNRdERBTkZ4MnJEZjJBdGlHeUdVOEhJa1lSUU0yNnBuTzJ1amNpYi1vblROcXFDUVRXdW5IbmJSdFRRdXVMWHFuRDFmVG1jVjhHWU1iRXMzTnh6YXRUa0o0LWV3d2drRVFVMGhENkNiUQ?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 16:41",
+    "date_ts": 1783269675.0,
+    "title": "Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWw3emdxLUFnV1lUMzdMaEpCcWpKdTZjQXdBUmtNRkxxQU52YkI0ZlpJTlVtdkpHUkc2VUhvUWFMLWF3MkVHQmRWUy1ZZHotdG95eE9SMVJOVUg0UHpiaFhTMlZwcXR6SlpHR21jZmZCUlhlWlhpT3ZKZTBXT2l1NmljRzNWeVUzYzhRQ09YdHNWcm1welhUdVBjb3FzYkJnckHSAacBQVVfeXFMT2E3ZlpUOUI5Q2FFWTl2SXhUeS10NlNRaHRjWW1NVVUxVlExcWt0eXRoVEg5cTQ5aGlBVVY1ZUFTdUxRNHJybmZSaDhmUTlBdFplTnNMMXIzN2RvbGQ2WHRta2o0bVNOT19udzJKaVMtVk55ZW80YUZXMzYyeVBETnlrSDI3VDNDcUh6QnQ1S2stS3NhR2Q2ZjZpX0RTWnV6SmtpR1ZKSmc?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 16:40",
+    "date_ts": 1783269636.0,
+    "title": "France unmoved but are Morocco Africa’s greatest? Re-ranking the 48 World Cup teams after day 24 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOay1TMzhONVhFdWlna1c2M0FRRE5WVUR3MVZveVRNRE5JZzZpNklJbXJHVDRDUHlmaVdfTERsUGtScVdyMjFXT01pT3g3M25uRW1QRS1xb3dFUHZMSDJhb1hmSGxZSXpmc0RDMGQzT3JNdnlRckpzdm1oTWdwbzhZQVp5VDUxaE9GQlNR?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 16:21",
+    "date_ts": 1783268471.0,
+    "title": "Brazil vs Norway Prediction, Picks, Lineups & Best Bets Today World Cup 2026 Round of 16",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcl9DVXhpdEprcEw1VG5HcE5odDFiU1VLcTVpMDNURHVWSXZKb2J0ci1mWFVrXzA5MnlUbHRGSG9nNW0ydDNKQjcwUHNxcjVkcW5QNnNTcnVKRlI5d0JWVWJJQkprNFhxcVh0UXlkUDhkaDYxVlczQTdmTHp3OU9NMEVQZ2lUSm4yajlyakt3c2pIMWdXVXlrWDNpNE1ZT1dHYkppdF9lUTVqdHJXQlUzZVhlQmNBdWp0ZE01OXpR?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 16:18",
+    "date_ts": 1783268323.0,
+    "title": "Mexico vs. England World Cup mega-preview: Predictions, form guide, key players and more - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU8tSXpFelJ2dWpUSkNTT2RFTWViZDl3ekpULUQ1UkZqM3BTNllCWmI5RGpJVkZHRzY4eDdONXJuaTNGRU5aNFd2UC00R2xyUkhQd3dNclZ4NEhERWpjQkFBRmtWWGdvTVY3NlViRUpfZnJDamxzR3ZWQWQwMldNUk42QVZpd1hpOGlNLVNIMzJJSDQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 14:51",
     "date_ts": 1783263102.0,
     "title": "World Cup 2026: England v Mexico latest - team news, predictions & weather update",
@@ -73,6 +141,20 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHFrRl84OXl4WUdLS1BiX19aUWVEZExERmlaTExudWVRT3hVWkJuNXAyT3dKc0dpS0lWOVc2TG5QdkFmaUtGdWdTczU5d3dPOGpEVFp2SjlkM0dpN0Vnc1hJb2hEQTBlMXFhbHg2S1FNN3NfdUxWcXZJYmVaOV9SbnRmX2Y?oc=5",
     "teams": [
       "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 09:40",
+    "date_ts": 1783244402.0,
+    "title": "Brazil vs. Norway injury, suspension list, predicted XIs | World Cup 2026",
+    "source": "Rugby Addict",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUlE3ZnVQOHQ4NHRsblVKS3pIZWxDbGhFZnNfTjNSOGNVQWpBNjZudi1jNzVBNjJ1ejhXalZVYTRReDZacjhNbnlOVndYREJHSF80a2phb29CSkcyczVWYk5Gb3A1N1lZeG1YT3pQMzU4WTJKRm9pM3NRNld6bkpIYXlJclZHUkxGX2dBdUd1WXlRWDRXMzBmQjRkd1pHUzNrZGdzUVhiWktoS1g4VF9kc3psdmt5aDFjVjZIVWlvUWpmOGE2SUdVN25sdGp1RVlTY3R5alpFQ29YOHExOVRURw?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -654,84 +736,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 13:06",
-    "date_ts": 1783170360.0,
-    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Mbappe's France, Morocco, Canada, More",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEZwZXdJMHowcng1VjFkdV9ITDFuRjBUeF9DQzkzd19vSi0wVkJMTno4MkpyM25IdHhRN01GaHlBWU96TmpaX3g3ZXRuNUdUQVZieHp2Z2Q4MjdxRER1VlVDVko5M0xoNUVDYUU5Q1BhZkFYc2tHRjM1UjNPQVk1ZU5MaHFCbmhJN0dGYm9FSEpjZThRUU9qNmVjMml0b0VLelJOTmdqMEtPZVJ0T0N4QkM2X0c5bGl5aHJqeTdxT3RGNEMzLXVXRg?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 12:54",
-    "date_ts": 1783169640.0,
-    "title": "World Cup 2026 schedule for round of 16: How U.S. viewers can watch next knockout stage - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNExnX1N2RnNqWm1NZGhTUmNfUTZadHJBeFBiZGdoVTVhaWFXZ00walRtX0dXSWxCaDNTUkJBUFJKNDRxak1qc3gwdDdwdFZzdDNTWlZsRFZnZmZENk41OXdGd3ZCWDBUUXYzYlc2WjRRWU8xam1MR3Z2cGhZeTlYelVBZGFCdHpyN2hMXy0zZnVzWXUyYnc?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 12:41",
-    "date_ts": 1783168863.0,
-    "title": "Brazil XI vs Norway: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmFldG81TUM0R2pBWDZHODBGX0NNcVdmU3RpZ0ZITU9rSEJFdU91UlhnVXl2X2ROdE9JUWJCU29lVGxwU0ZIdnRCZGkwUkhhTE8xUk1Gb3NldkhNVm1HdmdIOXVmTTV4d3FPNE45XzFSUy11bFlGRFY1NGw1WlgtdjVuX2RBZXpfUkgwV3RmMjJCTkpBMFlSRXdocmlieXBqX2o4RV9lTnk3aXRfWW1JRlpMYUZ4dTRiQWRxdzhiRjNtUXpXcUZlRlY0dngyRWdCWWFWbElHbzY?oc=5",
-    "teams": [
-      "Noruega",
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 12:30",
-    "date_ts": 1783168205.0,
-    "title": "Colombia vs Ghana XIs: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWnpjeXoxcjVYMVdDdlh0Ti11NWpSVEZtU21TN1dINm5kOXA5OWFjVjBfVmEwRHBQYmo4LVhfaHZQcHoxN25ZR1hZQVNHYXZVb0lkUzRTa2VVRmpWem0zajhUWmdlQXRBUWJzalloejc3N052TVFoNE5GQTgwYXBmaDh5Q3QzQUNPSk1FZlJESTRKWmN1ZVlvR210ZkV3ckV5ZGdHM0YxN2E1azBMcy15ODJtcVZlYzNlX2hLdkY5QnNnN3lRSjlrU3NWSEtQZGI2LWlXS2piRFV5S1IxMVFPeVMwSQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 12:27",
-    "date_ts": 1783168074.0,
-    "title": "Brazil XI vs Norway: Confirmed team news, predicted lineup, injury latest for World Cup 2026",
-    "source": "Yahoo Sports UK",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWThJeGxIVG0zT0JodmVwa3lfVjduOEVBUjBrcy01cnItSjA5M1A5Q1gtaUNRVUx6bzIxa056WlIyR0xaS3dSeENXMjRROFEwenVtbjJ4TGVfaWZNd2ZiZ0ZVSXBwVzhnY3lSZzhaTk5mVTV2WElEVFRWd3VhVXhLWXBaSQ?oc=5",
-    "teams": [
-      "Noruega",
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 12:06",
-    "date_ts": 1783166760.0,
-    "title": "Jurgen Klopp confirms Germany talks after Julian Nagelsmann resignation",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMS1sQUR2Mjg2NlBiME1MZU5qdXpzcWJaMVo2WTE0d0tKMkt3V1BoNGhrdTM2RmNEMVc4eFU5cW1TU0w0LU04Zkw4VDdUZ3J1ZnZMOXBnT1dCWFVSdXhUU0tLRV90Nlo5aFJ5T2EzZFpJb3VLZUJITzZoZkg0SUdya1hDZGdlTjM1MHMzd3U2X2MwWl9kS2JtWjc1NjR2MG53dlRZYkVyVQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
