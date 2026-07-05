@@ -1,10 +1,37 @@
 [
   {
+    "date": "05/07 13:24",
+    "date_ts": 1783257842.0,
+    "title": "Brazil XI vs Norway: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOME1nSGxveXdIaFlMdWdaQkJidnREZ1lRX3FmT3BDRWxnSzgzbi1aVXBuVFY4SlZvbFpZM3JuMWQ3cEtoYnNSb25QN2VvVDFDNXVvOEd4X2p2aGwyNzM1U0twbmppSm5NYTZxUkdJV25oTTF6a1F5RlpFT0FPekZWRFdvbFVQYzdGRTN4M3Znb2huLXV6VjdJVURwQlAxZVRCZDBsalFaY2xBRFUxbzJ5MEJNMGlFTWpKV0ptRmFZcDZydXpkT0hYSDM4QlA3c2JjaEduZ2V6TlZIUWJSRmJ6Ng?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 11:37",
     "date_ts": 1783251449.0,
     "title": "World Cup 2026 today: Live updates, news as England prepare for biggest challenge yet against Mexico - July 5",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRERGNU1NV3pWcUU2dmR6UkFpRDQwSGJxWXZZaEozU0Joa1BicFhmUVY4RHlKSFd3Rk9jVWFKeGZVUUF0aks1T0R3R0NUSGx6dnZnVmxXbVBXc2RxRDc1NWY1Q2pUeDN2djNtYU13UHkzVnJ3b2VoeXMtRFF1cGg5SFl0dGlxNWFJelk1b2tRd3RQc05wUmxlTXRkV0dDTDNqVDlSNWp6QjRyR0ZWaFVaXzJTbzRHNXBvLUpWSW5SVzF5TUhMUnNMRzhoanFReVZKdHBFTTZnUm9PN2FpVUdNTG41NHNMb3ROVC1TLWRqbTdSRTA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 10:44",
+    "date_ts": 1783248253.0,
+    "title": "Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkg2UkVSNVFIOVplZjlIMXI2WGQ5WkI4NkRrZjVFODEzQUJGaF9mRmVEUFdoYTJFejRoZ1NxTVFVQ08tZ1o3Y29mR0VkeEVnWjVMTUpIZ1lZUjdhM1dPdUwwNERrTU5GLWlNY3dOSVFMUElQTjVXRHUwb3hEWDFQd1lrSTgxWHFkcjhjNFl3NkExeU9HNjM5LWdnakJENWhIbHBrT0FhcDJkZXRrV3ZpSXRTLVNhMTAxeWYyaVhjU1NsVUVkM2p3ZtIBzgFBVV95cUxQZ0VOVTI0dHVUbE8zaVpmNVVJMFhxWjEydDFaZ2lIM0xBQ2FzRFRpUVNvUDJESkhHdU5UUXQzTzBuWkl5dllnaEFZNTA3cFlqSVJzRlhBNGVjXzRxZ0NXWm1mZUlUb255QWFwYlUyNUhMXzN6ZUJBUUZub2dCVTVKRkl2ak1WN1hwY0JWbFNMRWpzdDVHVWpzNnNkYkxNeDBWa2VyempRTEpZNnBoNGFCLXVfQjhNZGhYSk85dVQzdVNpdmJpSEk4dkNfVTRTQQ?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -142,6 +169,17 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 00:56",
+    "date_ts": 1783212960.0,
+    "title": "2026 World Cup Odds: France, Argentina Remain Favorites",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -634,6 +672,19 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 11:03",
+    "date_ts": 1783162984.0,
+    "title": "Klopp Confirms Germany Talks, And Says He's 'Recharged' Since Liverpool Exit",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObFk3a1Q2alBGSlN0dTJlZFpwQWNKN0lBVnI1YVcxclVUR3UxVkhNTXhRY1VmYkUwdm9CLVhoNWFXZ29XTURMYnRDZDZDZGlIOG9SelVBM1QybWJ0Qll1dVFwbExaelRxZHFiazZhd3hzdmZKRW85bXdtbTM2TWRFOEdyWldQdWVna1E?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 11:00",
     "date_ts": 1783162831.0,
     "title": "Do 7 a 3 ao gol de ouro: os dois capítulos de França x Paraguai em Copas do Mundo",
@@ -677,54 +728,6 @@
     "title": "Canada vs Morocco lineups: Predicted XI and confirmed team news",
     "source": "London Evening Standard",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZjhiYm52a19YbGNkUTA5QWVEal9MY3NLTzhMQnpna1ZFU0h5NWdHWmZFcFpyV250YmJPNmlIanllUGVhakgyZlZKOURsVlFZUVo1S2h1N1FlZmROdTFiTkFEdGxROXNhaHVxekR3RDc1Zi1oQkxjUHNkeVR0RlJidGt6LW4wNjNZU0pRU1FVcG9fc0RVV1ZFc0JWMEJJQlg2Ymx1UUhiLVplX2hrM3UwamVTdzk0aC01bWVxU2hxSGRWTEZLZ3NyZ2p1V0M1c0FnRHZaWQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 10:17",
-    "date_ts": 1783160257.0,
-    "title": "Updated World Cup Bracket 2026: Printable PDF & Round of 16 Schedule",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGlUNlhycTNkeEJPVGl3azBNREJNc0ROOFFEVkdGNlA2VkNtRjNQWkdUeTFGSXotVWhnNE5teHY2ampfMF90UVJVbTV5bGttWjYwbVVMRjRfeHRkZjBsLVF0ZnV2UVJFVUVnaHZxbDJpd0NhUllQTDg3QnJLQ1RsNDJ4WUc4YmVvZVdUYVFwOUNPdDhkM29kcThyVWdycXZ3RkVNaXFBd1ZGcVhpSWlhaVFDNzlhdw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 08:28",
-    "date_ts": 1783153701.0,
-    "title": "Palpites e dicas para Paraguai x França pela Copa do Mundo",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWZYa2huaW1ZQzhvbnhtSk9CdDRpN0JSMUJ1cnRtbjVqNWw3eXI4cmYwSnhsWFNqYzZ6WlF6anNFZnV2UXpKV3h1YWRJQnF0MUJvLVVfY1hVVGowN2NuNnRpdXlkVjcxUi0zd29aQXVxZGpad1VQeE01WlBRcllJNDRaZmJ5U0hMM0UwcGlUdmxnZEZtMUlCcjJrMU5CODZCSEZUUEtIdHcyT3RpSERyTzhXdmI5dE5RNHRkLUxPWlBOMkdZ0gHTAUFVX3lxTFA5N3NDLTV1VXdXNzgycGtpUHUxY3ZNcGluREhjNFBLaEphZ2Rqc0pVRkFnMDI5RmRTd2FocUtSRF9JRXFkeG9fNElHVWlRcmkxUWhJU3BIUS03UnRLTUJiX3Y3LXlQQlR3LW5SYXptSlppY0pJcjM5LUliRHhDUXY4c1RQbmVYYWcxWjlKdzlhNnpwSm0yR1lXZGViOGhqWFVWWVJiVUE0OTVFYUNZYl9aXzFDa1hUbzNMVUhRR1NhNVRha1d2V3p3SGNiekpJZ0VhNjg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 08:23",
-    "date_ts": 1783153411.0,
-    "title": "Palpites e dicas para Canadá x Marrocos pela Copa do Mundo",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMVlQZWdYSElMQy00b1RhdDZZdUtRWmlJcnIxb2JQdE81M2h1c0VwZU0yOFFXVFZ0QndLS3gySXlSYzJEdy1haEYzNE41bXdYZHdYRjJpU2pzenY2eVJmc05MVV90U3p6bjlLQnNKWmpVTi16aFFSWjBmR091Q3JqY2ZOVXRudkpjSGMwM2Q0RUdUZnNBXzNkOHNyemw4azZMLVVRTHNSMHdjaFlzcWFibnNVSDQ0M2VWTFJaY0xxQnlvNmF30gHTAUFVX3lxTE5pUnNBLUduc1k2WURHdnM2WjhnaktXUW9objQ1MTZDYU85alVQd1VzZ01mRmMwakZZN0RfNnpPTm5RcTgtMlVDODJvZE1EbG45SmR0b0Fqd1hWV2FockVLZmc2bWQ5SnNSNjh3U0FwUlVCckZYSkcyamlmeEtyR0RkTDBwb2R6M3Vuak9ZSmYxLTY2bFJEWElFQ2V6UDFQX2hxUXVlekR6RDBXRU5heEFCeE5yMjBVWXNKWlY2V2ZWRllrTGFRc180aXJqdlZTYTRydHc?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:44",
-    "date_ts": 1783151040.0,
-    "title": "Canada vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 16",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUYxREEzVFhKeU5mMjBYZktYTjlGUjNyTFZGWjBJRG1nN2JCenFhTEpjSFphZ0w2Rk5Uazc2cVo2d3BwY25LUE82ZHRDd0J2UTNVcWJaU1NEU2hjZGh5Wlo2c3pacDRVX0FqdmVCalZVUHUxTTBUUGR4VkktaEJtaXZYZ0g2NXJkbTZhSnRYVE0xdWktVFNvR0FXQTF4Z3BvNU42UXAzdmI0aDUzVlRBb0JFQ0xQWDZ3TnNoWFVUbDVRbXdmbk1yODdVdDZaT2N6b2kzVWEybTFkNEFSb3c?oc=5",
     "teams": [
       "Marrocos"
     ],
