@@ -211,6 +211,19 @@
     "source_type": "news"
   },
   {
+    "date": "04/07 19:58",
+    "date_ts": 1783195080.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 19:57",
     "date_ts": 1783195056.0,
     "title": "Norway XI vs Brazil: Confirmed team news and predicted lineup",
@@ -714,19 +727,6 @@
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUYxREEzVFhKeU5mMjBYZktYTjlGUjNyTFZGWjBJRG1nN2JCenFhTEpjSFphZ0w2Rk5Uazc2cVo2d3BwY25LUE82ZHRDd0J2UTNVcWJaU1NEU2hjZGh5Wlo2c3pacDRVX0FqdmVCalZVUHUxTTBUUGR4VkktaEJtaXZYZ0g2NXJkbTZhSnRYVE0xdWktVFNvR0FXQTF4Z3BvNU42UXAzdmI0aDUzVlRBb0JFQ0xQWDZ3TnNoWFVUbDVRbXdmbk1yODdVdDZaT2N6b2kzVWEybTFkNEFSb3c?oc=5",
     "teams": [
       "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:42",
-    "date_ts": 1783150977.0,
-    "title": "World Cup 2026: England's last-16 tie with Mexico WILL kick-off at 1am Monday",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRURJZ1luLVJTdG9jX3BlVTU5VWZONFpRaU5CUkh0WGprY0FoN1pxQmlkbmhKYU9fR0hJcGh1dEQwNFljLU1aRU9WRmRZZWFQckNGc3M2aHVxYVZsN3RZZzBISDVrZlFwcnhKaFpnRGpaLWgybHVERE5NaXI0X2tjZHZVc1dXQkRiS1JEODFUUk9iTUhwMlduSHFxTzBIVUlzZWZGQzg4Z2VSYWhuZEJ1Q1BOeDFhMFJOdWg5STRrcjE2bHkwNzBRT0xR?oc=5",
-    "teams": [
-      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
