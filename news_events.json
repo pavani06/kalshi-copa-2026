@@ -1,5 +1,18 @@
 [
   {
+    "date": "05/07 23:17",
+    "date_ts": 1783293445.0,
+    "title": "Mexico vs England World Cup Predictions: Confirmed Lineups & Formations Tonight",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0hjdnJXSlhjWXFDTDNUd1ViYlVISEdxcHRTSFhLZHZTV2VqSDBLVXp5bXNJYmdtblg2am1zS0p6RGo5TVJhWDNCOVJwb3NEaktmSkVhRzlBV2gwMzMwcFdnRzZwRUZXVUljaVVVUjJYRHdNX1l0NUpDcE95SUJIdzRjZFcxcGdtMGladGVWVmplRnpLT3lXVk9MUXdELXVzeTlSYW00al9ka20xYkt2UTZxTQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 23:07",
     "date_ts": 1783292857.0,
     "title": "Mexico vs. England Lineups Confirmed, Starting XIs for World Cup Tonight",
@@ -23,6 +36,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 22:55",
+    "date_ts": 1783292123.0,
+    "title": "Cristiano Ronaldo Announces 2026 FIFA World Cup Will Be His Last",
+    "source": "People.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDlCTnB2cF9OUnhBR0Y4OTZXQk1kQVNXRFRHLUI3d1BBTVhLM2VZX0lQLTktTFFMMEM3SVFZbDBZeFV2dnFCTkIwUDJ0c29CbjJEWUFhX1J1LUF1blFwS19kc3d5SEJhVDlTVHRpbGtpYWZqOVFqeXY3Ml9scFZBcUxlQkVYUmU5VVU2em40SmdvUG9DRTJkNVFEclp4TlJCMndlTngxTVNrUUxGX2hkaWs1MGRsRUlpNFN6ZnJ3?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -754,28 +780,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 01:09",
-    "date_ts": 1783213740.0,
-    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 00:56",
-    "date_ts": 1783212960.0,
-    "title": "2026 World Cup Odds: France, Argentina Remain Favorites",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
