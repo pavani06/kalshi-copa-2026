@@ -13,6 +13,19 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 18:07",
+    "date_ts": 1783361260.0,
+    "title": "Portugal vs. Spain Lineups Confirmed for World Cup: Yamal, Ronaldo to Start",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDBvMFNDdl84a19XX3hqT1h2bnRHRTRhYzhlZk5ZbkMzc2RoQllWbFNacWQtTkYyMmd0TXhqaG5TNy1qbnZ0NW11Vm90V2xuQ2N1Qnd3ZmdoUjBuWmo5MXdnU1NaMnp5SHdJYW5ER1h1SjNqUHpqWHhhUEZPeVdRdlVVbXhxeXU3bUliZ3ppdmF3Y1VtWGxIa1loOTFPUzZHbkhYUzlielh1Wi1XSWstenNR?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 18:00",
     "date_ts": 1783360801.0,
     "title": "Portugal vs. Spain confirmed lineups, starting 11 for World Cup Round of 16 game in Dallas",
@@ -63,6 +76,19 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 17:21",
+    "date_ts": 1783358460.0,
+    "title": "England stars at risk of semi-final ban despite new World Cup yellow card policy",
+    "source": "talkSPORT",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRsZjVkS2VpNnJkMGlvNUNDVVAyYV8wdVZvUHlqYkU1QmJkSktWcmtsWmFmUm5saGVzQ0pIcHZrVXA5QldOd2pZaWZMNlpDSlllaUt2M3d4dHNqajAzWkNVeXgwYkM1UjAzR0tDdDVuYnNlQS1NSFp0My1mdEpWd01UdG5qY00tblRGTm9jQVNwbXZrNHNoSHVtUXJDOGptcC1HSnJQcUtxdl9KSWhoZG1rbw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -724,30 +750,6 @@
     "title": "FIFA World Cup 2026: Mexico vs England Round of 16 – Score, lineups and live updates",
     "source": "olympics.com",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmZqN2MxRUY2NVVROGRCX0Z1T2pBbEJ6d3MtWHIzUFMxNFEwRENLWWNKSnQzY0JYcEQ3VEdiWHNtM1hERVZJOEwtZWNFbk10czdfaDU1RWgtOXViZlowX3NNOFJaMDhaeTJjdW5PNE1GejcyaHgxd2QyX2g1cHh0Z1ZrX25Eek9SNFA1TnFoZW5EVndOVDNUMUM2Ni1qS1VNQzI5RVNPWUtmZw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 21:43",
-    "date_ts": 1783287780.0,
-    "title": "World Cup 2026 schedule for round of 16: How U.S. viewers can watch next knockout stage - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNExnX1N2RnNqWm1NZGhTUmNfUTZadHJBeFBiZGdoVTVhaWFXZ00walRtX0dXSWxCaDNTUkJBUFJKNDRxak1qc3gwdDdwdFZzdDNTWlZsRFZnZmZENk41OXdGd3ZCWDBUUXYzYlc2WjRRWU8xam1MR3Z2cGhZeTlYelVBZGFCdHpyN2hMXy0zZnVzWXUyYnc?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 21:22",
-    "date_ts": 1783286551.0,
-    "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjJwWll1YmNjOVdWenA1aXZmYWh3TzlHVnY3TFB2bTB2Y1lMTGRFNUZwaTBiLThMUWlpZnU5WGJqSWFqemFncmF3UFlmVWxNZTlodnZfdnJWWmlSYkQ3eUFUQ0ItTFktdXlLMks1WFQ2UmJUWUFFRDFOV0NlRWZ3amtwVHJFdUxoTXJscEctVWthNXhRekZxU29DYjN1QW8?oc=5",
     "teams": [
       "Inglaterra"
     ],
