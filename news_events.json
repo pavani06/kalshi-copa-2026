@@ -11,6 +11,30 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 21:28",
+    "date_ts": 1783373285.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 16 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNmd3OGhEeFNhVXRQVG1RR2NkMHc3bnR5WjhfMzlEek11ZDlSOThFT2x0UTlHbGo2cVlXemZGZWswN21IVHdyTTVRRi05TlRVT1p4MmlXNVJqcDR4ZGlPSElGSy1QNnRMZTM3TnhPNFQxemduRDNqa2xUZE02RlljekljdUNfZWt2MGc0VG1DeDhTVGtER0RYWkc4THZPRWlxVnZtaWtETVd6Z2otZE9GZUJ4WldLT0ZMZjVKTERKRVpXUlp6eFoyUUtHLTZ2Z1Q3OTBsWGNNQkcyWlZUejV5UTI2VQ?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 21:24",
+    "date_ts": 1783373040.0,
+    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHdncUxoZV92OUJwUVJsRmFyenVpWHk4bnZRNjdUNm52SkRnMTZnbG5LWUwyR1JrWXZJbnRWaE9UMXJUc19odjFWbUIyVVNnWHExRlhaZGJjLXk1dVhvV1FuTUhvWHpyR25UVXVfOFgyYmsyajRvSVhzandCcWpYZDFiWWZlQ0dNaVpXRVJobGVXYUZaeGRjZXJVVi1zRXpWU1oycWF3MzItbUJXVUUzQUh3Ml9Xb0JxZDA1OENDYk9zYzlTUTFxTw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 21:21",
     "date_ts": 1783372899.0,
     "title": "Belgium vs USA lineups: Confirmed team news, predicted XIs and injury latest for World Cup 2026",
@@ -508,6 +532,19 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 03:25",
+    "date_ts": 1783308300.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 03:10",
     "date_ts": 1783307411.0,
     "title": "Norway vs England: Date, kickoff time and venue for the 2026 World Cup quarterfinal",
@@ -709,42 +746,6 @@
       "Brasil",
       "Noruega"
     ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 22:32",
-    "date_ts": 1783290737.0,
-    "title": "2026 World Cup Round Of 16 Odds: Who's Favored To Advance?",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05QWs1QkxTc2ctdUZhWHVCWVZEd09pWFd0eUhUN29wMUZSU3hoaU13c1V3X3VjZ2VIcXk5X0hKMzhGZlU2RWQxLWlNc0diN2cxYUJQNzVDd0dtNF9uNC1NR2lHMlZOM3FBUXB6ekV0ak1rUGdBejFPQdIBeEFVX3lxTE44Qy1YT2NsakpwWUoyU2RqRzg5UUoyOExITDR1M3dRaDVZNHg3NW5qWURTbGVmdVNhZDg1MW9WU3VRWUZDa2NVU3JvdmFYMGFfekV2dWZmV0dhbXVudVRjZEYtZ203VjEwLVRTcFVZLW1YOFJ6anJoMw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 22:15",
-    "date_ts": 1783289731.0,
-    "title": "Brazil vs Norway Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tMmZlRWZIV3o5UF9ROHlYRzY1OHl6VkhFTWhOMHYyVTVwOUxqNkktZ3lwSi1yMXFrS3oyd2h1QllkRVc2bHR6RWxCVklEZEIxaWgySDUtQ1JieXEwN281QlJ3?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 22:14",
-    "date_ts": 1783289640.0,
-    "title": "Notas da Seleção: Bruno Guimarães sai como vilão, Endrick entra mal e Neymar dá adeus com gol",
-    "source": "ESPN Brasil",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDRxakJpTHZBVEhWMDBwZC12SjNCRG1vNEtwMWJSRllFOTAyUzRwMmZCMUpNaGpXWXVoa3lFT2ZfWmVzSkpSUXFUOTRhZWZPZ1hFMVNfWUwyanY1QnJ1LUNpZU5RME8tZURXN3BYOUZ0OGtZMjlyemUwbHJJNXFmRFREMzBPWVBaQ2ZCUHlZYXRFa1VWZmRiZWloQmZaeTBnV3dKdVRvVnZETFZzUF94TUxIMmZmVXhBSEJ3NVdLZ1lJMF9TNU5qcmRKdmMzbXJFRC13LWZLVQ?oc=5",
-    "teams": [],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
