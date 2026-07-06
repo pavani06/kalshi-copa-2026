@@ -76,6 +76,17 @@
   {
     "date": "06/07 03:39",
     "date_ts": 1783309159.0,
+    "title": "World Cup 2026: Which teams will get a third-place berth? Live tracker",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0tDSmNNMHAwSjJRYlNacW5VMDgxNkc1U1dqajRRb3h6ZVl5NmhBUjdHWW1tMWk2RjVEQy1MMHp1LVJzU2JMM1llVWlVcEFUMk5zbVdqU1k1OHZMOXNVQko3bVdSNEt3UW9uejBxbXFPZmtsdnN5ekVBS3QyOVRiQTlTWWN5NjllV3dTUURZRi0wV0tnbV9kX1V2MFVyaEE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 03:39",
+    "date_ts": 1783309159.0,
     "title": "2026 World Cup: Schedule and scores - The Athletic",
     "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
@@ -129,6 +140,19 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVVIUGozWS1qY0YyUF9mam5yMjVPcVZzZFVNeE9kM0xmbjlNNUUwTlJBVTVCODg2bUxLdF9NX2NrTU1yVngwMXQwdW5jbk91cVZxRW54bk1HSzExVmVaUFRaeDFMVDZ1X2hEZ2lQZ1ZpSFVTUzVRdmxDdzRlbWRkNkhZeG9wcXg3ZU5fazRPTHBKNWlxRmJCWjFqYWJmZ1c3TXhKd1llWlVqS0FUQXlmVzBhNUJwQdIBuwFBVV95cUxOaDdLTXBkQUZnRFJKWUNHcm8zempKX2QwaHBiZXpkblNNZVFKR2xyLUF4V2dUc2ExMlBjbW50dlFDMlpCZHZ6NU11LUZzVVRBcE5neWFEYlE4Y2U1aUxsVTdEMTFtcjFCdlpTNFhlc0lZTWpSRVhTOHNKMklnYmhwaEhZTHJSYzVzNm1WUS1CeUhvRVpBRW11cXhrV2ZrZXNNRzU3dG1haEN1VW5Gc3pId0ZGelBhWFFTSy1N?oc=5",
     "teams": [
       "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 00:00",
+    "date_ts": 1783296000.0,
+    "title": "World Cup yellow card knockout stage rules: Which England players are at risk of suspension?",
+    "source": "Metro.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1UxQ3lQTWFoMjV5TDVjOE12M2dpT1RqNVNKY0JwTTFnQkgyM3JBcTFVc201QlotQXMwdm5fR2g2RHRJZW9ZUU5uUUNYWDNXZzUtR09mRE52bEtlNmRPbWNBdnVodmtmdWVmNVM5VzFjNHVYN2o1WEZkS1NqVHM5UUllcW1JcnRQSVgzd3RCX2FLREVrSllvNGtfTUFJRTJ3MDJGdHJqU0o4dE5Lek9JeXd6T1JMQdIBuwFBVV95cUxQdE1Lc040TXFuR2VZX2g3S3pKNHp5OHFaZi1BVmpReG1haXAyRUg1YTFfUWYxVGRuUERyb2kxS0Q2c0V4WUlIWWJMLWFBM3lpc0JDOF9yUnVqTGtyV0s0bU96WjJHQ3VZaHdiUjk5N282WEdEek1nS3dZZWRpV3V3aTRFX09DWHlXWUR0dTByZzFDODQtU0MyV1U4d3JPT0pwLTlIRjdnenZmWkw2bS1wZWJlSjhlajdLWXg4?oc=5",
+    "teams": [
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -309,6 +333,19 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 22:05",
+    "date_ts": 1783289100.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -727,47 +764,6 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 11:52",
-    "date_ts": 1783252320.0,
-    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Norway, Mexico, England",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXdtbXcwNVpBREN2TnhaQmd4VTJKeG9oQ1Bnbi15ZnhHM2dVMGxtZGkzVEhMcmktNnJ6UzdkSmV1ZUhoV1RKdkp1aWJyM2prTTV5OEhQSFhNTXllaW5GZ2REd0ZVNXVYNU9aSzVUSjJWbnpQLWxTeW9mejZscUFEQnZJRFRYWVpGMVhHVFhkM0xVQmI2T1VzejN3MTl6VEltbUhmdUJwMVNYU2VlOEZtZnBlU1dHcVEyVEhYM25YQjFnRWZld280?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 11:50",
-    "date_ts": 1783252200.0,
-    "title": "England Starting XI vs Mexico: Confirmed Team News and Predicted Lineup",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDhYeUducGczWmc4VEF6RUxvT1BHcVBhRkQzamk0WU90RG8yR3dzOGUtUFhvY0ZRZG81MUJjQXJ1YUdleDNZNU85Q2Q3djBjMjQzYjIzSl9xc0pBRGtrRFRTOVBPeER3STJZRy1LaU9XY0FDaDZMODg4cFBEZ3haVExlYmo?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 11:37",
-    "date_ts": 1783251449.0,
-    "title": "World Cup 2026 today: Live updates, news as England prepare for biggest challenge yet against Mexico - July 5",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRERGNU1NV3pWcUU2dmR6UkFpRDQwSGJxWXZZaEozU0Joa1BicFhmUVY4RHlKSFd3Rk9jVWFKeGZVUUF0aks1T0R3R0NUSGx6dnZnVmxXbVBXc2RxRDc1NWY1Q2pUeDN2djNtYU13UHkzVnJ3b2VoeXMtRFF1cGg5SFl0dGlxNWFJelk1b2tRd3RQc05wUmxlTXRkV0dDTDNqVDlSNWp6QjRyR0ZWaFVaXzJTbzRHNXBvLUpWSW5SVzF5TUhMUnNMRzhoanFReVZKdHBFTTZnUm9PN2FpVUdNTG41NHNMb3ROVC1TLWRqbTdSRTA?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
