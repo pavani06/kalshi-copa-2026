@@ -1,5 +1,29 @@
 [
   {
+    "date": "06/07 03:39",
+    "date_ts": 1783309159.0,
+    "title": "2026 World Cup: Schedule and scores - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 03:06",
+    "date_ts": 1783307215.0,
+    "title": "Mexico vs England Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5maFpoYUgxX01nZmlKRGZwQlFCM2RtM0lWMlFZN0cwbGVZbjhLVThNcDkzVk5nVlNqVE5xaUJYOE1RcG1hY0kzQ0VZXzF1M0VfYjU5QlloX0V4RmJIQUNuV2ZB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 02:17",
     "date_ts": 1783304262.0,
     "title": "Mexico vs England LIVE: FIFA World Cup 2026 – last 16",
@@ -9,6 +33,19 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 01:09",
+    "date_ts": 1783300174.0,
+    "title": "Neymar quits international football after Brazil’s World Cup knockout loss",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVVIUGozWS1qY0YyUF9mam5yMjVPcVZzZFVNeE9kM0xmbjlNNUUwTlJBVTVCODg2bUxLdF9NX2NrTU1yVngwMXQwdW5jbk91cVZxRW54bk1HSzExVmVaUFRaeDFMVDZ1X2hEZ2lQZ1ZpSFVTUzVRdmxDdzRlbWRkNkhZeG9wcXg3ZU5fazRPTHBKNWlxRmJCWjFqYWJmZ1c3TXhKd1llWlVqS0FUQXlmVzBhNUJwQdIBuwFBVV95cUxOaDdLTXBkQUZnRFJKWUNHcm8zempKX2QwaHBiZXpkblNNZVFKR2xyLUF4V2dUc2ExMlBjbW50dlFDMlpCZHZ6NU11LUZzVVRBcE5neWFEYlE4Y2U1aUxsVTdEMTFtcjFCdlpTNFhlc0lZTWpSRVhTOHNKMklnYmhwaEhZTHJSYzVzNm1WUS1CeUhvRVpBRW11cXhrV2ZrZXNNRzU3dG1haEN1VW5Gc3pId0ZGelBhWFFTSy1N?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -226,6 +263,19 @@
       "Marrocos"
     ],
     "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 19:42",
+    "date_ts": 1783280558.0,
+    "title": "Cristiano Ronaldo Confirms World Cup Future Amid Rumors of Retirement From Portugal National Team",
+    "source": "Bleacher Report",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcVp4dEdiaTBObGlVSWt6WEJUQnBLR3lmdTFMdWNPc3pYREtTOThtS3EzUUV6aTctSlFDbUJ5R2hjS1NmT3BIVUJ1SW5KTjJKS3h6M2dzbUpyeVo3OEZaU1c5N0pSZ1A1c05KZ0IyVUU3M05nVjlwUHQ1Zk5CRjZOMVBXa2p4dkc3VEJ5Z1VYdy1RY0FsSXA4ZWRkakpreVZjZ0RDZ1dpbTluQkRubHdJY1E4UXAtajJRdEdfMGxiaHJSYUFTaFpvaEw3RlNPQzA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -537,6 +587,17 @@
     "source_type": "news"
   },
   {
+    "date": "05/07 13:12",
+    "date_ts": 1783257120.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 11:52",
     "date_ts": 1783252320.0,
     "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Norway, Mexico, England",
@@ -711,72 +772,6 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
     "teams": [],
     "category": "injury",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 08:00",
-    "date_ts": 1783238416.0,
-    "title": "Brazil vs Norway: World Cup 2026 Round of 16 preview",
-    "source": "Sofascore",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM253MzFZRFU0Y29ldlZib2RDU2Z0NEhwNFZCQVRTU2xiSkR1Uy11UWRCV01qV29pLXBwNHREMk9MVWFFcHhMU2dRMEtycGRVMWtlQ0Jha3hNcmVfZlh0RmE1QjB3UVN0STc4UHhCdTNMSDFrelJwZ29zdGZBRDJMcDlsdEoxSk9Ya1E?oc=5",
-    "teams": [
-      "Noruega",
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:50",
-    "date_ts": 1783237813.0,
-    "title": "World Cup 2026: England kick-off chaos explained - and how storms hitting Mexico could delay the last-16 tie",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOa21GT0VRUGNzU1h3MHRXd0prYzNVTXpqeDllTWJlWUFub3pkclVLZmtWRm1fNm1oS3pSMXdyaWx3RldPTzJOdi03YUI3bC1ZODA0emg1bUEyWHZ3VmhaR3o2RGdCdzY5Qk5vRnVkUDhqOXc1X3llNTlsR3RacXkzRHhVRzRpcTROZG4wQl9xSVA5Vl9CQ1pzX20tRThSNWEyYVJKT1k5TkdMZlg3SExtc0doV1piLXhJVjd6RGppdTlzMDdIeW1ndzVtdEZEclpjU2hfUXhvUEZyOW5RXzFRSTE5OHBJOGZzdEJBUFp1UXl4QQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:12",
-    "date_ts": 1783235520.0,
-    "title": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVm8zT3JKTTY3RmtyMjBnWVMzR1gzbFJjX0JfeE5NQ2pqYm1MTlo5WmF1MUVWZVNJRkpKZlZ0LWpwT1hYWFVGNF8taEl4QW1ZbFBGVEZranRzS2pFUWJkdGZXLVRCMlMzZTIzNnFZMUZzd0JtbEVRNGZpSUd2c3VEYXZFX0xBcTlCV243bjFFbFVTT3lIQjFWSWhjS0ZxRkExRlp0SmxMbldvZGRmSW02V0pwUzZOdw?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:11",
-    "date_ts": 1783235471.0,
-    "title": "Is Raphinha fit for the Brazil vs Norway FIFA World Cup match? Carlo Ancelotti confirms he...",
-    "source": "theweek.in",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUtvekNDUmdXV3JGd2Jud0lhVThfQ0JkRy1pcER3QlhId1NkYWZnc2V1YTVJRGdaUUcxQlJrR2w4VUZoMktRV0NvbkpsNlZFek9obkQ4RmFaWXMwMHdjMDNVLVhCenA4dktSLVc1bGZHOGtrWUtLSVN1aWhzN3NteGl3NjZmaU15cldjRWR3eGVnSkNnWW5EcDdteDNFN19zTU83dzB3YjRjT2o1d3IwTnBLSTFDQWZ4b2FQY2tkejJpODJWajJv0gHMAUFVX3lxTE5yMFQ1WEt6VTFXNkNxRDN3czQ4bm5rbjF5bmNJcFI4d2hfMy1PMENSUFY0WVpaNWhUZW9zZ2VGLTRXNWxrbW9uRGt2UnRtRFM0blh0RXlrcFlBZmlsQUpqVnlNcTBIZV9PRlNITnBOMXlxTE5ENmVKZmd6eE9lLXdrS0tPUy1QcnhJbG1xWlBjZWY4Ty0tYkw2M0JxbmpwRDBZTFIwOUNkZHNiWDFqWDZFbHA2VFlpVm1nRXVCdW9DdjY0WlRnMERoT1U5UA?oc=5",
-    "teams": [
-      "Noruega",
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 06:46",
-    "date_ts": 1783233990.0,
-    "title": "2026 World Cup betting: Odds for remaining Round of 16 teams to win it all",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2dsY2w0bzEzRmJvTGNmLTg0cVVuTXlwRC1iYnFicjBUY2JVQzR6em1uNGRiQXBZcEJxdjFjZkR3Qzd1UHZTNzI5LWNUQ0xMSFlndG42b1VTbG5MeV8wVktxTXJwM3VHZjFacjNNUzRPbVpmb2VoYmtUOHhPZjA2ZHVyTXViUExmN1ZwdHFwQktaZjlOaERKNlJSRkh1S0pJT3ZfZlp2Qkt6bXZfT3Q4R2xWdXFvbEJJbTBxdzRHbEVNRFNTVzFmSWZKaHRPamZhV2c?oc=5",
-    "teams": [],
-    "category": "bracket",
     "impact": "MEDIUM",
     "source_type": "news"
   }
