@@ -1,5 +1,18 @@
 [
   {
+    "date": "06/07 18:30",
+    "date_ts": 1783362654.0,
+    "title": "Portugal v Spain: World Cup 2026 last 16 – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnd5N3Rtbkg4VmFiU2tpNVlaR0NwblBWODZiUUN2UDZ1U29DM2o1Q2JHQ05oSXVnMHExT1RwcWpGVEJkTC1uNFFqME1teWg4Q1EwT0RsZzBfQ1lqNHJJVVFrMm42dXJmbTMyZ0U4SDR4M2NOTk9zVFRzYnpYN3NFM0JtV3J1ZHpFNG5fcGp4bEE4OTEzcnI5VHYwVWpKTkE?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 18:00",
     "date_ts": 1783360801.0,
     "title": "Portugal vs. Spain confirmed lineups, starting 11 for World Cup Round of 16 game in Dallas",
@@ -39,6 +52,20 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 17:37",
+    "date_ts": 1783359425.0,
+    "title": "World Cup 2026: England's Reece James expected to return for Norway quarter-final",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PbXFKWllyWGM2WHZNaVVDRU81dXEzTV8tdzY2MDdzMF9GYXo1OW9nTTJ4X3NYVmItdHVseW9qOVNoa3ZxRi1VSkRNWUVEcndrS04zeWZPaEhKMXlmYk02bXB2dll5ZXlITXc?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 17:00",
     "date_ts": 1783357200.0,
     "title": "Portugal starting lineup vs Spain: Roberto Martínez’s XI for the round of 16 game",
@@ -49,6 +76,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 16:54",
+    "date_ts": 1783356840.0,
+    "title": "Every team's championship odds for the 2026 World Cup",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -125,6 +163,19 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 13:07",
+    "date_ts": 1783343231.0,
+    "title": "World Cup predictions last-16: Portugal vs Spain, U.S. vs Belgium, Argentina vs Egypt and MD26, 27",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEthVGxDVzVYMlBqUnBweXdReVFfa2cwREhmaFg3YXp6VXlPUXJoR1FfbkdTNV9obGJaVFBIZEE3V0ZrR3psOWxVNnl1YlJfSkxjcXFJLXlrYUd1OG1idEJwRkQ2RUduQlNpQWdvUWQ4Z05BTVB5WjJJSmhfVW9BWnpaVHFtTzBLemZnd0lZaWRKVkowX2I2N19wenM?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -702,58 +753,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 20:55",
-    "date_ts": 1783284951.0,
-    "title": "Watch World Cup Day 24: France and Morocco advance to quarterfinals",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVjA5LVh0Y0RYMzdHNXVFYWVXZ09ZcE45QlFJWFl4UFlrY05pRnV5M3kxSUpuT1pGaDFKSnJ2WGhwSUxueE1ldlZXRTBvS2RCQUVCa2QtbWJFbnc0RGMxenMzZVhjTHJnVGExRDVxa3ZBSzhibzZ6Z18tcTbSAYIBQVVfeXFMUGdtWnpZT2hSaTh3NDNqS1dUM1ZTc25JVFQ1TzhOakZyYW9SQ1g0UVhNYktRcUxMQlRzZ1JPNFYzRFVTNFRURk1VUkpVNng1WVdncC11SkxUT2kxeXF2TUtndlRSV2tGbDZ4T1lDQ1pKcUdoT3I1aHRmS1NfOWMtTUktdw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 19:42",
-    "date_ts": 1783280558.0,
-    "title": "Cristiano Ronaldo Confirms World Cup Future Amid Rumors of Retirement From Portugal National Team",
-    "source": "Bleacher Report",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcVp4dEdiaTBObGlVSWt6WEJUQnBLR3lmdTFMdWNPc3pYREtTOThtS3EzUUV6aTctSlFDbUJ5R2hjS1NmT3BIVUJ1SW5KTjJKS3h6M2dzbUpyeVo3OEZaU1c5N0pSZ1A1c05KZ0IyVUU3M05nVjlwUHQ1Zk5CRjZOMVBXa2p4dkc3VEJ5Z1VYdy1RY0FsSXA4ZWRkakpreVZjZ0RDZ1dpbTluQkRubHdJY1E4UXAtajJRdEdfMGxiaHJSYUFTaFpvaEw3RlNPQzA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 19:38",
-    "date_ts": 1783280296.0,
-    "title": "From Mbappe and Spence to Caceres and Zidane: How you make a mask for a soccer player",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzBnakxKcERXNVFQYjBJVWNHazU1d19jcWFwaFNKOENUMnI5SFdlYkwwbGs1aGFab3hkZTBwMnl5RFhTaEc3azR2S1B5U3BhdU9Gb0ZrYjM5OGxObnU5MFlRQUhpSkxDMmIxTXUwaGhaQWNMTDJIWnhuSi1uam5PbUpvWGJIUFR3RndBck1IeHRldw?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 19:37",
-    "date_ts": 1783280220.0,
-    "title": "Cristiano Ronaldo confirms 2026 FIFA World Cup will be his last",
-    "source": "Sportsnet.ca",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWVaUXBMZjBOaXVDZWZ2VHlqTU9EcnlUYVd5UVc5U2JUUVpfdE83R1hPNklFeU85anpfaEhnOWs3TVZmcFJEamJOU3ZxYjNfU3dMTTY1OGVJcktidTBReldiOU5PajY2ZVhwb1V2emdnQkNTbTJrUmdpMlNFWmlmOTlPaWhKWWg1T1RnOURaNkZOUC1DcV9UdnpGcEpXNkIxWHo5NkwzSzk3NkFFSTlwUjBR?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
