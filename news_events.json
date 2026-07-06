@@ -179,6 +179,17 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 13:39",
+    "date_ts": 1783345183.0,
+    "title": "World Cup 2026: Quarter-final fixtures, results and full tournament bracket",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1V4TDU2YkF6MGR6YkJiSV84Vk1wMUlmUS1OYVlYXzNBWWhvRVFCN0w5YU9kY1Q5ZDFfRGtWS19hTTdic1E0ZUgtUTh3Y1lBN19DbVZwWjJNcHFiazZpVkI5WVFNQzJaUTU3OUNpNXU3U1E2c09mbGQ0YzlDUjhvYkd0N04wdmM?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 13:26",
     "date_ts": 1783344387.0,
     "title": "Portugal XI vs Spain: Predicted lineup, confirmed team news, injury latest for World Cup 2026 today",
@@ -741,19 +752,6 @@
       "Noruega"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 22:00",
-    "date_ts": 1783288800.0,
-    "title": "FIFA World Cup 2026: Mexico vs England Round of 16 – Score, lineups and live updates",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmZqN2MxRUY2NVVROGRCX0Z1T2pBbEJ6d3MtWHIzUFMxNFEwRENLWWNKSnQzY0JYcEQ3VEdiWHNtM1hERVZJOEwtZWNFbk10czdfaDU1RWgtOXViZlowX3NNOFJaMDhaeTJjdW5PNE1GejcyaHgxd2QyX2g1cHh0Z1ZrX25Eek9SNFA1TnFoZW5EVndOVDNUMUM2Ni1qS1VNQzI5RVNPWUtmZw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
