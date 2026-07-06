@@ -1,5 +1,18 @@
 [
   {
+    "date": "06/07 13:26",
+    "date_ts": 1783344387.0,
+    "title": "Portugal XI vs Spain: Predicted lineup, confirmed team news, injury latest for World Cup 2026 today",
+    "source": "Yahoo Sports UK",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTZaMnJzb0xlY3VGRHVJZkU3ajFCd1JHcUQwVFNuaTF4dE56eTBXNHJpMlYxbVhDdllQam9UN3VCcm0yaE9fLXhidzZlZ3lkYzRBRTJzdXF5NWQwTnRrV3huTmtqMElCXzJ0YllLN0VzdUF0aEFTNkVTVE5PMnByR1FrQ3o?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 12:11",
     "date_ts": 1783339911.0,
     "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
@@ -11,6 +24,33 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 11:30",
+    "date_ts": 1783337414.0,
+    "title": "O que Neymar falou para o goleiro da Noruega durante jogo do Brasil pela Copa do Mundo 2026",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNW9Jb2NQbXdmcFROYTVpdTFFaFpLZjlxUUpvTXZ6Z0JmS19yNmd0UDF5ZndDUmE2MjkxdERSOWQtQnJuckNyQ1Uyc3VUNlRQLUhQekYxNVRKc05xVTJXMm8xWHhaZ3UxcEVsTEJRd1JnUUJ0amsxOGNjZjNNZWY2RVlhZjNTNG1YaHMwRGtCbmxDT0p5ZUFjbmg5eHhfNVRaQWRZSjZ3LTBpNkF5ZW9JOHNiOUdtMU03VnFtUGxTY0s5RC05Z1YxM2FSaEZ4dzJWWnlyVzZrdXpYWWM3MEpMQUVYVk9KcDhVYzJVbVVjbS1YU2kzaVpUdjNlREVXUdIBjAJBVV95cUxObkNic2p6NWk4WFNubWxmZkItV2EwenFwODBRdjhnTmlKNjZWZHg2aEtZanlvRWsyV09xUkFOSW5qNGYtT0Qzd1BCOTRSQm1JZUM2M3VHY1RraWVvNWRKTlFnTEk4TllGanJkLU42OFlRaFhMVWFldnNZRllPVW04ZTExVlNDdHVTV3RvWVlMeDJKUkFYc3EweU12WmJvN2haTGRkdkptcHQ0UDZRUVlIeE5UNEpHQXR6el9DZFVlQU1PME12ZlRGZUFsZDUyS2Zkc2pqVDMtRXNHOU0zbWdfLUJ5U3VLRGYzZkRMMVdUc0VMVWFfNXFuek0ybU1xUTFDLWVqNHozMXdNQjMx?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 11:23",
+    "date_ts": 1783337000.0,
+    "title": "Are Norway now genuine contenders? Re-ranking the 48 World Cup teams after day 25 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUx6eDFrbDl1SWNxSTRhdU1RenhuTmdmRTd6b2J6b1h5TWFuWklxbjlmeHZsdnliSVFOT2staW1jSGF1bTFWd1FVamhhc1p4OFB3ajBLT2dJSUFaLWM1UVVFaE43RFhfX3dES0J6cHJ6UDMyX2VXbjVQdUI2VGd3YjVWT0pkVmZJbC13?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -98,6 +138,17 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 06:32",
+    "date_ts": 1783319541.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -703,61 +754,6 @@
     "title": "Norway confirmed starting lineup vs. Brazil: Solbakken’s XI for the World Cup round of 16 game",
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 16:50",
-    "date_ts": 1783270200.0,
-    "title": "Brazil Starting XI vs Norway: Confirmed Team News and Predicted Lineup",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXF2YmEzR0VrWWhSMGpJMTJSYUNRdERBTkZ4MnJEZjJBdGlHeUdVOEhJa1lSUU0yNnBuTzJ1amNpYi1vblROcXFDUVRXdW5IbmJSdFRRdXVMWHFuRDFmVG1jVjhHWU1iRXMzTnh6YXRUa0o0LWV3d2drRVFVMGhENkNiUQ?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 16:41",
-    "date_ts": 1783269675.0,
-    "title": "Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWw3emdxLUFnV1lUMzdMaEpCcWpKdTZjQXdBUmtNRkxxQU52YkI0ZlpJTlVtdkpHUkc2VUhvUWFMLWF3MkVHQmRWUy1ZZHotdG95eE9SMVJOVUg0UHpiaFhTMlZwcXR6SlpHR21jZmZCUlhlWlhpT3ZKZTBXT2l1NmljRzNWeVUzYzhRQ09YdHNWcm1welhUdVBjb3FzYkJnckHSAacBQVVfeXFMT2E3ZlpUOUI5Q2FFWTl2SXhUeS10NlNRaHRjWW1NVVUxVlExcWt0eXRoVEg5cTQ5aGlBVVY1ZUFTdUxRNHJybmZSaDhmUTlBdFplTnNMMXIzN2RvbGQ2WHRta2o0bVNOT19udzJKaVMtVk55ZW80YUZXMzYyeVBETnlrSDI3VDNDcUh6QnQ1S2stS3NhR2Q2ZjZpX0RTWnV6SmtpR1ZKSmc?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 16:40",
-    "date_ts": 1783269636.0,
-    "title": "France unmoved but are Morocco Africa’s greatest? Re-ranking the 48 World Cup teams after day 24 - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOay1TMzhONVhFdWlna1c2M0FRRE5WVUR3MVZveVRNRE5JZzZpNklJbXJHVDRDUHlmaVdfTERsUGtScVdyMjFXT01pT3g3M25uRW1QRS1xb3dFUHZMSDJhb1hmSGxZSXpmc0RDMGQzT3JNdnlRckpzdm1oTWdwbzhZQVp5VDUxaE9GQlNR?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 16:21",
-    "date_ts": 1783268471.0,
-    "title": "Brazil vs Norway Prediction, Picks, Lineups & Best Bets Today World Cup 2026 Round of 16",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcl9DVXhpdEprcEw1VG5HcE5odDFiU1VLcTVpMDNURHVWSXZKb2J0ci1mWFVrXzA5MnlUbHRGSG9nNW0ydDNKQjcwUHNxcjVkcW5QNnNTcnVKRlI5d0JWVWJJQkprNFhxcVh0UXlkUDhkaDYxVlczQTdmTHp3OU9NMEVQZ2lUSm4yajlyakt3c2pIMWdXVXlrWDNpNE1ZT1dHYkppdF9lUTVqdHJXQlUzZVhlQmNBdWp0ZE01OXpR?oc=5",
     "teams": [
       "Brasil",
       "Noruega"
