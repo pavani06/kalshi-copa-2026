@@ -1,5 +1,19 @@
 [
   {
+    "date": "06/07 12:11",
+    "date_ts": 1783339911.0,
+    "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdWhrc3o5cGJzS1UxaVhyUzdIeWpRMmxmZFhHdDdodndFdjhueWlpMDdDSmpaQmJEV0xzV09DcGJuLTZBM0JKWm1jTXFQY1dtZmF2ZjJjMi1IQlk0VWRqTnpaUUIxbXAzSlpCa2tmVDJTOW9hMVdmSWVYV2xHTTNaR2pQMndfX3ktOW40VmIzNjFMRG9kc1pFTERzWDAyNVRzM200UkdodkN1MXVVVzd5eFhCUUoyM202eWVGTVdPMFBlQ3RBMC1yZnZqTVIwbnVLRks1akVPNk5SZWdjWi1pR003NlNTVHg3eEQwdVlrdHByc3hYQzRpN3ZsemN3cHc0ZjVNX2t3?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 11:16",
     "date_ts": 1783336594.0,
     "title": "Quanto ficou o jogo do Brasil x Noruega? Veja resultado da partida pela Copa do Mundo 2026",
@@ -14,6 +28,17 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 09:08",
+    "date_ts": 1783328885.0,
+    "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
+    "source": "Opta Analyst",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 08:01",
     "date_ts": 1783324867.0,
     "title": "Quem se salvou e quem decepcionou na seleção brasileira na Copa do Mundo",
@@ -24,6 +49,42 @@
     ],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 08:00",
+    "date_ts": 1783324800.0,
+    "title": "The U.S. faces Belgium in the World Cup on the heels of Trump-Infantino red card call",
+    "source": "NPR",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDduTUFMUEl3UWIzVmpIdkNrd05qZU9MQnBKdWRZSlBDQ0tvZUVDeXV4el9XR3JKd2VaZHduTkNOSUtaaFIxQWl2OXo1VVRLSnp5ZksyVHFUUVVSOXh5cUk0WDBHT0F3THBEVDJieEp1aTZ4M1JPRGI5dktjeS1zd3pSajZxa3hPNlNfMzQ0S2RvNTVx?oc=5",
+    "teams": [],
+    "category": "general",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:46",
+    "date_ts": 1783323960.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:15",
+    "date_ts": 1783322100.0,
+    "title": "2026 World Cup Odds: England, Norway Surge After Round Of 16 Wins",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -703,70 +764,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 16:18",
-    "date_ts": 1783268323.0,
-    "title": "Mexico vs. England World Cup mega-preview: Predictions, form guide, key players and more - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU8tSXpFelJ2dWpUSkNTT2RFTWViZDl3ekpULUQ1UkZqM3BTNllCWmI5RGpJVkZHRzY4eDdONXJuaTNGRU5aNFd2UC00R2xyUkhQd3dNclZ4NEhERWpjQkFBRmtWWGdvTVY3NlViRUpfZnJDamxzR3ZWQWQwMldNUk42QVZpd1hpOGlNLVNIMzJJSDQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 16:12",
-    "date_ts": 1783267924.0,
-    "title": "Are Vinicius Jr. and Erling Haaland playing? Brazil vs Norway confirmed lineups for the 2026 World Cup game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDZ0cHppYzhpU2ladnM4cUVWVXk0bWxOM1VYWU1vMVdlWkYyVV9hQ1BxZ1JTRFB6RFVjOFVBb0RDUEh6bGMxaTdnQ1duVERVYzdsTEpVTGtaZ0xsQXp6d1RHQmplVHp3a2tDTzFHNmV0N3hITEUyaDRwdlQ4V3ZiRm9kbDlJVzQ1QXdXZFFYbV9ENHV4WDN1bGk4SG9ibmp0X19NLV9nZzNJaS1VZTZXVXlkQkFRMk5WOFkybU1Gb3VWQ3haUjluZ1BQNDNNYWVtV1RvNHdQaXdvQ2lL0gHgAUFVX3lxTE40U04tOTJpcUk5R2ZaNFQyZEZsVmgzZHRKSG9CT09SUENZMnp2TUxmclFiS2dIb0dLeFR1VTFmMjdIZzhPN3ZTSVNYY1cydWF6d2lvcUl0b3QxSHQ5RERvc3J5ZkRpMnRwQVpMaVBjSm1ELUhvVUpENDg1UmJ3REFwc1I5RXlNd1BwbXRUQ0dUeVFzeVBQSFFNMlk0Z01oTVR6RzdVQ2cwUlUyc21fcGdqOW9CeDlqd0FZUWlNOEhNQlc0LTBUaUZVbGZkQUhZNWVZSlcycGNVZlpzMmNmdTRj?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 16:07",
-    "date_ts": 1783267620.0,
-    "title": "World Cup predictions: Brazil vs Norway and Mexico vs England - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2ZKQWpiNUYwV3daeFFmbFZpN2lCQmpPUUpSMVl1YmxIS3YyNHZ0eXFZVFBkVHFXSlE0aEcwRkpxNHhuVHQteGNHQ2JoUjdxYkdvaTVGV25sMnJoeGFWV1pqNUZzWnBURTN5N0FPWFBRVnhsUVNNX3dHb24wLWdNSE91NXBpTkYzX19jdFRzS245WTZrSVo5Z3FoZlc?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 15:58",
-    "date_ts": 1783267080.0,
-    "title": "Every team's championship odds for the 2026 World Cup",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 15:23",
-    "date_ts": 1783265016.0,
-    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
-    "source": "Action Network",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
