@@ -1,5 +1,42 @@
 [
   {
+    "date": "07/07 12:52",
+    "date_ts": 1783428722.0,
+    "title": "Switzerland vs Colombia lineups: Predicted XIs and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS3dpckFFbWV4cGMtdHA0bHpreEFBTDhXd1BZU3lucEZnT25DQzRmUURkdDNBeTZ1YnVFUmp5YnRLS0hzcjMteFQySW1lcDdKS1U4OTBMM2hhWFBMWlR6c19PMkc2WEo0a29VWll6V200Vl95enRCWXJUT3ZhT1NEdk9sUFhHVld4YmhFOFZieVhZUThiTWxUZFJTWjVCNktwejNhN1NMcWxwdHpJTmVTTTJpYXhYbnNtTm8tMEtwM0JTUFAyV3lLd2xBZWZ3amR6c2Nkcm1PdzdhX25tbmd5ak1UTjVEWENxTU1V?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 10:00",
+    "date_ts": 1783418430.0,
+    "title": "2026 World Cup Round of 16: Confirmed schedule, results, predictions",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 09:39",
+    "date_ts": 1783417153.0,
+    "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
+    "source": "bundesliga.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 09:36",
     "date_ts": 1783416987.0,
     "title": "How does the U.S. exit affect the top 10? Re-ranking the 48 World Cup teams after day 26 - The Athletic",
@@ -8,6 +45,32 @@
     "teams": [],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 09:23",
+    "date_ts": 1783416237.0,
+    "title": "Which England players are at risk of suspension?",
+    "source": "FourFourTwo",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnNGUU5uRG5BN0NUZDNPV1RHWXlYOXJ3Q2ZQUVYtUHpLZFFzTDc2VFJGOXRUdGFXU2JIMFdrdWtKZy1xS0dsdmVCUXBJeERMQWg2cnNDT2M2c1BybDVfWE11MmgzYzdETEtQcEI4Ty03YlpqbnhMV3NpMzhVNEJyZTFpcGJiRG1iZXpIdGFSMTg?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 09:19",
+    "date_ts": 1783415940.0,
+    "title": "‘I go with a clear conscience’: Cristiano Ronaldo confirms he has played his last World Cup game",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDJubm5pVy10dy04eDVRVHVrQy1SQlBqOFBkXzU4VHhVRnd4S09VRFpPdU1xWjBQZzlFWWhqUEo3MU8tMHZjaXpKb3IteEdkYUtQa1lka1FMMTlOYkV1UFd5Nm0tWGRwNU9ndm0zUHZoNjJEWlNsVkNyeVBhaWFNSWpzRmlmWDJYYWt1LTZwRUpZWTN6UENxQ3JWSTB0SmdhQWtMM0RPbW9jNGxUR0NDa1B2cw?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -53,6 +116,17 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80MlV4NFNfSjBPd3FLODRUMG94VkZnTlg1aW55WnhZby1UOUhaR2ZLdzhpZFEzSFFBTExyaXFfMDMzZ0JDdnRZZktEOFNvVXNOZ3lUWGVUZ2ZxUXVpNEU5TjRR?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 05:00",
+    "date_ts": 1783400410.0,
+    "title": "World Cup 2026: US exit ends in shambolic fashion - did Balogun saga play a part?",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUeTEwek8wTGM3QjNicjNua1BweDdjQnBzdm1EdUh4RkdVZnowT253dGlNTjU2RzJTZmpQR3VMc2xTR05VWEJGamdCQm1xVEp2UmJ6aTVCQm1QUGdRNElzUzVvcWlwbVE?oc=5",
+    "teams": [],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -376,6 +450,19 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 17:53",
+    "date_ts": 1783360436.0,
+    "title": "Portugal lineup vs. Spain today: World Cup starting XI confirmed",
+    "source": "Central Oregon Daily",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUnhTalF1U2N1QWoyTmM0NVV1VElXX24xa3VGWEszUXBtOFRjcTdwa3hXY1VPTTVwdXRiT2NRUUpqZHZnZEpjU0VCRWVQMnZkbTN2VjdXZU0xcks1c09vTWtoejdxSFpiTjd4cnNlM3g0emkyS0dyaXNHSkE3ZVJjams1WURhQnZ6UTE5bjlneVdVVU9fNXFmUnlkZG1jQkFqSDlRdkpXeDBmb0hTUndyQldZZnpzaDZQX3hzV3Fsd3g4Z3Q0OTYxTjA3QzViVURtNkx4azZrYndaT2RtRllQcXNkaFI2UjNrWnc?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 17:40",
     "date_ts": 1783359600.0,
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
@@ -553,6 +640,17 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 13:13",
+    "date_ts": 1783343580.0,
+    "title": "US crashes out of World Cup as storm over Trump interference overshadows tournament",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3NjVVdGTFJLT21ZS19fcXhtcEdTRnlUSVFQV2xNY3ZUdDRLU0lzU1pDNHg0RzRpbzJZYUlRMlpDT3Q3ajh6YU5NRUVObGdXdUtBVmpfalU2VnJIVkxldFFIVFNGVnM3a3hWejZFR2QzR3dmUE1WNlFhWTlxY2E1OVEwNTJWU1k2NFRLWFRYM0JTZUZtMWZaMExDaXlXMG5QdTl2eXRZRkI5SHpIQk5XS24xSk9QSmUySEZPOQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 13:07",
     "date_ts": 1783343231.0,
     "title": "World Cup predictions last-16: Portugal vs Spain, U.S. vs Belgium, Argentina vs Egypt and MD26, 27",
@@ -641,106 +739,6 @@
       "Brasil"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 11:23",
-    "date_ts": 1783337000.0,
-    "title": "Are Norway now genuine contenders? Re-ranking the 48 World Cup teams after day 25 - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUx6eDFrbDl1SWNxSTRhdU1RenhuTmdmRTd6b2J6b1h5TWFuWklxbjlmeHZsdnliSVFOT2staW1jSGF1bTFWd1FVamhhc1p4OFB3ajBLT2dJSUFaLWM1UVVFaE43RFhfX3dES0J6cHJ6UDMyX2VXbjVQdUI2VGd3YjVWT0pkVmZJbC13?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 11:16",
-    "date_ts": 1783336594.0,
-    "title": "Quanto ficou o jogo do Brasil x Noruega? Veja resultado da partida pela Copa do Mundo 2026",
-    "source": "O GLOBO",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTm01MzdIR1NjQlk5M3Qzd21kYmlDUEt6X1FLSjFic09uaXpMVXpVU1JxLW9vbjFQdldjUUlobFM1Y2E1bEpPaVpoQjg2SnFNcS02LU9iV0RldVVyWFBJcnBlZjZtQlJwT25qVW53eTRlcEU0TGRWcDBTMTBYLTVRdXdwMllVcnFZeWdtall0WEdxdXlNWnJ0S0RSXzhDWUZ1RHk2VHNNSDdwVGJpc3dlTHNEenNvaFlrNEdMUEJEQkpDOHFzZHVndWQ5aEp2VDAyODJLV2tTUGtSc1pHWGtNNDU5MlBJaGNmZVY3aTVXZ2tERW43VVF0bGFUb9IBigJBVV95cUxOQ19MZDJFYkJseU1qVDlON2R6SmdDMndUUE8zdm84VHFiQWM1TzlRYUEzTUJKdXoyTEN4UDMtWG1DUTRka21Ua3RPZTR3R0VsakVuaUJsQTdEMDBqRFlFNHdjZWZ0M0xicHRJVUJ6TUZfOVh3ZG0xOE1SYUZHcWY2M2VPUWlwYWFuR3QtTGhmUnpGbDd3QkQ3RkNSckFwMzRSUklUd2U0NUliZ05FamtSNkJMR3gxdEYzZWxvMFlxQ3hyRTB2RWlrb1ZEdkVqVE9teV9TdUxKRFhqNkhfTE1VZGxxUjBtTllNZl9ETjdXQU1oMjBMNGE0Y2xBSVB2OW9zYjlKazdFeS1Cdw?oc=5",
-    "teams": [
-      "Noruega",
-      "Brasil"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 09:08",
-    "date_ts": 1783328885.0,
-    "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
-    "source": "Opta Analyst",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 08:01",
-    "date_ts": 1783324867.0,
-    "title": "Quem se salvou e quem decepcionou na seleção brasileira na Copa do Mundo",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNURSc2NmMllKeWpLU0hoQ21BeTNyYkgyc1gtSmFGTFk2QnFHejFqemZLNWxLWkhlZ0k2QUxmbWJFeWJxYmxrNnkxQlhSR1ZGSjJQT2pTV0dMTnpKajE3YXdjRVkwTVNRVnpZOE0tVjJrdnU1T3JJcEwwckdsV00xanlsMVVuOW5tQWp0NGU4SEhRUnRlTWdpTjgxX1pFZXdjR3ZjMWk5NWhfR0ZWRlhacTZQdEJMRDJKdFZwdEVyeVVxQTBTMTNNU0NLdWFEMl9WSGFRN0k5RdIB5gFBVV95cUxNYnJJb1p5bDFfLWFxcl93MTZkbkEtbTZMWmNTUWxXcy15Z2QyZEtwNVUyRHB5WHhwU191b1B2TDh1QjNOQ2hWVGhqRlh2WDRFY2pjOV9McG1oUjc0M18tVkxoUlJZWUMyWlJqWllBcElELXByVFNLaVVERlAxNl9ZU3ZwTEdHS09QMXNsZEMtVWNfVE5kZFFEZV90OS1FUVVxdzhYREg1eHl5Ul9ma1l5SG05aXlqWlZjbEhaQl9qTHRTZm1heGtRRDlvVVlOaFkwTlotT1VNdUZBcm9oRVFLTG9LZ3BWQQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 08:00",
-    "date_ts": 1783324800.0,
-    "title": "The U.S. faces Belgium in the World Cup on the heels of Trump-Infantino red card call",
-    "source": "NPR",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDduTUFMUEl3UWIzVmpIdkNrd05qZU9MQnBKdWRZSlBDQ0tvZUVDeXV4el9XR3JKd2VaZHduTkNOSUtaaFIxQWl2OXo1VVRLSnp5ZksyVHFUUVVSOXh5cUk0WDBHT0F3THBEVDJieEp1aTZ4M1JPRGI5dktjeS1zd3pSajZxa3hPNlNfMzQ0S2RvNTVx?oc=5",
-    "teams": [],
-    "category": "general",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:46",
-    "date_ts": 1783323960.0,
-    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:15",
-    "date_ts": 1783322100.0,
-    "title": "2026 World Cup Odds: England, Norway Surge After Round Of 16 Wins",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 06:39",
-    "date_ts": 1783319940.0,
-    "title": "Jordan Henderson’s wrist injury in celebrations sours England win in Mexico",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEU2SF9LLW1ocjR5TjNILVhTekwwWFVZUHppZm9XS3VTb2d6R1ltUUZGajNfSGZZanVNMmVwWHU1VmhudnBzaUx5eVgtQXMwenNreW5BS0d6NXR6eVlKSTM5Qk5uWWJpWXdoa2lfTUpySElBWFJkczZzOEdSVVR0R0t6NmpSR0VkQXRYbk8xanRiZThzRHVKam9RaGRKMzNIeXZxVDBn?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
