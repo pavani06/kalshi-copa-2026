@@ -1,5 +1,16 @@
 [
   {
+    "date": "07/07 16:31",
+    "date_ts": 1783441901.0,
+    "title": "Argentina fica atrás do placar em uma Copa pela primeira vez após 10 jogos e mais de 1.000 minutos",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVWlsR3hhMkNLVWdWdnNab1lIbnRrUWxXYnVXOFdPbHdOMnVhSHBBU1JMTmdpMTJ4ZEFXM0UtWlFwYmxyX3lfZHRmdVZDVjVfbkFQeGtIS2xHdnhhYTV0ZEVtQU5yeFVkVS1WS1VLbWVKLUdlREItNVdSdjhSMFVnWm9DRE53YmVHNzVwVnMxeThuYTFsZU9zVG1VSnZ6bTBtYlk1cmZQUGpIQnBSdXIyXzlEV1JUUThxdW14NFNCZlBfSExMMWEyRjR2LVg1R3FHQnR1d1ZrNlBLa1FybElkNHI2dnNFTmZZWWlaMXZlLVVuQzNQT3RWeUZjSGVndlhheEVDd0h30gGUAkFVX3lxTFBQSlJWSGxId1A4MEhaSldmcXRGZ3dqTXhOWHJENjVqaWNNWDdBbkh0eDNMVTdCd0ZMYndGUHRZOEo0MUFQSk9OalJ1TVhPbEJ1d0VucmZSWjQ2c0V5RGRZZWdvVEljOWp3R2VoMTBHUk44Y1ZlNEstUnlNdFhObGhmdzhDVGg0eFdZM3lUSmxHdHhCOTM2R0taM0JyV25OM2lRems2Y0UzUUlQZjFYWWpiZ3psc0ZLS3dYTXlUWGlBVlFJWmF5NmZIbFdXYU1fWWxwdVZzOFhoeDJSOGNlcUp3NDVYcXhROW5SbG1VbFk4N3JQQXRWdDRPdGZFX3BaQzdJMi1GTlYyZ3piajB0bkZmNXgtTw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 15:53",
     "date_ts": 1783439595.0,
     "title": "Argentina vs Egypt LIVE: FIFA World Cup 2026 round of 16",
@@ -20,6 +31,19 @@
       "Colombia"
     ],
     "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 15:06",
+    "date_ts": 1783436814.0,
+    "title": "Switzerland take on Colombia in World Cup’s final last-16 clash: Live updates",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWcwQ3o1VHQzX1BUNm5IbnBJbjBZSEs5RTFZM2czVWNhaV8xUm9zY0kwNjFxRUhvakgwMkJ0VjEyMVI4UEJjYVJZQmZ5QkVuOV95M3FvbzBJV1VXZFdSNzB3dFJIWFNHSzVIS1dQNlllZGFoTG0xOXZhZWwyUENMOFQ3d3RJTEdoTzRvVWh4SlpYQ0NXUUpmVFFiMDFqNkMyZ21YTlQ2dUNLdlFSd2VrVUtKcUFNZmNVakQ3TGhfWQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -703,32 +727,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 16:18",
-    "date_ts": 1783354720.0,
-    "title": "Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQi1iZlczSlRMbm11T2w2QVU1Ty1QNnlWcWlHazNHWnRwNGY2SnFZZVRoc3pNT1lGX2MwUWhqNS1GVTFrVjdzLVAxaFlCRl9QSUV6OUZJdzBpRU96cG94RUFQWWZ4Z2RrR3Myb0RnRnBNWUt2WmotX3l5Q1dSZnRDWnBETGxmVHFLaHR0dGQzMEpXbGptV0JLdmkxYkFJZEtrcFRLSS1pQkTSAa4BQVVfeXFMTlJrRzZKVlp1aGltOXVMOXRxcGNjZEc1RnpqcWNGTGhOSDF1enJFYlhZcmVQbkNfZHVubFdoVVgydFhQS1YtT0tHdGJ5TnU4ZjVhdHVoWnBZSDBWSG1jY3Z2MWZtbGhkeU5GZTBWaUpKN1hkRnctZVRSTHN1a2o2Q08zbnJGbW1KSElqbEJrX09wVnhKYzBoSV9tVEMtR1VTckw1U0gwbXFkaTc0ZFl3?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 15:17",
-    "date_ts": 1783351060.0,
-    "title": "Portugal vs. Spain Prediction, World Cup Picks, Lineups for Round of 16",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFlzekFablEza2J5M2JtUXFCZFRrVUQwSkhpbXIyd0ZkTm90MFBkVWE1VEgzYklicVRwRW9ELVNVcWU5MDlkeU53MXNIazlFN0xrTGdicjRBZ282QzhGN1d2dERhQzB5UW9IT2dBU3BBUXdFMHVnekFlWWpXYWxCSnNGaEVqcnM0MlVrUndDV2o1bmZPNVRnQWRaREtFOHFvWWlKaEZlbGRaczR3?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
