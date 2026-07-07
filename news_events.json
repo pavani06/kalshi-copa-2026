@@ -1,5 +1,40 @@
 [
   {
+    "date": "07/07 04:56",
+    "date_ts": 1783400179.0,
+    "title": "World Cup Round of 16 bracket: Full schedule, matchups and how each team qualified",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGxvalFLOE9fUUFUellTb24yNTVieXdZMTZnQjF4UkxUckkwTGpCRk81Yks1dWwyU0VzTXc0X3dJRGkzeXFsYmxWNFFsNS1hQkJ0UzN0RnBIMjFJcWg1MUNwcUpzUF9pXzFpWGUzSlRsbzV6aDlYUXp2OE1mdFpJUDNMWjkyWUUwOWJlREk4V3FSOTYwLWxaQkJUQXNYbHRUZTV6bkxlTk1rNENITXZHZHZuZFZHTnZQZGVUX3ZfZkx5R2Y3NVVMQnZOVEVCeG1L?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 03:27",
+    "date_ts": 1783394820.0,
+    "title": "World Cup July 6 results: Ugly loss for USMNT; Spain ousts Portugal, Ronaldo",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdjVQNEJlR2JOcUdtX0g3MFNuaDBFV1UwU1B5aFBwd1hTcDJFR1BNTkxNTTN6eXAyQm9tTzFTQUF2OG9CTFlLMEdCTTRLR1lISFZCaHVKeExDNm1EZS1VRGtyZWRYeC1QOXY3cEZHU24yWEhoNFAyXzFicGZhZU9lSG1vdG5Zb0FTTWtzcVFrbE8tVmhRSkxkZ0I3MHVJQUF0TWoyQmk1Z2NnOUFNbWRjTGxmYTdlVGdEaDJjUFVadHhPMi1OSGFhQzBidmxoaUlxUC1tWFBfNA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 03:13",
+    "date_ts": 1783393989.0,
+    "title": "Palpites e dicas para Suíça x Colômbia pela Copa do Mundo",
+    "source": "GE",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGtnTEl5RUtyT2p0b0VUUEhtNFNOcGtNN2xKSE5hbkZyWTNCaXc4M2lmbWcwUF94VERwNmdvX2lZMXNTVEEtZmlsbzBRM2I1TGpXSmJKam9QOWRwcUc0RXYtRURUVDFETVM3TlZtbjBWUm1YdHdLSHJZRzJSRGtucnpYQ2ZaMExHX204Zm9XYmQtcmlsTmdBc0xUTGhXSjhLRUw5YUd3R0VPdFhJV1lGaXlkbjduYS1NU1pBYnFXdjFQdWvSAdIBQVVfeXFMTlhlbDd3RFFRNGFfUUt5ck5jWFo0UmdlNmJ0Q0ZFdmNjRk1XU2pEUk1UNlVqMDFFdjVVR201YUY0M21QTE1ONC1JSFAtS3RFUGVzQTYySFVGZU1uSkROZVdid1c1WG8zTlJHUlBMeWlDUVpud21EVVVQN2p6QVRJOW5wWmxCd2gza0lBaUx3VENCdlVjNzJub0FwN1hLNlowNDdRd2lCMzE0VkVkdS1aOTh5UjF6a2xxUDYyLXVQYjMzVWZISmFnbmRZNUlFZ1JQWWRn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 02:04",
     "date_ts": 1783389872.0,
     "title": "United States vs Belgium Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
@@ -144,6 +179,19 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 21:08",
+    "date_ts": 1783372130.0,
+    "title": "Portugal vs Spain Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TEw1QUVpWXdMc1pJa2MxQjhud0dkR2VuRC1LdGtaRjVCdzhHbnpiaHNRNG5FQ1VFYWxpZXNrWUNJcFZmeEZ6ellyY19RWlQ4Y2RfMG9hMVNPRXVkR2dFSlB3?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -387,6 +435,17 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 12:45",
+    "date_ts": 1783341913.0,
+    "title": "World Cup 2026: President Donald Trump reportedly called FIFA's Gianni Infantino to review Folarin Balogun's red card suspension",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOFBuTTl2NWVPNW5idWVYMDhjcFhEb3dWWHNPN0czMEhmRGpBR21KeV9vc3FsQi13TmEyUVd4TF9CMDNYVWJ5T1lqRE5xUXZDTTdSOVhkZlVpOWVpbm5KTGFLT19VU1doa3l0d3pEMnprVmlqRHdKRWtvaVFid2ZndDJxZ3M3VlhpZmhJYU94S182MlBYbVNLUlFhQU13ZHZ1Y2prRkVmSk84bUhqbm5PNURMS2FrTzRpenhoVk9VUVl6cHRXbF9RY3p4WmQ0SDdra1dNWHI2WVlPaFZZWmFkRXpwUC1kQWtKZWg2UnpaTkVaMWlXbUpROHpsUWV3NHBrZHZBa3ZDcWVxU2hTeXJ6VWtrUlk3OWRQOWl3VUFCdw?oc=5",
+    "teams": [],
+    "category": "general",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 12:13",
     "date_ts": 1783340012.0,
     "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for USA, Portugal, Spain, Belgium",
@@ -590,6 +649,19 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 04:57",
+    "date_ts": 1783313841.0,
+    "title": "England star cops freak injury amid wild World Cup celebrations",
+    "source": "SEN",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclgxMXZXVF8tVy04Y3loNWgyNGZZZVM3NFhkdkdfSXBHUTV3TVpJUnJkWEJLV1VTSkJ3bFZnUmdnYTQ0Qm1Va1BSRzZGa1VxV2dBd0k2Q3NhTXo1V0x4RV9WMW5xb0lPZ2xZQTgwRW1Qem44Vm9CbWJTczZ3ZEZZc3FkaFhqaG9pNzlRUVVKc09oMThSVEtYOUM4ck5Pc1hGOC1TcVAzWTNUSUdyOEtScDlZRmdsYW54OUdCdGZfS28?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 04:20",
     "date_ts": 1783311600.0,
     "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
@@ -669,85 +741,6 @@
       "Alemanha"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 03:10",
-    "date_ts": 1783307411.0,
-    "title": "Norway vs England: Date, kickoff time and venue for the 2026 World Cup quarterfinal",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmp0VGtraGFMd2dhLVFkSnJva2tWTEdPbjVQclFlUUl3azYyQjV0TTBJMk1Na0Y2dmdZMXg5cWhYdUplUmlzSDgyMFZ6bjFLMU9tckxqOXpNNm1UbzU0Q1BkY1dROFZMdmxDWDY5ZTdhY2pLYk5idDk3djhRYmxxMldFT2ZBWUJqdHl4ZlBtRU1EQVlyYXhhaFdObG1GaHBJNlVvVkhWUDFDdmN3WmNFcnFRMVptSV80NFhDTNIBwAFBVV95cUxQTTNLUWNXenkyUWtLNDF6c2VVMzVIUy02Rllycng1SW1rU181bHZ4OUU5TFpLZ1ZDMEp1S0FTNWNaNzBLUGZ2UkpadFBDQ2NTX3BiNkVxZnI5RXFGZkhFdVBzZk9KdGhSRVdwa21raWYwalBXMXVTNXBwQlRjeVJtSVdUblExUjMzb1hZWGVpbzhEak1tRUJQQWNNaEVLMzFyeDB5bG5rT2RsWUwyUUNORnVQeDByV1k3UEVkM040ajA?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 03:06",
-    "date_ts": 1783307215.0,
-    "title": "Mexico vs England Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5maFpoYUgxX01nZmlKRGZwQlFCM2RtM0lWMlFZN0cwbGVZbjhLVThNcDkzVk5nVlNqVE5xaUJYOE1RcG1hY0kzQ0VZXzF1M0VfYjU5QlloX0V4RmJIQUNuV2ZB?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 02:17",
-    "date_ts": 1783304262.0,
-    "title": "Mexico vs England LIVE: FIFA World Cup 2026 – last 16",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0tJeklYU3l1WTlYZFV2VGwxTXF4R193X2E2SU12Nm1QUTc1UjJ2UjhvbFRqQlgyd2RTWFUzd2xscWdpNmczeWdsSHZfV2I2Rm0tQUVLTERlaXFIRFJGemt0OTVxSmo2Z05leS1fTVFQRVJtR1FQMUZSbV9tRWQzTWdUb29rNFJuaXhlOWJEcVFBMmZfMmtoVjg3QTdLdFZVUlNB0gGoAUFVX3lxTE8wZ3o0SGRXelc1NmJneGdXOUQ5YXJmd05XaEludHFEbGhZVTVoT2RYczRoVTU2UU9qN0N4NTQ5WklQcWROcWZQSnBfblpDaTFFbnU2R19vWlhYR091TEp2TU81cm41aUxUSktIYmF2elY3VkQ2YTNTc2xZdnR6aGdyYnZkN2pzYVgtNnVrZ2NIMU95ZFA1UWlkTnVwNFhGSlhNZzVXU3B4SQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 01:09",
-    "date_ts": 1783300174.0,
-    "title": "Neymar quits international football after Brazil’s World Cup knockout loss",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVVIUGozWS1qY0YyUF9mam5yMjVPcVZzZFVNeE9kM0xmbjlNNUUwTlJBVTVCODg2bUxLdF9NX2NrTU1yVngwMXQwdW5jbk91cVZxRW54bk1HSzExVmVaUFRaeDFMVDZ1X2hEZ2lQZ1ZpSFVTUzVRdmxDdzRlbWRkNkhZeG9wcXg3ZU5fazRPTHBKNWlxRmJCWjFqYWJmZ1c3TXhKd1llWlVqS0FUQXlmVzBhNUJwQdIBuwFBVV95cUxOaDdLTXBkQUZnRFJKWUNHcm8zempKX2QwaHBiZXpkblNNZVFKR2xyLUF4V2dUc2ExMlBjbW50dlFDMlpCZHZ6NU11LUZzVVRBcE5neWFEYlE4Y2U1aUxsVTdEMTFtcjFCdlpTNFhlc0lZTWpSRVhTOHNKMklnYmhwaEhZTHJSYzVzNm1WUS1CeUhvRVpBRW11cXhrV2ZrZXNNRzU3dG1haEN1VW5Gc3pId0ZGelBhWFFTSy1N?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 00:00",
-    "date_ts": 1783296000.0,
-    "title": "World Cup yellow card knockout stage rules: Which England players are at risk of suspension?",
-    "source": "Metro.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1UxQ3lQTWFoMjV5TDVjOE12M2dpT1RqNVNKY0JwTTFnQkgyM3JBcTFVc201QlotQXMwdm5fR2g2RHRJZW9ZUU5uUUNYWDNXZzUtR09mRE52bEtlNmRPbWNBdnVodmtmdWVmNVM5VzFjNHVYN2o1WEZkS1NqVHM5UUllcW1JcnRQSVgzd3RCX2FLREVrSllvNGtfTUFJRTJ3MDJGdHJqU0o4dE5Lek9JeXd6T1JMQdIBuwFBVV95cUxQdE1Lc040TXFuR2VZX2g3S3pKNHp5OHFaZi1BVmpReG1haXAyRUg1YTFfUWYxVGRuUERyb2kxS0Q2c0V4WUlIWWJMLWFBM3lpc0JDOF9yUnVqTGtyV0s0bU96WjJHQ3VZaHdiUjk5N282WEdEek1nS3dZZWRpV3V3aTRFX09DWHlXWUR0dTByZzFDODQtU0MyV1U4d3JPT0pwLTlIRjdnenZmWkw2bS1wZWJlSjhlajdLWXg4?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 23:57",
-    "date_ts": 1783295830.0,
-    "title": "World Cup 2026: Balogun decision leaves red card system in disarray",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84V3pfaW5Xb3ZrbVM1Y2hVTzVCV2tSdVdETGtYa0xXeVpRNmkxRVg3NXZoWlFhbnZUa3pLOXF5M0k0VWRTdFdyUGJZRXNHc0ZqZ0dydWVpMU9oaXB6WjZXYllfTTVMWU0?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
