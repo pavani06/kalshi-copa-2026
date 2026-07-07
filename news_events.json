@@ -1,5 +1,42 @@
 [
   {
+    "date": "07/07 15:53",
+    "date_ts": 1783439595.0,
+    "title": "Argentina vs Egypt LIVE: FIFA World Cup 2026 round of 16",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1BpbWdmUjdpVlZRYmNxYXJGcHRQWUhJYmE0Y2FtVHNzbVlwNC1QaHFfSVVRcGZwUDNaS1hFcXBSaUVXV0Ztc1I4QWlqcllGUXE4YjE5dkFJVjN0Z2hTLTQ0cklEQzB1N1BfRzVlYUhMaG9YS09RaC1uVWlnbW81WUNTcTdqUXhIV3gxN1ltZTdpeW50dk9HRTZR0gGfAUFVX3lxTE5NTHVZdGgtbC13bzVFN3I1dnNDdV81M3BfdVBNckVsS2h5YjhDajIxQ1NJS3lxbTJqMTlhRGhlNWNsS3VaMW1PekJCUGgwTGJQcTVzYmVKX2VVN1hwUjk5dDA3R1JyaVJWTlZQNDlnYUN5aXRyMGpuZTNNU19nOUo3NWd4M1VqTV9JZWRxdUIwMnBNUkJJbmIxMUZnYmZzOA?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 15:34",
+    "date_ts": 1783438460.0,
+    "title": "What happens if Colombia win, tie or lose vs Switzerland today at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VKemhwUE1obXZ4dHZDQThyWENBVTByWGZzaVlUQVAtbVFqblJFLXE5SHM1eWM4RUNlMGNvZlVHT3RZZkpyR0Q3NnNDT2J6dWFqY3F1ODFrUU8tMEx5TEc0Y0d4cmJiXzg4WWtTTHhNU2JxS1JYbm5zOXNxbnMxV2JsS0J6VmpQNERCN2tlUnBXNlAzQUdySkdhVHp1NHQ1cVhzZWdiM3Q5VTR3enFwWERFaHlVRWPSAbwBQVVfeXFMUHg3TEp1TEpiWFhYVUdieEdIbGZVSkxfQWljVGg1UURXNTNYeTFvRnRGUnpwdExzWjBxanI5XzFFdzFpT2Q1YjlfOENqWUhFd0x6c3V3RWRCS05LemJiT2lSTXdibE9uQk1tYUJ5bXFXM2VRTUI2U09aQW9EUDJucWdQVEF6Y1NtcTUwRnFOODJOaVBKVngwcnQ0RGVMeGZYTjJ6QnRMUHl4ZWI5X2pmTXJtRU5wSDgyTy10RVc?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 15:04",
+    "date_ts": 1783436695.0,
+    "title": "Why isn’t Omar Marmoush starting today for Egypt vs Argentina at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3RaSmxWU2lDMm13VjRrNkxVSnRZOVp3YTFEbE92aG40MGlDMmUwUXNJQXZ5VFVzX3hOQnQzUmJSTDRVN0xZNDNtSjlXcFhuRTBUU2w1SkRTRlp2dEVUcTBTaTQwR2E5VnNpSGhaRzBpZmRjaHgwQkJPVERrS0E4WEJwd2pGNHFyRHQ0V3F0TjNJZTk0ekJnMVdKSGF4MWgzMEZydUFONnFFU0hHUl9SdGZFQ2tkZ9IBuwFBVV95cUxNNHZsZDV0d2VBZ3RXWXBsOVVndTQ3TGV0ZFNaVTF5SHdhaER6LU5kUUQ3STBjUEstc3E0SVVrd2U2M1VmOGd2RlpXa0x2ME1lQmQ3S2V2aVRZOVBIS0lPbDBBRG5ZOW5CbU91a0xKbzdtOHYxbklwc0RFcFk3Q0xrRkZyU2JMOENNeVF2c1Rsc3ZGeE1uTHRjajZHLTlsMTI2bkppeGJrQWFwNEVXV09qV3hrQ3E1TzBMS2R3?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 14:00",
     "date_ts": 1783432831.0,
     "title": "World Cup Round of 16 bracket, live updates: Messi, Argentina return vs. Egypt before Colombia vs. Switzerland",
@@ -691,41 +728,6 @@
       "Portugal"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 15:06",
-    "date_ts": 1783350373.0,
-    "title": "Switzerland vs Colombia lineups: Confirmed team news, predicted XIs and injury latest",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWEJ2UFhZVzdiaTBza0ZNZWd6ckZ4UTJPMzZ0WnRsSU5tMDBGRkgwbEIzdjk4QTk5ZWhKc0NuNDItQ3g1bVA0T2ZvTTRpcXBtT18xQlNrZUU5Zy1kc0luaFZfN1ZrUEJVbjhIUVY4bE02N1JRWmtfRmgtazFTX01nb1MxV29RMVB2MnZmYm9xX3JsVkluQzl2VWFBU2dqRmk2NFlVb3BUejdLOVF0aTVaal93S24zU0tESnZfUW5KS21VWExRY3hablB3OEpNTTdGeDNnN0ViNlcxa19WUS05U0tzcXY?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 14:56",
-    "date_ts": 1783349774.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 13:39",
-    "date_ts": 1783345183.0,
-    "title": "World Cup 2026: Quarter-final fixtures, results and full tournament bracket",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1V4TDU2YkF6MGR6YkJiSV84Vk1wMUlmUS1OYVlYXzNBWWhvRVFCN0w5YU9kY1Q5ZDFfRGtWS19hTTdic1E0ZUgtUTh3Y1lBN19DbVZwWjJNcHFiazZpVkI5WVFNQzJaUTU3OUNpNXU3U1E2c09mbGQ0YzlDUjhvYkd0N04wdmM?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
