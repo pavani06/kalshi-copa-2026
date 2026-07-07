@@ -1,5 +1,53 @@
 [
   {
+    "date": "07/07 18:42",
+    "date_ts": 1783449737.0,
+    "title": "2026 FIFA WORLD CUP: Switzerland and Colombia confirmed lineups for Round of 16 Showdown",
+    "source": "Africa Top Sports",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDBhdE1iS25KclZ5U09ha3VHbko3b01DTkVDV0ZxaXo4cHNJZlNaeUdpQnd2NlA4UW5fdXNONUFUeGRvbHBiT1daX2hwNjlKRGJobmNkek5lMFp2UHFmdHFIQnhMR1g1TnVWZERlcjVVRGpaaWpVZFdObkhPNGg5TWU1bVg1Vmdwem5ZUkNPZ1NQNF9xdy1wV3lhV1hSNVBFbmdoYXU3N1NnSlE1b2U0anFwZ09VSGQzeFo4?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 18:09",
+    "date_ts": 1783447750.0,
+    "title": "Argentina vs Egypt Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZzBKZEtHNElOZmlhLXFJOUdwMkJkRUx2WVhLVV9VeldiRXhyLUw1dkJkWWYxVTlscTFSamxPdG9ZNU5vMl9kTU9vUVpSYmtUWDYyejVnWjF1WEZnelp2bVN3?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 18:07",
+    "date_ts": 1783447675.0,
+    "title": "World Cup 2026 bracket: Latest results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 18:03",
+    "date_ts": 1783447404.0,
+    "title": "Switzerland vs Colombia Prediction, Picks, Lineups, Odds & Best Bets World Cup 2026",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3h0QTAxcTJkMGpBa2Qya2g1bmlTQ3RSb1B2WWF4T3hzUDRoQWFWTXVMdXdBTzBXNHBsRHg1bHFtcVdQWGF0SVlYcGRWTklwMVQ4Vlc0SmlFaU1nemV4aHFRdWo2dTZ2ZklLRXA3RzFvZ0VkVVlVUm92OVl3UUp0b1M1TWJkTWhUMDZLWmFSeE9TOWZPdTJ2Z21PV3pzdnZXTC05T1BnVnNzQTg1TWVOZjhFM1dKUQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 16:31",
     "date_ts": 1783441901.0,
     "title": "Argentina fica atrás do placar em uma Copa pela primeira vez após 10 jogos e mais de 1.000 minutos",
@@ -57,6 +105,17 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 15:00",
+    "date_ts": 1783436403.0,
+    "title": "Argentina 3-2 Egypt—World Cup: Match Stats, As it Happened",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVXQ2NE51Nk4tYzE0TnFMSl9MWGRMbThDR3lIbkNVT3MtNjE1Q3otLWVtOTRmTDhock5xUzlrSjNmZnJTeEpRcXZyaEo4UHF0UDdnNzAtY25KNGFzcTQ5ZjFsdHVTSHFIU0IxcjBLV05RdVNlSzdBU00zUW9FUm5JNjl1NA?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -663,69 +722,6 @@
       "Noruega"
     ],
     "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 17:22",
-    "date_ts": 1783358579.0,
-    "title": "Jude Bellingham risked World Cup suspension in crazy Mexico celebrations following Harry Kane’s lead",
-    "source": "talkSPORT",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGlBRWh6bXpnLXFhQjVVbWc1a29LOTNxWDZ5RWY4RTVxUS1fZzVwOXljcFhuRlJRdmRpMlpiVjVZdWV6aF93aVBUSHYyLTdfdUVRa0pjekV0MGlLSXBicTFHR09nemc0VGFTWElUT2oyN0xzRm53M3EtTlJiN0NWZkZDMmtucTNRc3hBbTBTUWhCd09mQUpBV3Y1OHQ2Y29PT2o0azdOYjV2ZFNOVERrV1JxUnV5WFVaT2UwcEhHa1Y1dw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 17:21",
-    "date_ts": 1783358460.0,
-    "title": "England stars at risk of semi-final ban despite new World Cup yellow card policy",
-    "source": "talkSPORT",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRsZjVkS2VpNnJkMGlvNUNDVVAyYV8wdVZvUHlqYkU1QmJkSktWcmtsWmFmUm5saGVzQ0pIcHZrVXA5QldOd2pZaWZMNlpDSlllaUt2M3d4dHNqajAzWkNVeXgwYkM1UjAzR0tDdDVuYnNlQS1NSFp0My1mdEpWd01UdG5qY00tblRGTm9jQVNwbXZrNHNoSHVtUXJDOGptcC1HSnJQcUtxdl9KSWhoZG1rbw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 17:00",
-    "date_ts": 1783357200.0,
-    "title": "Portugal starting lineup vs Spain: Roberto Martínez’s XI for the round of 16 game",
-    "source": "Diario AS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0VzdXVrM3dHMm5HekdqMUxIZzBUbTdNTUNGNVVWNVByc0dmMmc3Wks1NTZXYXZmbWd4RUdYblNuN1YtaG9PRkgtT3l6TWQzdFFkLW9aaURnTTMwYWNtb2RUa3dNRU5LTTRTMHVIejFWWDhjUXktY1FubDF6cTN2TkljeTBzd2h6WGk2NW5FUjF3ZVVOWldEcVhyYTdzTHBsTktMR29WX2k3QTdIUGg0c19yNzFCaXd0eUFUdlBMQnhtaVHSAdcBQVVfeXFMTmZ4MnprZFY1dnY3VjhtY2pja0xINVY3V3FVWkMzWDJsU3R4LTQwLS1YSldHTVJZaUJDODhqUzdkYU9LbE03Z3ZBVUtQQTZ2Z1cxQ0dvY0QwaVhET1NkTGNOOHpOZ2pTZzFZUUZTbnUtbUx3MkdzX08wd2NIUlVZU21weUpteFJHbVFxUFcybWJ6RjBsQWZTV1lfajFyTGxrY1Ewd1lHcVhHZlJGS2pRNElPQzJqNlVpZHFHUzdLaEVxYUlobU1BVTBSc3lIdHZrNVQxNHNMaFE?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 16:54",
-    "date_ts": 1783356840.0,
-    "title": "Every team's championship odds for the 2026 World Cup",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 16:45",
-    "date_ts": 1783356307.0,
-    "title": "Spain and Portugal clash as Cristiano Ronaldo bids to extend his final World Cup: Live updates",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVJ5d2NBaFIwOGJaTlJ0dGxJV2tPcnUwRjkxdzZzb0ZYeDE4S0xxRllTQml5SG1NUXdIdVdqZ0Fma1QzaV83cFFDUnpxaXd2UWNFMjk2SUpSelZQeGlZaFJwYmJVRlltSWJrN250MmY0VjJINTYxSXFldzVheUlWNks0ZU53bi1aSXNIanhldi1VeGFacmJ2cEtWM1c5LWJTd08tcFB2dFdobDBuUF9kSnlRaWJtUHM?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   }
