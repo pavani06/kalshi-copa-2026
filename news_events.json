@@ -1,5 +1,18 @@
 [
   {
+    "date": "07/07 14:00",
+    "date_ts": 1783432831.0,
+    "title": "World Cup Round of 16 bracket, live updates: Messi, Argentina return vs. Egypt before Colombia vs. Switzerland",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3NLeTRyV282dWNObDNTdHBHRVhXNGh5OXpEdjN2Sm9YOENYaElHRTQtYzhNZUcxNGQ4LWpUTk1uaWo4N0pRRFY5MFVQTnc4UG9mQ2lKX0pDSWpyX2xmSHJMdEx1R201T001MlpUSDdXUEF0cndhVkY1N2FPZUJxUDdaTzRRdDdlenhDdjZZZG9HY2E0b0E5VW1QdTg3MUFsZTlMZkV1bC1HcG45eXk4NnVnZTJrVlFMckg4MTVtQUQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 12:52",
     "date_ts": 1783428722.0,
     "title": "Switzerland vs Colombia lineups: Predicted XIs and confirmed team news",
@@ -133,6 +146,17 @@
     "source_type": "news"
   },
   {
+    "date": "07/07 09:02",
+    "date_ts": 1783414946.0,
+    "title": "2026 World Cup: Tournament schedule, scores and results",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
@@ -206,6 +230,17 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUQ0cmFEYTZyOVZ5YktsM3BmRjhzenE0RDAtLTRmbzN6MS1xaDlFQzNqdjQweERSeWZVb090ZmVYZENwREc5dGtWTzhWT1Bia21GWDJVaS1YT2RROGlnaTZfcTlyTHNiR2t6UWxqbTFVd0FvQ04wazh6bXl3dmlLTVVBWmlNUl92M2FDdE51TnZrUlhfQUN2RHVXbHpRVlpyOHJsYg?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 03:48",
+    "date_ts": 1783396080.0,
+    "title": "Belgium ends the USA’s World Cup dream with a dominant 4-1 win in the Round of 16",
+    "source": "CNN",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RRHpReVJyeTgxNmluVFVZMWQxV29VVmw4THF1V2JPTTFVSHBnNXlKdHlFQTBxX2hQZ2REbVFKWnVqOVpCb0JwcV9sMHVxYUhzb241dVIyT1djMm5rck1yVHN3b0J3eXVteVdqd3VBakw5eGw0VVJMbmxTMVBjSXc?oc=5",
+    "teams": [],
+    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -691,43 +726,6 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1V4TDU2YkF6MGR6YkJiSV84Vk1wMUlmUS1OYVlYXzNBWWhvRVFCN0w5YU9kY1Q5ZDFfRGtWS19hTTdic1E0ZUgtUTh3Y1lBN19DbVZwWjJNcHFiazZpVkI5WVFNQzJaUTU3OUNpNXU3U1E2c09mbGQ0YzlDUjhvYkd0N04wdmM?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 13:26",
-    "date_ts": 1783344389.0,
-    "title": "Five England stars at risk of World Cup ban after Mexico battle",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0lkaFp4cHpjR0lpZWxkTVdNUVdCbnlGSUI0dHJxYWF1UnZMcXduVGVjTlFscGdtSHpnXzRkeTJvS0poa1JDVlQ1S1c5NnhrT1NhOGxHZTdkckVENTNKODJ1a2UwbzN3Nml6QkNZb29tNS1QVkxNaHpUUHc4RU5KeFNyVGRjbHlzV3FZT2RDWnBEUQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 13:26",
-    "date_ts": 1783344387.0,
-    "title": "Portugal XI vs Spain: Predicted lineup, confirmed team news, injury latest for World Cup 2026 today",
-    "source": "Yahoo Sports UK",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTZaMnJzb0xlY3VGRHVJZkU3ajFCd1JHcUQwVFNuaTF4dE56eTBXNHJpMlYxbVhDdllQam9UN3VCcm0yaE9fLXhidzZlZ3lkYzRBRTJzdXF5NWQwTnRrV3huTmtqMElCXzJ0YllLN0VzdUF0aEFTNkVTVE5PMnByR1FrQ3o?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 13:13",
-    "date_ts": 1783343580.0,
-    "title": "US crashes out of World Cup as storm over Trump interference overshadows tournament",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3NjVVdGTFJLT21ZS19fcXhtcEdTRnlUSVFQV2xNY3ZUdDRLU0lzU1pDNHg0RzRpbzJZYUlRMlpDT3Q3ajh6YU5NRUVObGdXdUtBVmpfalU2VnJIVkxldFFIVFNGVnM3a3hWejZFR2QzR3dmUE1WNlFhWTlxY2E1OVEwNTJWU1k2NFRLWFRYM0JTZUZtMWZaMExDaXlXMG5QdTl2eXRZRkI5SHpIQk5XS24xSk9QSmUySEZPOQ?oc=5",
-    "teams": [],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
