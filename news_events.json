@@ -1,5 +1,29 @@
 [
   {
+    "date": "07/07 09:36",
+    "date_ts": 1783416987.0,
+    "title": "How does the U.S. exit affect the top 10? Re-ranking the 48 World Cup teams after day 26 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTB1cDJvWXB2UExFNjAxb3V5Mjk2NzUwRzJ1cVBUekFvTXhFaTM4Y3RHMS0zdExpX2l0X0lEbFZ2eFc3a3ZPUFpDTjFvZktKTUJVVW1JX3NWUWliUG0yTmRySWFObmxqRFA1S3ZiMk1CU2owQmhUbUNMcTJscEZiMEtsMHZZUU9xUG9j?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 09:02",
+    "date_ts": 1783414966.0,
+    "title": "Switzerland vs Colombia: World Cup 2026 Round of 16 Preview, Predictions & Lineup Rumors",
+    "source": "centraljersey.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2elN1OE9nQmx2dkZKZERkQV9fQ19PMkk4elNkYzRWdERsMGZIQUZ6T01IazI0R1pkbmhTOEhLSVhpaFJGc2tlTkhOdFFncnJhVzJTZDBfUzluXzhUSU9aSDZWdU9IWkVka2Q3OVpod08yWEk?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
@@ -87,6 +111,19 @@
     "teams": [],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 02:57",
+    "date_ts": 1783393020.0,
+    "title": "Switzerland's Predicted Lineup to Face Colombia at the 2026 FIFA World Cup",
+    "source": "beIN SPORTS",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVjB6ZEZlZXVGaTdGY0RTQ2N6SWM1Y1BPSTNMcnhtUDhQTjhrdThPRy13R3JpdURiMUlXajlmR2c3b04xZ2VvS19BSjd6UnJpbFA1dFh2b3JJa0pOVXRTWnotVnBHRTRtY0ZrM2ZadEdsS3J5Ui0xWTY4UGZpY1dYbEhRZ2prcnRiYXJRSTViR3hTQ21UcHR6R0pWTEI3Wk5kUTU2c1JoQnYtcHY5UkdLcHZBNTd6ZkpEaFZWX0k0V3NYeWctelV5NlljRk9hVnN1WHlHMkNYczJXMWl3TXhocDRYMkp6dThpNWc?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -284,6 +321,19 @@
     ],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 20:29",
+    "date_ts": 1783369765.0,
+    "title": "Which teams are in the World Cup quarterfinals, and what’s the schedule?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFZ5ZTB5bGRWeFdaX1Y3NkkzeE1ZUmFkMG9wSWhzRDM0Y0lmTmxOMzlWOXRxdWVkcE5hclNZLW1Nc3RDcXRwelR4XzR0TkVlSFd6M0Nrd2tNTkgzcHc3RzRDaGhGTW40Sl82ck41NExQcDRua3F5azZNYjNzM0w0OWJVSUhaUnRLODFyMkk1bGdTUDdsUnNOc0JnbjgzaWg4R183cU9UV05hVjRkdHVveNIBtgFBVV95cUxOeUlrTkhOeFFmR0NkczM3eHdLNTVORS1MeV9CTl8teTE0Y2FPY0JQR1l6VWpRYi1jSUpabXFudzVGa3YzZHp3R2tUZ3RCU0JtX2g2eUhxazdVQkR1TlZ0aTFibnpmYkNzb0JreTVSLUJNT3lDbzhEZHhGNlVidE5MeEVIcFNYOWExWjRhU3ZxX1pWcmNFRGFuS2FrV283RTNnVWlxeko3UVNoNW5YcHZDWGE0TU4ydw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -687,54 +737,6 @@
     "title": "Jordan Henderson’s wrist injury in celebrations sours England win in Mexico",
     "source": "The Guardian",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEU2SF9LLW1ocjR5TjNILVhTekwwWFVZUHppZm9XS3VTb2d6R1ltUUZGajNfSGZZanVNMmVwWHU1VmhudnBzaUx5eVgtQXMwenNreW5BS0d6NXR6eVlKSTM5Qk5uWWJpWXdoa2lfTUpySElBWFJkczZzOEdSVVR0R0t6NmpSR0VkQXRYbk8xanRiZThzRHVKam9RaGRKMzNIeXZxVDBn?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 06:32",
-    "date_ts": 1783319541.0,
-    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
-    "source": "Action Network",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 05:15",
-    "date_ts": 1783314900.0,
-    "title": "World Cup 2026: England into last eight after beating Mexico - where does that rank?",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc29TTEFPTFgxaFU0Ykszel9lRDlybFM5ckJGVXQ1WjdKMzFUZlJFeGlRc1hkcU56cW5zZHZTX2VUM0IwMUZCYUE1eU93ZkZwZ0p4RzhmM1pIUUZEMFZxZUZn?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 05:14",
-    "date_ts": 1783314886.0,
-    "title": "2026 World Cup Round of 16: Confirmed schedule, results, predictions",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 04:57",
-    "date_ts": 1783313841.0,
-    "title": "England star cops freak injury amid wild World Cup celebrations",
-    "source": "SEN",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclgxMXZXVF8tVy04Y3loNWgyNGZZZVM3NFhkdkdfSXBHUTV3TVpJUnJkWEJLV1VTSkJ3bFZnUmdnYTQ0Qm1Va1BSRzZGa1VxV2dBd0k2Q3NhTXo1V0x4RV9WMW5xb0lPZ2xZQTgwRW1Qem44Vm9CbWJTczZ3ZEZZc3FkaFhqaG9pNzlRUVVKc09oMThSVEtYOUM4ck5Pc1hGOC1TcVAzWTNUSUdyOEtScDlZRmdsYW54OUdCdGZfS28?oc=5",
     "teams": [
       "Inglaterra"
     ],
