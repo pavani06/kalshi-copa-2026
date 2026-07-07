@@ -63,6 +63,17 @@
     "source_type": "news"
   },
   {
+    "date": "07/07 18:28",
+    "date_ts": 1783448890.0,
+    "title": "FIFA World Cup: Messi, Argentina score 3 unanswered goals to comeback over Egypt - WSB-TV",
+    "source": "WSB-TV",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQjZlYkc1WTlId0l4VkIxbG01VVZEWWprMXN3WXhQMkZpNVBCZG5BNVNlSUxHSXdzQ1pxeU1Tb0x0TUJ1ckxEcHpUUjJONzBMUjdPYWlHckVtQkZ4aG9RWW1fUndfLXZLVzBQSWNuVC1ZMFZFSjFVTzNLb2pLdm50ckdadFpqNDhaWkZ5OGlXLW5IaTA1bFdCdEZ2bmVBRmk3azY2QklmM1QwaEF6TDVwNFBTTjhLQkY4d1N6cUgyNNIB0wFBVV95cUxQMmJINkc4bXZQYlZib1R4anRjeWwtRDIwckwzOU15RzMzcjdLQ2dPbWhtQ2ZDejB3Si1vb18xR0daQVR2djV3bGl6Ymtvc2xVU2hRaDNqX2szRTIxVTUxRXppVkxzNGxiZVRPRkRKZzJoTzhyZ25OOG5CZFhEME8wbV9KdkZGb1E2NUJUZ1gxTE8ycVF4eW9KOTVWU24zV29KTmE4VU9xOEtRSW5zTmpYcDNjQjZIbU1vcHZMYVFsNFF0NUZFRlBPRUhwV2lxNzJfZTlJ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 18:27",
     "date_ts": 1783448848.0,
     "title": "Argentina vs Egypt Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
@@ -704,17 +715,6 @@
     "teams": [
       "Portugal"
     ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 21:08",
-    "date_ts": 1783372130.0,
-    "title": "USA vs Belgium LIVE: FIFA World Cup 2026 round of 16",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjVPU2puLUFtUFpsdEdZZFJxcjc1dl9VdkFCLW9SY3NKODhXVFg3R2M0Tndic2hhSDljQW5GeS1FZ28wWGg2ZnVUQi1zb1E4R1hpUk1KajN1OExZT0FEZ3JsVzNpQjVPSlJtMm8xT1JVaXoxU2RkRUlxSkxjSi1ydEFMY05JS2FxVkVsckkxYmVqV1dERzJrRU9JN1RieFZL0gGmAUFVX3lxTE95XzNuMWlQQjU2N3UyTU9kV3pvODVibUF3LVVac1Y1TE95WjY2Q0xUWGVYLVlhTUFyMXdobWhWNXJuN0JvQkNHQmp3NzQzRy1aN01ncEFBN1pJNDBmSEZQaUVoSTNpU21WbDFLZDViNEFEVzFUdTN0WU5PczdiUVF4MzZLNTRQcWg1WlJjbmJJY210OXFVTWplVnV2QjBCeDJ6bVlQTUE?oc=5",
-    "teams": [],
     "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
