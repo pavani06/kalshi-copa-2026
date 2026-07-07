@@ -1,5 +1,16 @@
 [
   {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZWJuYU40V3B1VlBBSzRkZUZJMHR5TUg0VjJUMHBIOExDc3ZOTFZOTUtoWGN2eHZONTB6VS1JLW04YlJKb1MyM1VRb190S01CRVBwZElHT1A0b2pQZk9sOHBnNktNdzhpZTlWb095RjJncnQxVUE0UGNEanlCaG56dl9jTHpKQjk5SkoyZXVPNktzUW5VbzdVUG1wN3gyTGtHOTlpWUJ5MGNlMUlOTHA2X01QWE91ZHBUQXE1V1d0R3dFQjU2bUtQZGZ4WjJvdXJlVktLcmRZcGJuV2NsOXA0TlB2dHRwQzlrelBkWTd6NEloRzk4eklqNTJDZmQ3MmVQWUFFSDdzSlpyeXpIX0F2NXRYZjE?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 06:37",
     "date_ts": 1783406220.0,
     "title": "FIFA World Cup 2026 – Every match result on Tuesday 7 July – Live updates",
@@ -7,6 +18,17 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMF85bDR4MjhjcWxsWk1EZF80Zk0zd0ZDLVBhb2lIOWcwc1RpbDdyV3pTaFJGTTk5VHMwUldLdEIzN3hCbUlyc2hxLTA3RHAtRUpYeEVoYlZzXzlQdE9fMnZmYVBUamVCRVRpRTZsR19JQzI0TmkzVlpWTDFUaU1FQUc4eWVCdjB1ZVJFMjA3dGM0aE5kODd5R1lYMWR1RGpJWS1ocw?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 06:02",
+    "date_ts": 1783404175.0,
+    "title": "World Cup 2026: USA knocked out as Balogun 'injustice' fuels Belgium",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80MlV4NFNfSjBPd3FLODRUMG94VkZnTlg1aW55WnhZby1UOUhaR2ZLdzhpZFEzSFFBTExyaXFfMDMzZ0JDdnRZZktEOFNvVXNOZ3lUWGVUZ2ZxUXVpNEU5TjRR?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -29,6 +51,17 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wSXp6eHBMRnhfbTVzMjY3eWtOTWcwSU1BajJfT0wtNWtaRU8xRGdzazlDdF9oNkgzcUxKSmNVTlNPRjB4bENZV1VqcExycFVrell3dllRU2VNdnZnSXltVl93?oc=5",
     "teams": [],
     "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 04:29",
+    "date_ts": 1783398558.0,
+    "title": "USMNT vs. Belgium: Match Recap & Highlights | FIFA World Cup 2026",
+    "source": "U.S. Soccer",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUQ0cmFEYTZyOVZ5YktsM3BmRjhzenE0RDAtLTRmbzN6MS1xaDlFQzNqdjQweERSeWZVb090ZmVYZENwREc5dGtWTzhWT1Bia21GWDJVaS1YT2RROGlnaTZfcTlyTHNiR2t6UWxqbTFVd0FvQ04wazh6bXl3dmlLTVVBWmlNUl92M2FDdE51TnZrUlhfQUN2RHVXbHpRVlpyOHJsYg?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -65,6 +98,19 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 02:04",
+    "date_ts": 1783389840.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -694,54 +740,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 04:20",
-    "date_ts": 1783311600.0,
-    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 04:09",
-    "date_ts": 1783310952.0,
-    "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
-    "source": "bundesliga.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 04:05",
-    "date_ts": 1783310743.0,
-    "title": "Which teams are in the World Cup quarterfinals, and what’s the schedule?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFZ5ZTB5bGRWeFdaX1Y3NkkzeE1ZUmFkMG9wSWhzRDM0Y0lmTmxOMzlWOXRxdWVkcE5hclNZLW1Nc3RDcXRwelR4XzR0TkVlSFd6M0Nrd2tNTkgzcHc3RzRDaGhGTW40Sl82ck41NExQcDRua3F5azZNYjNzM0w0OWJVSUhaUnRLODFyMkk1bGdTUDdsUnNOc0JnbjgzaWg4R183cU9UV05hVjRkdHVveNIBtgFBVV95cUxOeUlrTkhOeFFmR0NkczM3eHdLNTVORS1MeV9CTl8teTE0Y2FPY0JQR1l6VWpRYi1jSUpabXFudzVGa3YzZHp3R2tUZ3RCU0JtX2g2eUhxazdVQkR1TlZ0aTFibnpmYkNzb0JreTVSLUJNT3lDbzhEZHhGNlVidE5MeEVIcFNYOWExWjRhU3ZxX1pWcmNFRGFuS2FrV283RTNnVWlxeko3UVNoNW5YcHZDWGE0TU4ydw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 03:39",
-    "date_ts": 1783309159.0,
-    "title": "World Cup 2026: Which teams will get a third-place berth? Live tracker",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0tDSmNNMHAwSjJRYlNacW5VMDgxNkc1U1dqajRRb3h6ZVl5NmhBUjdHWW1tMWk2RjVEQy1MMHp1LVJzU2JMM1llVWlVcEFUMk5zbVdqU1k1OHZMOXNVQko3bVdSNEt3UW9uejBxbXFPZmtsdnN5ekVBS3QyOVRiQTlTWWN5NjllV3dTUURZRi0wV0tnbV9kX1V2MFVyaEE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
