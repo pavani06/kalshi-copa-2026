@@ -1,5 +1,18 @@
 [
   {
+    "date": "07/07 00:03",
+    "date_ts": 1783382580.0,
+    "title": "World Cup 2026 live updates: Belgium leads U.S. 1-0 in first half; Spain scores late goal, downs Portugal in round of 16",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnZid3VFaHZFNjA0aU9GeU9GZjNZa2huVVprLUZiVTcwRXdXeXpHVEozS2xUVGs4LTl3VXZFUjdhREJHOFl5aXRSWmxXWEQ2ellYb1Vlb084ZWt6dnJMeXhKTzkxdmhTQThyQ1BGcGh5SXJNYlhRVERxYklTWTJta2czcmhwSGUyWnhrdk1XZ1BUN2hNY1Q4bTRmN1ZJbGt3QzR0Rg?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/07 23:51",
     "date_ts": 1783381862.0,
     "title": "Ronaldo says his last World Cup is over but Portugal decision can wait",
@@ -96,6 +109,19 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 21:10",
+    "date_ts": 1783372200.0,
+    "title": "FIFA World Cup 2026 – Portugal 0-1 Spain, Round of 16: Cristiano Ronaldo's final World Cup game ends in defeat - as it happened",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUhsWVlVdjRzQTZVdVlKck5sc3prRnJLTkdXT0E4M1RNbFZOOWNLTE14S0ppQllJMHZfVXdYcl9WZFY3eTlDV1F1YlUwQzRGZFo0b0c5MWN0XzZBUUdTcmJuSWRNd0lmYXp0bE9laVlHbDl1SkJNa3VMVTVxODRnUWlSb1d0YXdPdGdOSkRtM1ZzblE2R3FZZWdVdDJTdDQxYmVHWklocDZ2dw?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -724,28 +750,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 23:37",
-    "date_ts": 1783294624.0,
-    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 23:22",
-    "date_ts": 1783293774.0,
-    "title": "World Cup 2026: President Donald Trump reportedly called FIFA's Gianni Infantino to review Folarin Balogun's red card suspension",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOFBuTTl2NWVPNW5idWVYMDhjcFhEb3dWWHNPN0czMEhmRGpBR21KeV9vc3FsQi13TmEyUVd4TF9CMDNYVWJ5T1lqRE5xUXZDTTdSOVhkZlVpOWVpbm5KTGFLT19VU1doa3l0d3pEMnprVmlqRHdKRWtvaVFid2ZndDJxZ3M3VlhpZmhJYU94S182MlBYbVNLUlFhQU13ZHZ1Y2prRkVmSk84bUhqbm5PNURMS2FrTzRpenhoVk9VUVl6cHRXbF9RY3p4WmQ0SDdra1dNWHI2WVlPaFZZWmFkRXpwUC1kQWtKZWg2UnpaTkVaMWlXbUpROHpsUWV3NHBrZHZBa3ZDcWVxU2hTeXJ6VWtrUlk3OWRQOWl3VUFCdw?oc=5",
-    "teams": [],
-    "category": "general",
     "impact": "HIGH",
     "source_type": "news"
   }
