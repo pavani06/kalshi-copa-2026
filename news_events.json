@@ -409,6 +409,19 @@
     "source_type": "news"
   },
   {
+    "date": "07/07 05:25",
+    "date_ts": 1783401938.0,
+    "title": "Which teams are in the World Cup quarterfinals, and what’s the schedule?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFZ5ZTB5bGRWeFdaX1Y3NkkzeE1ZUmFkMG9wSWhzRDM0Y0lmTmxOMzlWOXRxdWVkcE5hclNZLW1Nc3RDcXRwelR4XzR0TkVlSFd6M0Nrd2tNTkgzcHc3RzRDaGhGTW40Sl82ck41NExQcDRua3F5azZNYjNzM0w0OWJVSUhaUnRLODFyMkk1bGdTUDdsUnNOc0JnbjgzaWg4R183cU9UV05hVjRkdHVveNIBtgFBVV95cUxOeUlrTkhOeFFmR0NkczM3eHdLNTVORS1MeV9CTl8teTE0Y2FPY0JQR1l6VWpRYi1jSUpabXFudzVGa3YzZHp3R2tUZ3RCU0JtX2g2eUhxazdVQkR1TlZ0aTFibnpmYkNzb0JreTVSLUJNT3lDbzhEZHhGNlVidE5MeEVIcFNYOWExWjRhU3ZxX1pWcmNFRGFuS2FrV283RTNnVWlxeko3UVNoNW5YcHZDWGE0TU4ydw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 05:00",
     "date_ts": 1783400410.0,
     "title": "World Cup 2026: US exit ends in shambolic fashion - did Balogun saga play a part?",
@@ -704,19 +717,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 21:01",
-    "date_ts": 1783371715.0,
-    "title": "Com gol nos acréscimos, Espanha vence Portugal e se classifica para quartas de final da Copa do Mundo",
-    "source": "CBN",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQnFoQ3JhQnNfbno4QnF6cWlnZ2g0YWFxNVNDSENFa1dGSm1nWkpSVFA4TXZUMTVoQW81dkFYbmVjU3BPVHAwUFNuMFNjam5La3NrR0EwSV9ZcjYzaURoMmhFclpYd09YSDI5MFRTS0FtRzRBcEN1SHl1LVdXMkduTWtCSVBHejNtZ0tvVFlvOFJBSE9Yby1BRXh4Unc0MnZIZXV6a0hFMTZJTEtZRWlnbU9IRUEwRXlzNUJNUG1lTS00Ui1OWDlSdDhMNE9TejA3dnZ2UGd6WmxzVkM2Nk1DRG50MzJ6TVNpU2laSy1WZGdTNEF2c05oR25wbHQyTWVHbWfSAZACQVVfeXFMTmFrTm1mT2RSMTJ4aVZtWWxhRlFpeDZtT0RwX1VTaHliZ2RpY1FjMVBwaXh6NjRWbzl2dmlnUHVmMDlCTHVORU5UX1AxblVzeWpsR2oxWjQ0M0x0VUo5V2ctSHgzT05CclhlYk1nOWR4MWlDbV9yRlBSNUpsZ0ZRYndaOGlEUGJDdGhUcjB4Z1BwclJrbW9OMkxDR0Vhd2hkdkRPNXdhU1ZoWkVkem1ad2FvaDc4a3lTa051YjBGZDc3eFJjV3NLaDN1Y2dsVDFTVDhEbUd5Q2Q4VWU0MGxNOFZFeHdla0QtTVdHdUtZOUlVNVhXS21lZm93bkhZNHZxMGV5RFc5UE5QZlVIdHQyTFE?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
