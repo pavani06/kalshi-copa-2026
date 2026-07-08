@@ -61,6 +61,17 @@
     "source_type": "news"
   },
   {
+    "date": "08/07 15:48",
+    "date_ts": 1783525687.0,
+    "title": "Argentina’s comeback vs Egypt the best so far? Ranking every match at the 2026 World Cup - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2tUOFkxa3VnaDdKNll6TVZoeFlHNWpDcHFXaFYtRHJ5cnJiczFDaHJFclFkNkxsSWVaMVdzQWQ5MWJwRmZMdFJUQWd1UWl3LW1IeE1LTXBqekxSMG4yaGhhcDdYUmhybS1RQ3dxM0o2ajVCdDVQWUY0OXloSjJ0bkd3em0ycjhfakE?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 15:33",
     "date_ts": 1783524823.0,
     "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
@@ -169,6 +180,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 08:23",
+    "date_ts": 1783499002.0,
+    "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
+    "source": "Opta Analyst",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -326,6 +348,19 @@
     ],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 23:08",
+    "date_ts": 1783465680.0,
+    "title": "World Cup Daily recap: Argentina, Messi produce late magic; Switzerland sneak past Colombia",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOG1iUWJvXzNFQ1VRS2Q2eFlUZU9ySENiQ3NYem1JMlYxbU1xeFNod1VXOTBjNHRDQkY2VURpb1ZUcVhtdGVHVUxYMEpLTEE4MWE1VkdqS3R4cjNSc0hIWTN5LUtQVkJtaXlubmhpNFRsakZiMTc4WFdZek1WNTBaYnEtUHRvdGZuejU5ZGtoN3RLa1Rfa2szem9UWld3WVdJMnhRejE2Z09rS3ZQT1c5cFU1dVYxZU1QRGNZd1UxRlM4RjlkMC02dmZB?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -686,44 +721,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 10:00",
-    "date_ts": 1783418430.0,
-    "title": "2026 World Cup Round of 16: Confirmed schedule, results, predictions",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 09:57",
-    "date_ts": 1783418238.0,
-    "title": "Five England stars at risk of World Cup ban ahead of Norway showdown",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0lkaFp4cHpjR0lpZWxkTVdNUVdCbnlGSUI0dHJxYWF1UnZMcXduVGVjTlFscGdtSHpnXzRkeTJvS0poa1JDVlQ1S1c5NnhrT1NhOGxHZTdkckVENTNKODJ1a2UwbzN3Nml6QkNZb29tNS1QVkxNaHpUUHc4RU5KeFNyVGRjbHlzV3FZT2RDWnBEUQ?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 09:39",
-    "date_ts": 1783417153.0,
-    "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
-    "source": "bundesliga.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
