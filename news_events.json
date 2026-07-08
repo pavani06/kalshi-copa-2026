@@ -1,5 +1,29 @@
 [
   {
+    "date": "08/07 05:38",
+    "date_ts": 1783489116.0,
+    "title": "France, Mbappe play Morocco in FIFA World Cup quarterfinal: What we know",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWxSc002S1RRVXU1THNHWXJLSnVnRDBqMTQ3V2JOMEFTa1haRWNiOFduTkpFbU9SQzBHYzkwd2NkUnY1NkpEaFg3MXpENy1XWXdka0JhMi10S1NOR1Z3S3hNMjlFM1RfeF9jQWlYLUtOc2toaUh3RlBxdFZQOXVLQmM0VHZMcS1abE5nQkpiZERiQVV5T0dqYVFHSDVLMVhvYXBGMVE0anRXcFRXU2lQLUtLZ1JHUEZVTWV5RjlR0gHDAUFVX3lxTE5Gc1pOaFlvZEhvV2gtbHVtcG1BOENfcHhXeklvdU1zS1RIb0MtclZNUDJKRDJpTUdvMklvUkh0cC1XNm1fYTJsRlVBNDJXUl9zaEZDNVZEdkFZakRtcl9SYzJwb0tTblRsVkRWTXZtUXZ6NHU1cWF1ME5iTWx5SzZIMHVwbGd6UWZsX09SUmxyQTZZU3ZlUXF3ZERveXo2eTNpNVZiTVVNRVVGVG1fdi1rRzFNb1dTVGlVWlJLZUtrWHU0cw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 03:04",
+    "date_ts": 1783479840.0,
+    "title": "Messi and Argentina stun Egypt with sublime World Cup rally to reach quarterfinals",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTmMybTdueWJUWGhkNjlGajJva3cwTWZ1bUN4MnpUNzdHcUloU0NGZWpPQ0tDQXRlNGpsU1BQUnVSdnRNYmZ6Sjg1VldlelMyUjctOWJhbUhMYm5WSXJycl9hN2hvXzJkZ0NuT1YySDRXZG52cGJLQUt5cjFGOVRpZjZSWlN5ZWZPeDRmZDV6MDFqc2FNVm5NYUxxQThxZTFDTkFJSVpkaWRxOVJLeDRtN3FmUExvZUVnYjFsVzdab0Q1a1ZEc2Z3bGlfaTRhVlA2eHNWYVdnd29ta1E4RWc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 02:16",
     "date_ts": 1783476976.0,
     "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 16 and route to final",
@@ -686,32 +710,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 02:04",
-    "date_ts": 1783389840.0,
-    "title": "World Cup 2026: Which teams have been eliminated?",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 00:03",
-    "date_ts": 1783382580.0,
-    "title": "World Cup 2026 live updates: Belgium leads U.S. 1-0 in first half; Spain scores late goal, downs Portugal in round of 16",
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnZid3VFaHZFNjA0aU9GeU9GZjNZa2huVVprLUZiVTcwRXdXeXpHVEozS2xUVGs4LTl3VXZFUjdhREJHOFl5aXRSWmxXWEQ2ellYb1Vlb084ZWt6dnJMeXhKTzkxdmhTQThyQ1BGcGh5SXJNYlhRVERxYklTWTJta2czcmhwSGUyWnhrdk1XZ1BUN2hNY1Q4bTRmN1ZJbGt3QzR0Rg?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
