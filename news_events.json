@@ -109,6 +109,19 @@
     "source_type": "news"
   },
   {
+    "date": "07/07 22:56",
+    "date_ts": 1783464960.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 22:50",
     "date_ts": 1783464601.0,
     "title": "World Cup 2026 live updates: Switzerland, Colombia in penalties; Argentina storms back to beat Egypt 3-2",
@@ -699,17 +712,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 02:04",
-    "date_ts": 1783389872.0,
-    "title": "United States vs Belgium Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIZ0d3ZDFHYlNrLS1ESHA3Y1NTLXVWUGNkMGpwaWNMTjBRc1M5S2JIS3RCNjJQM0t6dXZwZzZQR2pFUHpjS0ZKZDlFT2NXUkJQeFZ1QWtmX3FEZm9pQnJuUUdn?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
