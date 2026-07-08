@@ -1,5 +1,29 @@
 [
   {
+    "date": "08/07 16:54",
+    "date_ts": 1783529640.0,
+    "title": "2026 FIFA World Cup bracket, results, scores: Round of 16 results, quarterfinals matchups, path to the final",
+    "source": "CBS Sports",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUJTLXlOOGw5VldMaVBRa3EzOWc0M2Q2U0x4X3I2NWtNcjlQZDVHWmxieEpHUU43RS1EMHNuSmlaZ2o5Zkd6V3NLNUdaVU1pT2c5NllFNXZEdWYwdUNrYzhDa2NpLUZHNThhMG04SmZJQ3Y3UFhWVVBlbzMwdFZFUzc1b29UOHdJMk5GNFRvbmsxV3BCakp0M0p4RVpOUWlQdExBa0lhRGFOOVU0ZlJUQkRWUQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 16:32",
+    "date_ts": 1783528355.0,
+    "title": "Morocco XI vs France: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNzBBMEV4VW12TWpMNnhvRERsZ3pFaHVjVWhoby1pT2pHMGpkNU9hQ1llbHlIVkp5V1UzdHlkdEh6d25XeldjY2FpREtSc3dmNGVvdVA5V0xxTGJpNUp1X2xwaGtWZ2tWX3lITEk5MkVKTkdnVWpFLVpMWEZTZ1NlRW9wVmp5S2h0ekMtWm1GQ01NYlZuYjlncmF2SkV1ZzMtYmZNR0kyRmVybXNmMjNYTF9MbkpLV3FUeWZDazc1T0NNRHdVV21zbE9WbUxjNHBzUGJZcE9DZ0pSZw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 16:14",
     "date_ts": 1783527266.0,
     "title": "Morocco XI vs France: Confirmed team news, predicted lineup, injury latest for World Cup quarter-final",
@@ -26,6 +50,17 @@
     "source_type": "news"
   },
   {
+    "date": "08/07 16:07",
+    "date_ts": 1783526820.0,
+    "title": "Every team's championship odds for the 2026 World Cup",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 15:33",
     "date_ts": 1783524823.0,
     "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
@@ -44,6 +79,32 @@
     "title": "England football news: Live updates, schedule and analysis of Thomas Tuchel's Three Lions",
     "source": "Sky Sports",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdERMaXdnSXJ3ZldrZngtQ1ZVb3NlckN0SEhmX3BWbU1jcFZCc3BqQUhUOW1XYzNxUU0yMGhHV04xUXhDQTNJRzRKUXlGRjVGMFFpd1lxTG1BZ0Vjdk83bkJVRlhLbF9MR2ExN2ZBdks2SGV0U3Q2T2gtalBMM3NZcF94MF8zcmtNMXBLYjhKeEs1dG1PLUVSdjl2VjR2Q01mQ2NJeFpiU29QZXhxQ1Ezd0Mwd2hPaVJxVGgtOTdJcXU4Q1JCWVlyUUoyVXpuMFZabW5mQ0NLN0pIQWotUlVr?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 15:09",
+    "date_ts": 1783523340.0,
+    "title": "World Cup 2026 team power rankings: England on the rise as last eight are set",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEdBR1dXYW9tQy1VaGFDZVpRbXlacVhNNW1KNUxmdmw1ZjRMcjVKREdhdEVZaU1TNERRYktMMjNKWDdXSTJveDI4b3djYkdZS2hNYU9JVEZCTE13LTMwVDdoRWVBWmFIVlRwc0tGYUtwUS1iZktxRWdxQmtuT0FpcWt6X28xb0xCb0tsbGN3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 15:07",
+    "date_ts": 1783523232.0,
+    "title": "World Cup 2026 yellow card rules: Bellingham, Rice & Olise among players walking disciplinary tightrope",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S2xkeVdLZ2xWZGhnSlBmQlh0cHRpNVNuOFZPZ2wxYUNyR3NOMnNqZDMxZUpUQTZucFBSZXFqVkJpOVJRZF9DZ1JVaTBxd3prbmpSOUllbXZoVmZVMFAyZ215a1A4R3M?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -97,6 +158,17 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 09:02",
+    "date_ts": 1783501371.0,
+    "title": "2026 FIFA Men's World Cup: How Iran missed the Round of 32",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lQYXQwdVpETWlaY1NGVEJHMnpvMFRjTEo4N3MxZlpyUUhfUllFMkI4RldkZ1o3bVRDZDZxT2EtZnpPWGRwRUNrQTVJbnRYXzd3VGQycEtJWXZnVTRVMU9LeXJmS1FfYVhGM3Qtd0tSSHBZYy15YVB3dEJwT082ZzJKNEI0Z1QzZ3M2QVVwWnhKd0laQTlwQzlTMmRtU1pBUE85cW5OdzMwY3AtSXJoVkp6U2w?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -652,78 +724,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 09:36",
-    "date_ts": 1783416987.0,
-    "title": "How does the U.S. exit affect the top 10? Re-ranking the 48 World Cup teams after day 26 - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTB1cDJvWXB2UExFNjAxb3V5Mjk2NzUwRzJ1cVBUekFvTXhFaTM4Y3RHMS0zdExpX2l0X0lEbFZ2eFc3a3ZPUFpDTjFvZktKTUJVVW1JX3NWUWliUG0yTmRySWFObmxqRFA1S3ZiMk1CU2owQmhUbUNMcTJscEZiMEtsMHZZUU9xUG9j?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 09:30",
-    "date_ts": 1783416604.0,
-    "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
-    "source": "Opta Analyst",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 09:23",
-    "date_ts": 1783416237.0,
-    "title": "Which England players are at risk of suspension?",
-    "source": "FourFourTwo",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnNGUU5uRG5BN0NUZDNPV1RHWXlYOXJ3Q2ZQUVYtUHpLZFFzTDc2VFJGOXRUdGFXU2JIMFdrdWtKZy1xS0dsdmVCUXBJeERMQWg2cnNDT2M2c1BybDVfWE11MmgzYzdETEtQcEI4Ty03YlpqbnhMV3NpMzhVNEJyZTFpcGJiRG1iZXpIdGFSMTg?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 09:19",
-    "date_ts": 1783415940.0,
-    "title": "‘I go with a clear conscience’: Cristiano Ronaldo confirms he has played his last World Cup game",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDJubm5pVy10dy04eDVRVHVrQy1SQlBqOFBkXzU4VHhVRnd4S09VRFpPdU1xWjBQZzlFWWhqUEo3MU8tMHZjaXpKb3IteEdkYUtQa1lka1FMMTlOYkV1UFd5Nm0tWGRwNU9ndm0zUHZoNjJEWlNsVkNyeVBhaWFNSWpzRmlmWDJYYWt1LTZwRUpZWTN6UENxQ3JWSTB0SmdhQWtMM0RPbW9jNGxUR0NDa1B2cw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 09:02",
-    "date_ts": 1783414966.0,
-    "title": "Switzerland vs Colombia: World Cup 2026 Round of 16 Preview, Predictions & Lineup Rumors",
-    "source": "centraljersey.com",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2elN1OE9nQmx2dkZKZERkQV9fQ19PMkk4elNkYzRWdERsMGZIQUZ6T01IazI0R1pkbmhTOEhLSVhpaFJGc2tlTkhOdFFncnJhVzJTZDBfUzluXzhUSU9aSDZWdU9IWkVka2Q3OVpod08yWEk?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 09:02",
-    "date_ts": 1783414946.0,
-    "title": "2026 World Cup: Tournament schedule, scores and results",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
