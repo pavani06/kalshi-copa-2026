@@ -61,6 +61,17 @@
     "source_type": "news"
   },
   {
+    "date": "07/07 21:33",
+    "date_ts": 1783460001.0,
+    "title": "World Cup 2026: Egypt fume at 'injustice' and make Messi favouritism claims after exit",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tdzd2YVY1SkFpc29qWFlzanJfUGNjS1F0eUVEMkpraGpmSzI1b3ExVWRXR2F4ZzBRbXQ5U0t0VmRYUjU0ZnBtOEZlSExKYUVGUFJUcmhqeUhDdzJtZHoyeWQzcVRfeUU?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 21:08",
     "date_ts": 1783458523.0,
     "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
@@ -165,6 +176,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 18:08",
+    "date_ts": 1783447680.0,
+    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHdncUxoZV92OUJwUVJsRmFyenVpWHk4bnZRNjdUNm52SkRnMTZnbG5LWUwyR1JrWXZJbnRWaE9UMXJUc19odjFWbUIyVVNnWHExRlhaZGJjLXk1dVhvV1FuTUhvWHpyR25UVXVfOFgyYmsyajRvSVhzandCcWpYZDFiWWZlQ0dNaVpXRVJobGVXYUZaeGRjZXJVVi1zRXpWU1oycWF3MzItbUJXVUUzQUh3Ml9Xb0JxZDA1OENDYk9zYzlTUTFxTw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -691,30 +713,6 @@
     ],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 21:32",
-    "date_ts": 1783373520.0,
-    "title": "FIFA World Cup 2026 – USA vs Belgium, Round of 16: Score, lineups and live updates",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWJUZGM2bW1oVkFuSEVlVGFJaGJzMHBGbURkY1hrcXJDSzFkOGl0WkJiYWdUdzJFSW9TYVVTSV81WWRtNThROXhsV1Bfb1FKNGdKU3lMWlFJZmFqMG8wRUZlR1lSd1VfZXhwcXJHNE9BVjg3R1pHRUg1dTY2cjRpY2lGUU93NF8tbHBFX21ySGpJR0c1bDZNRlliMlJRMi1aMEdGeG5B?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 21:28",
-    "date_ts": 1783373285.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 16 and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNmd3OGhEeFNhVXRQVG1RR2NkMHc3bnR5WjhfMzlEek11ZDlSOThFT2x0UTlHbGo2cVlXemZGZWswN21IVHdyTTVRRi05TlRVT1p4MmlXNVJqcDR4ZGlPSElGSy1QNnRMZTM3TnhPNFQxemduRDNqa2xUZE02RlljekljdUNfZWt2MGc0VG1DeDhTVGtER0RYWkc4THZPRWlxVnZtaWtETVd6Z2otZE9GZUJ4WldLT0ZMZjVKTERKRVpXUlp6eFoyUUtHLTZ2Z1Q3OTBsWGNNQkcyWlZUejV5UTI2VQ?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
