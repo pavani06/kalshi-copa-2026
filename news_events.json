@@ -1,5 +1,29 @@
 [
   {
+    "date": "07/07 23:19",
+    "date_ts": 1783466363.0,
+    "title": "Switzerland vs Colombia Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yaEJxMkEyejlzWHVuczgwYktVc2tTaTZQa0dYVUF5WGtyV2dJQjBKVkF2dDNObTBrX0tnbV9vSFYta3BoZkx4SGZXX3h2eFF2RFZQQjg3bWZxSWpBWDVRWDFn?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 23:15",
+    "date_ts": 1783466153.0,
+    "title": "Printable World Cup bracket ahead of quarterfinals for predictions, picks",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaTdkWW9XX28zZXAxc21kd3VyaGkzWURKOWFNcGJ0YW9OSmN6UTYxc2ZfSkpxRlVISTdySnJ3UlJmYWFUcUpZeWpER1pkLVVNeFBOb1ZmX3FJc2x6Q2UtUGo1MXNEWTNzczM5RGc0WXFWUm1TRWxvRU9tbmxFUm9adXN3ejJwemxqQUh3ekZ5M2tlV3pIdDBiR3dXNWZhUlQ4NkZDNVdPMUU0all3SFNhZ0g5TkpGeUZSY3lEbm5tLXhFMVNFbk96d2ljSE81X25faGFV?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 23:15",
     "date_ts": 1783466100.0,
     "title": "Switzerland beat Colombia on penalties: World Cup 2026 – as it happened",
@@ -13,6 +37,17 @@
     "source_type": "news"
   },
   {
+    "date": "07/07 23:00",
+    "date_ts": 1783465217.0,
+    "title": "World Cup quarterfinals bracket: Full schedule, matchups and road to the final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmx2emVQOUlqRVotV2pCQ3JVTl93LXJCMlM2UTBPSzgtYlJQTGNTdXJPNG5rYmk5WktNZF91N081Y0QxNDI4d3NFRE5uRWhnUTVVUHctYmp4NjlBQ3FmRUdxYXU5a08yWlplRjNlQWx1WjBiMmtPc3JBanY0MTJnVzhjUjN5d3hVUG03VGJzaWFSbFdYMzdtUnd5c1dHX1ZTNjV5WXB3QWxUa3FiVzBWckpTakIxSGdWWThScTh4ZEczTndSZ09oLS1LZw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 22:50",
     "date_ts": 1783464601.0,
     "title": "World Cup 2026 live updates: Switzerland, Colombia in penalties; Argentina storms back to beat Egypt 3-2",
@@ -21,6 +56,17 @@
     "teams": [
       "Colombia"
     ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 21:08",
+    "date_ts": 1783458523.0,
+    "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
+    "teams": [],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
@@ -668,56 +714,6 @@
       "Noruega"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 21:24",
-    "date_ts": 1783373040.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHdncUxoZV92OUJwUVJsRmFyenVpWHk4bnZRNjdUNm52SkRnMTZnbG5LWUwyR1JrWXZJbnRWaE9UMXJUc19odjFWbUIyVVNnWHExRlhaZGJjLXk1dVhvV1FuTUhvWHpyR25UVXVfOFgyYmsyajRvSVhzandCcWpYZDFiWWZlQ0dNaVpXRVJobGVXYUZaeGRjZXJVVi1zRXpWU1oycWF3MzItbUJXVUUzQUh3Ml9Xb0JxZDA1OENDYk9zYzlTUTFxTw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 21:21",
-    "date_ts": 1783372899.0,
-    "title": "Belgium vs USA lineups: Confirmed team news, predicted XIs and injury latest for World Cup 2026",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNamNQNGZsc2RBY19QT3paRFpKOUZ3X2M0bkFVMDNNQzdZV09mekpuVlFyVnV0cWxHMV9qVFVpandJSDlVc3Fyc2I1Szc1THZpV2pnTDFMRmx5TTdwVE4wSjhRVWtwazlraE5pS0Z5NzdKUmxVS2dlMnFHR1NoM0JTM3JGVlFMeUFGNnhZUHRtemFoSEVUZHY1MW5DTE42eUtaNXBLaDdJa2MtSU11Sko1VGtsWG5IMEZXOUluU3VIa1RlQmwxRWc5QXJCWE10dmxXd21hQW9mOU8?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 21:17",
-    "date_ts": 1783372669.0,
-    "title": "Portugal vs Spain Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51X1RjQThIZ0E2MUZsTWlyR0pscHJpWmdaenZCTU41N2VINmNYUUg1eVhhUEY0WXN0TnlhT19rd08teFJOemJCSy1td2R0M3M0Yzl5a1E4SXJGTkt0b0pad3Z3?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 21:10",
-    "date_ts": 1783372200.0,
-    "title": "FIFA World Cup 2026 – Portugal 0-1 Spain, Round of 16: Cristiano Ronaldo's final World Cup game ends in defeat - as it happened",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUhsWVlVdjRzQTZVdVlKck5sc3prRnJLTkdXT0E4M1RNbFZOOWNLTE14S0ppQllJMHZfVXdYcl9WZFY3eTlDV1F1YlUwQzRGZFo0b0c5MWN0XzZBUUdTcmJuSWRNd0lmYXp0bE9laVlHbDl1SkJNa3VMVTVxODRnUWlSb1d0YXdPdGdOSkRtM1ZzblE2R3FZZWdVdDJTdDQxYmVHWklocDZ2dw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
