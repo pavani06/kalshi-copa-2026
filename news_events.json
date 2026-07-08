@@ -1,5 +1,30 @@
 [
   {
+    "date": "08/07 20:15",
+    "date_ts": 1783541735.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 19:24",
+    "date_ts": 1783538698.0,
+    "title": "England XI vs Norway: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT25GUG8tQlA4YkxSZ3NlcFdnbE1ZdHlZVXk2U3l6NjhRajBZZzBjM2QxUnFTb01ZLWNqdzA5el9qRnQwZmh2SU5vUUh6cjd2NElwSzVBdkZXdGpJeWVpZVh6NkZOeW1DR1duc3RiSWp0ZnBIU0lqZElsRkNzNGxwX182WlhVcUxlVl9ZcE9YNUFFLTFHd093ajJNYXBTS0dnQndsNXhvalAwNDZYaEp5ajUwRzdPdlZlRTZSeE5HV2ttVW8zYzZraVlZVnJMOWZtcDlzRk5yOVd2Zw?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 19:24",
     "date_ts": 1783538698.0,
     "title": "England XI vs Norway: Confirmed team news, predicted lineup, injury latest for World Cup quarter-final",
@@ -701,32 +726,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 12:30",
-    "date_ts": 1783427400.0,
-    "title": "Switzerland vs Colombia Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 16",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYW5iaTAwNDNRdHR2UTV3NGNGNHZ0WjMzUk9INGlPcnBUQVVQUUpyUkNsM2dGTlFjZ0lYN2VxVWRRcE5FSzNPalNSUV9ydTZsS2pjS0huTzl4RTU2TDZ5TEhSa1BXNlR0d0t0NDlyUEV0d2ctZnlQWkI3LXZ5Vlk2bXpjU3ZlMS1KLVo2S2swcUFEbFpndUE5V3BTZ0RpUW52ZXg1M2VzVmpFd1RyZ0tWR2x1NG5kN0ZETTVVNnZMMHlZLW5xNHg0emRsREw2YVI0ZGppMXNJQ09tcms5T3hmV2RLdVkyUQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 12:17",
-    "date_ts": 1783426620.0,
-    "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Argentina, Egypt, Switzerland, Colombia",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYWVVOFhwWGgydHJaRFBQdHhsNnA2SFlmbzFkakVSQTRhUEg4MDlEYzFmOV90U1dhdkxvQV96dDVNbUwxN0MxOXdYTEdzTXI2QzdZU1hJMXljWERadGVYNWxGX1NLVDQ1N1N5SDRxMWJ6bmJDUjJSQ1lrOFZMRDNvQkxVQnRJZ0tacGF3RU1hSllOSFFnVHJ1VkJ0VUZCRE9sV25ZbnZFZDNrVUFBUVh1V09pV3RGVFVtVlZ5NFVNY0dNSGphWEMwWS1kcw?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
