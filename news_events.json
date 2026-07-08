@@ -37,6 +37,19 @@
     "source_type": "news"
   },
   {
+    "date": "08/07 02:14",
+    "date_ts": 1783476882.0,
+    "title": "Quarter-final lineup set as World Cup upsets continue",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ1FPcjAxYXlwOHF6SkxNTE9hVDdyaWwwblZPQVpiUzVnTm4xeFdWSzJNSFNsZngtdEJfbXVDSXZUOWsyVTdtRHl6bTZjdm5WMWdzUmo5Q1FVc0xudlUxaS1iZFpFS25XWVoyYXhvMFNxMXBwWlNETEpOa3hDS3ZDNlprYUdjWElGWWlpaDVaMGV0OXk0SEFjMGFIcEtZTWs3RVgxWEZIZk5lVjJaSU1iN2s2MUdCdm1zdUQ1SG9qdzBWd0VDZTFBU1ZxQXRPdmFDSjI0MzZIZ1o4OXgtYjljRE1MRGlVYzdPdDFFWg?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 00:13",
     "date_ts": 1783469603.0,
     "title": "Colombia’s Best Moments 2026 FIFA World Cup™ 🇨🇴",
@@ -205,6 +218,19 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 18:39",
+    "date_ts": 1783449540.0,
+    "title": "World Cup: Luis Díaz starts for Colombia as Switzerland lose Manzambi to injury",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVndQU3hSdFNfaW5VV0RfZ0pvZExOY2E1TDdvZzFHdWdjclpWTVAyU3ZndnZFNzUtdGI5dDdQeEdaUF95U29uZTJMVlhkaTRjT2xWQWVXOGl0YXJUbjdsNzZOcmc1cVFZdFUxSXRhUHFxc0poT3NGQnk5QVpFbFJfYVRzWTVlNlZMNHFFTWVqTUtDOExfSGppSg?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -688,30 +714,6 @@
     "teams": [],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 02:57",
-    "date_ts": 1783393020.0,
-    "title": "Switzerland's Predicted Lineup to Face Colombia at the 2026 FIFA World Cup",
-    "source": "beIN SPORTS",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVjB6ZEZlZXVGaTdGY0RTQ2N6SWM1Y1BPSTNMcnhtUDhQTjhrdThPRy13R3JpdURiMUlXajlmR2c3b04xZ2VvS19BSjd6UnJpbFA1dFh2b3JJa0pOVXRTWnotVnBHRTRtY0ZrM2ZadEdsS3J5Ui0xWTY4UGZpY1dYbEhRZ2prcnRiYXJRSTViR3hTQ21UcHR6R0pWTEI3Wk5kUTU2c1JoQnYtcHY5UkdLcHZBNTd6ZkpEaFZWX0k0V3NYeWctelV5NlljRk9hVnN1WHlHMkNYczJXMWl3TXhocDRYMkp6dThpNWc?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 02:07",
-    "date_ts": 1783390040.0,
-    "title": "Lukaku faz dancinha em gol, e Bélgica provoca EUA após classificação na Copa: \"Revertam isso\"",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVFJBZ1h0M3JEMTBoQU5Ma1ZuYnl0ei1GRmZ6VFpLTDZ1NXUtc0hYTFd1MWM1YzNiYXZDVV9oWGlPVndBV09pSlJreVhQLVpOTW1YV1U0cG45Wm5Kd1hBZl82UFNnM2tLcnVNdEFVbFhyOXhCZ2hoOVZySmNjeHVvXzAyVUtHSXctUXF4WEdTZVNab09xQ1g4bFEyS0RoWElvOTZYU0NzVnZ0RFc5TG9TRWhRQXBlcXpyNmx1RnktaGlCZHlsVGc5UXEySHk3QU9IcjNPZW5jSEI2TmE5VmfSAewBQVVfeXFMT3hjRVJrbndVaXhDRVBQajZNVTNXZXctNS1MT3NmZXFQaWQ4cGlWSjJKRWY0aEMyUnZwSHNib2NEdEtteWVyVlltWFdrb1gtSTR3TEZRLVJoMVlQMGk2d1dMbXZrdGVsOEE0bktSTlhxcEVsMGVrSGdva1ZFSHdMSG9WU3dhclMzNFRwU3RVNHlCVWdnMHZ1MjBubUxXdFNCZDNvQlc2X2JJeWlnTm1mV2dKeGZOOXUxZUxoNXcyMkx1U1lGRXlFZDRGYnk2WU9fR0d6TmdVU19td3N2bzVtV1Z4UWZGWTJweEl4akk?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
