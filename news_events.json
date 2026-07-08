@@ -13,6 +13,19 @@
     "source_type": "news"
   },
   {
+    "date": "08/07 00:13",
+    "date_ts": 1783469603.0,
+    "title": "Colombia’s Best Moments 2026 FIFA World Cup™ 🇨🇴",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WVkljcnpldXQtMU9wbEx1MnA4V1F6eFp0NEk3cUs0WEtNZGJIbFg2cURmdjExQUpNWlo4UXhyVURaUHJvMG41ZWRId213QVVWMHgwbWNDQWc3cFFMa21YQjd3?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 00:02",
     "date_ts": 1783468948.0,
     "title": "World Cup 2026: Which teams will get a third-place berth? Live tracker - The Athletic",
@@ -699,19 +712,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 23:51",
-    "date_ts": 1783381862.0,
-    "title": "Ronaldo says his last World Cup is over but Portugal decision can wait",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejBwQU9HbjNXeXo0THp1YjlHRTVwNlRFa3BOUGJ4UVhvQmdIUkZ5WWZTYmhiZFNnVEhTWDhEem1fZlR5cTlpVm9PZGdqTm9KazBjUENTbm9MeTdlZllpOHI0eVdDaU5GakVIN3FCckVBZVlQcE5nUmRLTFVvanNJclBKLWVsNnhhRDlxUjY4c2p3NktKNWt3Qmhqc0JUcGR0Mk9HWnJSUTI4V09vYVhncC1n0gG3AUFVX3lxTE45U19pODBxSVIwc09qQ1VGYWdrQWhPVmNNSlEyenlwZy1SN05aWmw3UDhpN1NRZ1JNT1p2UXkyTW1ETjNrS3pmRFZObFpVdTBpaEdCbFBiY19DdjhCcDhnRk8zcXNoTWJWYm1WUjROMUd1V3haSXdzWGFldU1yTGJ1eDlaeGJUSEd2X1lDSWJ3Tk5weG5EakFRZ1h0OVdJUFBJWElqT0hvNFFvcTJqSEpfbkJXbG9ZNA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
