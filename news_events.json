@@ -1,5 +1,44 @@
 [
   {
+    "date": "08/07 16:14",
+    "date_ts": 1783527266.0,
+    "title": "Morocco XI vs France: Confirmed team news, predicted lineup, injury latest for World Cup quarter-final",
+    "source": "Yahoo Sports Australia",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oUTlVRmd0OVZrbGZOejZRanpGZ3dlUUdKTU5FMnNkNV9YQzZrUFBCVG5rWXlPaVdpSmZMNWI4Sy15YTdyR05lSmhVVUNfMmtDVkFOZTBocmZ0YWU0Y2dIU0xRVURXVGg0WGJwUmRUVDFRQ3VNcW5xemdEbnRNQQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 16:13",
+    "date_ts": 1783527233.0,
+    "title": "World Cup 2026: Egypt fury after Argentina win thriller, injured Henderson staying with England – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGMxMWx6eWIzZGZZWkVpeHZJR3U3Z0Y5RWh0WUxlR2pRbXBSYWRwQzVlUVkxaTFycHViOENZSHloUjdLYl9jUUlFQ2FUaGFES18tZnc5Q3RBcEt4UUpiNDI2emNHZW1KRkcxMDN1OU94UFdpSzlSZWoyOEJ3VG9oNnpqZkVRY3JzcFl1U3VXQUJqSC1nZmZpN2JlQ2hQVUM0bmEyX25NZENxUEI3Z2Zhd0QxTUhJMldIZ2FMTV8wemhCaWZndVZvcU9XNFNZeWM5VkdmUExqaVExRlpYUEE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 14:31",
+    "date_ts": 1783521081.0,
+    "title": "World Cup 2026: Portugal confirm departure of coach Roberto Martinez",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hWlduMTdkbVpMT0x5WmZROF9EVVRxS2lsdkFObGFEdGVmdVpXT3dHU2dQcnFhTnM2YUZjRklmZk94dVJ2bGRXcVRvbWpKb1c2dnFmcW9UNkhfRG1CbUkyNVg5cHZQSkk?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 14:02",
     "date_ts": 1783519320.0,
     "title": "World Cup 2026 today: Live updates, news as Argentina, Switzerland complete quarterfinal lineup - July 8",
@@ -7,6 +46,17 @@
     "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQMU5rZnNxX1ZIMlBXQm1uc256VG1rbVRpVFVQYko3U29ReVJ2cEtQVFNVdWpDMTgyNXRKbEtNMkFZQnJ6NGhEdWFsazR3S3dIRnVSMlJsMWtRUXJiN3ppaGpCQmhKUURUcXNRR1BUR2J1b29LMUVVY0htZnpfQldDbjRudTJsaE9xV2VwZFc3VWctNE5IZ2E1RU1DOG1vbWEtVDVHLS1oRWFVTEM4MWpVVFpxRlp2TWhDZG9maGt3QUJjbTJJRFB0WlZ5RlpUbHdDZHlodW13MllnckhKZDBxTk9rUXFXZFFUMXJBeXFXVENLOTNmcGlRcEVxMVlxZEI5SDE4bjQtMjJZQ2tIdDR6VGJIcjdzbXlqZGY0Qm9zV00xTFB4cUlibU9DTXVNUzFDQWo4dXNLby1uOWhXVEhYVmN1a3dDOV9Oa19sT19vNnJtYUNBZUE?oc=5",
     "teams": [],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 13:21",
+    "date_ts": 1783516860.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -32,6 +82,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 07:07",
+    "date_ts": 1783494420.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -657,63 +718,6 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 05:25",
-    "date_ts": 1783401938.0,
-    "title": "Which teams are in the World Cup quarterfinals, and what’s the schedule?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFZ5ZTB5bGRWeFdaX1Y3NkkzeE1ZUmFkMG9wSWhzRDM0Y0lmTmxOMzlWOXRxdWVkcE5hclNZLW1Nc3RDcXRwelR4XzR0TkVlSFd6M0Nrd2tNTkgzcHc3RzRDaGhGTW40Sl82ck41NExQcDRua3F5azZNYjNzM0w0OWJVSUhaUnRLODFyMkk1bGdTUDdsUnNOc0JnbjgzaWg4R183cU9UV05hVjRkdHVveNIBtgFBVV95cUxOeUlrTkhOeFFmR0NkczM3eHdLNTVORS1MeV9CTl8teTE0Y2FPY0JQR1l6VWpRYi1jSUpabXFudzVGa3YzZHp3R2tUZ3RCU0JtX2g2eUhxazdVQkR1TlZ0aTFibnpmYkNzb0JreTVSLUJNT3lDbzhEZHhGNlVidE5MeEVIcFNYOWExWjRhU3ZxX1pWcmNFRGFuS2FrV283RTNnVWlxeko3UVNoNW5YcHZDWGE0TU4ydw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 05:00",
-    "date_ts": 1783400410.0,
-    "title": "World Cup 2026: US exit ends in shambolic fashion - did Balogun saga play a part?",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUeTEwek8wTGM3QjNicjNua1BweDdjQnBzdm1EdUh4RkdVZnowT253dGlNTjU2RzJTZmpQR3VMc2xTR05VWEJGamdCQm1xVEp2UmJ6aTVCQm1QUGdRNElzUzVvcWlwbVE?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 04:56",
-    "date_ts": 1783400179.0,
-    "title": "World Cup Round of 16 bracket: Full schedule, matchups and how each team qualified",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGxvalFLOE9fUUFUellTb24yNTVieXdZMTZnQjF4UkxUckkwTGpCRk81Yks1dWwyU0VzTXc0X3dJRGkzeXFsYmxWNFFsNS1hQkJ0UzN0RnBIMjFJcWg1MUNwcUpzUF9pXzFpWGUzSlRsbzV6aDlYUXp2OE1mdFpJUDNMWjkyWUUwOWJlREk4V3FSOTYwLWxaQkJUQXNYbHRUZTV6bkxlTk1rNENITXZHZHZuZFZHTnZQZGVUX3ZfZkx5R2Y3NVVMQnZOVEVCeG1L?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 04:38",
-    "date_ts": 1783399088.0,
-    "title": "Instant Reactions to United States' Loss to Belgium in Round of 16 🇺🇸 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wSXp6eHBMRnhfbTVzMjY3eWtOTWcwSU1BajJfT0wtNWtaRU8xRGdzazlDdF9oNkgzcUxKSmNVTlNPRjB4bENZV1VqcExycFVrell3dllRU2VNdnZnSXltVl93?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 04:29",
-    "date_ts": 1783398558.0,
-    "title": "USMNT vs. Belgium: Match Recap & Highlights | FIFA World Cup 2026",
-    "source": "U.S. Soccer",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUQ0cmFEYTZyOVZ5YktsM3BmRjhzenE0RDAtLTRmbzN6MS1xaDlFQzNqdjQweERSeWZVb090ZmVYZENwREc5dGtWTzhWT1Bia21GWDJVaS1YT2RROGlnaTZfcTlyTHNiR2t6UWxqbTFVd0FvQ04wazh6bXl3dmlLTVVBWmlNUl92M2FDdE51TnZrUlhfQUN2RHVXbHpRVlpyOHJsYg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
