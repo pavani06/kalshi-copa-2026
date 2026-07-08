@@ -26,6 +26,45 @@
     "source_type": "news"
   },
   {
+    "date": "08/07 15:33",
+    "date_ts": 1783524823.0,
+    "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
+    "source": "Radio Times",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWTZNUkhwSmlzZkticTFQLUZwTEIwNVJOdmc4NXcwb0dNT18tUG4zMUtFTzRMNDFsYU9sYnppSlBGd1pDWldFS1RPZHV3Ry1uTDFQYTVNTTlrOWZxMDhHdHlZcWpMbzZ1MTNsUW9MZ2JfdXRhNTNWMk9CSHBCLXM?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 15:15",
+    "date_ts": 1783523728.0,
+    "title": "England football news: Live updates, schedule and analysis of Thomas Tuchel's Three Lions",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdERMaXdnSXJ3ZldrZngtQ1ZVb3NlckN0SEhmX3BWbU1jcFZCc3BqQUhUOW1XYzNxUU0yMGhHV04xUXhDQTNJRzRKUXlGRjVGMFFpd1lxTG1BZ0Vjdk83bkJVRlhLbF9MR2ExN2ZBdks2SGV0U3Q2T2gtalBMM3NZcF94MF8zcmtNMXBLYjhKeEs1dG1PLUVSdjl2VjR2Q01mQ2NJeFpiU29QZXhxQ1Ezd0Mwd2hPaVJxVGgtOTdJcXU4Q1JCWVlyUUoyVXpuMFZabW5mQ0NLN0pIQWotUlVr?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 15:07",
+    "date_ts": 1783523232.0,
+    "title": "World Cup 2026: Bellingham, Rice & Olise among players walking disciplinary tightrope",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTHhaOG9BRG9KU0Q2a3RoWjdjdTlleUdIZjl6X3BXNFRIQm1NUlJqX2cwTWNEZlRHTVBkSkNJYi1QQ1dTd1Atc3RheVBhaGN2czRncFREd1Q5Z0N6a2FSdGdYZld2b2VsWEE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 14:31",
     "date_ts": 1783521081.0,
     "title": "World Cup 2026: Portugal confirm departure of coach Roberto Martinez",
@@ -684,39 +723,6 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 07:00",
-    "date_ts": 1783407600.0,
-    "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZWJuYU40V3B1VlBBSzRkZUZJMHR5TUg0VjJUMHBIOExDc3ZOTFZOTUtoWGN2eHZONTB6VS1JLW04YlJKb1MyM1VRb190S01CRVBwZElHT1A0b2pQZk9sOHBnNktNdzhpZTlWb095RjJncnQxVUE0UGNEanlCaG56dl9jTHpKQjk5SkoyZXVPNktzUW5VbzdVUG1wN3gyTGtHOTlpWUJ5MGNlMUlOTHA2X01QWE91ZHBUQXE1V1d0R3dFQjU2bUtQZGZ4WjJvdXJlVktLcmRZcGJuV2NsOXA0TlB2dHRwQzlrelBkWTd6NEloRzk4eklqNTJDZmQ3MmVQWUFFSDdzSlpyeXpIX0F2NXRYZjE?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 06:37",
-    "date_ts": 1783406220.0,
-    "title": "FIFA World Cup 2026 – Every match result on Tuesday 7 July – Live updates",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMF85bDR4MjhjcWxsWk1EZF80Zk0zd0ZDLVBhb2lIOWcwc1RpbDdyV3pTaFJGTTk5VHMwUldLdEIzN3hCbUlyc2hxLTA3RHAtRUpYeEVoYlZzXzlQdE9fMnZmYVBUamVCRVRpRTZsR19JQzI0TmkzVlpWTDFUaU1FQUc4eWVCdjB1ZVJFMjA3dGM0aE5kODd5R1lYMWR1RGpJWS1ocw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 06:02",
-    "date_ts": 1783404175.0,
-    "title": "World Cup 2026: USA knocked out as Balogun 'injustice' fuels Belgium",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80MlV4NFNfSjBPd3FLODRUMG94VkZnTlg1aW55WnhZby1UOUhaR2ZLdzhpZFEzSFFBTExyaXFfMDMzZ0JDdnRZZktEOFNvVXNOZ3lUWGVUZ2ZxUXVpNEU5TjRR?oc=5",
-    "teams": [],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
