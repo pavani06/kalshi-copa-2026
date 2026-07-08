@@ -1,5 +1,29 @@
 [
   {
+    "date": "08/07 02:16",
+    "date_ts": 1783476976.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 16 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 00:02",
+    "date_ts": 1783468948.0,
+    "title": "World Cup 2026: Which teams will get a third-place berth? Live tracker - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0tDSmNNMHAwSjJRYlNacW5VMDgxNkc1U1dqajRRb3h6ZVl5NmhBUjdHWW1tMWk2RjVEQy1MMHp1LVJzU2JMM1llVWlVcEFUMk5zbVdqU1k1OHZMOXNVQko3bVdSNEt3UW9uejBxbXFPZmtsdnN5ekVBS3QyOVRiQTlTWWN5NjllV3dTUURZRi0wV0tnbV9kX1V2MFVyaEE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 23:19",
     "date_ts": 1783466363.0,
     "title": "Switzerland vs Colombia Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
@@ -687,31 +711,6 @@
       "Portugal"
     ],
     "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 22:35",
-    "date_ts": 1783377300.0,
-    "title": "2026 World Cup Round Of 16 Odds: Who's Favored To Advance?",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05QWs1QkxTc2ctdUZhWHVCWVZEd09pWFd0eUhUN29wMUZSU3hoaU13c1V3X3VjZ2VIcXk5X0hKMzhGZlU2RWQxLWlNc0diN2cxYUJQNzVDd0dtNF9uNC1NR2lHMlZOM3FBUXB6ekV0ak1rUGdBejFPQdIBeEFVX3lxTE44Qy1YT2NsakpwWUoyU2RqRzg5UUoyOExITDR1M3dRaDVZNHg3NW5qWURTbGVmdVNhZDg1MW9WU3VRWUZDa2NVU3JvdmFYMGFfekV2dWZmV0dhbXVudVRjZEYtZ203VjEwLVRTcFVZLW1YOFJ6anJoMw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 22:22",
-    "date_ts": 1783376525.0,
-    "title": "Derrota de Portugal para a Espanha evita que Brasil atinja em 2026 sua pior colocação na história das Copas; entenda",
-    "source": "O GLOBO",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcHJ6a0lTSUJScW1NOW9iSjVMcFRjLXZyVG9LbG0tRDhHMzZLZGd2WU9fSzBSRTlaak43NUliOVJvaUJadmQxR2syMm1MLTVCb0JCSVFubDZZV2UyM1Y1ODhkSlY3LVdLdHdfbWZpa3NHVUVCaUJYd3dMbjRseUtRMEU3RjRwTkxBanlvMWZfclNKeFlQWUVWSTl1bWVoNUZYNHVWNWlxZTV4ZnBVYlhMNW9TMHRQLTFELVZjZDhPOF9TQmFDWFJXTnBxVlRGMUViM2hXbXRmNi02Nk4zLWJJMkxQaGFFSGVYcHFBemUzdG80M09zSkRxd3Iya0t5cUtvN3RfS3pqYzlQN1pSMDlKWjlyVV83ZmVIRzlLd0RB0gGsAkFVX3lxTFBES2dJSGVIYV9nWndGT2lXMmhGSWxidE1NS3NhRXFMM0hldkY1RzQ4bE1xNVFkWjM5MGptVjIzbDdaZmlrY3hoU0VvbDVnc1l3TEg0VW4tZlFMQVBPdUQwS3BoODg4bmtBM3pIalFJaktQU2RzV0p1T3dMVUtnSXdLcUpmZmpRbGc2eEhVUVZMV2xVWGZ6TzUzeG44TDE0Tm5jMFhDaFEybmxvMUFpTGJieHI5RFR0UlJVNEZsNU1CSE5renM1QXVwRmxxd2tHbXlKUTJ1emt5ZWFORkpMM09HaUlIbzhCdG1kVE1zRm50WEc2NFNXWVV6QzdXcmM5NkR0N2g2Yld3ZDlxTjRaOC1qUXltOUpjcXJGci1pX1ZZclM0bGpIcEVpZ0pUbw?oc=5",
-    "teams": [
-      "Portugal",
-      "Brasil"
-    ],
-    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   }
