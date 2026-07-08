@@ -1,5 +1,16 @@
 [
   {
+    "date": "08/07 07:21",
+    "date_ts": 1783495319.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 05:38",
     "date_ts": 1783489116.0,
     "title": "France, Mbappe play Morocco in FIFA World Cup quarterfinal: What we know",
@@ -703,17 +714,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 03:13",
-    "date_ts": 1783393989.0,
-    "title": "Palpites e dicas para Suíça x Colômbia pela Copa do Mundo",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGtnTEl5RUtyT2p0b0VUUEhtNFNOcGtNN2xKSE5hbkZyWTNCaXc4M2lmbWcwUF94VERwNmdvX2lZMXNTVEEtZmlsbzBRM2I1TGpXSmJKam9QOWRwcUc0RXYtRURUVDFETVM3TlZtbjBWUm1YdHdLSHJZRzJSRGtucnpYQ2ZaMExHX204Zm9XYmQtcmlsTmdBc0xUTGhXSjhLRUw5YUd3R0VPdFhJV1lGaXlkbjduYS1NU1pBYnFXdjFQdWvSAdIBQVVfeXFMTlhlbDd3RFFRNGFfUUt5ck5jWFo0UmdlNmJ0Q0ZFdmNjRk1XU2pEUk1UNlVqMDFFdjVVR201YUY0M21QTE1ONC1JSFAtS3RFUGVzQTYySFVGZU1uSkROZVdid1c1WG8zTlJHUlBMeWlDUVpud21EVVVQN2p6QVRJOW5wWmxCd2gza0lBaUx3VENCdlVjNzJub0FwN1hLNlowNDdRd2lCMzE0VkVkdS1aOTh5UjF6a2xxUDYyLXVQYjMzVWZISmFnbmRZNUlFZ1JQWWRn?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
