@@ -1,5 +1,18 @@
 [
   {
+    "date": "08/07 22:57",
+    "date_ts": 1783551424.0,
+    "title": "France XI vs Morocco: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd0pJdW9rMFZ4dEQ4MUVNZGtyTWVwcjhjdFFNZDI5ZFZUZjA3M2YtcWJ6bnE3bkhKaTBJWDJZMWNFNjF4bnNxM3lKcHJoYlpabEFOaXE5NC05bFFMQnBCeWxOaGxsVnRwWlYyQ0VfNHVKdHoxT3dSa1U5cnJZNy0xWUNLYmpvV0luS3JVYUtDRGV5UlZ2ZGJieEt3eEctZTFPVkFRX3FQbnNvbXVYTm96aUtaTTJHaFdiME9BWmpxMm5CNGEycmd1empUZ3NOSlA0QUFFN1pIVXpMdw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 20:15",
     "date_ts": 1783541735.0,
     "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
@@ -50,6 +63,19 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 17:44",
+    "date_ts": 1783532688.0,
+    "title": "How Morocco can win the FIFA World Cup 2026 title",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdFQ1ZWFLRGU5LWRITmliYWdVdVRYV29VMWRVb1dZejNYd0MwTExzZWN4OXpPcHU0YWFRRDJHVUNRMGRWSTg2Vk9LNzlOR1Y3Z1NTT3k4aWo0ejcyVk1JQTJtOWlpS3UzZjhydkdMZjRLTVRpcy1lTWJCVkxHTmhiN25YWHczVXAtSVh0V0gwM09QOVVodG02d9IBngFBVV95cUxObHd3dkNja3hzd2taY2FnY2NmcVVpd2NCQ2RUZ2oxTTRESW1MOExWZ01jMzBSNlBpalRyX09GZ3dEZE5hSWtEeW1neEF1UFZjc2NYQWZRcnhJWkxvZlI1MFV6OGFiUUdUVzhGRGd3NEo5T18xdGFLMUFQNnRFTTg2eDVHTHh1S2lTYVU0UXpUYVdfNFZWeTZ0SlJMdE81Zw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -700,32 +726,6 @@
     "teams": [],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 14:00",
-    "date_ts": 1783432831.0,
-    "title": "World Cup Round of 16 bracket, live updates: Messi, Argentina return vs. Egypt before Colombia vs. Switzerland",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3NLeTRyV282dWNObDNTdHBHRVhXNGh5OXpEdjN2Sm9YOENYaElHRTQtYzhNZUcxNGQ4LWpUTk1uaWo4N0pRRFY5MFVQTnc4UG9mQ2lKX0pDSWpyX2xmSHJMdEx1R201T001MlpUSDdXUEF0cndhVkY1N2FPZUJxUDdaTzRRdDdlenhDdjZZZG9HY2E0b0E5VW1QdTg3MUFsZTlMZkV1bC1HcG45eXk4NnVnZTJrVlFMckg4MTVtQUQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 12:52",
-    "date_ts": 1783428722.0,
-    "title": "Switzerland vs Colombia lineups: Predicted XIs and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS3dpckFFbWV4cGMtdHA0bHpreEFBTDhXd1BZU3lucEZnT25DQzRmUURkdDNBeTZ1YnVFUmp5YnRLS0hzcjMteFQySW1lcDdKS1U4OTBMM2hhWFBMWlR6c19PMkc2WEo0a29VWll6V200Vl95enRCWXJUT3ZhT1NEdk9sUFhHVld4YmhFOFZieVhZUThiTWxUZFJTWjVCNktwejNhN1NMcWxwdHpJTmVTTTJpYXhYbnNtTm8tMEtwM0JTUFAyV3lLd2xBZWZ3amR6c2Nkcm1PdzdhX25tbmd5ak1UTjVEWENxTU1V?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
