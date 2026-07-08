@@ -1,5 +1,33 @@
 [
   {
+    "date": "08/07 19:24",
+    "date_ts": 1783538698.0,
+    "title": "England XI vs Norway: Confirmed team news, predicted lineup, injury latest for World Cup quarter-final",
+    "source": "Yahoo Sports Australia",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aS253SXVPTklhMGhBeE15ZlJrN0lFc2V0dGoyRTNfMHl2TzhwUzZlaVNmQ1JEbUJDSUpVWGxrMVh1MXc5RHJ1RVhMS3RZTF9aZk51bnF4RUFxWDI3MEhkMGJfckFkVmwtM2paNUQ2SVJfU1NHRUpWZ1p2Vkw0Zw?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 19:09",
+    "date_ts": 1783537758.0,
+    "title": "Five England stars at risk of World Cup ban ahead of Norway showdown",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0lkaFp4cHpjR0lpZWxkTVdNUVdCbnlGSUI0dHJxYWF1UnZMcXduVGVjTlFscGdtSHpnXzRkeTJvS0poa1JDVlQ1S1c5NnhrT1NhOGxHZTdkckVENTNKODJ1a2UwbzN3Nml6QkNZb29tNS1QVkxNaHpUUHc4RU5KeFNyVGRjbHlzV3FZT2RDWnBEUQ?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 16:54",
     "date_ts": 1783529640.0,
     "title": "2026 FIFA World Cup bracket, results, scores: Round of 16 results, quarterfinals matchups, path to the final",
@@ -699,28 +727,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 11:57",
-    "date_ts": 1783425439.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 10:12",
-    "date_ts": 1783419152.0,
-    "title": "Canada at FIFA World Cup 2026: Les Rouges' results, scores, and standings - full list",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0F1VWxFM1ZCUVZLUUJKNGpWNnJKdU1IRV9rMUQ5dTBHWUlGZW03eXYtMU1abDl1Z2p4ZXljc3hjWkxWdE1XanZPLUJaZEhMUmxfUU9jb3ozTGlaMlhVODM2eFJXYzR6aFoyWkFzVlpqYjkxZ1o5bVVxMDI0LVBKYm9kT01sQXQ0eThVa2JiNGh3ZEtUTUdRa2dWOHR0QzNsVWNWZ1BlaXJWODZHTFE?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
