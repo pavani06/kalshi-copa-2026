@@ -27,6 +27,19 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 19:37",
+    "date_ts": 1783625838.0,
+    "title": "France vs Morocco LIVE: FIFA World Cup 2026 quarterfinal",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHViUFVEeS15Z2JGQ0ZuWVg5dUVfWWs5UDNZeHl0QWIycnJJN3lkdWsxNE55MGdNV1RCWEV3c2VpbWQ2UEFHNVptSUl1eUYwRUFCdFl5R0tjV2V0U1R4YWFhWnk4U0FNRFl4amlPN2g3NW83dDJoYlJfMGNoZFVkUnlHWEpKZE9kS2o5QXp3dTRiOWFidUp5dGc4c0djcmVmOG96QUJCckw1d9IBrwFBVV95cUxNMVdWSTdWTy1HN0dUNUJ1SWp2MTBXWDFIR09taFRTcGxfeGNrNEx3TzZUZ3ZPVXF6cmJzQnlMRkVCQ3FCNWhabXBtZ296TGRtODctemtaaE10bUJhb0x5ODB1LV9xSXB6YzZXUkdBVjJya2lMSUFGNExEc3ZNRDd6T2phcHRSdHktZGxYX1U1QnRnZFR2Y1hwVmJ6bHhBVUt4SEdiZmtzTXY2czZPU1JV?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 19:31",
     "date_ts": 1783625468.0,
     "title": "France v Morocco: World Cup 2026 quarter-final – live",
@@ -194,6 +207,19 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 16:13",
+    "date_ts": 1783613617.0,
+    "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 14:55",
     "date_ts": 1783608954.0,
     "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
@@ -278,6 +304,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 10:32",
+    "date_ts": 1783593139.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -717,41 +754,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 09:02",
-    "date_ts": 1783501371.0,
-    "title": "2026 FIFA Men's World Cup: How Iran missed the Round of 32",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lQYXQwdVpETWlaY1NGVEJHMnpvMFRjTEo4N3MxZlpyUUhfUllFMkI4RldkZ1o3bVRDZDZxT2EtZnpPWGRwRUNrQTVJbnRYXzd3VGQycEtJWXZnVTRVMU9LeXJmS1FfYVhGM3Qtd0tSSHBZYy15YVB3dEJwT082ZzJKNEI0Z1QzZ3M2QVVwWnhKd0laQTlwQzlTMmRtU1pBUE85cW5OdzMwY3AtSXJoVkp6U2w?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 08:23",
-    "date_ts": 1783499002.0,
-    "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
-    "source": "Opta Analyst",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 08:00",
-    "date_ts": 1783497600.0,
-    "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
