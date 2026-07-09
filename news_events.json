@@ -1,5 +1,29 @@
 [
   {
+    "date": "09/07 10:36",
+    "date_ts": 1783593360.0,
+    "title": "FIFA World Cup 2026 – France vs Morocco, quarter-final: Score, lineups and live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTFMUGxfRzJlME5DUERTUjh6OUVhdkViMzV4REk1aXVma2IwNFpaNDBRSjNUMFdMZHc5dWNQNGh5VzNnai1MWGRGUm5qRWJYdHBjRk16WE5ybW5tYkFENHI5aWlrcFowYkU2WTF6b0ZmTFFlUGVLTmJyZlV6a29aRlRMTHZvWTRQV3Y0d3MwN3V0X3hjUGJnWDBwWHp6MER4VGZ3S05CREVvZlZW?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 09:30",
+    "date_ts": 1783589434.0,
+    "title": "What to know about the World Cup quarterfinals: Remaining teams, schedules and past finishes - ABC News",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWJDNXNIY1BzTGZEQmpRMFBDN3RORGNac1hUbGRhbC04VThjSm81YjlWWkQteERVT3FXNHdwVkJiOERTRS1HMXNfVGhKTjZLbmxoNW52WVB2ZVIteFNrdU5ZMG5iQ3YyUW1qRG92eGtpWHh6U3UtYldCRHhrNklxcW1TZ0p3cWllT0p2eWxHS1dRY0dFbzJBRlRWTGYteTJKMWstM0hfYS3SAa4BQVVfeXFMTmNIRTVGN242Z1Y3TWswcTk2RnJrMXZXUXNUbEZ6dHBRYm1NZ3ZmQUlKekVlMWY4M0Z4a216LUx4MTdJZ2pyRlJTbVJYV21lX0pXU19TdUJGQlpyQ3ZXc3NheVFmTmRmOExiRklmTm81VEJVZ3d1cWxYSnZzZjlXZ1JYTHhMNEVPUnFxU2ZaZE4zSjlPNlBKRDNYVTZYMV9RZFJzQzdhYWJBOU1IYWR3?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 08:08",
     "date_ts": 1783584517.0,
     "title": "France XI vs Morocco: Predicted lineup and confirmed team news",
@@ -712,28 +736,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:27",
-    "date_ts": 1783448848.0,
-    "title": "Argentina vs Egypt Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02RTNkWFRmcmZfeGJ0ekEyc1ZmNUlKdU5DaHUtYWxUd1pWZlFZSktwamp6b1hlQzV5UjZ5cldLaVBlS2lRTERzbDhaX05NSW5fLW5WRUE4dV9QNkxvUm1tNHlB?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:09",
-    "date_ts": 1783447750.0,
-    "title": "Argentina vs Egypt Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZzBKZEtHNElOZmlhLXFJOUdwMkJkRUx2WVhLVV9VeldiRXhyLUw1dkJkWWYxVTlscTFSamxPdG9ZNU5vMl9kTU9vUVpSYmtUWDYyejVnWjF1WEZnelp2bVN3?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
