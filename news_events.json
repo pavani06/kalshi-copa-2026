@@ -1,5 +1,44 @@
 [
   {
+    "date": "09/07 14:18",
+    "date_ts": 1783606686.0,
+    "title": "England's Road to the World Cup Final: Injuries and Risks",
+    "source": "Sofascore",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTGZRTWFhYUU3UHpPLTB3UHUyUFd5dmdkNVF6ZWxMeHNFaW14WUsxNS1IdTVIOVNib01aNGpsNmFZM0ZlVkhnSThlSW9lLW9BVFZadDJYVmpNV0tkbVU1MGIwSHItRDU0OExNckZ5N0lvVUVwVDByUnFTTUV4S014VVdiWllFelBnYkdmdVFEcW9pRmxpQ3pUOE8xUjlOWldlM2pGbUhyYllZZTExc3hwZFdISUw1aVhMNjhJcnRoRi1mX0sybm1UeU5rUjRldWxoQWl2NEVHY19ESnpuSDZPUTA2U091UDg?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 13:30",
+    "date_ts": 1783603822.0,
+    "title": "Morocco XI vs France: Predicted lineup and confirmed team news",
+    "source": "standard.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlJEXzg3YlpNclpVdXRNSUg1WlhCZUpaRWZzMnFndlY3clpMdURYaHhxdTBLV2dLd2d3QWw5bFFKUkJKX1M0emN2Wk1aOWFCREN2amdLOW5XWllvdEttVHlPWWFnOERwalhvZk9zd3hPRFptLTNOYXBDbWVjbVI3dWptWUp1d1FWeUhxOVJzV1lQTW52eXNMMGp2VHQzWHEwWEh1dkJ6YmFWLVlMVU9OUmdnTFBqY240TkZ2ZVZKQk41aUdFblo1Z1BwRkNCN0J6M19ORTBIczZKUQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 12:15",
+    "date_ts": 1783599300.0,
+    "title": "France take on Morocco in first 2026 World Cup quarterfinal: Live updates",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnZ4SlVwZTFWN0M5b296VTFUQXRPZ3dKeW9PN1B6T2lFRHl2RHQyVDRHV1NWM1RLUlgzVkdNZlNxRUhtMUJiWEdwSFlKU1pPZ0xOdXpBbEUtVDVsaUVJT28tbFBLVXpkMjJrN2VhZ3Y4UXlSazd1cW84ZmVjV0dVQ1ZKVHhLa3NmVnd3bWlFNEdsNkZFX1FwS0dSYWNGcHVBbWZiOG5vTmlFVktNS3gySDFmdlROSGc?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 10:36",
     "date_ts": 1783593360.0,
     "title": "FIFA World Cup 2026 – France vs Morocco, quarter-final: Score, lineups and live updates",
@@ -29,6 +68,19 @@
     "title": "France XI vs Morocco: Predicted lineup and confirmed team news",
     "source": "London Evening Standard",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUVRMUVFNb3gtVXZIREVacnM5Q2g0c0FvVk5tRV92M05wQVljSlE5V19oeGVVQjVxVXZSY1lmUDd2ZGJOUXBHbzFWc1Q4Q1UwNFZ1WDEwUWtrQTJpVVpPUkxqcDE1d0xENGsyVWFVQ2xjdmpfelU2MWQzQ2JsaWxkNkpacFFVSWprQmtmYUJVTEdCcGxONnlOaDJ6eXlGa24xZFJ6RWhOaDNuUlJVT09wV3NzTk9aSmJmMEM0YmllMDljallrNnYwTWgyNXRGV2llM0lZdHNQTEZOMTItWWVLdHRR?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 05:31",
+    "date_ts": 1783575112.0,
+    "title": "France vs Morocco: World Cup quarterfinal – prediction, start time, lineups",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTlETzZ6U1ZVRXhuSDZtM0pGZTFySXhuZW1pd3JfR19pdjFDRG40RE9FTUtOamM4RmNxNXNjR2JlX2FEWDAzaHJNN1dUN25BRFhkQWNlYk1sZVJZRmV3QXY1V3MwV2ZOS3l4MzZqcjVqeEFFVy1LY3BKdFZvbU41X2xOS0NoN21fNjd1eXo4YVNTUUh0NDd6VXNpYTNJMklldUw2QVpEV2gzOVlrZmFDU3FiYzVrWk5xV3R0TzF0a0syZ9IBxwFBVV95cUxQZ21oX3hNLXRXZEV4Q0tJVnhwQVNGa3U1bUlrMXRNOFBHVnA4MWxvbU1PNno2Vkw4X2I4LVFydnlFSnAzbWx3MDlraVZ3X01WRHdmeElPVXIydjgzd29feFBGTTBWNXZvSy1qeC0xaDJYOGdIeEV3WkVaYXZFWmV3bGdOSDdoLW1zQ3lVYlRDR2hHWHUzRHVMRzJESWxyOXJGZGJUc29MNjhzT2FRcjBuRm90Q1NnOUhXUUhSNm1fdExpN2JNTHJr?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -687,54 +739,6 @@
       "Colombia"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:42",
-    "date_ts": 1783449737.0,
-    "title": "2026 FIFA WORLD CUP: Switzerland and Colombia confirmed lineups for Round of 16 Showdown",
-    "source": "Africa Top Sports",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDBhdE1iS25KclZ5U09ha3VHbko3b01DTkVDV0ZxaXo4cHNJZlNaeUdpQnd2NlA4UW5fdXNONUFUeGRvbHBiT1daX2hwNjlKRGJobmNkek5lMFp2UHFmdHFIQnhMR1g1TnVWZERlcjVVRGpaaWpVZFdObkhPNGg5TWU1bVg1Vmdwem5ZUkNPZ1NQNF9xdy1wV3lhV1hSNVBFbmdoYXU3N1NnSlE1b2U0anFwZ09VSGQzeFo4?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:39",
-    "date_ts": 1783449540.0,
-    "title": "World Cup: Luis Díaz starts for Colombia as Switzerland lose Manzambi to injury",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVndQU3hSdFNfaW5VV0RfZ0pvZExOY2E1TDdvZzFHdWdjclpWTVAyU3ZndnZFNzUtdGI5dDdQeEdaUF95U29uZTJMVlhkaTRjT2xWQWVXOGl0YXJUbjdsNzZOcmc1cVFZdFUxSXRhUHFxc0poT3NGQnk5QVpFbFJfYVRzWTVlNlZMNHFFTWVqTUtDOExfSGppSg?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:31",
-    "date_ts": 1783449089.0,
-    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
-    "source": "Action Network",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:28",
-    "date_ts": 1783448890.0,
-    "title": "FIFA World Cup: Messi, Argentina score 3 unanswered goals to comeback over Egypt - WSB-TV",
-    "source": "WSB-TV",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQjZlYkc1WTlId0l4VkIxbG01VVZEWWprMXN3WXhQMkZpNVBCZG5BNVNlSUxHSXdzQ1pxeU1Tb0x0TUJ1ckxEcHpUUjJONzBMUjdPYWlHckVtQkZ4aG9RWW1fUndfLXZLVzBQSWNuVC1ZMFZFSjFVTzNLb2pLdm50ckdadFpqNDhaWkZ5OGlXLW5IaTA1bFdCdEZ2bmVBRmk3azY2QklmM1QwaEF6TDVwNFBTTjhLQkY4d1N6cUgyNNIB0wFBVV95cUxQMmJINkc4bXZQYlZib1R4anRjeWwtRDIwckwzOU15RzMzcjdLQ2dPbWhtQ2ZDejB3Si1vb18xR0daQVR2djV3bGl6Ymtvc2xVU2hRaDNqX2szRTIxVTUxRXppVkxzNGxiZVRPRkRKZzJoTzhyZ25OOG5CZFhEME8wbV9KdkZGb1E2NUJUZ1gxTE8ycVF4eW9KOTVWU24zV29KTmE4VU9xOEtRSW5zTmpYcDNjQjZIbU1vcHZMYVFsNFF0NUZFRlBPRUhwV2lxNzJfZTlJ?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
