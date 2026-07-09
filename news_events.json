@@ -1,5 +1,18 @@
 [
   {
+    "date": "08/07 23:22",
+    "date_ts": 1783552923.0,
+    "title": "World Cup bracket, live updates: France vs. Morocco kicks off quarterfinal slate on Thursday",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVwY1cyejlPY2hMeWtranAtX2t1RnhTbGdZWkxFVFZaS2VEY3ZOUHZ3d2hNSGd6OFJxRVJXSEJXMUFobk9ZSDF0Tnh5UWY0YWVCS050QUswTUZlYTQ3dmhnWEpxbHk3a3p6UzI5TjAwTVhaSVIyckcxMDhjVHlncC04VW90eGFaRW5UN0dvWUU1Tm5FYVhERWpnWlh6WFFQUE5Ra1FhZkc5cTlaUUcwRXV1TnBlbDhKZXQ4Wg?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 22:57",
     "date_ts": 1783551424.0,
     "title": "France XI vs Morocco: Confirmed team news and predicted lineup",
@@ -8,6 +21,30 @@
     "teams": [
       "Marrocos"
     ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 22:29",
+    "date_ts": 1783549791.0,
+    "title": "France XI vs Morocco: Confirmed team news, predicted lineup, injury latest for World Cup 2026",
+    "source": "Yahoo Sports Canada",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblloLVF6cXNubUZjSjM3SGJ0QUIySjhpNUJsYWVtUkdFZ081ai1PWVBJX2NWcjRnX3ByX0xUTk4zOE5zbm55WU1zd3ZVT2dEVFJja05xX0VtZ1h5RFBCTjBOc1VKZ0huQ3dqTzBsTnRxRXNLTTFPbS01Tnk5OThTUm04VVc?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 22:25",
+    "date_ts": 1783549501.0,
+    "title": "2026 World Cup quarterfinals: Confirmed schedule, results, predictions",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
+    "teams": [],
     "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
@@ -688,43 +725,6 @@
       "Colombia"
     ],
     "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 15:06",
-    "date_ts": 1783436814.0,
-    "title": "Switzerland take on Colombia in World Cup’s final last-16 clash: Live updates",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWcwQ3o1VHQzX1BUNm5IbnBJbjBZSEs5RTFZM2czVWNhaV8xUm9zY0kwNjFxRUhvakgwMkJ0VjEyMVI4UEJjYVJZQmZ5QkVuOV95M3FvbzBJV1VXZFdSNzB3dFJIWFNHSzVIS1dQNlllZGFoTG0xOXZhZWwyUENMOFQ3d3RJTEdoTzRvVWh4SlpYQ0NXUUpmVFFiMDFqNkMyZ21YTlQ2dUNLdlFSd2VrVUtKcUFNZmNVakQ3TGhfWQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 15:04",
-    "date_ts": 1783436695.0,
-    "title": "Why isn’t Omar Marmoush starting today for Egypt vs Argentina at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3RaSmxWU2lDMm13VjRrNkxVSnRZOVp3YTFEbE92aG40MGlDMmUwUXNJQXZ5VFVzX3hOQnQzUmJSTDRVN0xZNDNtSjlXcFhuRTBUU2w1SkRTRlp2dEVUcTBTaTQwR2E5VnNpSGhaRzBpZmRjaHgwQkJPVERrS0E4WEJwd2pGNHFyRHQ0V3F0TjNJZTk0ekJnMVdKSGF4MWgzMEZydUFONnFFU0hHUl9SdGZFQ2tkZ9IBuwFBVV95cUxNNHZsZDV0d2VBZ3RXWXBsOVVndTQ3TGV0ZFNaVTF5SHdhaER6LU5kUUQ3STBjUEstc3E0SVVrd2U2M1VmOGd2RlpXa0x2ME1lQmQ3S2V2aVRZOVBIS0lPbDBBRG5ZOW5CbU91a0xKbzdtOHYxbklwc0RFcFk3Q0xrRkZyU2JMOENNeVF2c1Rsc3ZGeE1uTHRjajZHLTlsMTI2bkppeGJrQWFwNEVXV09qV3hrQ3E1TzBMS2R3?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 15:00",
-    "date_ts": 1783436403.0,
-    "title": "Argentina 3-2 Egypt—World Cup: Match Stats, As it Happened",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVXQ2NE51Nk4tYzE0TnFMSl9MWGRMbThDR3lIbkNVT3MtNjE1Q3otLWVtOTRmTDhock5xUzlrSjNmZnJTeEpRcXZyaEo4UHF0UDdnNzAtY25KNGFzcTQ5ZjFsdHVTSHFIU0IxcjBLV05RdVNlSzdBU00zUW9FUm5JNjl1NA?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   }
