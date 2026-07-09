@@ -1,5 +1,32 @@
 [
   {
+    "date": "09/07 20:35",
+    "date_ts": 1783629303.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 16 and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 19:50",
+    "date_ts": 1783626600.0,
+    "title": "England Starting XI vs Norway: Predicted Lineup and Confirmed Team News",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR3hKQjlnUGYzUVlYQVZweTNuM1R0OEZTZ2ZLRlpXM2tENDBvMmtmZUdQVGpqUjB0aWNxUHVQVWhJdmloUlJldnc4LXVfcHBtTUVoUTg0NWxrSk1XUmNxczlVUjNyUTRXbmp2WmNXSy0yMkxwTnRCMkNHNW5DZjVoeUpXTC0?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 19:31",
     "date_ts": 1783625468.0,
     "title": "France v Morocco: World Cup 2026 quarter-final – live",
@@ -111,6 +138,19 @@
       "Marrocos"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 17:00",
+    "date_ts": 1783616440.0,
+    "title": "World Cup 2026: England defender Jarell Quansah banned for two games after Mexico red card, Fifa says",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuWlVQN1pCLURBbU11anc1VUhIc251ZHRTeWZpRkthQ2ZwWV80T2dSYXNDRUUybFBEMVJueWdJMTVlTG4yQjBTRW5YOW9yTWZiZ3lQdEUyNHVEM1NoaUR5VW5NYk1JdHc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -712,39 +752,6 @@
       "Marrocos"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 07:21",
-    "date_ts": 1783495319.0,
-    "title": "2026 World Cup Predictions",
-    "source": "Silver Bulletin",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 07:07",
-    "date_ts": 1783494420.0,
-    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 06:11",
-    "date_ts": 1783491075.0,
-    "title": "World Cup 2026: Egyptian FA call for investigation after 'double standards' in Argentina defeat",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nMTFmeWV3d09udzVmajVyM0ZieDIyYWwwREpXX2F5QnoyTGxyR0hNQWpGZV9WTmRMT2tTNmhna1FGOFlYYzQyRE1Gci1ORHNlaG5pcHhZZjF4OVhDcXpuT2tB?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
