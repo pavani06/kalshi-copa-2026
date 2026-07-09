@@ -1,5 +1,31 @@
 [
   {
+    "date": "09/07 18:21",
+    "date_ts": 1783621261.0,
+    "title": "Watch World Cup Preview: Morocco plays France in quarterfinal opener",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lSk1OMUswNUwxY21WZm9RTVZoSS1mMkZLVVhMS3M5ZmpnVEZLejRYMHB1SGtEdUpmbDU5NW9kUWdGS2ZWdDkwNjlaOGZmYmp5TXVfRFp6bHZnbVY1VDBrLVVWR0p2X0tSRGdNMkxKUDlCcUNESlBXaWFXaTTSAYIBQVVfeXFMUFh1Y0dFeFc4VXRmeUZPUHh5WWs0cjlkbHhYUUd6Q3NpUkNlZlpTM2ZIeUt1ZmMzUWcxWW9QT0VGQkhLdkJIVEtKSm5aTlViSWV5VmNuZ1d1X0lvVmRaZWY4ZVdjdS1taE5hdXJZX29FeF9GSE1FZ0FCdW1PTnd6bV9CUQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 18:20",
+    "date_ts": 1783621200.0,
+    "title": "France World Cup LIVE vs Morocco: Mbappe playing? Quarterfinal game time, lineups",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNam9hU2ViRTZaSXVTQnVILWc0RmtjODYtZDZmY1FYeFMwVXlObFFoekdKUml2SjJYZkExMTBWRjhjTDl6UC1NME00Z1ktdm1OU3kxOWFQbkk3cGhPc3NfMXdJRy12Yl82cXhsT3VmRlVDWmJfX2VfTUhpSUFYV3h1YzVXamZfU2c0UXVpTnZCbkJfc2ViQmlQZHBKQnBoOTVBYXE5RW9SUktZSDdCZUVUdGM0ZTVGeXdGWDlfZ0VWRURXSVkyQU55TFRnVHZxMXZPOVBpQlV6Mmd3M3NTVFBuRUhrOA?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 16:46",
     "date_ts": 1783615600.0,
     "title": "France vs Morocco Prediction, Picks, Lineups & Best Bets Today World Cup 2026 Quarterfinal",
@@ -9,6 +35,19 @@
       "Marrocos"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 16:44",
+    "date_ts": 1783615440.0,
+    "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -73,6 +112,17 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 11:36",
+    "date_ts": 1783596970.0,
+    "title": "World Cup 2026: Are France beatable? - BBC experts have their say",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ZUNOUUJZZXBaSWFVX3BwX0JiNWJBd1Rhd2VReHJaeERxWkhOQ01QeXAtVG5sQWtKT1g3dkhGNnE1Yy1JNlJwc1U2YkwtRVZ3VTBVeUpsUm12RERsM251dW9lLUZWY3c?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -690,56 +740,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 23:15",
-    "date_ts": 1783466100.0,
-    "title": "Switzerland beat Colombia on penalties: World Cup 2026 – as it happened",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3hjYTlLV3YxRlNXbVpjRENXdGJXX1hkZ1A1OVdlLUtaX2dWczRNZUFSLXBjanYxaXg5UXJTdVdBOXlRdnQzN2k4WktvTXhUMmRDZEZldVNFWnRHQl93YzIxTkoyZDQ5cFJsTXFaMmNHbUU3Y09tQ2dSS3Q3dkNpYlNyNjhVZS1tbFlwNE12OXM5VDFMTWV2Yjk4bW9pSG9V0gGmAUFVX3lxTE92c3RVUy1yZXVOdHFVNUxsQ2M3elRPSEFMeWZyMWZQWDVQazJ1S1VjaHhIYXZzbjVTNHl0YWJwcUlIT0VldUxndWN6RllsM2lpZmxJRDNkYk5HaEV4UXl4TTgxVzFPMkZUR2dSVnR0Qm54bDc5VTE2N2JVcTNKdmI2OE5oSVd6X3hvREVfM2hjNlZwTm41cXBRbUFMZUE3Ri1tdk95RGc?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 23:08",
-    "date_ts": 1783465680.0,
-    "title": "World Cup Daily recap: Argentina, Messi produce late magic; Switzerland sneak past Colombia",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOG1iUWJvXzNFQ1VRS2Q2eFlUZU9ySENiQ3NYem1JMlYxbU1xeFNod1VXOTBjNHRDQkY2VURpb1ZUcVhtdGVHVUxYMEpLTEE4MWE1VkdqS3R4cjNSc0hIWTN5LUtQVkJtaXlubmhpNFRsakZiMTc4WFdZek1WNTBaYnEtUHRvdGZuejU5ZGtoN3RLa1Rfa2szem9UWld3WVdJMnhRejE2Z09rS3ZQT1c5cFU1dVYxZU1QRGNZd1UxRlM4RjlkMC02dmZB?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 23:00",
-    "date_ts": 1783465217.0,
-    "title": "World Cup quarterfinals bracket: Full schedule, matchups and road to the final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmx2emVQOUlqRVotV2pCQ3JVTl93LXJCMlM2UTBPSzgtYlJQTGNTdXJPNG5rYmk5WktNZF91N081Y0QxNDI4d3NFRE5uRWhnUTVVUHctYmp4NjlBQ3FmRUdxYXU5a08yWlplRjNlQWx1WjBiMmtPc3JBanY0MTJnVzhjUjN5d3hVUG03VGJzaWFSbFdYMzdtUnd5c1dHX1ZTNjV5WXB3QWxUa3FiVzBWckpTakIxSGdWWThScTh4ZEczTndSZ09oLS1LZw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 22:56",
-    "date_ts": 1783464960.0,
-    "title": "World Cup 2026: Which teams have been eliminated?",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
