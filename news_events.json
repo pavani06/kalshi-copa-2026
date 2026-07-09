@@ -1,5 +1,18 @@
 [
   {
+    "date": "09/07 08:08",
+    "date_ts": 1783584517.0,
+    "title": "France XI vs Morocco: Predicted lineup and confirmed team news",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUVRMUVFNb3gtVXZIREVacnM5Q2g0c0FvVk5tRV92M05wQVljSlE5V19oeGVVQjVxVXZSY1lmUDd2ZGJOUXBHbzFWc1Q4Q1UwNFZ1WDEwUWtrQTJpVVpPUkxqcDE1d0xENGsyVWFVQ2xjdmpfelU2MWQzQ2JsaWxkNkpacFFVSWprQmtmYUJVTEdCcGxONnlOaDJ6eXlGa24xZFJ6RWhOaDNuUlJVT09wV3NzTk9aSmJmMEM0YmllMDljallrNnYwTWgyNXRGV2llM0lZdHNQTEZOMTItWWVLdHRR?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 02:46",
     "date_ts": 1783565195.0,
     "title": "France vs Morocco Prediction, Picks, Lineups & Best Bets World Cup 2026 Quarterfinal",
@@ -73,6 +86,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 21:21",
+    "date_ts": 1783545667.0,
+    "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW5WeWFwd2tKeW1MWXBMNF9qeVlaQ3NmamNUR3NQaGNUQXFkcGRGaG5lTUwyRmt1cjRicWEtU1VRdGFpWTVZQ2VaYUFFREVEckl4bndvUVNubkJEdFE4SGpmYXFTQW1FVXRWeXgtWjJDZUhnNC03T3loRWs3U1oweFRQVTlGNVNoTkpUWEZoRmhfRWhudWtvNG1hQXJKaHdlRmFEVXkxWmNyVmNXSGc3Y1FBdHJzQdIBuwFBVV95cUxOREsySktJNWpZS1J4RU03VFVHMlVVTVpva2xNX3dZY3JHVmRhT1JfdzY0Z3A0N1F2SmdLakZJUk5INF9PQmVsdFpoWXExTDJMazRQSF9zcXg3LVdSLU1qUWdwalNoWjhFZllhMkN4TVg2dHNqTUc4NmIySVBHaU5lTVFPbEx4Q2JkUV8zdlRtZjBTeHUxVWp6U3VkdFdnVnJmNUhaRXJOUmFwMmJtWWhqNDJrOWZxd0pBUFdF?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -310,6 +336,19 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 12:45",
+    "date_ts": 1783514700.0,
+    "title": "Fifa suspended two US staff members for World Cup match against Belgium",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObFduSm9YaTVNTzNZakk5Y09IYXc2NENoRHltSC1YYUlBRWZoaEFXWVJReVZ4b1RnMXNXdnZDT1kwemJEVk00anZqZ0h3X3JjSW5HcDJYcDBmY1c3TW5qNmlpRWZMbHVPLXpBMU9HdGhLblJJSzZBNzF2cHIweUZGQWRjZHlmSlA3YmpsWkN5VjlLUFprTVBNcUJqczltMXhnTDUySnY5QkRTZ3oxWUVFeHZzOFJZR1E?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -690,41 +729,6 @@
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
     "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:03",
-    "date_ts": 1783447404.0,
-    "title": "Switzerland vs Colombia Prediction, Picks, Lineups, Odds & Best Bets World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3h0QTAxcTJkMGpBa2Qya2g1bmlTQ3RSb1B2WWF4T3hzUDRoQWFWTXVMdXdBTzBXNHBsRHg1bHFtcVdQWGF0SVlYcGRWTklwMVQ4Vlc0SmlFaU1nemV4aHFRdWo2dTZ2ZklLRXA3RzFvZ0VkVVlVUm92OVl3UUp0b1M1TWJkTWhUMDZLWmFSeE9TOWZPdTJ2Z21PV3pzdnZXTC05T1BnVnNzQTg1TWVOZjhFM1dKUQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 17:33",
-    "date_ts": 1783445586.0,
-    "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHMyYjRiSE5QVWJyR19JZkl4SS1MMF9qU2dFa0R6NVhvRjRRM25TRkRXUXlvajhvVW5FeWktZm9yWWk3TEpxNDlacnBVYnljSGlmVzhOX2RFekpMeWMwNHVjWHphWjRpbnpyY3Z5VzdXb05PZ1lxN3A0Ym5NVFlNbEd0dmNZcC1JOGl6aGU3UllnaHkyVnRtTUFXbWJmUUVpc2hDVnc1Z0hubHVHU3RjaTl6NWZndVo3N3RvWmtRRllRU28wN3JMMFZ3amxUbXJSSUFKTTVVTHZUbmhwRHVoWVhGZmdLd2JlQ0V3LVk3cw?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 16:31",
-    "date_ts": 1783441901.0,
-    "title": "Argentina fica atrás do placar em uma Copa pela primeira vez após 10 jogos e mais de 1.000 minutos",
-    "source": "O GLOBO",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVWlsR3hhMkNLVWdWdnNab1lIbnRrUWxXYnVXOFdPbHdOMnVhSHBBU1JMTmdpMTJ4ZEFXM0UtWlFwYmxyX3lfZHRmdVZDVjVfbkFQeGtIS2xHdnhhYTV0ZEVtQU5yeFVkVS1WS1VLbWVKLUdlREItNVdSdjhSMFVnWm9DRE53YmVHNzVwVnMxeThuYTFsZU9zVG1VSnZ6bTBtYlk1cmZQUGpIQnBSdXIyXzlEV1JUUThxdW14NFNCZlBfSExMMWEyRjR2LVg1R3FHQnR1d1ZrNlBLa1FybElkNHI2dnNFTmZZWWlaMXZlLVVuQzNQT3RWeUZjSGVndlhheEVDd0h30gGUAkFVX3lxTFBQSlJWSGxId1A4MEhaSldmcXRGZ3dqTXhOWHJENjVqaWNNWDdBbkh0eDNMVTdCd0ZMYndGUHRZOEo0MUFQSk9OalJ1TVhPbEJ1d0VucmZSWjQ2c0V5RGRZZWdvVEljOWp3R2VoMTBHUk44Y1ZlNEstUnlNdFhObGhmdzhDVGg0eFdZM3lUSmxHdHhCOTM2R0taM0JyV25OM2lRems2Y0UzUUlQZjFYWWpiZ3psc0ZLS3dYTXlUWGlBVlFJWmF5NmZIbFdXYU1fWWxwdVZzOFhoeDJSOGNlcUp3NDVYcXhROW5SbG1VbFk4N3JQQXRWdDRPdGZFX3BaQzdJMi1GTlYyZ3piajB0bkZmNXgtTw?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
