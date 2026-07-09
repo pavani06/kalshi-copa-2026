@@ -1,5 +1,42 @@
 [
   {
+    "date": "09/07 19:26",
+    "date_ts": 1783625178.0,
+    "title": "World Cup quarterfinals bracket: Full schedule, matchups and road to the final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmx2emVQOUlqRVotV2pCQ3JVTl93LXJCMlM2UTBPSzgtYlJQTGNTdXJPNG5rYmk5WktNZF91N081Y0QxNDI4d3NFRE5uRWhnUTVVUHctYmp4NjlBQ3FmRUdxYXU5a08yWlplRjNlQWx1WjBiMmtPc3JBanY0MTJnVzhjUjN5d3hVUG03VGJzaWFSbFdYMzdtUnd5c1dHX1ZTNjV5WXB3QWxUa3FiVzBWckpTakIxSGdWWThScTh4ZEczTndSZ09oLS1LZw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 18:57",
+    "date_ts": 1783623467.0,
+    "title": "France vs. Morocco Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmk4STdmV1ZQQmdxemtuN3VVNUtRekM2TElpZll5dGJERTVmOHhNNEZldWZlX0J6enp2b2ZwM1U3UGk1WjcyajYxOU81RE5KMGJUeWlkUXFIc01sdGNwYVpJZHhVX0JTNDNoTE5iSlBIWWxiREtiYU1BQ2xpamowSlQ2c245enF5OG5UOTN1QWdSTXpmYlNEVV9TdE1RNGtJdUpZY3pQZkU0bXU1Z0RJRW9jTzhyYVk?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 18:42",
+    "date_ts": 1783622520.0,
+    "title": "World Cup: Olise and Upamecano start for France as Morocco’s Saibari misses out",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWViczBaa0paMk9DSXVJc3BpWmpUaVU2ZXNucW1KNzBFOG9UYkRVM0pNTmhFUEtuSTUtR2tZYklrczM4RnE2czNoNXJOalhBcnM0cVczWFcweTZkcXhCa1BmdjNrZnRtX05NWkhKWTd1UmJjanhVYnExbWFLTmxVWjRZaXhWRmdtTTBKbVpVQ2xlaDFKYXdTaXNn?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 18:21",
     "date_ts": 1783621261.0,
     "title": "Watch World Cup Preview: Morocco plays France in quarterfinal opener",
@@ -186,6 +223,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 06:27",
+    "date_ts": 1783578420.0,
+    "title": "World Cup 2026: Which teams have been eliminated?",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -689,54 +739,6 @@
     "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
     "source": "Action Network",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 00:13",
-    "date_ts": 1783469603.0,
-    "title": "Colombia’s Best Moments 2026 FIFA World Cup™ 🇨🇴",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WVkljcnpldXQtMU9wbEx1MnA4V1F6eFp0NEk3cUs0WEtNZGJIbFg2cURmdjExQUpNWlo4UXhyVURaUHJvMG41ZWRId213QVVWMHgwbWNDQWc3cFFMa21YQjd3?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 00:02",
-    "date_ts": 1783468948.0,
-    "title": "World Cup 2026: Which teams will get a third-place berth? Live tracker - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0tDSmNNMHAwSjJRYlNacW5VMDgxNkc1U1dqajRRb3h6ZVl5NmhBUjdHWW1tMWk2RjVEQy1MMHp1LVJzU2JMM1llVWlVcEFUMk5zbVdqU1k1OHZMOXNVQko3bVdSNEt3UW9uejBxbXFPZmtsdnN5ekVBS3QyOVRiQTlTWWN5NjllV3dTUURZRi0wV0tnbV9kX1V2MFVyaEE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 23:19",
-    "date_ts": 1783466363.0,
-    "title": "Switzerland vs Colombia Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yaEJxMkEyejlzWHVuczgwYktVc2tTaTZQa0dYVUF5WGtyV2dJQjBKVkF2dDNObTBrX0tnbV9vSFYta3BoZkx4SGZXX3h2eFF2RFZQQjg3bWZxSWpBWDVRWDFn?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 23:15",
-    "date_ts": 1783466153.0,
-    "title": "Printable World Cup bracket ahead of quarterfinals for predictions, picks",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaTdkWW9XX28zZXAxc21kd3VyaGkzWURKOWFNcGJ0YW9OSmN6UTYxc2ZfSkpxRlVISTdySnJ3UlJmYWFUcUpZeWpER1pkLVVNeFBOb1ZmX3FJc2x6Q2UtUGo1MXNEWTNzczM5RGc0WXFWUm1TRWxvRU9tbmxFUm9adXN3ejJwemxqQUh3ekZ5M2tlV3pIdDBiR3dXNWZhUlQ4NkZDNVdPMUU0all3SFNhZ0g5TkpGeUZSY3lEbm5tLXhFMVNFbk96d2ljSE81X25faGFV?oc=5",
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
