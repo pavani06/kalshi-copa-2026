@@ -52,6 +52,19 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 10:29",
+    "date_ts": 1783592941.0,
+    "title": "France vs. Morocco projected lineups, starting 11 for World Cup quarterfinals game in Boston",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS3hITERwaXRYOUx5ZXNfZnY4elU1djJqNHA3MlJzWTRhTW42ZEJROW9xRnJyT0tQaHVibWVFZFdVUEQxU1FjZjE1UFRqM2phZVk0NnpGYWszdWxWUER4ZXRuU3pscGt2M25yUVZzbzRaX2VaX0hWQjVpZmRyZjVFOGwwYlY3bnE3RTNMcXNaQVNWQkJRS056bW1xRGlmRHA2NlFzZDkyTlA0NmYwVGl2UERYTlJGZm13TUhjdHBUUkxscEEtVVE1THFpOA?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 09:30",
     "date_ts": 1783589434.0,
     "title": "What to know about the World Cup quarterfinals: Remaining teams, schedules and past finishes - ABC News",
@@ -73,6 +86,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFV5QjRabjhRMldNWWo1Vi1Nc1ZFdDk2NUNYNXdwTjRyVUViOTd5Y0VNZnNMcUNVSlFJT29wWWNkVkFqODNOV0lZdXdDenEwY3JPV2NkN2JpT1FkMGotSFFzN3RXTDVsRThVdVdKQUZjUi1sUDNkcUctblhWS0txemFtTDZtbDVlQ1pZam9qeGU3UXFHN01WaVNhR2V4cWlvb0ktOHhid1hmU1ZRQ0E?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -571,6 +597,17 @@
     "source_type": "news"
   },
   {
+    "date": "08/07 00:40",
+    "date_ts": 1783471200.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 00:13",
     "date_ts": 1783469603.0,
     "title": "Colombia’s Best Moments 2026 FIFA World Cup™ 🇨🇴",
@@ -700,45 +737,6 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOElrQXE0ZlEyU0hSNjZUQUdmTU5KUkdEc0FvN1ZQVWZsZTN3TzBVRGY3MGE4QU42SzVQVEpEZ2Ywdzhja2NzUG1sUWYzSXRyd0FYbGNreVdFZzlrWUZnX2wzRFJIRVB3d0hvMzFMbnEyVnQ1TFFObmlmVXpIQ1BabWEyYkl2ZmtmWVhjQ1Q1S0s3aWRkU2t4OEZtR3ZHbXltZGdERUFFM0J0MXVleDNkTVgwZllFUU1TaHV4TWlKTW83Zw?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 19:13",
-    "date_ts": 1783451619.0,
-    "title": "Is James Rodriguez playing? Switzerland vs Colombia confirmed lineups for the 2026 World Cup game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBLcmxyVTU4Rml4bXJvb0U4WGIyd0xyU09ZUTR0d3M0X3B3QU9mOGZ5c1ZuN1IzQ1lScU9TSl90RGFNOTgxVks5d1VocE9NdUphZ2xyYk1URlVjTThiRFg1djIyR1BybkdfWDJwWFpDbW1VRjMzYkpTUWJRVm05MTl3d0wxQ0JlNV9mMm1jeGZkTHk3YXZXMzdsTldRai1QZmEyVXRXME1kbTJ5TmhYdjhuT3ZmUi1tWmwtRThIQlVUZzJqaGtTbExKRzAxaDFR0gHUAUFVX3lxTE5rNWZnWS1OR19ZMlZuWGp5cjNoZEFJZ0lkb3pIaXZkOVdTUE5EX1MwVTdURWN0Rk81OW9XWWFTQVBTTVMtYUV2NEtSWU1kcUdiRnJLa3NGLUthNk9FRGt6dXRXbFoxWU8tRUoxUTU2SlZockdRc1R3WXZ3VlhCUFo2LUhDLTFGS0liblV6dmlZdVUxczVtaERrYVpGVGNrNDBqOWk0SUdMRUVPMG1zWWVlSUhQdld0T0owd3NhSm8xOVgzRnpVVHFkdXlKaTJRWGNoeGF1?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 19:07",
-    "date_ts": 1783451266.0,
-    "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:49",
-    "date_ts": 1783450150.0,
-    "title": "Switzerland vs Colombia lineups: Starting XIs and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSng1cFBtM2pZWU9xUFlMWU5VcU5tb0FvbG02eTBGV2hFcWt2dnpfSHNqQ3F6X3l3LWxjLS1xWmtGOXVvZzh0RmwwNC1iVTBQbjU0TUtmZ2Yxa2pYNENPOEJFSHQyRTAzN1FnZnRaYXlPSHJ5eklYeUljSnVFR01PbTB0ckIyalplWFUwZ3NtOVZ6OTJUVlgzTzNpWGgzeE9sOFU3WXUyeFY5bnFoZExibG1WU0stckZMOHlFSFRZVk9feWpaOHNvSngzc2V2WHNJbEVLVFZtbjRPRmlGTTBmbEJZaHo2YU1BUXc?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
