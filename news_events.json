@@ -52,6 +52,17 @@
     "source_type": "news"
   },
   {
+    "date": "08/07 22:34",
+    "date_ts": 1783550088.0,
+    "title": "World Cup 2026: France going out? Chris Sutton's score predictions for quarter-final ties",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWFhQR2VSS1kwampfVmduYlFmTjJudnEycTFhZ1ZNOWtpMU9nWVEwZTZzQ25pZF9zUVVkaF9KblRvUDhUR2JqTjVOTHZYSEswUlJteVlVdnVPVnJRM2ozUHFYSkdpUkk?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 22:29",
     "date_ts": 1783549791.0,
     "title": "France XI vs Morocco: Confirmed team news, predicted lineup, injury latest for World Cup 2026",
@@ -315,6 +326,19 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 14:26",
+    "date_ts": 1783520812.0,
+    "title": "Which players could be suspended for 2026 World Cup semifinals with yellow card?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcG04MThMQWpvTk1wNUJqaERIZEZ1cnZhYlVyakdma1dPVE9Ca3hYTmJoREo2NGdrejNXRFphR3dXWW1kQU5XVmt6VmNyXy1MMWdVSHQyc21KLWFiMm9ORHRndEtzOU92cmVNVE83OWFfMC11TjRQdG56YUV6b1Fjd1ZNcUNsMkxFLS1KZ3hFMDA4THdFZFRUMlNIOTNxUjYxenVvSE9OTkM0T28tSC1iM2lJMmItOXhrTUhjdmc5dThDMTRXZ3k3bV92TWs5d9IB0wFBVV95cUxQa3A4TXJheEFnRmJKLVBHSnVTQmRVSnZUdFpyY1c1cFlTT3lYSnJzZ2x3aEFObzVOcGIxT0NyT3FjVVZJRzE5SFJJM1ZNWFFIeVZiUzllME5zTHdtX2FYeEVnOTJJT1JkdV9BdEY2SjZ0bkFTdkt1N2JUc1FLYnAxdVp4S0pueTBrVE1xeHNJLVd6NXRGeDhSeEFBOE5iTEM1cXU1UHhKUVg1Q2w5aWZmZEcxa1VzdEhpUG1VajhqdUgzNDdrS25tdU5sczNhWlgxTEhr?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -710,28 +734,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:08",
-    "date_ts": 1783447680.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHdncUxoZV92OUJwUVJsRmFyenVpWHk4bnZRNjdUNm52SkRnMTZnbG5LWUwyR1JrWXZJbnRWaE9UMXJUc19odjFWbUIyVVNnWHExRlhaZGJjLXk1dVhvV1FuTUhvWHpyR25UVXVfOFgyYmsyajRvSVhzandCcWpYZDFiWWZlQ0dNaVpXRVJobGVXYUZaeGRjZXJVVi1zRXpWU1oycWF3MzItbUJXVUUzQUh3Ml9Xb0JxZDA1OENDYk9zYzlTUTFxTw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 18:07",
-    "date_ts": 1783447675.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
