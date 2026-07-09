@@ -1,5 +1,29 @@
 [
   {
+    "date": "09/07 22:02",
+    "date_ts": 1783634553.0,
+    "title": "France vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TYnM2MHVTd0ZreTR6VHBNYWJUNUx1OFhVT1NtLTVfN2JvRDJJY2ZMMjR3SEVDdU9VQlFSVEFqMjZVbEd3YWk3MmlxV3RFcGotcTFHdkk0TlB0dTQwQ2pnMGJR?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 22:00",
+    "date_ts": 1783634400.0,
+    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNExLUnZXZlpubEVkN1E2NGFCLUc4T3pyakhETnpSdC1BU2l1WFREcFhadUI0MTRLMkJiQktzQ3JyS3lEX3k2a04tck5kR1REZ2tSY0E0LXFGQ3dPV1hWd251SkMyTUR3TmxleDZhQW5XVE5fU09WWmxhNktXVi1yd0Z5ZVBIVEhIXzVIcVFZM0gxRjMybndKZXlCaEVGNGlTbmg4b3h0NTdzU213VHA3Rzc3R2NqamY0d3N4LUc5TngyQkNYTnc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 20:35",
     "date_ts": 1783629303.0,
     "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 16 and route to final",
@@ -36,6 +60,17 @@
       "Marrocos"
     ],
     "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 19:31",
+    "date_ts": 1783625489.0,
+    "title": "2026 FIFA Men's World Cup: How Australia made the Round of 32 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVhPSF93T0Y4NVFjZ1RrdHAyRGJOY0ttNzlZaTlxYmRqRXdkaTh0S3lwaW5qSzI3Z1o1VkQya3B5QlM1N2doZmM0ZkdXTUl0VHNUZ2NIYS1hRlpZS3BLV1ZyaEZSVnVyLU1yLWlPZmpSUnNJRHFlUUZZLXZRSmU3UTJGWUVudHdKN0EtWWdZeVI1OGtZN2tNdTkxMU41QTRtWXlrdUdHa0FPNk1YV1hfNVYwblF0OXQ1OF84?oc=5",
+    "teams": [],
+    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -246,6 +281,17 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 13:54",
+    "date_ts": 1783605240.0,
+    "title": "2026 World Cup bracket: Full Quarterfinal matchups and preview",
+    "source": "AL.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oc3NEMXN1SUJQZjF1YjU2d0VTRVp4ODJ4M0hNNjBmTFB0YUZOcmlOTzlHRmV0RUlUMy1mVU83M2Z3UjdTbWFHSC1td0lvN2pyRjVyZ2lWRzYyWHdBNWFj?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 13:30",
     "date_ts": 1783603822.0,
     "title": "Morocco XI vs France: Predicted lineup and confirmed team news",
@@ -365,6 +411,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 06:55",
+    "date_ts": 1783580100.0,
+    "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -694,67 +753,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 14:31",
-    "date_ts": 1783521081.0,
-    "title": "World Cup 2026: Portugal confirm departure of coach Roberto Martinez",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hWlduMTdkbVpMT0x5WmZROF9EVVRxS2lsdkFObGFEdGVmdVpXT3dHU2dQcnFhTnM2YUZjRklmZk94dVJ2bGRXcVRvbWpKb1c2dnFmcW9UNkhfRG1CbUkyNVg5cHZQSkk?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 14:26",
-    "date_ts": 1783520812.0,
-    "title": "Which players could be suspended for 2026 World Cup semifinals with yellow card?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcG04MThMQWpvTk1wNUJqaERIZEZ1cnZhYlVyakdma1dPVE9Ca3hYTmJoREo2NGdrejNXRFphR3dXWW1kQU5XVmt6VmNyXy1MMWdVSHQyc21KLWFiMm9ORHRndEtzOU92cmVNVE83OWFfMC11TjRQdG56YUV6b1Fjd1ZNcUNsMkxFLS1KZ3hFMDA4THdFZFRUMlNIOTNxUjYxenVvSE9OTkM0T28tSC1iM2lJMmItOXhrTUhjdmc5dThDMTRXZ3k3bV92TWs5d9IB0wFBVV95cUxQa3A4TXJheEFnRmJKLVBHSnVTQmRVSnZUdFpyY1c1cFlTT3lYSnJzZ2x3aEFObzVOcGIxT0NyT3FjVVZJRzE5SFJJM1ZNWFFIeVZiUzllME5zTHdtX2FYeEVnOTJJT1JkdV9BdEY2SjZ0bkFTdkt1N2JUc1FLYnAxdVp4S0pueTBrVE1xeHNJLVd6NXRGeDhSeEFBOE5iTEM1cXU1UHhKUVg1Q2w5aWZmZEcxa1VzdEhpUG1VajhqdUgzNDdrS25tdU5sczNhWlgxTEhr?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 14:02",
-    "date_ts": 1783519320.0,
-    "title": "World Cup 2026 today: Live updates, news as Argentina, Switzerland complete quarterfinal lineup - July 8",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQMU5rZnNxX1ZIMlBXQm1uc256VG1rbVRpVFVQYko3U29ReVJ2cEtQVFNVdWpDMTgyNXRKbEtNMkFZQnJ6NGhEdWFsazR3S3dIRnVSMlJsMWtRUXJiN3ppaGpCQmhKUURUcXNRR1BUR2J1b29LMUVVY0htZnpfQldDbjRudTJsaE9xV2VwZFc3VWctNE5IZ2E1RU1DOG1vbWEtVDVHLS1oRWFVTEM4MWpVVFpxRlp2TWhDZG9maGt3QUJjbTJJRFB0WlZ5RlpUbHdDZHlodW13MllnckhKZDBxTk9rUXFXZFFUMXJBeXFXVENLOTNmcGlRcEVxMVlxZEI5SDE4bjQtMjJZQ2tIdDR6VGJIcjdzbXlqZGY0Qm9zV00xTFB4cUlibU9DTXVNUzFDQWo4dXNLby1uOWhXVEhYVmN1a3dDOV9Oa19sT19vNnJtYUNBZUE?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 13:21",
-    "date_ts": 1783516860.0,
-    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 12:45",
-    "date_ts": 1783514700.0,
-    "title": "Fifa suspended two US staff members for World Cup match against Belgium",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObFduSm9YaTVNTzNZakk5Y09IYXc2NENoRHltSC1YYUlBRWZoaEFXWVJReVZ4b1RnMXNXdnZDT1kwemJEVk00anZqZ0h3X3JjSW5HcDJYcDBmY1c3TW5qNmlpRWZMbHVPLXpBMU9HdGhLblJJSzZBNzF2cHIweUZGQWRjZHlmSlA3YmpsWkN5VjlLUFprTVBNcUJqczltMXhnTDUySnY5QkRTZ3oxWUVFeHZzOFJZR1E?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
