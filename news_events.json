@@ -75,6 +75,17 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 22:33",
+    "date_ts": 1783636435.0,
+    "title": "2026 FIFA Men's World Cup: How Scotland missed the Round of 32 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNk5Yc2V3bGxEbExjVVhNb0oyUDVqNmxadWQ5RGFySUJzYnIwejJ1SGlMOXRoS21aNWFzR1ZHLS1rZmdZdUdYZVY3NEhBS25xbl9zamhjU1NzRnduSUlCYndvdHZTX2hfMll2WkN2N3JIcFNra3B0N1M1Y0did29oN3pkdW9FcTRVTlJFcnh1SEx6TnVobUljeHkzQ3hnVngxS2FRWkVMc1ZPODBwWHV0UUM2X3Z6ZnRDS3c?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 22:24",
     "date_ts": 1783635891.0,
     "title": "World Cup 2026 Latest Scores and Fixtures",
@@ -732,20 +743,6 @@
     "title": "England XI vs Norway: Confirmed team news, predicted lineup, injury latest for World Cup quarter-final",
     "source": "Yahoo Sports Australia",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aS253SXVPTklhMGhBeE15ZlJrN0lFc2V0dGoyRTNfMHl2TzhwUzZlaVNmQ1JEbUJDSUpVWGxrMVh1MXc5RHJ1RVhMS3RZTF9aZk51bnF4RUFxWDI3MEhkMGJfckFkVmwtM2paNUQ2SVJfU1NHRUpWZ1p2Vkw0Zw?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 19:09",
-    "date_ts": 1783537758.0,
-    "title": "Five England stars at risk of World Cup ban ahead of Norway showdown",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0lkaFp4cHpjR0lpZWxkTVdNUVdCbnlGSUI0dHJxYWF1UnZMcXduVGVjTlFscGdtSHpnXzRkeTJvS0poa1JDVlQ1S1c5NnhrT1NhOGxHZTdkckVENTNKODJ1a2UwbzN3Nml6QkNZb29tNS1QVkxNaHpUUHc4RU5KeFNyVGRjbHlzV3FZT2RDWnBEUQ?oc=5",
     "teams": [
       "Inglaterra",
       "Noruega"
