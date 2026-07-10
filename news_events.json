@@ -87,6 +87,19 @@
     "source_type": "news"
   },
   {
+    "date": "10/07 15:53",
+    "date_ts": 1783698820.0,
+    "title": "World Cup 2026: Every confirmed squad for quarter-final ties",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM284cTVZdTRFV2xqTVcyZTJyand1ZUpGb3liTGlnenNENDhqemhyT09fczBwcHFib3g0em9LNThPUzFxcEZ2aGtISjEyaXJ0bmNFcmFKNEtnV2xJbmJFb3FpcE1XdHJsQTdFZUlwN0JwY09JSnFMNW1ZTFAtZVRLZjBYZmp3eXcwQ2h6MDVRRDJrN3NkYTgw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 14:47",
     "date_ts": 1783694875.0,
     "title": "England XI vs Norway: Confirmed team news and predicted lineup",
@@ -109,6 +122,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 13:58",
+    "date_ts": 1783691899.0,
+    "title": "2026 World Cup forecast: Latest odds and updates - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -719,30 +743,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 11:36",
-    "date_ts": 1783596970.0,
-    "title": "World Cup 2026: Are France beatable? - BBC experts have their say",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ZUNOUUJZZXBaSWFVX3BwX0JiNWJBd1Rhd2VReHJaeERxWkhOQ01QeXAtVG5sQWtKT1g3dkhGNnE1Yy1JNlJwc1U2YkwtRVZ3VTBVeUpsUm12RERsM251dW9lLUZWY3c?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 10:54",
-    "date_ts": 1783594440.0,
-    "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
-    "source": "Radio Times",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWTZNUkhwSmlzZkticTFQLUZwTEIwNVJOdmc4NXcwb0dNT18tUG4zMUtFTzRMNDFsYU9sYnppSlBGd1pDWldFS1RPZHV3Ry1uTDFQYTVNTTlrOWZxMDhHdHlZcWpMbzZ1MTNsUW9MZ2JfdXRhNTNWMk9CSHBCLXM?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
