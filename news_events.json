@@ -1,5 +1,16 @@
 [
   {
+    "date": "10/07 15:55",
+    "date_ts": 1783698900.0,
+    "title": "FIFA World Cup 2026 – Spain vs Belgium, quarter-final: Score, lineups and live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVFaMzFzcDI2aEZQeHdzTXFPbjhRWTRJNWI2amFKQ2ZxNHgxdmpVU2t4Z2dVY1FibWJoM0k2RjIxcUZqRXN2WFF4R016MVJoZTEzd2ZKM3daaFRSdVl0dHJjX081eTdTd0NPcmZLMWJSdFdQc1ZHbnphN05TTlRrQ1FQLWJ4OC1xSEx2c29WbXlmOFJOWndKeElGQlNuNmhXMjZDUmFuQlpIV2ZSN0I0?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 14:47",
     "date_ts": 1783694875.0,
     "title": "England XI vs Norway: Confirmed team news and predicted lineup",
@@ -729,19 +740,6 @@
       "Marrocos"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 06:27",
-    "date_ts": 1783578420.0,
-    "title": "World Cup 2026: Which teams have been eliminated?",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
