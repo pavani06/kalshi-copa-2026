@@ -1,5 +1,16 @@
 [
   {
+    "date": "10/07 19:21",
+    "date_ts": 1783711279.0,
+    "title": "2026 World Cup: Tournament schedule, scores and results",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 18:56",
     "date_ts": 1783709760.0,
     "title": "Spain vs. Belgium lineups, starting 11 for World Cup quarterfinals game in Los Angeles",
@@ -729,19 +740,6 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWTZNUkhwSmlzZkticTFQLUZwTEIwNVJOdmc4NXcwb0dNT18tUG4zMUtFTzRMNDFsYU9sYnppSlBGd1pDWldFS1RPZHV3Ry1uTDFQYTVNTTlrOWZxMDhHdHlZcWpMbzZ1MTNsUW9MZ2JfdXRhNTNWMk9CSHBCLXM?oc=5",
     "teams": [
       "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 10:36",
-    "date_ts": 1783593360.0,
-    "title": "FIFA World Cup 2026 – France vs Morocco, quarter-final: Score, lineups and live updates",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTFMUGxfRzJlME5DUERTUjh6OUVhdkViMzV4REk1aXVma2IwNFpaNDBRSjNUMFdMZHc5dWNQNGh5VzNnai1MWGRGUm5qRWJYdHBjRk16WE5ybW5tYkFENHI5aWlrcFowYkU2WTF6b0ZmTFFlUGVLTmJyZlV6a29aRlRMTHZvWTRQV3Y0d3MwN3V0X3hjUGJnWDBwWHp6MER4VGZ3S05CREVvZlZW?oc=5",
-    "teams": [
-      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
