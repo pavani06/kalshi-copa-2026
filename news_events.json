@@ -1,5 +1,29 @@
 [
   {
+    "date": "10/07 01:40",
+    "date_ts": 1783647645.0,
+    "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
+    "source": "bundesliga.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 22:24",
+    "date_ts": 1783635891.0,
+    "title": "World Cup 2026 Latest Scores and Fixtures",
+    "source": "FourFourTwo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXJOa3djSWN1TVJ3aFNfX1FNNnk0X3RyWG9hdFBROFU4eHlmel9zZTl6MlhHQWNKRW54d19YUFBVY2FIY3J4bHlQc0xDNTloVVpTWGh5MHZzTXNuelhHU0F2X3FibWMycklPWlllT1BraWEwSTJMTzRRT2syTE81dW1fV0lhOUxGRUVnSjY5a2ZSTzlrcWJMRWE2SGdCQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 22:20",
     "date_ts": 1783635626.0,
     "title": "France 2-0 Morocco (Jul 9, 2026) Game Analysis",
@@ -727,30 +751,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 15:48",
-    "date_ts": 1783525687.0,
-    "title": "Argentina’s comeback vs Egypt the best so far? Ranking every match at the 2026 World Cup - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2tUOFkxa3VnaDdKNll6TVZoeFlHNWpDcHFXaFYtRHJ5cnJiczFDaHJFclFkNkxsSWVaMVdzQWQ5MWJwRmZMdFJUQWd1UWl3LW1IeE1LTXBqekxSMG4yaGhhcDdYUmhybS1RQ3dxM0o2ajVCdDVQWUY0OXloSjJ0bkd3em0ycjhfakE?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 15:33",
-    "date_ts": 1783524823.0,
-    "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
-    "source": "Radio Times",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWTZNUkhwSmlzZkticTFQLUZwTEIwNVJOdmc4NXcwb0dNT18tUG4zMUtFTzRMNDFsYU9sYnppSlBGd1pDWldFS1RPZHV3Ry1uTDFQYTVNTTlrOWZxMDhHdHlZcWpMbzZ1MTNsUW9MZ2JfdXRhNTNWMk9CSHBCLXM?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
