@@ -1,5 +1,30 @@
 [
   {
+    "date": "10/07 21:16",
+    "date_ts": 1783718180.0,
+    "title": "England reportedly face major concern with Declan Rice ahead of 2026 World Cup quarterfinal vs Norway",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTUdTRTAyRl83WFQwcjExTG9QeFVfc2dNQWlBZHZ5LWVqclRHV0RXS0xfOFlCY3hrbExkWXFKcjR0UWlXdFRRXzhBLTVub2NROU5OZUVMS240aENEZS1wT1QyTDVOVnpJcWQ0Ql8tQXc2ZlN4UDI5WVhtVGU0cS1QYmFIX3hMZk5qS2d1MFFWUzNCT3VFMFkzUVF0RFVDWGxXd3dhMnhIZi1aTDVNMWVzQzVZNVp2d1hGNm1LU3UyUmZJYjJJYlBJZ2xUSjR0M1XSAdQBQVVfeXFMUHgxeVBGQjh1T2h0ckRna25RYV91WGVYU0RwVkJDeVc2a2FlQ2Vpa1VYMF9jNmtBTXRndlp6TGpHcmJnMUxhWUtiRU8tUm5QVmRNYXZ4cV9ON3FxVzR2SGM2SEtHYXM2Q0I2LWtDTng2R29sa3dfbV8yYkZQaXhONFZGZEpPYmVOYTZZYUJBX0YzNF9COFdDRGpiS2JrdlhRUTdDZTRLVGNsUUpCa2ZRSlVmLXFRSXdPaFZwc3RrQ21lMUdDQkhvdWJZVWZfR2NBQUhlY2E?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 19:53",
+    "date_ts": 1783713210.0,
+    "title": "Belgium's Charles De Ketelaere scores header for equalizer vs Spain | 2026 FIFA World Cup",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VRmZiQmpsRzZ5S2UzQ3lKZnZrN1NKMnlRU182LXBNLUo3RkxrNHlOZVBxMDQ5ZXJ6MXVCY0ZrVlVYd1VkTTh1R19ob3RDRUFZZlNVTDRkc09uckxyWHRaUmpB?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 19:21",
     "date_ts": 1783711279.0,
     "title": "2026 World Cup: Tournament schedule, scores and results",
@@ -8,6 +33,17 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 19:15",
+    "date_ts": 1783710943.0,
+    "title": "Can anyone stop France? Re-ranking the World Cup teams with seven games remaining - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVcxX1l1eXYycU10NEYxRzFYb0ppOW9YLTUtRVpWdmo5LUZfakRNb0tKOEw2N0lSWUJkYk5PWFpCMmtYbjNwOGxLQ0ppZWFxNF9HcDdyREJXTl9QUXBBZHJOQWcyTHk1MGFFVnpTeHF6SmxLNWdnMnpOSWlTSGhYR1N1MGlQTDdoZURF?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -21,6 +57,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 18:33",
+    "date_ts": 1783708429.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -695,54 +742,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 13:54",
-    "date_ts": 1783605240.0,
-    "title": "2026 World Cup bracket: Full Quarterfinal matchups and preview",
-    "source": "AL.com",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oc3NEMXN1SUJQZjF1YjU2d0VTRVp4ODJ4M0hNNjBmTFB0YUZOcmlOTzlHRmV0RUlUMy1mVU83M2Z3UjdTbWFHSC1td0lvN2pyRjVyZ2lWRzYyWHdBNWFj?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 13:30",
-    "date_ts": 1783603822.0,
-    "title": "Morocco XI vs France: Predicted lineup and confirmed team news",
-    "source": "standard.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlJEXzg3YlpNclpVdXRNSUg1WlhCZUpaRWZzMnFndlY3clpMdURYaHhxdTBLV2dLd2d3QWw5bFFKUkJKX1M0emN2Wk1aOWFCREN2amdLOW5XWllvdEttVHlPWWFnOERwalhvZk9zd3hPRFptLTNOYXBDbWVjbVI3dWptWUp1d1FWeUhxOVJzV1lQTW52eXNMMGp2VHQzWHEwWEh1dkJ6YmFWLVlMVU9OUmdnTFBqY240TkZ2ZVZKQk41aUdFblo1Z1BwRkNCN0J6M19ORTBIczZKUQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 13:27",
-    "date_ts": 1783603648.0,
-    "title": "FIFA World Cup: Which quarterfinal team has best chance to win the trophy?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjNPeTdEczRBSWZvb3NaYjNDOW04Sjd5Sm9qTnB2NjZCU3RPNzg0ZHhuLXJDUExGTml4MXhuYTl5allhSkkyVTRmRXgxenp4MWVxblRibGdscVVMNnl0QzFWTTVQQWJ3SFlnRUhUWFBOVTlDV3hMUUJVWHBFWVp4N1FuZlFwSzZwSFlNeHF0clJ1cERtWk15SHFiSFRmOW1HWnJvcDV1c18xb3Z4MjlNeEhLX03SAboBQVVfeXFMTTRuT1V4QXkwVktEeFFPSXFCNkE4UEFzcUd6dzhKQ1VHS01Lc2tHUmdZa1hXQ2FRWUtvSFBmY3FDcE5hMGM0YTdsMENmLWF5ajFTVkVRaWlkcHA3Q3Q5VjFlTXJGVjBPQTVreG9SUnZYZm5yNnhENjN0bjdic1dPSHVwb1ViMXJiQkJQVlFrOUlPeHYtVVhHZFZ6Q3hFNHZXaU82T1Y1bDduM3JIRkxlTUt3ZnJ3cTNnUi1R?oc=5",
-    "teams": [],
-    "category": "general",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 12:15",
-    "date_ts": 1783599300.0,
-    "title": "France take on Morocco in first 2026 World Cup quarterfinal: Live updates",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnZ4SlVwZTFWN0M5b296VTFUQXRPZ3dKeW9PN1B6T2lFRHl2RHQyVDRHV1NWM1RLUlgzVkdNZlNxRUhtMUJiWEdwSFlKU1pPZ0xOdXpBbEUtVDVsaUVJT28tbFBLVXpkMjJrN2VhZ3Y4UXlSazd1cW84ZmVjV0dVQ1ZKVHhLa3NmVnd3bWlFNEdsNkZFX1FwS0dSYWNGcHVBbWZiOG5vTmlFVktNS3gySDFmdlROSGc?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
