@@ -51,6 +51,17 @@
     "source_type": "news"
   },
   {
+    "date": "10/07 09:08",
+    "date_ts": 1783674529.0,
+    "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
+    "source": "Opta Analyst",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 09:01",
     "date_ts": 1783674086.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -58,6 +69,17 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 08:59",
+    "date_ts": 1783673945.0,
+    "title": "2026 World Cup quarterfinals: Confirmed schedule, results, predictions",
+    "source": "NBC Sports",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
+    "teams": [],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -370,6 +392,19 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 18:41",
+    "date_ts": 1783622460.0,
+    "title": "📋 Rematch on the cards? France and Morocco line-ups confirmed",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdmt4NlpudkxCdmRXWGFFUUJhRmdUMmRuSGV5aW9FSi0wNHRwZlNOM254a2tMUXE5UTJNODVsZ0VsWVJtd2xYdzFNTjFrOVc1X1kzeVo3X0FkUVdzaGNEVUZXbW50ODJFYlhMVTNmNVFxLXFJOV85MjljZ2Q5d2VZSXpUZEFpZEJ1X3c?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -708,43 +743,6 @@
       "Marrocos"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 23:22",
-    "date_ts": 1783552923.0,
-    "title": "World Cup bracket, live updates: France vs. Morocco kicks off quarterfinal slate on Thursday",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVwY1cyejlPY2hMeWtranAtX2t1RnhTbGdZWkxFVFZaS2VEY3ZOUHZ3d2hNSGd6OFJxRVJXSEJXMUFobk9ZSDF0Tnh5UWY0YWVCS050QUswTUZlYTQ3dmhnWEpxbHk3a3p6UzI5TjAwTVhaSVIyckcxMDhjVHlncC04VW90eGFaRW5UN0dvWUU1Tm5FYVhERWpnWlh6WFFQUE5Ra1FhZkc5cTlaUUcwRXV1TnBlbDhKZXQ4Wg?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 22:57",
-    "date_ts": 1783551424.0,
-    "title": "France XI vs Morocco: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd0pJdW9rMFZ4dEQ4MUVNZGtyTWVwcjhjdFFNZDI5ZFZUZjA3M2YtcWJ6bnE3bkhKaTBJWDJZMWNFNjF4bnNxM3lKcHJoYlpabEFOaXE5NC05bFFMQnBCeWxOaGxsVnRwWlYyQ0VfNHVKdHoxT3dSa1U5cnJZNy0xWUNLYmpvV0luS3JVYUtDRGV5UlZ2ZGJieEt3eEctZTFPVkFRX3FQbnNvbXVYTm96aUtaTTJHaFdiME9BWmpxMm5CNGEycmd1empUZ3NOSlA0QUFFN1pIVXpMdw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 22:34",
-    "date_ts": 1783550088.0,
-    "title": "World Cup 2026: France going out? Chris Sutton's score predictions for quarter-final ties",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWFhQR2VSS1kwampfVmduYlFmTjJudnEycTFhZ1ZNOWtpMU9nWVEwZTZzQ25pZF9zUVVkaF9KblRvUDhUR2JqTjVOTHZYSEswUlJteVlVdnVPVnJRM2ozUHFYSkdpUkk?oc=5",
-    "teams": [],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
