@@ -1,5 +1,32 @@
 [
   {
+    "date": "10/07 22:24",
+    "date_ts": 1783722241.0,
+    "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 22:02",
+    "date_ts": 1783720927.0,
+    "title": "France vs. Spain Confirmed For Semifinals: Here's What To Know",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHFvMDAyb3U4UVNJaHZ0TksxMUVPa0prX2FvUEtkN210M0pkakllMVNPd0hSNzVHbnY0eTB0RE00bXZobFBaNG5wVjUwcUx0SV9UWUxiLWc2VnVsaXN1c1hLa3lzdEhUUmV2cG5VSWFQRmpFTUJBQy1TSHN2UzJtRUFWdVgwb3dxOU1YLXNqWkwtRXVXWEh6b9IBmAFBVV95cUxPZmMwQUwwd29kVXVtTG9YOFp5WV9BRVhSVXd0OFJWbm1POW5DWEVPdDNmYk5zUGFQMHZCYWNSWDJ5WXdaUkJWNThTbjhFXzVsQ1RWa2I1cGVlYkxtX0RWc0Z2N01VMVB3OW9tQzhxakEwZWVudWJJMUQ3clJRWmJsVjhsRk5VMERZTUY5dUpha21LUGZaSXUwSA?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 21:16",
     "date_ts": 1783718180.0,
     "title": "England reportedly face major concern with Declan Rice ahead of 2026 World Cup quarterfinal vs Norway",
@@ -275,6 +302,19 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 07:14",
+    "date_ts": 1783667640.0,
+    "title": "Kylian Mbappe comes clean on furious World Cup controversy as FIFA told 'it's nonsense'",
+    "source": "The Mirror",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmpJa0RfUFctUGpSOHFmWi13QVh3TlJ6UVRTaHgxWl9ZNDhtX1dSenl5OWk3TFI2T3hlZFVjbV94WTQyQWxmTzZ2Sm9QaHg0QVB2S0M3M2pJMkstOV9UUk1KZUNpNWlyWWc1djB5eEEwSzZYanpZeDVjVFFJRjhXUk9KN3J1bGxiMlozdExB0gGTAUFVX3lxTFBnVWcyY0NFaWZUb3pNTXBtZWswRVQ2YV9BeVNYNHY2M3VFR0F3eDdjZ1ZjVlpJYXJYbFZPUlpwU3FzVXd5LS1GcmJyN0l5aG5Bc1ZwRVNXM0p5LVBNZnowNnhTZ194QjFHaU5RM09zUUVSeVVYWFZ4N2dlcUFyRGZ0SVNaNWtXekI4czJKNU5fdGhtbw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -702,45 +742,6 @@
       "Marrocos"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 16:13",
-    "date_ts": 1783613617.0,
-    "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 14:55",
-    "date_ts": 1783608954.0,
-    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 14:18",
-    "date_ts": 1783606686.0,
-    "title": "England's Road to the World Cup Final: Injuries and Risks",
-    "source": "Sofascore",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTGZRTWFhYUU3UHpPLTB3UHUyUFd5dmdkNVF6ZWxMeHNFaW14WUsxNS1IdTVIOVNib01aNGpsNmFZM0ZlVkhnSThlSW9lLW9BVFZadDJYVmpNV0tkbVU1MGIwSHItRDU0OExNckZ5N0lvVUVwVDByUnFTTUV4S014VVdiWllFelBnYkdmdVFEcW9pRmxpQ3pUOE8xUjlOWldlM2pGbUhyYllZZTExc3hwZFdISUw1aVhMNjhJcnRoRi1mX0sybm1UeU5rUjRldWxoQWl2NEVHY19ESnpuSDZPUTA2U091UDg?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
