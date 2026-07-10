@@ -27,6 +27,41 @@
     "source_type": "news"
   },
   {
+    "date": "10/07 10:02",
+    "date_ts": 1783677720.0,
+    "title": "England at the 2026 World Cup: Schedule, results, how to watch, news, analysis, injuries, more",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHJfX2tEcE5wcWtqWE5FNzFJd3NGTHBES0tYRmZEN3NBN1V4ZTc2VkxkZHBueTIwcXVhSGJJRkt2dFRRZW9KakYzZ3doM1QxZ3M5UFRtQWJ0eEJXOXF6emJDRTdlY2gwc2hKSjZrMUVEXzBselViVktycjA0T2pIdHRTU29JV29WWDJtaWxNdHcwRnVrWmFVWXRrOUVaaUE3SnpCOTBMalpodG1nNG0zX0N0VlV0WTc4Y050a0JWN0RpbmlmNnpaNFc4amF1ZWJpSHpKVTdDYWVKY2RLeFpIblVvSGJTZw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 09:45",
+    "date_ts": 1783676704.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 09:01",
+    "date_ts": 1783674086.0,
+    "title": "World Cup 2026 bracket: Latest results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 08:44",
     "date_ts": 1783673094.0,
     "title": "FIFA World Cup: Schedule, Results and Standings",
@@ -710,43 +745,6 @@
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWFhQR2VSS1kwampfVmduYlFmTjJudnEycTFhZ1ZNOWtpMU9nWVEwZTZzQ25pZF9zUVVkaF9KblRvUDhUR2JqTjVOTHZYSEswUlJteVlVdnVPVnJRM2ozUHFYSkdpUkk?oc=5",
     "teams": [],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 22:29",
-    "date_ts": 1783549791.0,
-    "title": "France XI vs Morocco: Confirmed team news, predicted lineup, injury latest for World Cup 2026",
-    "source": "Yahoo Sports Canada",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblloLVF6cXNubUZjSjM3SGJ0QUIySjhpNUJsYWVtUkdFZ081ai1PWVBJX2NWcjRnX3ByX0xUTk4zOE5zbm55WU1zd3ZVT2dEVFJja05xX0VtZ1h5RFBCTjBOc1VKZ0huQ3dqTzBsTnRxRXNLTTFPbS01Tnk5OThTUm04VVc?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 22:25",
-    "date_ts": 1783549501.0,
-    "title": "2026 World Cup quarterfinals: Confirmed schedule, results, predictions",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 22:10",
-    "date_ts": 1783548656.0,
-    "title": "World Cup 2026: Every confirmed squad for quarter-final ties",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM284cTVZdTRFV2xqTVcyZTJyand1ZUpGb3liTGlnenNENDhqemhyT09fczBwcHFib3g0em9LNThPUzFxcEZ2aGtISjEyaXJ0bmNFcmFKNEtnV2xJbmJFb3FpcE1XdHJsQTdFZUlwN0JwY09JSnFMNW1ZTFAtZVRLZjBYZmp3eXcwQ2h6MDVRRDJrN3NkYTgw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
