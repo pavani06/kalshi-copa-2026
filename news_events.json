@@ -1,5 +1,16 @@
 [
   {
+    "date": "10/07 04:37",
+    "date_ts": 1783658227.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 03:43",
     "date_ts": 1783655012.0,
     "title": "Declan Rice and Marc Guehi injury update: Hamstring and sickness could be a blow for England vs Norway",
@@ -23,6 +34,17 @@
       "Noruega"
     ],
     "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 03:00",
+    "date_ts": 1783652434.0,
+    "title": "Espanha x Bélgica: onde assistir ao vivo, horário e escalações",
+    "source": "GE",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWZYVEJReTRfMUNaby1PYkExdktnWE4yd2lXUDJEemlyemVNV1NicFFXSHhuSGVJMm5GOVdOVlU2RWRIWE9fYklZY2dxdDdZTDgzbGJyZTdFRm13dUJrYnphQjVhNk9pX21KTmtmX2pYR3M5Q1FnbXNtVHVsQ084RzZFcmRKUnBWQm5RNUpZcWYtRTFsN08tZnA0MmU4ekVQVHcwa2RSVzJSbDEzd01mM2tGNjkzVWVNNXJHS2RhNEkwUTcxcTNn0gHWAUFVX3lxTE5fb0pFTnBRX3N5bFJucllySFQ0X1pnQW9WeFJGMVgyTWpSZ1A4RnNoRkpDNUpyRXI1ZXlmSldXNVNVMHo1ZVVzSkplNWF5b25ma1hrMElnek9qaUl1aGlVSmRZd1RmLVlHVzNRanlIc0FRMm1Ub1FPV0FCNGhkbnFudlpBWFV2RVA2Uy1IY296RGxOVXRPSF9ucWpseFQtZjhldUtUeHp5OU50UUhCVFFZLTVMcVVCdS1XbWNGNmlZdDVfMG5RajRIOVZrSGxmLXBKU2M3a0E?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -729,30 +751,6 @@
       "Noruega"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 17:44",
-    "date_ts": 1783532688.0,
-    "title": "How Morocco can win the FIFA World Cup 2026 title",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdFQ1ZWFLRGU5LWRITmliYWdVdVRYV29VMWRVb1dZejNYd0MwTExzZWN4OXpPcHU0YWFRRDJHVUNRMGRWSTg2Vk9LNzlOR1Y3Z1NTT3k4aWo0ejcyVk1JQTJtOWlpS3UzZjhydkdMZjRLTVRpcy1lTWJCVkxHTmhiN25YWHczVXAtSVh0V0gwM09QOVVodG02d9IBngFBVV95cUxObHd3dkNja3hzd2taY2FnY2NmcVVpd2NCQ2RUZ2oxTTRESW1MOExWZ01jMzBSNlBpalRyX09GZ3dEZE5hSWtEeW1neEF1UFZjc2NYQWZRcnhJWkxvZlI1MFV6OGFiUUdUVzhGRGd3NEo5T18xdGFLMUFQNnRFTTg2eDVHTHh1S2lTYVU0UXpUYVdfNFZWeTZ0SlJMdE81Zw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 16:54",
-    "date_ts": 1783529640.0,
-    "title": "2026 FIFA World Cup bracket, results, scores: Round of 16 results, quarterfinals matchups, path to the final",
-    "source": "CBS Sports",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUJTLXlOOGw5VldMaVBRa3EzOWc0M2Q2U0x4X3I2NWtNcjlQZDVHWmxieEpHUU43RS1EMHNuSmlaZ2o5Zkd6V3NLNUdaVU1pT2c5NllFNXZEdWYwdUNrYzhDa2NpLUZHNThhMG04SmZJQ3Y3UFhWVVBlbzMwdFZFUzc1b29UOHdJMk5GNFRvbmsxV3BCakp0M0p4RVpOUWlQdExBa0lhRGFOOVU0ZlJUQkRWUQ?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
