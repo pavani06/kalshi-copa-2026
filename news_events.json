@@ -1,5 +1,31 @@
 [
   {
+    "date": "09/07 22:20",
+    "date_ts": 1783635626.0,
+    "title": "France 2-0 Morocco (Jul 9, 2026) Game Analysis",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMTTBRdHc0VFRhOHVOZ2JWeTBOaDJRVlBza3dvenRKb01QeHpsR2YzRjAzLUMzbVFRZkhCOTBjSWMzVHEyY1QweVdHMFBBT085UzNRXzQyQ2VmVTBfdzBZ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 22:16",
+    "date_ts": 1783635412.0,
+    "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHMyYjRiSE5QVWJyR19JZkl4SS1MMF9qU2dFa0R6NVhvRjRRM25TRkRXUXlvajhvVW5FeWktZm9yWWk3TEpxNDlacnBVYnljSGlmVzhOX2RFekpMeWMwNHVjWHphWjRpbnpyY3Z5VzdXb05PZ1lxN3A0Ym5NVFlNbEd0dmNZcC1JOGl6aGU3UllnaHkyVnRtTUFXbWJmUUVpc2hDVnc1Z0hubHVHU3RjaTl6NWZndVo3N3RvWmtRRllRU28wN3JMMFZ3amxUbXJSSUFKTTVVTHZUbmhwRHVoWVhGZmdLd2JlQ0V3LVk3cw?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 22:02",
     "date_ts": 1783634553.0,
     "title": "France vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals",
@@ -10,6 +36,19 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 22:01",
+    "date_ts": 1783634460.0,
+    "title": "Did France win? Les Bleus result against Morocco in World Cup quarterfinal",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTRQaENjdmRBTUtDd2pTcjA3QkVyOU1XVjVnUnp0MzQySnRrU1BKZS0wS1BJX1lIaWU5SWNES0V5d1ZiUTRfM1hGQ1ZZdWRKZ3F0ZW41WjgxTEp2RUp0VFZ0UUdRelJIZWtWclN2enoxV2xmelptZW5YaHF6c3NjZF9FNjZZblN4LWsxUGd3YjNvUjltRkNORVFGLWRRWVdmWlpOajY1OThETUxLbzI0?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -709,45 +748,6 @@
     "title": "England football news: Live updates, schedule and analysis of Thomas Tuchel's Three Lions",
     "source": "Sky Sports",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdERMaXdnSXJ3ZldrZngtQ1ZVb3NlckN0SEhmX3BWbU1jcFZCc3BqQUhUOW1XYzNxUU0yMGhHV04xUXhDQTNJRzRKUXlGRjVGMFFpd1lxTG1BZ0Vjdk83bkJVRlhLbF9MR2ExN2ZBdks2SGV0U3Q2T2gtalBMM3NZcF94MF8zcmtNMXBLYjhKeEs1dG1PLUVSdjl2VjR2Q01mQ2NJeFpiU29QZXhxQ1Ezd0Mwd2hPaVJxVGgtOTdJcXU4Q1JCWVlyUUoyVXpuMFZabW5mQ0NLN0pIQWotUlVr?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 15:09",
-    "date_ts": 1783523340.0,
-    "title": "World Cup 2026 team power rankings: England on the rise as last eight are set",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEdBR1dXYW9tQy1VaGFDZVpRbXlacVhNNW1KNUxmdmw1ZjRMcjVKREdhdEVZaU1TNERRYktMMjNKWDdXSTJveDI4b3djYkdZS2hNYU9JVEZCTE13LTMwVDdoRWVBWmFIVlRwc0tGYUtwUS1iZktxRWdxQmtuT0FpcWt6X28xb0xCb0tsbGN3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 15:07",
-    "date_ts": 1783523232.0,
-    "title": "World Cup 2026 yellow card rules: Bellingham, Rice & Olise among players walking disciplinary tightrope",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S2xkeVdLZ2xWZGhnSlBmQlh0cHRpNVNuOFZPZ2wxYUNyR3NOMnNqZDMxZUpUQTZucFBSZXFqVkJpOVJRZF9DZ1JVaTBxd3prbmpSOUllbXZoVmZVMFAyZ215a1A4R3M?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 15:07",
-    "date_ts": 1783523232.0,
-    "title": "World Cup 2026: Bellingham, Rice & Olise among players walking disciplinary tightrope",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTHhaOG9BRG9KU0Q2a3RoWjdjdTlleUdIZjl6X3BXNFRIQm1NUlJqX2cwTWNEZlRHTVBkSkNJYi1QQ1dTd1Atc3RheVBhaGN2czRncFREd1Q5Z0N6a2FSdGdYZld2b2VsWEE?oc=5",
     "teams": [
       "Inglaterra"
     ],
