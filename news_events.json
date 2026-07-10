@@ -1,5 +1,32 @@
 [
   {
+    "date": "10/07 03:43",
+    "date_ts": 1783655012.0,
+    "title": "Declan Rice and Marc Guehi injury update: Hamstring and sickness could be a blow for England vs Norway",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFZGQm5EV2JvS1VuY0ktSUh2VUJJT3RlYm5HWnRvSTFTYjhQOWxDcF9laktCOG9OUVVnMXFEUEJzY0lvTTlRVW9xNnBaOFRrOTIyWWdaVTBnQkRqcXVoLXpCRmw0VDNwYXBsWjFSeTJqUVplTzVBeV9NVWx1SVNoeFlJZDBwM1drYXY2aWhqSU1QYWVPT1drQmMwWTZLdWlIWGVvYXNFTjR1VGNjYkRxS3lMQl9KdW5ZeUVWcm10MVdQZHVXenRrVlBKSE5FT3FycjBQddIB1AFBVV95cUxQcFZGQm5EV2JvS1VuY0ktSUh2VUJJT3RlYm5HWnRvSTFTYjhQOWxDcF9laktCOG9OUVVnMXFEUEJzY0lvTTlRVW9xNnBaOFRrOTIyWWdaVTBnQkRqcXVoLXpCRmw0VDNwYXBsWjFSeTJqUVplTzVBeV9NVWx1SVNoeFlJZDBwM1drYXY2aWhqSU1QYWVPT1drQmMwWTZLdWlIWGVvYXNFTjR1VGNjYkRxS3lMQl9KdW5ZeUVWcm10MVdQZHVXenRrVlBKSE5FT3FycjBQdQ?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 03:17",
+    "date_ts": 1783653460.0,
+    "title": "Tuchel's Defense in Disarray Ahead of Norway Clash",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0ZLTTBmY2tuVHRxRmhSaGJEbEtrRm1QdWQ2YTVMcDBSR3FKZGpTd3lfNUpEUk1yNmgxRVZUeDhjT2U2eUF5UUd4dW1uRDhRUDhCLWJCY0tETU9LSzl3RmthYWF4djA4ZU5kVzJURmJWRE0xdjNsSkRaZExRZ3ZHcC1Nd3E3QQ?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 01:40",
     "date_ts": 1783647645.0,
     "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
@@ -10,6 +37,19 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 23:06",
+    "date_ts": 1783638418.0,
+    "title": "FIFA gives Jarell Quansah two-game ban for red card, would miss England’s World Cup semi-final - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamdDVU5ZcUs0bkY5b0lHSGFHbTM5b3hkZzlQcnVGS0Y0S0pWMlctaVFsUFoweUxKcFdYTG5tRkhjUmVDZVZIUnpHbEFrODZpN3p3UmFMVWRMYlIxOC1kV25WZTZOb09VSHlEb21jc09mX0dJWDFLcVJMSE5BWGdEMHdxUGY4cUdMRjVseUlyQnMzNG8?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -414,6 +454,19 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 10:54",
+    "date_ts": 1783594440.0,
+    "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
+    "source": "Radio Times",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWTZNUkhwSmlzZkticTFQLUZwTEIwNVJOdmc4NXcwb0dNT18tUG4zMUtFTzRMNDFsYU9sYnppSlBGd1pDWldFS1RPZHV3Ry1uTDFQYTVNTTlrOWZxMDhHdHlZcWpMbzZ1MTNsUW9MZ2JfdXRhNTNWMk9CSHBCLXM?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 10:36",
     "date_ts": 1783593360.0,
     "title": "FIFA World Cup 2026 – France vs Morocco, quarter-final: Score, lineups and live updates",
@@ -701,56 +754,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 16:32",
-    "date_ts": 1783528355.0,
-    "title": "Morocco XI vs France: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNzBBMEV4VW12TWpMNnhvRERsZ3pFaHVjVWhoby1pT2pHMGpkNU9hQ1llbHlIVkp5V1UzdHlkdEh6d25XeldjY2FpREtSc3dmNGVvdVA5V0xxTGJpNUp1X2xwaGtWZ2tWX3lITEk5MkVKTkdnVWpFLVpMWEZTZ1NlRW9wVmp5S2h0ekMtWm1GQ01NYlZuYjlncmF2SkV1ZzMtYmZNR0kyRmVybXNmMjNYTF9MbkpLV3FUeWZDazc1T0NNRHdVV21zbE9WbUxjNHBzUGJZcE9DZ0pSZw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 16:14",
-    "date_ts": 1783527266.0,
-    "title": "Morocco XI vs France: Confirmed team news, predicted lineup, injury latest for World Cup quarter-final",
-    "source": "Yahoo Sports Australia",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oUTlVRmd0OVZrbGZOejZRanpGZ3dlUUdKTU5FMnNkNV9YQzZrUFBCVG5rWXlPaVdpSmZMNWI4Sy15YTdyR05lSmhVVUNfMmtDVkFOZTBocmZ0YWU0Y2dIU0xRVURXVGg0WGJwUmRUVDFRQ3VNcW5xemdEbnRNQQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 16:13",
-    "date_ts": 1783527233.0,
-    "title": "World Cup 2026: Egypt fury after Argentina win thriller, injured Henderson staying with England – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGMxMWx6eWIzZGZZWkVpeHZJR3U3Z0Y5RWh0WUxlR2pRbXBSYWRwQzVlUVkxaTFycHViOENZSHloUjdLYl9jUUlFQ2FUaGFES18tZnc5Q3RBcEt4UUpiNDI2emNHZW1KRkcxMDN1OU94UFdpSzlSZWoyOEJ3VG9oNnpqZkVRY3JzcFl1U3VXQUJqSC1nZmZpN2JlQ2hQVUM0bmEyX25NZENxUEI3Z2Zhd0QxTUhJMldIZ2FMTV8wemhCaWZndVZvcU9XNFNZeWM5VkdmUExqaVExRlpYUEE?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 16:07",
-    "date_ts": 1783526820.0,
-    "title": "Every team's championship odds for the 2026 World Cup",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
