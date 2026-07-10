@@ -230,6 +230,19 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 22:33",
+    "date_ts": 1783636394.0,
+    "title": "World Cup 2026: England defender Marc Guehi fitness worry with hamstring injury",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTURWSjBxMEtYME1uWFdUZzg0aVVjaTBBd09ZM0tldzF5b1JzWnlYUjQybFkxU01VSi1ZLWQ3SHZPc2l4dC1VSzdkRUs4Ty14RnNsejVoRkxpaXVPcHhiUlpLRmVYQk0?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 22:24",
     "date_ts": 1783635891.0,
     "title": "World Cup 2026 Latest Scores and Fixtures",
@@ -728,19 +741,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 06:55",
-    "date_ts": 1783580100.0,
-    "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
