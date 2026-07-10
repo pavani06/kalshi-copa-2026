@@ -1,5 +1,30 @@
 [
   {
+    "date": "10/07 14:47",
+    "date_ts": 1783694875.0,
+    "title": "England XI vs Norway: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT25GUG8tQlA4YkxSZ3NlcFdnbE1ZdHlZVXk2U3l6NjhRajBZZzBjM2QxUnFTb01ZLWNqdzA5el9qRnQwZmh2SU5vUUh6cjd2NElwSzVBdkZXdGpJeWVpZVh6NkZOeW1DR1duc3RiSWp0ZnBIU0lqZElsRkNzNGxwX182WlhVcUxlVl9ZcE9YNUFFLTFHd093ajJNYXBTS0dnQndsNXhvalAwNDZYaEp5ajUwRzdPdlZlRTZSeE5HV2ttVW8zYzZraVlZVnJMOWZtcDlzRk5yOVd2Zw?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 14:21",
+    "date_ts": 1783693281.0,
+    "title": "World Cup live updates, schedule: Spain, Belgium battle for semifinal date with France",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVwY1cyejlPY2hMeWtranAtX2t1RnhTbGdZWkxFVFZaS2VEY3ZOUHZ3d2hNSGd6OFJxRVJXSEJXMUFobk9ZSDF0Tnh5UWY0YWVCS050QUswTUZlYTQ3dmhnWEpxbHk3a3p6UzI5TjAwTVhaSVIyckcxMDhjVHlncC04VW90eGFaRW5UN0dvWUU1Tm5FYVhERWpnWlh6WFFQUE5Ra1FhZkc5cTlaUUcwRXV1TnBlbDhKZXQ4Wg?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 12:22",
     "date_ts": 1783686120.0,
     "title": "World Cup 2026 today: Live updates, latest news as Spain prepare for Belgium, England face injury concerns - July 10",
@@ -717,32 +742,6 @@
       "Alemanha"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 05:31",
-    "date_ts": 1783575112.0,
-    "title": "France vs Morocco: World Cup quarterfinal – prediction, start time, lineups",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTlETzZ6U1ZVRXhuSDZtM0pGZTFySXhuZW1pd3JfR19pdjFDRG40RE9FTUtOamM4RmNxNXNjR2JlX2FEWDAzaHJNN1dUN25BRFhkQWNlYk1sZVJZRmV3QXY1V3MwV2ZOS3l4MzZqcjVqeEFFVy1LY3BKdFZvbU41X2xOS0NoN21fNjd1eXo4YVNTUUh0NDd6VXNpYTNJMklldUw2QVpEV2gzOVlrZmFDU3FiYzVrWk5xV3R0TzF0a0syZ9IBxwFBVV95cUxQZ21oX3hNLXRXZEV4Q0tJVnhwQVNGa3U1bUlrMXRNOFBHVnA4MWxvbU1PNno2Vkw4X2I4LVFydnlFSnAzbWx3MDlraVZ3X01WRHdmeElPVXIydjgzd29feFBGTTBWNXZvSy1qeC0xaDJYOGdIeEV3WkVaYXZFWmV3bGdOSDdoLW1zQ3lVYlRDR2hHWHUzRHVMRzJESWxyOXJGZGJUc29MNjhzT2FRcjBuRm90Q1NnOUhXUUhSNm1fdExpN2JNTHJr?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 02:46",
-    "date_ts": 1783565195.0,
-    "title": "France vs Morocco Prediction, Picks, Lineups & Best Bets World Cup 2026 Quarterfinal",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaW5MZURLMG53WWpULWxka1diLUdTVC16VmphOERaTFRPQndBVzMzYTZZOFlzVzFlWmlFV1dHTHUxYVFyVHJNYWgxVWRkektMVVhjZHowQk5iRWQxNEpDTGlNbU9wdDdYNGJ5TkQ1R1BTYlZVTjQ5ckRNMnJDSWVfdHlrVVhWSzQwbGFLNEt5dXVaMHlkRjNld0t6N3RQeTlfcThlcGdJVVJTTVdWRFljOXlYOW9SVEFJ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
