@@ -1,5 +1,18 @@
 [
   {
+    "date": "10/07 07:09",
+    "date_ts": 1783667340.0,
+    "title": "World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco, Spain v Belgium buildup – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1BPajBPS2VFNTNkdXR0WDlIYzY5cVc3OGY1bjBFUm4xaG1tOUJrdEk2ZVZ0Y0xsSU5LcFhVaXlGX01oa1JfZ1BwTVdvdXlwMmFTcjR3ZjhySUtyVklaSHNJVVp6ZDdwTVR5MmlLWEswN3c4X2hadERTOFByQXFqMGJGR1NwbHMtazdlRTlyY0xXTUlOM2hRdzVqR1BxSTROT2VWQzYyaWVOeW94cmxsRTdocG9FMGVvWExydmFmckhLak5hMVRWQUZTY1pwdw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 04:37",
     "date_ts": 1783658227.0,
     "title": "2026 World Cup Predictions",
@@ -734,20 +747,6 @@
       "Noruega"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 19:24",
-    "date_ts": 1783538698.0,
-    "title": "England XI vs Norway: Confirmed team news, predicted lineup, injury latest for World Cup quarter-final",
-    "source": "Yahoo Sports Australia",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aS253SXVPTklhMGhBeE15ZlJrN0lFc2V0dGoyRTNfMHl2TzhwUzZlaVNmQ1JEbUJDSUpVWGxrMVh1MXc5RHJ1RVhMS3RZTF9aZk51bnF4RUFxWDI3MEhkMGJfckFkVmwtM2paNUQ2SVJfU1NHRUpWZ1p2Vkw0Zw?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
