@@ -1,5 +1,31 @@
 [
   {
+    "date": "10/07 17:40",
+    "date_ts": 1783705200.0,
+    "title": "World Cup: Theate and Grimaldo on the bench for the all-European quarter-final",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOG5zcWZmd2xrdS1NdTV0RUFwdGNOcGpsaXd5cXhOQmMzOEVzY2g3SHhvTUR4S2NpS0FyaTdqSHVOU19XYjE5Xzhpdmd3aVFaUl9ZVzlQdG9NcU9rcTg2ZEFIRmlreXMtanFGeWxJcnAtVkdycmQweXJ4MTU1S053UGF4NGVmU2VVMERBeVFfVnlFc0ZzSHFyQmJCRQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 16:28",
+    "date_ts": 1783700914.0,
+    "title": "Is Lamine Yamal playing? Spain vs Belgium projected lineups for the 2026 World Cup game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkVvTUJZd1g4NHZ5cDZoSDg2XzVaRmpfRVdvdUU4VlFCVkQ2WC1JOENUQl9haUUzVlNyM1pmNlFqdHRaTmJkcWRIem9sZjUzSEE0c3hKaWZVd2F5NmoxVjBHMHZFRWI2bGV0WTRya2k3dThzeHFaNExjV0E4TlRLUmlybkdNWUppMW9QSHhUcmZqNUp4bWZSTnJaODA4X0xOSC1SQktBaE9sejRoR1djMG83UkxRN1JHWXA4VnhrYW1GdWfSAccBQVVfeXFMUG1YWEI3OXZjWFpDQjBsMHplSFV3WjVLSkFzRWg3eFlNbHQ5dWs1X3ZabW1MYjNPbUFGVW9JVGN0QUtScS05Ym9vTzU4eFVYWEEtcFRuRWVHUUlsZF83d3llMGxTNG1fZVRiM2lOQzJGSEhHdjlYUkF2dXFsaTJPVWItTFNZZ09tS2tFZFl5dUdkZEJtY2tEdEhJbEhVUV9ZRk02bEZTVy1aQXVtblRRSVljZlhFbktiTHctYklkQ0U5SGY0UHJtMA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 15:55",
     "date_ts": 1783698900.0,
     "title": "FIFA World Cup 2026 – Spain vs Belgium, quarter-final: Score, lineups and live updates",
@@ -715,32 +741,6 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 08:08",
-    "date_ts": 1783584517.0,
-    "title": "France XI vs Morocco: Predicted lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUVRMUVFNb3gtVXZIREVacnM5Q2g0c0FvVk5tRV92M05wQVljSlE5V19oeGVVQjVxVXZSY1lmUDd2ZGJOUXBHbzFWc1Q4Q1UwNFZ1WDEwUWtrQTJpVVpPUkxqcDE1d0xENGsyVWFVQ2xjdmpfelU2MWQzQ2JsaWxkNkpacFFVSWprQmtmYUJVTEdCcGxONnlOaDJ6eXlGa24xZFJ6RWhOaDNuUlJVT09wV3NzTk9aSmJmMEM0YmllMDljallrNnYwTWgyNXRGV2llM0lZdHNQTEZOMTItWWVLdHRR?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFV5QjRabjhRMldNWWo1Vi1Nc1ZFdDk2NUNYNXdwTjRyVUViOTd5Y0VNZnNMcUNVSlFJT29wWWNkVkFqODNOV0lZdXdDenEwY3JPV2NkN2JpT1FkMGotSFFzN3RXTDVsRThVdVdKQUZjUi1sUDNkcUctblhWS0txemFtTDZtbDVlQ1pZam9qeGU3UXFHN01WaVNhR2V4cWlvb0ktOHhid1hmU1ZRQ0E?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
