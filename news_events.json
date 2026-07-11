@@ -1,5 +1,19 @@
 [
   {
+    "date": "11/07 13:08",
+    "date_ts": 1783775284.0,
+    "title": "Norway vs England live updates: World Cup 2026 quarter-final latest score and news",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVFaVWlSVlNJUjFDeUhNR1IwWTNsZUNNb2VVX0ZPM1BpUFQzc2hWN2VUZkdldHVkZGVfWDFVdzJGaEdmZmZnY0huY05wZkZwSFZwUEFib3Q2dV9hQnFWeFBrNEtnT3Z4R09TYWV4dXFPWUNOTnpodXJVTmNxeUE3LW50RFlNbEQ5b1VDMVRObkdSd0VHZFZMNXFUSDRvMG5mUmY5U21peHYxNnNrVGZlYW11WThjaEU?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 12:16",
     "date_ts": 1783772160.0,
     "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Argentina, Norway, England, More",
@@ -22,6 +36,20 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 10:16",
+    "date_ts": 1783764972.0,
+    "title": "World Cup 2026 today: Live updates, latest news as England prep for huge quarterfinal clash with Norway - July 11",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN1pWRFNFRTdRRGNLMktuQVJzR05KQy1RYnE4NGRtekp2cnkwaGp4cWJzbjRpWDNuV0VPRDExNGZuQzMtckx0dUF4SmhmT2Z4cjVtMVFWeENiUkxGWGFWai10cDhnSjlYRFNoLW00cnJQWmRnRVV0S2lrU1dBa3pCT0x0cFR1aEFDX25NUEFKSWpRbXZOX1c2bTFpTGdXbjhCU1BfczduS3F1aUY3ejNhM3lhMlNYXzRDVVVjVW5TQVprNUcxNmV1TDB1aU9RRFpGa1RITl8zeVRiMTVBSDdRRjNQbGw0Vm5wUmlzRTQ4QU9idlE?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -180,6 +208,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 18:20",
+    "date_ts": 1783707600.0,
+    "title": "Mbappe lifts France to World Cup semifinals after missing penalty vs Morocco",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNam9hU2ViRTZaSXVTQnVILWc0RmtjODYtZDZmY1FYeFMwVXlObFFoekdKUml2SjJYZkExMTBWRjhjTDl6UC1NME00Z1ktdm1OU3kxOWFQbkk3cGhPc3NfMXdJRy12Yl82cXhsT3VmRlVDWmJfX2VfTUhpSUFYV3h1YzVXamZfU2c0UXVpTnZCbkJfc2ViQmlQZHBKQnBoOTVBYXE5RW9SUktZSDdCZUVUdGM0ZTVGeXdGWDlfZ0VWRURXSVkyQU55TFRnVHZxMXZPOVBpQlV6Mmd3M3NTVFBuRUhrOA?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -700,43 +741,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 18:41",
-    "date_ts": 1783622460.0,
-    "title": "📋 Rematch on the cards? France and Morocco line-ups confirmed",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdmt4NlpudkxCdmRXWGFFUUJhRmdUMmRuSGV5aW9FSi0wNHRwZlNOM254a2tMUXE5UTJNODVsZ0VsWVJtd2xYdzFNTjFrOVc1X1kzeVo3X0FkUVdzaGNEVUZXbW50ODJFYlhMVTNmNVFxLXFJOV85MjljZ2Q5d2VZSXpUZEFpZEJ1X3c?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 18:23",
-    "date_ts": 1783621384.0,
-    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 18:23",
-    "date_ts": 1783621380.0,
-    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
