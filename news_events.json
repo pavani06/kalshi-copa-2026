@@ -1,5 +1,19 @@
 [
   {
+    "date": "11/07 21:01",
+    "date_ts": 1783803698.0,
+    "title": "World Cup 2026 live updates: England vs. Norway, Argentina vs. Switzerland in quarterfinals",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYklLMFdxQnQ4aG5ZRHJ5OXhqdXIwenc5UERvUklPN0hiR1JlUEp5YTJYNlpVbWl4c2dnaXpaWGMzZC1Xbm5BNkZWT0lETG9kNDRuaWdab0lKVDh6cnZ3S2VybFU5dG93UkhvaVU1S0hwY2hGNnBNNUhOZXNwb1h5MWQ0Z3NWR2J4Z1loTXB4R0hRNEJEN2ZWQ2ZxTHpWVjFTOHBmcWtUQzc?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 20:07",
     "date_ts": 1783800470.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
@@ -279,6 +293,20 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 02:08",
+    "date_ts": 1783735680.0,
+    "title": "England injury updates: World Cup squad gets boost ahead of Norway match",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDN6VjdlR0RCX1FrcDdKdTRET09uRWtLMnpQUm5IdDJVdVdiY2FKTFlnNno1enRQcDltbFNkM1lYQmt3TWYxYmlNMUR4ajNyY1hLd0E0V3FtSTlQeklTdm9hdlNWU2U2VWZmdDlwXzlzbkhaMEMxVkJ6clNsQk15dW9pT3JiT1M1OGpHLTM0SmpQUU9mQ0pMZ2tZQXdYWUhHRVJrRUI5ZnNuaWp5VjhGeko3SWpmTTdYanUyY1ZZU21ONURNZG1R?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -732,32 +760,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 23:22",
-    "date_ts": 1783639348.0,
-    "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 23:06",
-    "date_ts": 1783638418.0,
-    "title": "FIFA gives Jarell Quansah two-game ban for red card, would miss England’s World Cup semi-final - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamdDVU5ZcUs0bkY5b0lHSGFHbTM5b3hkZzlQcnVGS0Y0S0pWMlctaVFsUFoweUxKcFdYTG5tRkhjUmVDZVZIUnpHbEFrODZpN3p3UmFMVWRMYlIxOC1kV25WZTZOb09VSHlEb21jc09mX0dJWDFLcVJMSE5BWGdEMHdxUGY4cUdMRjVseUlyQnMzNG8?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
