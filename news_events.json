@@ -1,5 +1,32 @@
 [
   {
+    "date": "11/07 18:17",
+    "date_ts": 1783793870.0,
+    "title": "Declan Rice Injury Update: Is Rice Starting Today vs. Norway in World Cup?",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHhtTmluWFpqZVNDRUYwWEJPU25Ud3EySXRWS2JsR2M2M2xhdFRiaWR4YjhBMjNnX0haeHpxZ281TWNkLVp2cFU1SDVIT2RDZ2RRT21Hbmh5SG1PREF1V1Q2d2xLb1U3bVBPMGl6dG5fWS1hWEV0bVdBaGZHREo2Tk1NQWhwU1BtTjYyNVFCT3ZpeVdTc2NFTk84bEtFYkxzRWhDajA2bzN1NnN0OHkwSGZVTV9tZw?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 18:00",
+    "date_ts": 1783792805.0,
+    "title": "@@@( Live Channel )England vs Norway Match Result live broadcast 11 July 2026 - Business and Investment Development Agency",
+    "source": "Business and Investment Development Agency - CzechInvest",
+    "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQWHN2dnFxNUhkcjBtUjR4eUk3a0lkRDVUdV81NHhSNTVkcHlrVXNscjlEWXRrRFJyQUVHemRybHJyVXZVbUt2VUZfVWxtYXgwWTA4X3Q4ZFhITlBXT3BRRXlHSlBSVXRtVXJaSV9WR21lck1lTzlJUEtRN0d3ZHpKNlotSUZoUkV5X0dsb1B5eVh0T0FPNWdzd3VyTnV0ZDZObkViNW1JanlULXdBUXkyQk5EVGQ2VGYycWNkN1d0ODFhdTVIUlNLSGJqYTgzdFRxR0M3VnQ5cHZPU25uM0c3UEcxa0JVMjl6UnRmR21SRG1VZlYzNHE5MGNna040bEc5Skc1SDM1bzJOVEhaQXlkS0FJZk91QWVaYk0tbzRGeno4ajlLNWJ5bURqY24yVlVDR3IxcU1hQ2h0ZTZKTFRQOFRTT0ltWTVtR0F4Wnl1LWpiTXdTS1hXbnBQVWdmeXJIaFBwcXVYS0RGcERWbTNIZnJrSUppaUZaTFBmQUl4OF9pSkoxWGVDN0txM0ozNDlaU0ZlN201VFozUGdMcERkdHlISG5sZi1fa2ZDaVdDNzhoVXJYVmNZaVlnNmd1eXg1MlJmbw?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 17:33",
     "date_ts": 1783791221.0,
     "title": "England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal",
@@ -11,6 +38,20 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 17:26",
+    "date_ts": 1783790762.0,
+    "title": "Norway vs. England projected lineups, starting 11 for World Cup 2026 quarterfinal game in Miami",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnFFQk1ONEFXUzdMbThsRVBtNlBGQVhHSklWT0FpSDhnSjZYanZwem9WeWxaWkhONWJCU2Y0NTR2TDYzMFJIbHJndGh2UzZsT2ZlakJDSW9xanRaMUgza2xTUDJCWnM2UHFtNm9uS0k1czhjeUZqNmFsWHBhU3JyWU1OZTVaSkh6VGRyeHVxcnlvQUJhNW5RUk81cXF0Y1hVakIwQkhSUE5YUHNpLTNwa3RpTzVGLURiOWxWN0FkLUNKTTFpbEFaRHVB?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -639,6 +680,19 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 23:22",
+    "date_ts": 1783639348.0,
+    "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 23:06",
     "date_ts": 1783638418.0,
     "title": "FIFA gives Jarell Quansah two-game ban for red card, would miss England’s World Cup semi-final - The Athletic",
@@ -697,56 +751,6 @@
     ],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 22:16",
-    "date_ts": 1783635412.0,
-    "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHMyYjRiSE5QVWJyR19JZkl4SS1MMF9qU2dFa0R6NVhvRjRRM25TRkRXUXlvajhvVW5FeWktZm9yWWk3TEpxNDlacnBVYnljSGlmVzhOX2RFekpMeWMwNHVjWHphWjRpbnpyY3Z5VzdXb05PZ1lxN3A0Ym5NVFlNbEd0dmNZcC1JOGl6aGU3UllnaHkyVnRtTUFXbWJmUUVpc2hDVnc1Z0hubHVHU3RjaTl6NWZndVo3N3RvWmtRRllRU28wN3JMMFZ3amxUbXJSSUFKTTVVTHZUbmhwRHVoWVhGZmdLd2JlQ0V3LVk3cw?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 22:02",
-    "date_ts": 1783634553.0,
-    "title": "France vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TYnM2MHVTd0ZreTR6VHBNYWJUNUx1OFhVT1NtLTVfN2JvRDJJY2ZMMjR3SEVDdU9VQlFSVEFqMjZVbEd3YWk3MmlxV3RFcGotcTFHdkk0TlB0dTQwQ2pnMGJR?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 22:01",
-    "date_ts": 1783634460.0,
-    "title": "Did France win? Les Bleus result against Morocco in World Cup quarterfinal",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTRQaENjdmRBTUtDd2pTcjA3QkVyOU1XVjVnUnp0MzQySnRrU1BKZS0wS1BJX1lIaWU5SWNES0V5d1ZiUTRfM1hGQ1ZZdWRKZ3F0ZW41WjgxTEp2RUp0VFZ0UUdRelJIZWtWclN2enoxV2xmelptZW5YaHF6c3NjZF9FNjZZblN4LWsxUGd3YjNvUjltRkNORVFGLWRRWVdmWlpOajY1OThETUxLbzI0?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 22:00",
-    "date_ts": 1783634400.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNExLUnZXZlpubEVkN1E2NGFCLUc4T3pyakhETnpSdC1BU2l1WFREcFhadUI0MTRLMkJiQktzQ3JyS3lEX3k2a04tck5kR1REZ2tSY0E0LXFGQ3dPV1hWd251SkMyTUR3TmxleDZhQW5XVE5fU09WWmxhNktXVi1yd0Z5ZVBIVEhIXzVIcVFZM0gxRjMybndKZXlCaEVGNGlTbmg4b3h0NTdzU213VHA3Rzc3R2NqamY0d3N4LUc5TngyQkNYTnc?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
