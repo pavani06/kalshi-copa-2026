@@ -14,6 +14,20 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 20:20",
+    "date_ts": 1783801200.0,
+    "title": "Why Bukayo Saka Isn’t Playing for England vs. Norway—World Cup Quarterfinals",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDJRSjZLZ1k3LVdzTkpDZjBSR09FaWdMck44VG5MN3VtVlVZdDdlWGlodzFNZnd0cjAtNjhOOTNoenBWQ0J4MnJFS1RCUGp5Ul9QTzdWelItNkVaaThNdVRzVmhWenpCRy1Rc1B1cTQxM0FFVkxYTm5HRGtXc1daaVR3T254NzNZaHJQR3V3QThYSndBczRMN29WRnk?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 20:07",
     "date_ts": 1783800470.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
@@ -24,6 +38,20 @@
       "Noruega"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 19:47",
+    "date_ts": 1783799239.0,
+    "title": "Norway XI vs England: Starting lineup, confirmed team news and injury latest for World Cup 2026 today",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUh3RkVZVDdfbDktR1VlX21zTXF5Ujk1UzRCOXJ4RlU0amhYRVB2RUNLQ2xlYjl1dmtlWEE0dFBqNm1PMzhXbjVGcjRnbGxOZWFvZzR4S09OR1JnMkM3M0RDWU0wZ1Bpbmp3MnFvTml0UjFINGNaS2d2M2JESjY4ajZiT2lCc1lpTzRXMlpNS29TY2JOa3lqeDNlN2Nqb1NlYlBDc1JMSzl2TjVDcVB0Y3dVb1hKWkNLeFRIcG9Ybmpicnd1QzhHQUpqdEMzOXc5UFBjN25RMkxvQlhmbUh0SA?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -53,6 +81,34 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 19:36",
+    "date_ts": 1783798560.0,
+    "title": "England lineup today: World Cup starting XI confirmed vs Norway",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTklJemVKWnN2aGFtV1J6eDlldlNzXzNXWVR6MnR3RGZQdGtrM0lwcUozRkZ5bW5QcHhiUjk1cTI4ZFg5Z2M0eWJFMnNicGt6a2FWWmM3R1U2S1A5dk5nYUhFRlZQb2Jzc2E3STg2dDh3WjJlZnZYQndNc2FMbm1zWHNEZTFiQUhnZ0sybHYxRl9sUFV5ZGNfRnR5SUk0NExxbGZwNFNaYWNzamxtdDdOeGNLSTgzSEhOSHQ3WXNaTG9zSFFNTGc?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 19:30",
+    "date_ts": 1783798201.0,
+    "title": "(LIVE) Norway vs England Quarter-finals Football Live Now - Business and Investment Development Agency",
+    "source": "Business and Investment Development Agency - CzechInvest",
+    "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTE5uaVczYTVKVmdKN2g0bmRQVlJkcmtMT1pVNDJ0bHhRQjNpQ0JBUG1neHVQTF95ckxGU2U2RDNNbmlka3R4ai1lSnY2bzF5SDVlMkt1aVdIVlJXTDhpeW5sSHBweVlaaWJxT2stbzhyZjZYcklQc2gxV2sxdGlVSGhaU0NNZ1IzcllwMEtseFdwWDZGR3ZQaFE5MzJIZHBsOW14aHIwWURkUnFSZGRSTjdhU3A4czk5eC1ta0dCeWtybWJkcmt5MDNSZ3VvYWtxcDBxMjRoN2xWUG1ZYmstdFFNRFVTUTBPNU45enlYa3hhbERzdjRrLVlLOFkwRXFSbFhOX2NiZjg4d1dHbWxQZ0RXbko2Mm1JdTBGdkpfb05tWnVjdDFIbkxrbHd6TFNHdHh6MjNlc2Q2RkRBMUN2YXlObWlwSUFyUmRVMnpIZmFVNGFoRlJZck9sXzllS04tMzMxX3RQOEpHcTU0NXE3cVdibDVaMmNEbkQ3SFBlZ1ZaZGJNSG9EQ1dvUzgxeDk3SXJLS2RsMzBpZGNUQ2RDQ1l4SWwxMzJvR1Jlb1FBVTFYUFpp?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -708,57 +764,6 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
     "teams": [],
     "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 03:43",
-    "date_ts": 1783655012.0,
-    "title": "Declan Rice and Marc Guehi injury update: Hamstring and sickness could be a blow for England vs Norway",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFZGQm5EV2JvS1VuY0ktSUh2VUJJT3RlYm5HWnRvSTFTYjhQOWxDcF9laktCOG9OUVVnMXFEUEJzY0lvTTlRVW9xNnBaOFRrOTIyWWdaVTBnQkRqcXVoLXpCRmw0VDNwYXBsWjFSeTJqUVplTzVBeV9NVWx1SVNoeFlJZDBwM1drYXY2aWhqSU1QYWVPT1drQmMwWTZLdWlIWGVvYXNFTjR1VGNjYkRxS3lMQl9KdW5ZeUVWcm10MVdQZHVXenRrVlBKSE5FT3FycjBQddIB1AFBVV95cUxQcFZGQm5EV2JvS1VuY0ktSUh2VUJJT3RlYm5HWnRvSTFTYjhQOWxDcF9laktCOG9OUVVnMXFEUEJzY0lvTTlRVW9xNnBaOFRrOTIyWWdaVTBnQkRqcXVoLXpCRmw0VDNwYXBsWjFSeTJqUVplTzVBeV9NVWx1SVNoeFlJZDBwM1drYXY2aWhqSU1QYWVPT1drQmMwWTZLdWlIWGVvYXNFTjR1VGNjYkRxS3lMQl9KdW5ZeUVWcm10MVdQZHVXenRrVlBKSE5FT3FycjBQdQ?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 03:17",
-    "date_ts": 1783653460.0,
-    "title": "Tuchel's Defense in Disarray Ahead of Norway Clash",
-    "source": "조선일보",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0ZLTTBmY2tuVHRxRmhSaGJEbEtrRm1QdWQ2YTVMcDBSR3FKZGpTd3lfNUpEUk1yNmgxRVZUeDhjT2U2eUF5UUd4dW1uRDhRUDhCLWJCY0tETU9LSzl3RmthYWF4djA4ZU5kVzJURmJWRE0xdjNsSkRaZExRZ3ZHcC1Nd3E3QQ?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 03:00",
-    "date_ts": 1783652434.0,
-    "title": "Espanha x Bélgica: onde assistir ao vivo, horário e escalações",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWZYVEJReTRfMUNaby1PYkExdktnWE4yd2lXUDJEemlyemVNV1NicFFXSHhuSGVJMm5GOVdOVlU2RWRIWE9fYklZY2dxdDdZTDgzbGJyZTdFRm13dUJrYnphQjVhNk9pX21KTmtmX2pYR3M5Q1FnbXNtVHVsQ084RzZFcmRKUnBWQm5RNUpZcWYtRTFsN08tZnA0MmU4ekVQVHcwa2RSVzJSbDEzd01mM2tGNjkzVWVNNXJHS2RhNEkwUTcxcTNn0gHWAUFVX3lxTE5fb0pFTnBRX3N5bFJucllySFQ0X1pnQW9WeFJGMVgyTWpSZ1A4RnNoRkpDNUpyRXI1ZXlmSldXNVNVMHo1ZVVzSkplNWF5b25ma1hrMElnek9qaUl1aGlVSmRZd1RmLVlHVzNRanlIc0FRMm1Ub1FPV0FCNGhkbnFudlpBWFV2RVA2Uy1IY296RGxOVXRPSF9ucWpseFQtZjhldUtUeHp5OU50UUhCVFFZLTVMcVVCdS1XbWNGNmlZdDVfMG5RajRIOVZrSGxmLXBKU2M3a0E?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 01:40",
-    "date_ts": 1783647645.0,
-    "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
-    "source": "bundesliga.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   }
