@@ -91,6 +91,20 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 06:08",
+    "date_ts": 1783750108.0,
+    "title": "World Cup 2026: England v Norway and Kane v Haaland - have your say",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFNkxKd1Ixc1VYMzJnekR1TWZjMkNpVlI1TzJkMWpYT2h0bVVLYkk1QURKdWFnYmtQeE9mWlpJWDVReVczUjlQNFpwRk5fRmNYblROV0MyMVpxQlduUG9iVjdR?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 23:29",
     "date_ts": 1783726140.0,
     "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
@@ -725,19 +739,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 18:57",
-    "date_ts": 1783623467.0,
-    "title": "France vs. Morocco Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmk4STdmV1ZQQmdxemtuN3VVNUtRekM2TElpZll5dGJERTVmOHhNNEZldWZlX0J6enp2b2ZwM1U3UGk1WjcyajYxOU81RE5KMGJUeWlkUXFIc01sdGNwYVpJZHhVX0JTNDNoTE5iSlBIWWxiREtiYU1BQ2xpamowSlQ2c245enF5OG5UOTN1QWdSTXpmYlNEVV9TdE1RNGtJdUpZY3pQZkU0bXU1Z0RJRW9jTzhyYVk?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
