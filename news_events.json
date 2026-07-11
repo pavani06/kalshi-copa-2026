@@ -1,5 +1,16 @@
 [
   {
+    "date": "10/07 23:14",
+    "date_ts": 1783725291.0,
+    "title": "World Cup 2026: Belgium lose to Spain and exit World Cup",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2bS1tcUlJdEEwYjcxaDdmSl8tZ0VBaDdtaUZpbjFtLVdTMXIzellieERfa1gta3p3T2ZaM3VIeGotTXFqMkUyZjJQOEppV01BaENDYlBQQm5CUXI5UXotUUt0SGEweTQ?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 22:24",
     "date_ts": 1783722241.0,
     "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
@@ -38,6 +49,17 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 21:00",
+    "date_ts": 1783717200.0,
+    "title": "World Cup recap: Merino scores winner for Spain vs. Belgium to advance to last four",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTk82MmN1Ml9teGdHdGJWUmxIck5uMTMyOFItUVNwdmFoN01NUUhlbU5VM3BLODRPWThxVGhkSFVSZTd4TWV0eHEwN2VZZURxVVh6X0dfWU13di1DcGJmZmNYQWNPUlpWZnpYRG1RcWdtNk9qelp4V2FEZ0pMbFMwNkxSdE9vV2djbERObEtWWGFxbkYxd29PeGpSaGNGYjBKM08xLWttTQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -712,32 +734,6 @@
     "title": "France vs Morocco Prediction, Picks, Lineups & Best Bets Today World Cup 2026 Quarterfinal",
     "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlJaSUN2WGEtZ01heGFRU1U2Z2twejZPNTdhZnhDVlB4YVUwTXplQnhFYTJpVVZQampJUTZtTjlKMDF6ZDRtME1RTFFMcjF3NDN5V1RlY29SUjFVc2RqVEUyOGtfR21IZ3RIRVBjcnAwNU9kRGJDZHdJVUsySmRUNEFrYkZ2V1pnVkhuR2o4cG1XeTlSWUs1LWROeDVXUG1ZNFV2R0ZjY2Nab05FN3VmdnU4bEZqYnl6V1VZTkhjN3Q?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 16:44",
-    "date_ts": 1783615440.0,
-    "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 16:20",
-    "date_ts": 1783614000.0,
-    "title": "France Starting XI vs Morocco: Predicted Lineup and Confirmed Team News",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VReHpIbnNHWHNEdkJFTWJKUkhOc3htQ1hTdG1nSHdHaTlQRmVySzhXdldFZVgtMm5fNUFGbTMxTWNHcFRiVTRsclY0UkVMNlRoN2xUdk1zSmh4VUJIV1RvRHdsOGNZa1RvbDFFUDdJMWx5SGN4RnFOa1lkaEEzZ0NtNDU?oc=5",
     "teams": [
       "Marrocos"
     ],
