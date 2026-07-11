@@ -1,5 +1,18 @@
 [
   {
+    "date": "11/07 14:17",
+    "date_ts": 1783779450.0,
+    "title": "Klopp and DFB close to Germany deal after World Cup",
+    "source": "Karlobag.eu",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ3h1TjJ1YmkwcDhBM0FzdnBIUllyRnprYk1TYzNWZmJZcGlkbjA1eXdURFduZWl0QXR5QzNTdHk5bVRLdFNjUDhjVDE4SmF2SG91MWl1T1B5UXhuRjFnUXRmWnF0QmRsSnFOeXVmQ2Q5dUZCenkzS2s0TFk2ak9vTEx0Y2ZqV3U2MGtjQzgtMnZZZzdxdE9FSEJuT0hZem43N2NaeHExSU9laUhINDVxT1M2Q3RHVXpr?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 13:08",
     "date_ts": 1783775284.0,
     "title": "Norway vs England live updates: World Cup 2026 quarter-final latest score and news",
@@ -72,6 +85,17 @@
     "title": "FIFA World Cup 2026 – Every match result on Saturday 11 July – Live updates",
     "source": "olympics.com",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXFEMDlIV3R2cUx4elUzTDhTSktpRWtxUS13eVJWc0lLX2U3WWpCV3dJMFFKNmhMOTg4b2xRcmMyVUtPSW1vb3lMZnlNTFk4a1M1d2I5RjVtZlctNVZXVGd2T1dKc1FNbmMweWx2dVczSzhoZkRoWWVMU1NWbkIwQXg1YjhhYk5XdDZDd3JVR3FaS216eExkbExyZENDVElXQm5V?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 23:29",
+    "date_ts": 1783726140.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
@@ -715,32 +739,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 18:55",
-    "date_ts": 1783623300.0,
-    "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 18:42",
-    "date_ts": 1783622520.0,
-    "title": "World Cup: Olise and Upamecano start for France as Morocco’s Saibari misses out",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWViczBaa0paMk9DSXVJc3BpWmpUaVU2ZXNucW1KNzBFOG9UYkRVM0pNTmhFUEtuSTUtR2tZYklrczM4RnE2czNoNXJOalhBcnM0cVczWFcweTZkcXhCa1BmdjNrZnRtX05NWkhKWTd1UmJjanhVYnExbWFLTmxVWjRZaXhWRmdtTTBKbVpVQ2xlaDFKYXdTaXNn?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
