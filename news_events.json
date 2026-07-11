@@ -1,5 +1,19 @@
 [
   {
+    "date": "11/07 10:05",
+    "date_ts": 1783764315.0,
+    "title": "Norway XI vs England: Predicted lineup, confirmed team news and injury latest for World Cup 2026 today",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVlKRjB2TU15VTdvU2JkVmNZelVSNl9pZ2xFSHdzcTZpQW1Ranh6dkxBc1poMWkyYzEzZ0RaTElLNmJjU0gyNWdYODJHRzZfVHpHT2tKYS13X2dtWk5pYmdWcVN4dDVpVnpGdjZweWFJUHBNd2RCM242eWNiSWJ3ZW5kRE40OGRtdjhGZ2tBOWg0QkhQeFdXNzQwYTU2alRESjdrdGQ1V3lQS3pHdW9zNHhaWmZUdHNGVDRaUTBiQXdRRzFKNExSeDRIcHZOLUdVUEFuSzB2dTNKTWlYbUlWZi1B?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 07:22",
     "date_ts": 1783754520.0,
     "title": "FIFA World Cup 2026 – Every match result on Saturday 11 July – Live updates",
@@ -723,19 +737,6 @@
       "Marrocos"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 17:00",
-    "date_ts": 1783616440.0,
-    "title": "World Cup 2026: England defender Jarell Quansah banned for two games after Mexico red card, Fifa says",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuWlVQN1pCLURBbU11anc1VUhIc251ZHRTeWZpRkthQ2ZwWV80T2dSYXNDRUUybFBEMVJueWdJMTVlTG4yQjBTRW5YOW9yTWZiZ3lQdEUyNHVEM1NoaUR5VW5NYk1JdHc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
