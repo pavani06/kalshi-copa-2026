@@ -1,5 +1,16 @@
 [
   {
+    "date": "11/07 07:22",
+    "date_ts": 1783754520.0,
+    "title": "FIFA World Cup 2026 – Every match result on Saturday 11 July – Live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXFEMDlIV3R2cUx4elUzTDhTSktpRWtxUS13eVJWc0lLX2U3WWpCV3dJMFFKNmhMOTg4b2xRcmMyVUtPSW1vb3lMZnlNTFk4a1M1d2I5RjVtZlctNVZXVGd2T1dKc1FNbmMweWx2dVczSzhoZkRoWWVMU1NWbkIwQXg1YjhhYk5XdDZDd3JVR3FaS216eExkbExyZENDVElXQm5V?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 23:14",
     "date_ts": 1783725291.0,
     "title": "World Cup 2026: Belgium lose to Spain and exit World Cup",
@@ -725,19 +736,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 16:46",
-    "date_ts": 1783615600.0,
-    "title": "France vs Morocco Prediction, Picks, Lineups & Best Bets Today World Cup 2026 Quarterfinal",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlJaSUN2WGEtZ01heGFRU1U2Z2twejZPNTdhZnhDVlB4YVUwTXplQnhFYTJpVVZQampJUTZtTjlKMDF6ZDRtME1RTFFMcjF3NDN5V1RlY29SUjFVc2RqVEUyOGtfR21IZ3RIRVBjcnAwNU9kRGJDZHdJVUsySmRUNEFrYkZ2V1pnVkhuR2o4cG1XeTlSWUs1LWROeDVXUG1ZNFV2R0ZjY2Nab05FN3VmdnU4bEZqYnl6V1VZTkhjN3Q?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
