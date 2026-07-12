@@ -744,6 +744,19 @@
     "source_type": "news"
   },
   {
+    "date": "10/07 17:23",
+    "date_ts": 1783704180.0,
+    "title": "World Cup 2026 today as it happened: news and updates as Spain prepare for Belgium, England face injury concerns - July 10",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUHZFZ1N1a19qTzEzSm82UGJuc0xTR2dMbk95ZmFKOWJqZExEZTB4aWJ1TDBHcEFsM3JicXZ4VWtubVpfODFpSERZRDhnYWFXTmRuMVNVZW9jdUFVWVk0c1FObnQ1RG9rU3RacU5zRE1uN0RuYTdwc3BoNUxSc2xuQUdSZzJqcmRodnpTejdsWl9XcjRNRlI5dFdqY1ppUTRHdEFrLVZMS29xVEhZZkRCT3ZOcWxDUUYtMzBDZkFBdkdDZFpOdWZNS3ZoczhkclEwX24wcUVGa1VwUjFCRlpGY0ZfT2NmcUNKaWNCd1B3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 16:28",
     "date_ts": 1783700914.0,
     "title": "Is Lamine Yamal playing? Spain vs Belgium projected lineups for the 2026 World Cup game",
@@ -763,19 +776,6 @@
     "source": "olympics.com",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVFaMzFzcDI2aEZQeHdzTXFPbjhRWTRJNWI2amFKQ2ZxNHgxdmpVU2t4Z2dVY1FibWJoM0k2RjIxcUZqRXN2WFF4R016MVJoZTEzd2ZKM3daaFRSdVl0dHJjX081eTdTd0NPcmZLMWJSdFdQc1ZHbnphN05TTlRrQ1FQLWJ4OC1xSEx2c29WbXlmOFJOWndKeElGQlNuNmhXMjZDUmFuQlpIV2ZSN0I0?oc=5",
     "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 15:53",
-    "date_ts": 1783698820.0,
-    "title": "World Cup 2026: Every confirmed squad for quarter-final ties",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM284cTVZdTRFV2xqTVcyZTJyand1ZUpGb3liTGlnenNENDhqemhyT09fczBwcHFib3g0em9LNThPUzFxcEZ2aGtISjEyaXJ0bmNFcmFKNEtnV2xJbmJFb3FpcE1XdHJsQTdFZUlwN0JwY09JSnFMNW1ZTFAtZVRLZjBYZmp3eXcwQ2h6MDVRRDJrN3NkYTgw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
     "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
