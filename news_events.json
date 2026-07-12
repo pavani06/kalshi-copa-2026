@@ -1,5 +1,18 @@
 [
   {
+    "date": "12/07 16:07",
+    "date_ts": 1783872450.0,
+    "title": "World Cup 2026 today as it happened: news and updates after England, Argentina edge into semifinal via extra time - July 12",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWWFFQzVQU2lvb0htSUFBdm5uNHZyWG9KT1BFSzdTSXZJSXJXY3FybEJ2NjQwaEI4U2VIMUQ0UHNMS2RNZEJ5bENmVEJhWkphajk1MjByTkJ1cmNfOUR2cUNkV0Y4dmFKMVlPWndIRlNCQnNPZ2lObEtodzZFNkdURHpzSTduUzJpYXM5Rjh0X1M4V1RyTXZheFpLTTZIcFpZc0w3Q05idG80LS1Fc3pMenRlbTYyRnVMN2FSaDBSMl90aUJzbF9UbXBiX0FQZlBFTDVRekpSS3V3WGU2NC1QWFg4R0EwNkQtZ2lEZk4zZWo?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 12:01",
     "date_ts": 1783857660.0,
     "title": "Are There Any World Cup Games Today? Semifinal Schedule France vs Spain, England vs Argentina",
@@ -751,17 +764,6 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 23:14",
-    "date_ts": 1783725291.0,
-    "title": "World Cup 2026: Belgium lose to Spain and exit World Cup",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2bS1tcUlJdEEwYjcxaDdmSl8tZ0VBaDdtaUZpbjFtLVdTMXIzellieERfa1gta3p3T2ZaM3VIeGotTXFqMkUyZjJQOEppV01BaENDYlBQQm5CUXI5UXotUUt0SGEweTQ?oc=5",
-    "teams": [],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
