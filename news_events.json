@@ -188,6 +188,17 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 04:00",
+    "date_ts": 1783828800.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 03:16",
     "date_ts": 1783826204.0,
     "title": "Norway 1-2 England: Jude Bellingham scores twice as Three Lions reach World Cup semi-final",
@@ -747,20 +758,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 08:32",
-    "date_ts": 1783758720.0,
-    "title": "England vs. Norway line-ups: World Cup 2026 predicted XIs",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEU0UW5pVWpWc2kwdG1Hb25DVWl5ajV6OHBwOVhiZVRPNkRZNE1qOEpTNXF5eXRzaUYyYTFfbHVYTDRqOGpsRXFKbmh6a1E1NWdWel9lcERidGVOSnpicDUyMndYeWtEZXFlRzgzbVN4WEdKUC1ZbFU5aXY3TUNmT2Y2Y01kUnp3VHNoVDVaOV90MXZWazdvZkFBbS1XdmI3eWZreTdiQQ?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
