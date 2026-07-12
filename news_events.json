@@ -1,5 +1,16 @@
 [
   {
+    "date": "12/07 09:02",
+    "date_ts": 1783846960.0,
+    "title": "2026 FIFA Men's World Cup: How Australia made the Round of 32 - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVhPSF93T0Y4NVFjZ1RrdHAyRGJOY0ttNzlZaTlxYmRqRXdkaTh0S3lwaW5qSzI3Z1o1VkQya3B5QlM1N2doZmM0ZkdXTUl0VHNUZ2NIYS1hRlpZS3BLV1ZyaEZSVnVyLU1yLWlPZmpSUnNJRHFlUUZZLXZRSmU3UTJGWUVudHdKN0EtWWdZeVI1OGtZN2tNdTkxMU41QTRtWXlrdUdHa0FPNk1YV1hfNVYwblF0OXQ1OF84?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 06:07",
     "date_ts": 1783836462.0,
     "title": "World Cup 2026 Latest Scores and Fixtures",
@@ -54,6 +65,17 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 02:41",
+    "date_ts": 1783824066.0,
+    "title": "Embolo é expulso por simulação em Argentina x Suíça e sai de campo chorando; veja fotos",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmwya2Z6ZjJlU19zT3R2YjhIMVZ4ekQ2MVpLUkJjVE5vdFNNeEYzbXMtQ1BqWWI2a2MxRlBYQUM1ZU8tV3VFdVRfbEtMM2dvOUpzZC1UNC1nZTBqVkY2SEU5QjdCbWVyRkhiaFEwckxRSW92T0JMYmRzeVJOQlQ0VjN2QTZKUUs4a3pwZXE1Q0ZublM3a05QMENab0NzMTFPeWMyakVoVEFMSFQ4UWRPbVl1VVNJZW9hX3A4WjdlN2R4VkJ1RmpfSHZaRVhfTkhoWERKUENYMjNWX05Bc0Q5NUtwZjJINUNy0gH3AUFVX3lxTFBNSXoydlpTWHJ4VVV6VUZLTHhHdXM0S0tpUWhXX3hnTWdnNklXQUg4QlUzcmRMX1N2WnBYMHFsU2FoZDZtVWs2ZlBIYnU0dUF1U2FGLWhRLXRnczJJeUZBQ1BvTEtmM1RXQ0lab202R1EzTThvUTdiZGlCV3hVaXVBUnlfNVhSbnBLMVZmMkpPZDBZVTl6d093Mnh1MjdlaC1zdmlBZVdsclZvZ2U2eGdQcV9lekNFQVVHMmxGaTRPRGtFQzNiNklfRlVFN0F6QWc2eXlqY2U1RV9RQ3NqQnJzWnh1WjdtUGMyM1AzajhGbEhPSDhwMDQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -443,6 +465,17 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 14:31",
+    "date_ts": 1783780260.0,
+    "title": "Every team's championship odds for the 2026 World Cup: Favorites France, Spain to meet in semis",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 14:17",
     "date_ts": 1783779450.0,
     "title": "Klopp and DFB close to Germany deal after World Cup",
@@ -733,41 +766,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 19:15",
-    "date_ts": 1783710943.0,
-    "title": "Can anyone stop France? Re-ranking the World Cup teams with seven games remaining - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVcxX1l1eXYycU10NEYxRzFYb0ppOW9YLTUtRVpWdmo5LUZfakRNb0tKOEw2N0lSWUJkYk5PWFpCMmtYbjNwOGxLQ0ppZWFxNF9HcDdyREJXTl9QUXBBZHJOQWcyTHk1MGFFVnpTeHF6SmxLNWdnMnpOSWlTSGhYR1N1MGlQTDdoZURF?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 18:56",
-    "date_ts": 1783709760.0,
-    "title": "Spain vs. Belgium lineups, starting 11 for World Cup quarterfinals game in Los Angeles",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOXhCbTZHZ1NMQ0ZIbzhQbDBINld6N0R5aUVfZ2NGejk5U2dQWEZ6RVN4cjZ4ZzFRdER5ZnBuTmx1aS1QQlVMTFhjVVo0cU9WTUJOVTV3X2dRR0pfYjFVU1dPUFVmeWpwdVlUdXRqaW1NazgwNE9fMkprSFBONXlma3l5SWZ5RHgyRURiVGRqdl9nSFlxemtENldka0NYMXZ6TFhQWlV3T2lTTHZNaGs1UUtkVmxMQnBUMmhYb09sWFFVUzNtNXZYdQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 18:33",
-    "date_ts": 1783708429.0,
-    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
-    "source": "Action Network",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
