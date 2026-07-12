@@ -1,5 +1,45 @@
 [
   {
+    "date": "12/07 00:07",
+    "date_ts": 1783814870.0,
+    "title": "Argentina vs. Switzerland Lineups Confirmed, XIs: Johan Manzambi Injury Update",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXhQVEhXZ0ZwYTBsMXpybEpNYmhSRlVMX0hibjE1cWlxNHBpb2k0SHdheHJNVDI2MVQtS1QxV0Y0WXFpSmFRb3luWDZmcHJMSFdUUU03WjJUamdTbUg5d3BWS2ZxTlBROWdQbUltUGtMSFZCVkRwN01iZWxnSEhsaUJXbzJMTENNZFVHTW1fX2xmMGo2ZFB3c1JXYUVxTmxxbVlaeEZrNmwwNmNud0ZEMzBDRGxKeTJ5cS00WmZEVjd4UmxjajFFakdxODBQZGthVVE?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 23:52",
+    "date_ts": 1783813920.0,
+    "title": "World Cup: Bundesliga trio start for Manzambi-less Switzerland against Messi's Argentina",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1FPeWZWYzA2NFRzMmI5Vl8zbEJWbmVkN2N4OF9hVy1CWW9fTlJ2cUZCZzQ4RU81ajgyU1BteXcyS1dsczhqWE9TSTl3QU1MbEIwMndqR3ZFY18tVWRVZzBianoyNExMSlNBMzNlZTBYUTkwemVYdThzN2E4ZFNwNFBKRC13MTRtZy1NdUdQY0ptV1VrYWdVRExlcnBwOXlBUC10U1l2UXhyUQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 23:49",
+    "date_ts": 1783813799.0,
+    "title": "Norway vs England Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00VjVLc25FNk1TenByc2lEa0QzYV9EUHl2M05YWnRaWEdKTjdwTnN2MnNRSWFJVk9TSFVTcS16dVpGMnAwbUNaV3N3Y3U2X2x2RXJqYV9HSzlTQlgxQS1raGNB?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 21:57",
     "date_ts": 1783807076.0,
     "title": "England’s Jude Bellingham scores equalizer vs Norway | 2026 FIFA World Cup™",
@@ -737,39 +777,6 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 09:01",
-    "date_ts": 1783674086.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 08:59",
-    "date_ts": 1783673945.0,
-    "title": "2026 World Cup quarterfinals: Confirmed schedule, results, predictions",
-    "source": "NBC Sports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 08:44",
-    "date_ts": 1783673094.0,
-    "title": "FIFA World Cup: Schedule, Results and Standings",
-    "source": "Eli Sports Network",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNckRLdUVBQzhSWHJFTUhBUHMtLWlmRy1TMUZrd243Y200enNRMGJOY2ZsdlNfZHpJOVVvYVBaLUplRjl3UElVOHU4aEZTU1gwY2JyQU4yNFEyZkdEMlc0NUhEMjc5VVhBc2RDNXRiX0NUeVRBVWhGOXNZTDdVTUxsXzZvR1lpRHNRZnBkSzh5anlnVU4z?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
