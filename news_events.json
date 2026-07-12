@@ -1,5 +1,16 @@
 [
   {
+    "date": "12/07 06:07",
+    "date_ts": 1783836462.0,
+    "title": "World Cup 2026 Latest Scores and Fixtures",
+    "source": "FourFourTwo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXJOa3djSWN1TVJ3aFNfX1FNNnk0X3RyWG9hdFBROFU4eHlmel9zZTl6MlhHQWNKRW54d19YUFBVY2FIY3J4bHlQc0xDNTloVVpTWGh5MHZzTXNuelhHU0F2X3FibWMycklPWlllT1BraWEwSTJMTzRRT2syTE81dW1fV0lhOUxGRUVnSjY5a2ZSTzlrcWJMRWE2SGdCQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 04:46",
     "date_ts": 1783831560.0,
     "title": "England at FIFA World Cup 2026: The Three Lions' results, scores and standings - full list",
@@ -757,19 +768,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 18:30",
-    "date_ts": 1783708229.0,
-    "title": "Spain vs Belgium: Confirmed lineups today in 2026 World Cup quarterfinals",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDl4QWlBSllha2F0Y2tjZnE0cDRzak9FLVo3NTVhWXc1djZXOEdZaTdEZjdCUEhJODlzaUV4ZnNqaWZjQ0tTdlloR0xTSjVSUVJ1YlpadHIydmRTSWpMT2pPS3VJTmExMnFBXy1SOE1aNGQ2VUFoaGtqbFY5UWttb1diRzc4TzhSOFF4R0ZHaEtLNHVfbDRmbzJGSUx4NzVtdzN3UVN0RVTSAa4BQVVfeXFMT3ZnZC1TOWRWTEhwM1UxUGtWb0xpbVV2U1pkeG1jSE5mTURsMmJzZWJTakkxanh6TFgxR3c3VlljOTIzVld6SnVVY2JUbUNiRUsyLTZ2emU4bnFwby0xQ1p6aFREYTdEd3FjVzJpRG5pU2dVMXZhOEZocDR4T0tKV0ZMWE50Vjl6ai1LelJtVTBVQ2NJUTVMa0MwYk5Xb04xX19jSDNPT2JqSTZkOHlB?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
