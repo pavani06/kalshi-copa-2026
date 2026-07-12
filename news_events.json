@@ -35,6 +35,17 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 04:54",
+    "date_ts": 1783832063.0,
+    "title": "Which teams are in the World Cup semifinals, and what’s the match schedule?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTNxcTBEWldJQmdINHBSNkF3TUhYbDFNX2c4T1ZDQmREZ1FQT3F2b003MEtNNU5aV0lZZXBmcWRReWIwbVA4WGM2c2ZPOXg2YjN3by1uYW1FZ0RIeDBTWi1tZENwem1IMDZwbU9wbHR1ajM4VFFQU29pb2p0aExNTFQ0ZVZrMExnbXJPMWJfZEYyMTczQ0Q5RlZXanR2eE9uemlXZEZjcmVBekRmXzUzR2o4WXo5Z9IBuwFBVV95cUxQbUg0NXZzZXFKTDcxR0dHOUl4VEZCYXJ0cHp1S0cwMVNnN2xkODBIZzEwLXJTOFBLSldZeGNrUXdKbnkwd3RVMHZLSkl0akpoWGpqdHpiSHUyZktydkRDbk1CRjBNUzg1NmdFSFFhckppWmVMd3JVelRPTl90T3JQcER2R09jdUpGekhKMGxlRV9kM205UGktcDNfTGVoSjNuekFPZmE4Y2pIdktwVDNkb0hJWGdsdUoxdTNV?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 04:46",
     "date_ts": 1783831560.0,
     "title": "England at FIFA World Cup 2026: The Three Lions' results, scores and standings - full list",
@@ -754,20 +765,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 21:16",
-    "date_ts": 1783718180.0,
-    "title": "England reportedly face major concern with Declan Rice ahead of 2026 World Cup quarterfinal vs Norway",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTUdTRTAyRl83WFQwcjExTG9QeFVfc2dNQWlBZHZ5LWVqclRHV0RXS0xfOFlCY3hrbExkWXFKcjR0UWlXdFRRXzhBLTVub2NROU5OZUVMS240aENEZS1wT1QyTDVOVnpJcWQ0Ql8tQXc2ZlN4UDI5WVhtVGU0cS1QYmFIX3hMZk5qS2d1MFFWUzNCT3VFMFkzUVF0RFVDWGxXd3dhMnhIZi1aTDVNMWVzQzVZNVp2d1hGNm1LU3UyUmZJYjJJYlBJZ2xUSjR0M1XSAdQBQVVfeXFMUHgxeVBGQjh1T2h0ckRna25RYV91WGVYU0RwVkJDeVc2a2FlQ2Vpa1VYMF9jNmtBTXRndlp6TGpHcmJnMUxhWUtiRU8tUm5QVmRNYXZ4cV9ON3FxVzR2SGM2SEtHYXM2Q0I2LWtDTng2R29sa3dfbV8yYkZQaXhONFZGZEpPYmVOYTZZYUJBX0YzNF9COFdDRGpiS2JrdlhRUTdDZTRLVGNsUUpCa2ZRSlVmLXFRSXdPaFZwc3RrQ21lMUdDQkhvdWJZVWZfR2NBQUhlY2E?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
