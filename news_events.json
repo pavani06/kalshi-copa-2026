@@ -59,6 +59,21 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 05:02",
+    "date_ts": 1783832520.0,
+    "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzN6ZVZRMUJ4QmxUc2EweW8waXVrS0lGcVU0aWdua0p4WTRySnJjRF9FczRqQlphZWp4R2o3dEljc0FwUFB4MGEtWWJnUThNcHdpdTlpZDd4T3pqTDNVcVlGQzg0bDZQeXc0S0ZTcE9WVHcyc24tdzhEUDlsM09sak43UlFMODJRWTdMcDBoX2hLanZYal82RlBJSGxQSU50M0NZV1BOWnVSdG5obHpFbmNCczMwYkhha2tV?oc=5",
+    "teams": [
+      "Senegal",
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 04:54",
     "date_ts": 1783832063.0,
     "title": "Which teams are in the World Cup semifinals, and what’s the match schedule?",
@@ -78,6 +93,17 @@
     "teams": [
       "Inglaterra"
     ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 04:45",
+    "date_ts": 1783831500.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+    "teams": [],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
@@ -736,34 +762,6 @@
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2bS1tcUlJdEEwYjcxaDdmSl8tZ0VBaDdtaUZpbjFtLVdTMXIzellieERfa1gta3p3T2ZaM3VIeGotTXFqMkUyZjJQOEppV01BaENDYlBQQm5CUXI5UXotUUt0SGEweTQ?oc=5",
     "teams": [],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 22:31",
-    "date_ts": 1783722669.0,
-    "title": "England XI vs Norway: Confirmed team news, predicted lineup, injury latest for World Cup quarter-final",
-    "source": "Yahoo Sports Canada",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVdYcjlHWmlsZWN0THNCMXhiU3FLb1NnS053VGU3THN1c2N6Q3FBcVVmUUw1WHBuVzV5b29UN194MW94cDZwSUhSMWJsV19PZlhfQnFxOTZOYWxKcC11Ym5ieVpqZVEyTHNFZWVRNjI0Y215cjh5dWdmQWFfaGx2VVdOcFI?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 22:24",
-    "date_ts": 1783722241.0,
-    "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
