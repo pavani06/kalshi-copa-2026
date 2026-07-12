@@ -11,6 +11,19 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 08:26",
+    "date_ts": 1783844802.0,
+    "title": "Do England or Argentina have enough to challenge in final? Re-ranking the World Cup teams with four games left",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWEydlZLbHFkaGRsMXdQZXpiZ0FoSXNhVGs4NlNnekg2WUE0RzNtb3ZhSS0xenJCLTZkZVRnYnRZbnh6V19hM0hRVkRmVm5yRmJYb0d5WXZISE9LN2MxbHBlczljaWNFWWV1QUd5aUNOLXB5a3lKSmJXUmpEenlaa2xXcndRaUdoNFl3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 06:07",
     "date_ts": 1783836462.0,
     "title": "World Cup 2026 Latest Scores and Fixtures",
@@ -40,6 +53,17 @@
     "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWc3WGtyemhwZ2VjbXNaQTlTVnNobW9TTmhtMkxVdl9xTHVXOVpBNS1mOGc3MkgxTnZaa3B0VE1DVWxCMFZGZGFlTGlNb0RMWGtkazBIckpMemhYZ0FxbVVfN0NCRGdEMXBxcGl3ckhYblJaaUNFRFhaTGpfSjJKNE5YYzZZZ1k1SENnUDB3UXUwNjJXRXFWWWctajdUSFdZNkRKOFNfcy1KN2NjZVpyT3J5V2R3QWhNVm01NzlQbHczYzd1WFA0?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 04:04",
+    "date_ts": 1783829046.0,
+    "title": "World Cup semifinals bracket predictions: Picking the winners and key players for final four",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUZ6MzBaS1FqU3hIbHRlWDFvaFBOMl93ODZreVBjVGR6NDFHZ1VqcF9DUEF3dW1ZYlhab21jaU5Ra1A5LWZod0dicEU0Q1ZMS2hIbzZFS3pIb21iYmVOWTF2ZFNKUHhFSkJMVTdodEhNYmk5Zk04VnBBUWttRmVEVnl1TVdGYjF3S1NuVndIYUpkdkp5R04zaQ?oc=5",
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
@@ -257,6 +281,17 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 20:15",
+    "date_ts": 1783800904.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -733,39 +768,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 21:00",
-    "date_ts": 1783717200.0,
-    "title": "World Cup recap: Merino scores winner for Spain vs. Belgium to advance to last four",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTk82MmN1Ml9teGdHdGJWUmxIck5uMTMyOFItUVNwdmFoN01NUUhlbU5VM3BLODRPWThxVGhkSFVSZTd4TWV0eHEwN2VZZURxVVh6X0dfWU13di1DcGJmZmNYQWNPUlpWZnpYRG1RcWdtNk9qelp4V2FEZ0pMbFMwNkxSdE9vV2djbERObEtWWGFxbkYxd29PeGpSaGNGYjBKM08xLWttTQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 19:53",
-    "date_ts": 1783713210.0,
-    "title": "Belgium's Charles De Ketelaere scores header for equalizer vs Spain | 2026 FIFA World Cup",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VRmZiQmpsRzZ5S2UzQ3lKZnZrN1NKMnlRU182LXBNLUo3RkxrNHlOZVBxMDQ5ZXJ6MXVCY0ZrVlVYd1VkTTh1R19ob3RDRUFZZlNVTDRkc09uckxyWHRaUmpB?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 19:21",
-    "date_ts": 1783711279.0,
-    "title": "2026 World Cup: Tournament schedule, scores and results",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
