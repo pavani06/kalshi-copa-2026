@@ -1,5 +1,30 @@
 [
   {
+    "date": "12/07 02:31",
+    "date_ts": 1783823460.0,
+    "title": "England survives Norway in extra time thriller to reach World Cup semifinals",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSmNidm9DUmszWE1fUGdma3N5Z2R2NWlUUHlvU0dhMWNlNlZDYVhkdXZJdEhtdEdsR016bXo2cWpxZmZZeUJtdUZNeG9WSEJUWE9acU5wenNBcFRKQ1JJenlRWkRETDlYUV94MTV4TW8wdFIzQ1FjdXppMzUweTM5YzE0UmQ0VmJ2a3lGelFjVVlqeEVqVk82S2JzNS1LUUZrSWFpSE92YlltdzZ1dUdTcVc0TlhTUTc3TFJmTTE1LXN3QXBQM0JuaXZrRWhQbVpfNmNGcFJqVm9tYXY1SG5V?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 02:12",
+    "date_ts": 1783822328.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 00:17",
     "date_ts": 1783815466.0,
     "title": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
@@ -14,6 +39,19 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 00:14",
+    "date_ts": 1783815256.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the quarter-finals and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 00:07",
     "date_ts": 1783814870.0,
     "title": "Argentina vs. Switzerland Lineups Confirmed, XIs: Johan Manzambi Injury Update",
@@ -22,6 +60,17 @@
     "teams": [
       "Colombia"
     ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 23:54",
+    "date_ts": 1783814056.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
     "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
@@ -308,6 +357,20 @@
       "Noruega"
     ],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 15:59",
+    "date_ts": 1783785559.0,
+    "title": "Are Erling Haaland and Harry Kane playing? Norway vs England confirmed lineups for the 2026 World Cup game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTE9FeFRwaXZPZDBHeHVjVW5qRHprUDBLOWNwTVdTUEFHNC1sQ1RHMnNhUjJ6WlZxeXh1emN6eG54TGxFYkJrQnhqZ05oR2N5NHZJaF83ejhEaU9hMmZPMmdzaDRPelZ6Y0VNNWxkOWdLMENpYVNlV2wzZXltUFRRTUJlOERDQmpveGtsaUY1SDJxMlZzVENZWlY1aVNXZzhzME9PYjR2ZG5Cc3ZPVUUxVnpVQmxBZTR0cERnVlh1YXRkVlBYTC1jeVJBLV9DS1Q5VjBtbjRibU0tUDFP0gHgAUFVX3lxTE41clRGS1hSMWJNXzZ0d0Y5STlpNFdfeG1rUmJGZjVMOFZfZWtTMEZXb0w5QXpLaGRadzZBbHNXXzIwYTBlMjlNb3FwVHppellDSDhUSzdJWmd4YU9GNjdXUVBYZXlBbjZFdW5iVkhEbUpVcVl3WS14VzdzaVRnZWl3V2NJLTJTaS1Ba3NOemI2dkR0eHZvOTZQVFFXWDNESVBQM3hLcUp0S28xb01KV2c3N1M3YnNKNlZRTWhvaUN6OUt1bW9VSXJGM0VtY0lYZFhJREZsQ3VEOHJ2NC1UcHVu?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -714,69 +777,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 14:47",
-    "date_ts": 1783694875.0,
-    "title": "England XI vs Norway: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT25GUG8tQlA4YkxSZ3NlcFdnbE1ZdHlZVXk2U3l6NjhRajBZZzBjM2QxUnFTb01ZLWNqdzA5el9qRnQwZmh2SU5vUUh6cjd2NElwSzVBdkZXdGpJeWVpZVh6NkZOeW1DR1duc3RiSWp0ZnBIU0lqZElsRkNzNGxwX182WlhVcUxlVl9ZcE9YNUFFLTFHd093ajJNYXBTS0dnQndsNXhvalAwNDZYaEp5ajUwRzdPdlZlRTZSeE5HV2ttVW8zYzZraVlZVnJMOWZtcDlzRk5yOVd2Zw?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 14:21",
-    "date_ts": 1783693281.0,
-    "title": "World Cup live updates, schedule: Spain, Belgium battle for semifinal date with France",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVwY1cyejlPY2hMeWtranAtX2t1RnhTbGdZWkxFVFZaS2VEY3ZOUHZ3d2hNSGd6OFJxRVJXSEJXMUFobk9ZSDF0Tnh5UWY0YWVCS050QUswTUZlYTQ3dmhnWEpxbHk3a3p6UzI5TjAwTVhaSVIyckcxMDhjVHlncC04VW90eGFaRW5UN0dvWUU1Tm5FYVhERWpnWlh6WFFQUE5Ra1FhZkc5cTlaUUcwRXV1TnBlbDhKZXQ4Wg?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 13:58",
-    "date_ts": 1783691899.0,
-    "title": "2026 World Cup forecast: Latest odds and updates - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 12:22",
-    "date_ts": 1783686120.0,
-    "title": "World Cup 2026 today: Live updates, latest news as Spain prepare for Belgium, England face injury concerns - July 10",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUHZFZ1N1a19qTzEzSm82UGJuc0xTR2dMbk95ZmFKOWJqZExEZTB4aWJ1TDBHcEFsM3JicXZ4VWtubVpfODFpSERZRDhnYWFXTmRuMVNVZW9jdUFVWVk0c1FObnQ1RG9rU3RacU5zRE1uN0RuYTdwc3BoNUxSc2xuQUdSZzJqcmRodnpTejdsWl9XcjRNRlI5dFdqY1ppUTRHdEFrLVZMS29xVEhZZkRCT3ZOcWxDUUYtMzBDZkFBdkdDZFpOdWZNS3ZoczhkclEwX24wcUVGa1VwUjFCRlpGY0ZfT2NmcUNKaWNCd1B3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 11:00",
-    "date_ts": 1783681225.0,
-    "title": "Norway XI vs England: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTEZtaWhrR3d6ZGJaVk9TQVFtMS1FWVVtUDhaZlNnWUhpRUpGMlRJeG1FU01ubVdWSTBqSlVSS3JzVlk2a1U3ZWtFNUdLTThVVWF1SlZTT1ZYdEtNUV9FQXRRWFVwbXV2elM2cUZ4V0dHTkFlZjVwLThQbFBoTG1obFVwTkc3TzluLWotdjM1dXQtT0U0RGU4RVdyRk4wMjlNZjFZRUkzeDJrdU1NZE5pMkw5cXFKakpjTk5XY2JJV19FallEcTIzelFxUXJ0WWFONUFHQ1kzRldvdw?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
