@@ -35,6 +35,17 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 02:41",
+    "date_ts": 1783824075.0,
+    "title": "Switzerland’s Dan Ndoye scores equalizer against Argentina | 2026 FIFA World Cup™",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YM0g0a0ZsaHNUaUJDTTRmbFZOSXlZQkRRWGdueE5jcHh5N0NGTmZtX2RnRkV3R01oY1lRZkF3T3hjTERtdTJkZzYxMlZWTmdpUFJqb3N4Ml9Mdk9sVGpaVFV3?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 02:31",
     "date_ts": 1783823460.0,
     "title": "England survives Norway in extra time thriller to reach World Cup semifinals",
@@ -174,6 +185,17 @@
     ],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 21:10",
+    "date_ts": 1783804200.0,
+    "title": "Argentina vs. Switzerland live score, result, highlights from 2026 World Cup quarterfinal game",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUk4VWMzWDlISUZmckhkQm0tTGFRSGhpRzVKNG1FNXpfbmZaNDVfaVRpdG5PYkJvSXhnRkNKTzgtV3pDOWI2VTRVbTlwWlBFN3VrS1J0TDJ4aWk0WUF2bll2ZDdSOGRJQ085MnlVX2VYUEdLSWo0THJfTy1IMXVWczdKSmc2MC12eHg0TQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -557,6 +579,17 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 03:03",
+    "date_ts": 1783738981.0,
+    "title": "Argentina vs Switzerland LIVE: World Cup quarter-final score, lineups, commentary & updates",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DbEVmOTVSMHpCNEZpZGNSaE1MTndhMzA3cnh6eG1WX0JQSWZnX3JVb0pYV0dDN3IyN0dvVk1mVmMwMkliSV8wNlp0Ni1HRVdCVUtMTU1LNDVqVG1fZjlZeEJ3?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 02:08",
     "date_ts": 1783735680.0,
     "title": "England injury updates: World Cup squad gets boost ahead of Norway match",
@@ -737,45 +770,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 18:20",
-    "date_ts": 1783707600.0,
-    "title": "Mbappe lifts France to World Cup semifinals after missing penalty vs Morocco",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNam9hU2ViRTZaSXVTQnVILWc0RmtjODYtZDZmY1FYeFMwVXlObFFoekdKUml2SjJYZkExMTBWRjhjTDl6UC1NME00Z1ktdm1OU3kxOWFQbkk3cGhPc3NfMXdJRy12Yl82cXhsT3VmRlVDWmJfX2VfTUhpSUFYV3h1YzVXamZfU2c0UXVpTnZCbkJfc2ViQmlQZHBKQnBoOTVBYXE5RW9SUktZSDdCZUVUdGM0ZTVGeXdGWDlfZ0VWRURXSVkyQU55TFRnVHZxMXZPOVBpQlV6Mmd3M3NTVFBuRUhrOA?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 17:57",
-    "date_ts": 1783706269.0,
-    "title": "Spain vs. Belgium Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnM3cnFvRklyUmtYVnd2cFJ3WXlXTTdScVNPUG94UU9jYVRvZU9mTVRfRm9XWHZaaFlRZmVMa28yWnRWYmoxNXdNQXJVYlI2UG1XRGhFWWptNWNjMVNabmRFdDMzd0I3UFdzaVRYcUVUWU5fZmo1Q2t1cmFkVndQV0EwbTBpS1FXN200Q0syWjRsSlV1R0dKNjN3ZW01SktiYmEtbUJnTF95cGpiUHF0SF80dXNHSU9xUEN0ZDRob2hOZVlpMXFueGFn?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 17:40",
-    "date_ts": 1783705200.0,
-    "title": "World Cup: Theate and Grimaldo on the bench for the all-European quarter-final",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOG5zcWZmd2xrdS1NdTV0RUFwdGNOcGpsaXd5cXhOQmMzOEVzY2g3SHhvTUR4S2NpS0FyaTdqSHVOU19XYjE5Xzhpdmd3aVFaUl9ZVzlQdG9NcU9rcTg2ZEFIRmlreXMtanFGeWxJcnAtVkdycmQweXJ4MTU1S053UGF4NGVmU2VVMERBeVFfVnlFc0ZzSHFyQmJCRQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
