@@ -24,6 +24,17 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 09:02",
+    "date_ts": 1783846958.0,
+    "title": "World Cup 2026 bracket: Latest results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 08:26",
     "date_ts": 1783844802.0,
     "title": "Do England or Argentina have enough to challenge in final? Re-ranking the World Cup teams with four games left",
@@ -753,19 +764,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 22:02",
-    "date_ts": 1783720927.0,
-    "title": "France vs. Spain Confirmed For Semifinals: Here's What To Know",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHFvMDAyb3U4UVNJaHZ0TksxMUVPa0prX2FvUEtkN210M0pkakllMVNPd0hSNzVHbnY0eTB0RE00bXZobFBaNG5wVjUwcUx0SV9UWUxiLWc2VnVsaXN1c1hLa3lzdEhUUmV2cG5VSWFQRmpFTUJBQy1TSHN2UzJtRUFWdVgwb3dxOU1YLXNqWkwtRXVXWEh6b9IBmAFBVV95cUxPZmMwQUwwd29kVXVtTG9YOFp5WV9BRVhSVXd0OFJWbm1POW5DWEVPdDNmYk5zUGFQMHZCYWNSWDJ5WXdaUkJWNThTbjhFXzVsQ1RWa2I1cGVlYkxtX0RWc0Z2N01VMVB3OW9tQzhxakEwZWVudWJJMUQ3clJRWmJsVjhsRk5VMERZTUY5dUpha21LUGZaSXUwSA?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
