@@ -1,5 +1,18 @@
 [
   {
+    "date": "12/07 12:01",
+    "date_ts": 1783857660.0,
+    "title": "Are There Any World Cup Games Today? Semifinal Schedule France vs Spain, England vs Argentina",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMF9Eb0p5ejlJNHRxS1BKY0dsamZxR21OTTU5TS1nRGJaYjh4N0ttZVZDemtnMjA5cGZySjg4M0VXZjd5Ti1HSUp3T1k0Tm5ISGpHNlkyTmhUQ1FiaGxJXy1FTXhaZFExTEU4VlVEVEphaE9YZlAzdHVXZ3Vyd19BWWJ0M1A1SmREV095LUo0dGRkdjU5eTFVaU56YUV4OW5vcHVXcXdHZmluOHZ5eTZTRkVuT2lkT0dCckNMblFBaw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 09:02",
     "date_ts": 1783846960.0,
     "title": "2026 FIFA Men's World Cup: How Australia made the Round of 32 - The Athletic",
@@ -753,17 +766,6 @@
       "Brasil"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 21:50",
-    "date_ts": 1783720200.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
