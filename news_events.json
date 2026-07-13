@@ -1,5 +1,18 @@
 [
   {
+    "date": "13/07 13:35",
+    "date_ts": 1783949750.0,
+    "title": "England vs. Argentina: How to watch, stream 2026 FIFA World Cup semifinal",
+    "source": "MLSsoccer.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZG1KeXUzMWFlc2VaWEZzblFOMVNva2ZvR20tOUstNUNaNVNOY3AyMkswTjg2T2lNTHo5V2Z3TGNHSjNPNDNWOURjSm5xLXozT3g3MlF3dU1DNktBcmdJc0lmcnM3NXdHNmU5VXNUeFowZUk3RUNnZnNsbUgwVlI3R1VDNmJUZGNNanlzM25DYTRxWFJNQTNVZ29LcDhMRVIxY3c1S3NidUtQV0pvQTk0LVVFa2d1VC15UC0zLWQ0SXZZOEN1V2k4TQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "13/07 13:23",
     "date_ts": 1783949024.0,
     "title": "FIFA World Cup England vs Argentina: What to know ahead of second semifinal",
@@ -728,20 +741,6 @@
       "Noruega"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 18:00",
-    "date_ts": 1783792805.0,
-    "title": "@@@( Live Channel )England vs Norway Match Result live broadcast 11 July 2026 - Business and Investment Development Agency",
-    "source": "Business and Investment Development Agency - CzechInvest",
-    "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQWHN2dnFxNUhkcjBtUjR4eUk3a0lkRDVUdV81NHhSNTVkcHlrVXNscjlEWXRrRFJyQUVHemRybHJyVXZVbUt2VUZfVWxtYXgwWTA4X3Q4ZFhITlBXT3BRRXlHSlBSVXRtVXJaSV9WR21lck1lTzlJUEtRN0d3ZHpKNlotSUZoUkV5X0dsb1B5eVh0T0FPNWdzd3VyTnV0ZDZObkViNW1JanlULXdBUXkyQk5EVGQ2VGYycWNkN1d0ODFhdTVIUlNLSGJqYTgzdFRxR0M3VnQ5cHZPU25uM0c3UEcxa0JVMjl6UnRmR21SRG1VZlYzNHE5MGNna040bEc5Skc1SDM1bzJOVEhaQXlkS0FJZk91QWVaYk0tbzRGeno4ajlLNWJ5bURqY24yVlVDR3IxcU1hQ2h0ZTZKTFRQOFRTT0ltWTVtR0F4Wnl1LWpiTXdTS1hXbnBQVWdmeXJIaFBwcXVYS0RGcERWbTNIZnJrSUppaUZaTFBmQUl4OF9pSkoxWGVDN0txM0ozNDlaU0ZlN201VFozUGdMcERkdHlISG5sZi1fa2ZDaVdDNzhoVXJYVmNZaVlnNmd1eXg1MlJmbw?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
