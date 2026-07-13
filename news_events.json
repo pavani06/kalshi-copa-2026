@@ -120,6 +120,17 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 19:34",
+    "date_ts": 1783884840.0,
+    "title": "FIFA's top four teams make World Cup semifinals for first time",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeER1U1ZVaFdKeFlQQ181WUdzRzNEM1I1WjRFbl9abHlYY3JhWjdCc3NpYk1sblJnZm9XY2ZYMHBCc084WFg1dDZSRHF3X2pNUlJMcVctMzJ5M1lKa0NnRXVSNkFONDhHbWZVNXdSZ0M3dGtjZGh1QnFPTm1tbURETkdlQnJObTl2ZzZtaVV6cUI5aElCTEE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 18:42",
     "date_ts": 1783881720.0,
     "title": "Argentina and England gear up for huge semi-final: Ranking every match at the 2026 World Cup - The Athletic",
@@ -729,19 +740,6 @@
     ],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 18:17",
-    "date_ts": 1783793870.0,
-    "title": "Declan Rice Injury Update: Is Rice Starting Today vs. Norway in World Cup?",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHhtTmluWFpqZVNDRUYwWEJPU25Ud3EySXRWS2JsR2M2M2xhdFRiaWR4YjhBMjNnX0haeHpxZ281TWNkLVp2cFU1SDVIT2RDZ2RRT21Hbmh5SG1PREF1V1Q2d2xLb1U3bVBPMGl6dG5fWS1hWEV0bVdBaGZHREo2Tk1NQWhwU1BtTjYyNVFCT3ZpeVdTc2NFTk84bEtFYkxzRWhDajA2bzN1NnN0OHkwSGZVTV9tZw?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
