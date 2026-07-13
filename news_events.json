@@ -13,6 +13,17 @@
     "source_type": "news"
   },
   {
+    "date": "13/07 09:10",
+    "date_ts": 1783933840.0,
+    "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
+    "source": "UEFA.com",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2JMTXRPVmREV09GaEdtaGRTS1pVbXlKZ3hyb2lzWUE1QnEyNVh4REc0ZUFCeVY0UXVVb2ZTVnlzNExOSmJsd1VmaHF4ekJ4RHJBc3h6UkxVMllZekl3UjZGakVtUDZxbGFzWmxHdnU2OUdHcldtX2pMU3YyMzQwdm80djczWTdKVzVmb1kyOFdJdzZfYlVEa0pBUGpfeHdMM2hleVlPamp4UDk4Q1U2SDZ3ajYxX3pMMWVFZ3RKNkNTbVlNWDVZYXBWcnFkUzhVYnplV1BwNkl4d28?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "13/07 09:03",
     "date_ts": 1783933431.0,
     "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
@@ -120,6 +131,19 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 13:15",
+    "date_ts": 1783862100.0,
+    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -721,34 +745,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 16:38",
-    "date_ts": 1783787939.0,
-    "title": "Norway vs England: Predicted lineups with Erling Haaland today in 2026 World Cup quarterfinals",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 16:18",
-    "date_ts": 1783786710.0,
-    "title": "World Cup 2026: Norway v England buildup; Fifa to sell bits of MetLife pitch; Kane’s round of golf with Trump – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa0VIQ0g0OFNFMTFlOFI1TGNsWlZ2MXd1cURCSnp6N2hTVURVemxRWGI3MFU4SUVIRHJVdmpJaFNFZzVWSGxJci1NeXFENFFmV3drYjZFcFk3YWcyVGJQT0t2RkUwbVprS2FtdU1GX2FOcm1lZDNILTJtR0Z5aXRPcm9ES2FUb09VZ0Z4YTdQQzRuNVE3cFBKeXc1d3h5dDZkY1NOU1VHTDJpV3N5WnEwU1JTZmN5clJ3Rkw2TTVWaTZ2MHZHZjY0TWpkMzdKNS1TbmVPbzVBSFZaRmFMWTZ3?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
