@@ -1,5 +1,31 @@
 [
   {
+    "date": "13/07 13:23",
+    "date_ts": 1783949024.0,
+    "title": "FIFA World Cup England vs Argentina: What to know ahead of second semifinal",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVNuWEhYS0gtU3BJQU9vem4wTHpySkN3N0dLYWI5NEU5TFh2aFBNbEdTbk9qeXA2eVlLY2c0dFpXUGZFZjNaOE9qQVlDNjJqQU1VRzZpN0MtbTBmX0VIaldnUi00WXFad09fY0tSZ0V6MzJSa3BGVzc4RGMzemVBMGNaRFE2TExHTDlWNG9GQjNKM2sxRDNzbjlwc1VzNml4WWxrOUhYbHBPd1lFaVo2ekROZ9IBuAFBVV95cUxOR2pKTW5CdWZraFdwcDlPQkhhWWx2UlRtNllMNzZLZGxUOTYwbW8tNDkta183ZVJoYkh5b0NvcThmaDRFMklHRmJGZm5nd1RnS0FlUTFTZ3N3LWE3TEdBNWVDejB4Uml0U2RjNUJiN2NkVzRYbDR6dTRaTGVDOW53TVN5MTd4akxkWXNXMWd4TWo4RC1YR2tjQmZVWi15TktmNXNvVVpmWFp0RUNhaTNiZ0UwM1VaeGlB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "13/07 11:05",
+    "date_ts": 1783940725.0,
+    "title": "World Cup 2026: France, Spain, England & Argentina statistical analysis",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyZjRjN0IzMk5vUndVM2tsWWVvVE5FZElUM05uNFVOV3drcFJQV1I1UVlLeXdGc283dGt1TDlKUEtiTDR6dDBrNTVvX1c5c0l5Y052Y2NQSnpCeGcwUEZqZTkxM0x2dG8?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "13/07 10:13",
     "date_ts": 1783937590.0,
     "title": "World Cup 2026: England’s James ready for semi-final, Infantino hints at 64-team expansion – live",
@@ -717,34 +743,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 17:33",
-    "date_ts": 1783791221.0,
-    "title": "England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMlFhRTRDUlllMWpIME5qSFotN1V5S3ZlUkZrdElUMm9hTFJJeUJCVjViamJydGJCU05BZElRN1VNa3BQUzlvMTRhUGdxYTZTQjVQNEYycmJ3M09DVGRkZEFObEJOSjkzZjBXelptZE1xUXhnQi1MMDI1V3hiTFBJY0xCRGV5OWkzTEU5VTVjY19RdUJmUXFsUDBGYXFWZ1JpcW9XaWM4eUVkT1nSAbABQVVfeXFMUHNES1hmNUxwUkNUT05tVVdKOXVOd0NhS0Nqd3FoSmcyRG55WGRfZmFHRU1LQzNUUmxaZm5vYU0yelQ5N1RXZ2lubnBMQUtodEExUVZxN2dkeG82S3ljOHBDbndwTXpHQmo3Z3hRLVRHNHhnNFlWTUtwa3BIY3NVWVJWZ1k5b2t6bFVTdnotZlBNdkI4a3F2UTJ4MUhOSWlzc09tdWN0YW1MbWRCOFlXb1k?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 17:26",
-    "date_ts": 1783790762.0,
-    "title": "Norway vs. England projected lineups, starting 11 for World Cup 2026 quarterfinal game in Miami",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnFFQk1ONEFXUzdMbThsRVBtNlBGQVhHSklWT0FpSDhnSjZYanZwem9WeWxaWkhONWJCU2Y0NTR2TDYzMFJIbHJndGh2UzZsT2ZlakJDSW9xanRaMUgza2xTUDJCWnM2UHFtNm9uS0k1czhjeUZqNmFsWHBhU3JyWU1OZTVaSkh6VGRyeHVxcnlvQUJhNW5RUk81cXF0Y1hVakIwQkhSUE5YUHNpLTNwa3RpTzVGLURiOWxWN0FkLUNKTTFpbEFaRHVB?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
