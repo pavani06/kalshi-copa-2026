@@ -35,6 +35,17 @@
     "source_type": "news"
   },
   {
+    "date": "13/07 09:02",
+    "date_ts": 1783933345.0,
+    "title": "2026 World Cup: Groups and standings - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjJzbGhYRm42b3k3R3htUTZPQXFWV2RILTl2ZzlXYWtxN3Jvel9XWklOYTF4ZXEwbDgtWGVfWHhoWHZQeWFPTk1EckFhQTI3WFFrbERvazNQSmtINXZFWG9udldTTjZHZHQySmJRVXJpS1RzSDFNMHg2Q1JkMnJnak5nSzQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "13/07 08:34",
     "date_ts": 1783931660.0,
     "title": "Watch World Cup: Preview ahead of Spain-France semifinal 1",
@@ -734,17 +745,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 17:01",
-    "date_ts": 1783789312.0,
-    "title": "World Cup quarterfinals bracket: Full schedule, matchups and road to the final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmx2emVQOUlqRVotV2pCQ3JVTl93LXJCMlM2UTBPSzgtYlJQTGNTdXJPNG5rYmk5WktNZF91N081Y0QxNDI4d3NFRE5uRWhnUTVVUHctYmp4NjlBQ3FmRUdxYXU5a08yWlplRjNlQWx1WjBiMmtPc3JBanY0MTJnVzhjUjN5d3hVUG03VGJzaWFSbFdYMzdtUnd5c1dHX1ZTNjV5WXB3QWxUa3FiVzBWckpTakIxSGdWWThScTh4ZEczTndSZ09oLS1LZw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
