@@ -1,5 +1,18 @@
 [
   {
+    "date": "13/07 07:52",
+    "date_ts": 1783929140.0,
+    "title": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhHdTlLd0VGY0VpTkxUSmVDa25qRkNCQUkta1lueVJaQ0NaRWZva1ZmN1RjeGhZRGxiZXhPa0daRk1fZVlBMDhibmdDT19FZWw3RVpVZWJKMnEtb3VfVThMZDVpT3MzVGhyVW8zaFN4M1NkaFFYOV85OHd2ZDFIQVpDWVN6cTBEZW42S29Sa3M0RjJCSUNzZFZR?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 23:44",
     "date_ts": 1783899855.0,
     "title": "2026 World Cup bracket: Full knockout schedule, soccer results, how to watch",
@@ -21,6 +34,19 @@
     ],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 17:33",
+    "date_ts": 1783877583.0,
+    "title": "Argentina XI vs England: Confirmed team news, predicted lineup and injury latest for World Cup 2026",
+    "source": "Yahoo Sports Canada",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmRMNUtkWFJGX2FvZHVoZll0aGc4RmZWY0xxa0x4UVNZRzljcUFhR0xCLXh6aUwxOVFSOVp0azludUdjQllBb0VLWmNzMlAyNnB6QzZfWGhPazQwOHlQc0J3NFVjbmtzMEQxWEtIZWtsSDA2czJMZXJnLTRZaFZOQWUzRzBNVzg5?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -725,34 +751,6 @@
       "Alemanha"
     ],
     "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 13:08",
-    "date_ts": 1783775284.0,
-    "title": "Norway vs England live updates: World Cup 2026 quarter-final latest score and news",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVFaVWlSVlNJUjFDeUhNR1IwWTNsZUNNb2VVX0ZPM1BpUFQzc2hWN2VUZkdldHVkZGVfWDFVdzJGaEdmZmZnY0huY05wZkZwSFZwUEFib3Q2dV9hQnFWeFBrNEtnT3Z4R09TYWV4dXFPWUNOTnpodXJVTmNxeUE3LW50RFlNbEQ5b1VDMVRObkdSd0VHZFZMNXFUSDRvMG5mUmY5U21peHYxNnNrVGZlYW11WThjaEU?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 12:27",
-    "date_ts": 1783772869.0,
-    "title": "World Cup: How to watch England v. Norway",
-    "source": "LiveNOW from FOX",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObmFjNTliOUlfRld5Ulc1bVM2SXJGei02T3dPZXFlVDJtbTJ1NjJMa1p4VHplSU8tWlFqZTgzZTdUNGwzTmJGREFUNHdHcmVVV1QtUFk5N21FelJ2OE0yMk4tVjFBVk1iMzFnX3ZHZXY5WFdSRkdwNm9MalpjY3ZrQWt3RGZiRnBCZ0pR?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   }
