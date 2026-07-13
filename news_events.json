@@ -597,6 +597,19 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 20:44",
+    "date_ts": 1783802683.0,
+    "title": "Four England players at risk of semi-final suspension",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNel9PWUhzb3lFUkVBQ1pxZzRnQlhFaUh0bjVlYkJNN1VCT1czNm9JZS01a2FNVmJ2dGFMbVM5UWJXcU1ncDRCLWdEeFUxeXBPM2RLVnhUT1NRa3c3RUt0Zlp1VjFxdk1oSGh1alJWMkp3T3hkOFhCczhOZ1hhZmhVYUhuSzJ1dw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 20:20",
     "date_ts": 1783801200.0,
     "title": "Why Bukayo Saka Isn’t Playing for England vs. Norway—World Cup Quarterfinals",
@@ -730,19 +743,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 18:00",
-    "date_ts": 1783792800.0,
-    "title": "Was Harry Kane booked? World Cup yellow card confusion explained amid suspension fears",
-    "source": "The Mirror",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUhCSWs2czktNjVSZi1BZUlYeUh3a2h4Z01oXzFuOVFBSVB0SmhiRlpSRTU0bjBwbm5uWHFrTjNLU0poM01waTd6WU0xbzVmQ1V2WmF1YWFJbVc1X1JpbGZadGFyeEk3T0lRQTVQdHIxLXJWM1VWZUwyMFNlSzFrRTJiTFR3cWtK?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
