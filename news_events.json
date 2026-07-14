@@ -1,5 +1,16 @@
 [
   {
+    "date": "14/07 16:40",
+    "date_ts": 1784047205.0,
+    "title": "France face Spain in 2026 World Cup’s first semifinal: Live updates - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXJ1VFlOdkhtel9oTjY2b0lvY1FCcENTaVdtMzlicE4wMm01RmFXOWhSOG03cGZNcERUY1llMm9nYmUyU0ptVEx0bzI1UGtpMmxwZXZ5OWVMNEdSTHZCY05WajJid09mdnliSFZxcGFCdFJ5YmlhUk5NWUdqMjZwUlItYXNueFZkcThMUVpvUXlQalZWNGxqbURPR2JBODlNS0FCVnowMjJpVFVaNGF4S1d1YVA?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 15:30",
     "date_ts": 1784043000.0,
     "title": "France vs Spain LIVE: FIFA World Cup 2026 semifinal",
@@ -17,6 +28,20 @@
     "source": "olympics.com",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJDdnlXM1NyeV9fc1k1VkxkYnpza0FGc2hKWWV1bFB5M0Nibi1GUWZ4WFdVeDlXcmpJUUw1dFNwbmhzWnhEWFJiOWhoZDZkNUJGWnQ5NlF2dlZNNGU5bDI1SjI0WFoxbGl3dXlRNWJHWkdzUVc2bWRJeTJaM05VS2t2c003LWp6T2JyeUFvRFJTR1ZQWDdvQ0pZVmxONndYdTVGWUF2Mm5idw?oc=5",
     "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 11:59",
+    "date_ts": 1784030385.0,
+    "title": "Are Vinicius Jr. and Erling Haaland playing? Brazil vs Norway confirmed lineups for the 2026 World Cup game",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS1VZclVxWFl5MXlzLVp3Rkh4aWd2WkxsazdIb0dJNUlwYncyMzR3NGxhei1yWGJVc0dhb3NwbnRfV3ZmMGRtV25nXzJkNElBMHlMV25MOE0tUkY0TW1kS3l6TWpNZUJvN21rQ211eU9SZmRJeVY0ejdzNElmZmtBVF9namtoS0xyMUlCNVdlSlg1Mi1obnFCVnhLc3lydEp1Z0hVbFdpMWhqbmVSVXhPX3ZTdjFNRHp6ZmJPTExrWXNETldsQUhyOHhyQUtITWVpcHFSbXB4cmFlY1YyRnRiT0ZmV0hYMUxMYk05dGJB?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
     "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
@@ -692,31 +717,6 @@
       "Alemanha"
     ],
     "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 23:50",
-    "date_ts": 1783813800.0,
-    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNExLUnZXZlpubEVkN1E2NGFCLUc4T3pyakhETnpSdC1BU2l1WFREcFhadUI0MTRLMkJiQktzQ3JyS3lEX3k2a04tck5kR1REZ2tSY0E0LXFGQ3dPV1hWd251SkMyTUR3TmxleDZhQW5XVE5fU09WWmxhNktXVi1yd0Z5ZVBIVEhIXzVIcVFZM0gxRjMybndKZXlCaEVGNGlTbmg4b3h0NTdzU213VHA3Rzc3R2NqamY0d3N4LUc5TngyQkNYTnc?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 23:49",
-    "date_ts": 1783813799.0,
-    "title": "Norway vs England Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00VjVLc25FNk1TenByc2lEa0QzYV9EUHl2M05YWnRaWEdKTjdwTnN2MnNRSWFJVk9TSFVTcS16dVpGMnAwbUNaV3N3Y3U2X2x2RXJqYV9HSzlTQlgxQS1raGNB?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   }
