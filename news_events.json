@@ -1,5 +1,16 @@
 [
   {
+    "date": "14/07 14:30",
+    "date_ts": 1784039400.0,
+    "title": "FIFA World Cup 2026 – Spain vs France, semi-final: Score, lineups and live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJDdnlXM1NyeV9fc1k1VkxkYnpza0FGc2hKWWV1bFB5M0Nibi1GUWZ4WFdVeDlXcmpJUUw1dFNwbmhzWnhEWFJiOWhoZDZkNUJGWnQ5NlF2dlZNNGU5bDI1SjI0WFoxbGl3dXlRNWJHWkdzUVc2bWRJeTJaM05VS2t2c003LWp6T2JyeUFvRFJTR1ZQWDdvQ0pZVmxONndYdTVGWUF2Mm5idw?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 10:16",
     "date_ts": 1784024178.0,
     "title": "England XI vs Argentina: Confirmed team news and predicted lineup",
@@ -58,6 +69,17 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 03:58",
+    "date_ts": 1784001535.0,
+    "title": "Palpites e dicas para França x Espanha pela Copa do Mundo",
+    "source": "GE",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFUwQkpWdlpzbVVBNjV2SlZIT2ZCcTZtZzNVX1h1SWRrM2xQRzZaTVZfVXRrNzZBNkc1LUZVQWJzWTFtYkdMREp6RG05RUtYZUhickt0SV9ZdHNVVWEyNGF0U0NGWVBWMlVZUzlEbkcyczR3RFU2eG9kM0poVVFfWDg4Sy1WdnJYY3g3a0V6elpZVzZ3TW5mc1ZKRG9oVDRVMkpyQXRpb0YtN1lTSFZMVVNZQ2R3YUN0R3phSktxeWJlUE3SAdIBQVVfeXFMTVBIREJnaGtKRFZEMnVFMEswMGpnZTFaeEt4ZEZ0dHpHdkJWamVoUXVLaXBndTBzZTZJNFZiUTFpOE5CcjlvQUJfbURJSEUtN1o4SV9ObmlrT09IdFNJaUlnTk5yNnVyNEd5T0g3ZUVBLVJQV1JXZjhZS1otT1JUdGJWY2c1ZnJ4RkNIa3VIdXRDSVhHNTdpb01GbHpqeTFLZmh5UHJsLTQ2TnVFdnl4WWRmNmR5QVRHajZyeXFNVnlpb19FRHowbVN4cGpvMU9Qc0Nn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -699,34 +721,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 21:57",
-    "date_ts": 1783807076.0,
-    "title": "England’s Jude Bellingham scores equalizer vs Norway | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DMG1LQzJnYkt1bXhySmctdEdJbE9yQzZadk5zNVRYdDl4YjJjZDRESVMtYjZCT19TckVxcGJMaU1IVmdSbWQ5NmEyNHg5WHZwR3FWT01fUmdSLXdrVlJJOFln?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 21:52",
-    "date_ts": 1783806743.0,
-    "title": "‍‍‍[!WATCHLIVE]4K!] Norway vs Englande FIFA World Cup 2026 Football Today - Business and Investment Development Agency",
-    "source": "Business and Investment Development Agency - CzechInvest",
-    "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOTXJLZ183eHkxNEFsMmhHcDdWbnBiSE9LbF9PNjZnQTJMNVFkeVZrd3FGaEpSdHoyWWRzdUFmb2VtMzd5Wkp2VXN1SUdpOXNpYzhtTDBiY3liZ25uZlpZMldCQTBJeVZoRnVENXRsS0ZWTmN6N1BmN2FYS1JFc2hmLUJxSUUzaFZ4aVE2dllXNWl5WElZMmxpVms0MUpZU1NYUjEycU53cW5Wb1BVYWg4enlWY0tJSFZEOUZXaGNpbmFxT3RIWVIydXR2MEQ3eElYWWUxczRlZDdxTHN4elppcmFhQUptaTlLWms4dW13LTAxLWFsYW5JY01Ud1pqS29nQk9UbUFzOWRLWkJ1ckJuRnB5VGRJUHlQdk43TF9zWW5HYXFJRXVhNWlFblhGSEZhTnhDU3oteWVGS3lWSzFGdEt0bWNoak9YLVhBWFpwY3JSbGF6QlJkX0xLQnZRMWxNUmIzTkFaMXUwRE9LZV9xbEN5UTMwTVF1Tzd2c1lVc3puSDFYM19lQ05wUGtYTHZpd196QzdsNXZqN1QzOTBqczhBcFhpMGY3aXkzeHBTd3B6VWhqcmJHNEFreXpBY1NrRmlrUWxzaEwtX2dTQ2dGYl92LVZVbkY0WWc?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "result",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
