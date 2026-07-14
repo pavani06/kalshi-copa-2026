@@ -26,6 +26,19 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 17:37",
+    "date_ts": 1784050646.0,
+    "title": "Why isn’t Nico Williams playing today for Spain vs France at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHRTZ3lYQ0Z3d2I4VnpNSndrNC1oemswdlNaa3ItTi1aVTdVT0NiMllEbTVpZXJDVHYyZXplRWNGVTBwN28yMHFIelQzRmRzMmJWRUdSM2NHdlJGenV4elBlRnZYRGRDMFdBd1piNHdZQjUwLXZieWRuMXNHa2RQQjFQS0hWWnJQTDVVU1hzMW4wOTc1aFRVWk9vTUFzTm55UG81WGdZYjVPN0FqYklDa9IBtgFBVV95cUxQRzlRVGI2X3N1MFU3dGtOT2xncFJuTVdDYkdjd3RmLUlPc1NJUENVY2pyczVrWDRyTXcxUllFbVZFSUZ5MExhaEFBREtGX0tnSHJtTnotSFBhTk9pMVczQVpmRGhTRnk5QnFxTUpmMXBYLXY2dmw5MDRtckdBY3kxclBUMjBhR0RBNE9iY2tQYnBpUURqRmI2cXJDelNfMEJfNGt6UmI5TWMxdE1tN2Y5VWJRM2Q4dw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 17:34",
     "date_ts": 1784050440.0,
     "title": "Spain lineup vs France today: Starting X confirmed for World Cup semifinal",
@@ -118,6 +131,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 09:17",
+    "date_ts": 1784020664.0,
+    "title": "England vs Argentina: Declan Rice fit for World Cup semi-final as Thomas Tuchel's squad issues begin to ease",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSUpTeTB5VVFSX0UwNmJlYVBjbkhzbmpJdGFid2Y5bnQ4UlRnSUR1aXBERnpYZDlua0NLbUhLWmotNG01OGN6U293djN4RHNIMTlrTHhLbVZYLVphQ0tUU2hMaGhCMnFCaTl3MXlNaXM0XzFYZGJjandpWWtEMU8zZDNub0RXZnVadHU5WThpeTQ0eGJjazNDM2pIck5sdVNVcC1kd2E3SWNFbUF3bmVHLVRLY1IxRURkRTVlelJZRE1ONlNKM1VvMmpxbC1Wdk4zUEdOZWFyVWJoU2R5WGxVbU1vbjRpcmN5MTc2TDNWWWV3Wlk?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -689,31 +715,6 @@
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmwya2Z6ZjJlU19zT3R2YjhIMVZ4ekQ2MVpLUkJjVE5vdFNNeEYzbXMtQ1BqWWI2a2MxRlBYQUM1ZU8tV3VFdVRfbEtMM2dvOUpzZC1UNC1nZTBqVkY2SEU5QjdCbWVyRkhiaFEwckxRSW92T0JMYmRzeVJOQlQ0VjN2QTZKUUs4a3pwZXE1Q0ZublM3a05QMENab0NzMTFPeWMyakVoVEFMSFQ4UWRPbVl1VVNJZW9hX3A4WjdlN2R4VkJ1RmpfSHZaRVhfTkhoWERKUENYMjNWX05Bc0Q5NUtwZjJINUNy0gH3AUFVX3lxTFBNSXoydlpTWHJ4VVV6VUZLTHhHdXM0S0tpUWhXX3hnTWdnNklXQUg4QlUzcmRMX1N2WnBYMHFsU2FoZDZtVWs2ZlBIYnU0dUF1U2FGLWhRLXRnczJJeUZBQ1BvTEtmM1RXQ0lab202R1EzTThvUTdiZGlCV3hVaXVBUnlfNVhSbnBLMVZmMkpPZDBZVTl6d093Mnh1MjdlaC1zdmlBZVdsclZvZ2U2eGdQcV9lekNFQVVHMmxGaTRPRGtFQzNiNklfRlVFN0F6QWc2eXlqY2U1RV9RQ3NqQnJzWnh1WjdtUGMyM1AzajhGbEhPSDhwMDQ?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 02:31",
-    "date_ts": 1783823460.0,
-    "title": "England survives Norway in extra time thriller to reach World Cup semifinals",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSmNidm9DUmszWE1fUGdma3N5Z2R2NWlUUHlvU0dhMWNlNlZDYVhkdXZJdEhtdEdsR016bXo2cWpxZmZZeUJtdUZNeG9WSEJUWE9acU5wenNBcFRKQ1JJenlRWkRETDlYUV94MTV4TW8wdFIzQ1FjdXppMzUweTM5YzE0UmQ0VmJ2a3lGelFjVVlqeEVqVk82S2JzNS1LUUZrSWFpSE92YlltdzZ1dUdTcVc0TlhTUTc3TFJmTTE1LXN3QXBQM0JuaXZrRWhQbVpfNmNGcFJqVm9tYXY1SG5V?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 02:12",
-    "date_ts": 1783822328.0,
-    "title": "2026 World Cup Predictions",
-    "source": "Silver Bulletin",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
-    "teams": [],
-    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   }
