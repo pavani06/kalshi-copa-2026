@@ -1,5 +1,16 @@
 [
   {
+    "date": "14/07 15:30",
+    "date_ts": 1784043000.0,
+    "title": "France vs Spain LIVE: FIFA World Cup 2026 semifinal",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVpoOHprWXcxbkxtRGNDclhINEhxSUJBbEJUbE9QakhqLV9QcXlONGd0UVRvX19tNFdkai1tV1pZWkt2YXdlY2gxck5aSjJHM2k1RUFmZVBpYUhqNDI5RWU3UTZCODZIZUlfZ0tvUV9FUWZnbm83ZFpkN3NLOHl2cFVjSFhfZVphVlNvdFlINWpoQ3BSNWU1TFQtQVVhTnFXQkNxddIBqgFBVV95cUxNZlhxSDZfSmhDQUdnTm43U29BbnZYU0ZnVlA5b29aa0MyS0lxWGRwTkhUeVlnY3k3ckplaWpzWFFzN0pBVVVWek41azllaWdhMnVkdHJ6Mm9VcWpoam94Ui12d0NINUpVdzF3QnNQMlVhUmJMUXBFT0VkZkl5dHNqM0dkZFE5eUw4SDIxaGw4aUtYQUFOOWNDeEIxWVl0amIwekxjSFZ6S0lsdw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 14:30",
     "date_ts": 1784039400.0,
     "title": "FIFA World Cup 2026 – Spain vs France, semi-final: Score, lineups and live updates",
@@ -707,20 +718,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 23:12",
-    "date_ts": 1783811523.0,
-    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
