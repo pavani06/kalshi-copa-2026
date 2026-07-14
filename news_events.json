@@ -1,5 +1,29 @@
 [
   {
+    "date": "14/07 10:16",
+    "date_ts": 1784024178.0,
+    "title": "England XI vs Argentina: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOXVFSjZGWWFPcnNfRnBkTTBwRWZfdFB3Q2M2amdia3hDMktYQ0stc3NZc1dSeE00TTJCZXFVa2dqMGh3ZDlpWEZDMUxPM2JTRDgxWlNQWG5vUWtWazNmQVdPbXpnbEk0aGNkSnpIZWwyeENOc2ZuQUlxcUxTS0F0Q245Qkc4VU52emxIb2dRSEI3cWFzS3Frc2lqdEJzVHRZX3RTS2h4Q2F2SlpwTGRSajA0TEF2R01DdkE5RFhfRml5N05ENU9qOGc4bm5IY0c2blNPU1FfTUxzSmNOT2c?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 09:10",
+    "date_ts": 1784020239.0,
+    "title": "Watch FIFA World Cup: Mbappe vs Yamal headlines Spain-France semifinal",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HZTFHMGZMaHZRS3pCX3FBcDhKUXRfdDdqcW5GMHFxdFJkMWtVMVM4SEhDZnhZNVNGZy1oNXhEcm1GTGxZelpkWHNrb2ZqMGZmb0FLZ3ZtOWprRUc3bVlOdEZDQmJfZ1JvYlFtdGZYcTJGQTdtT1EyMU9Pb3N5Z9IBgwFBVV95cUxQTWpDcWIxeFBRTzh3YmNMT052YVpuZ29pNllpMG0wTUY1OFpKbGp2QmtKT1d3azN2a2ZSQTd0S2h5WGNTekt2SWo0RTRZNDJzcF9ZaGc2eXZZOXBVYjBwMllsbGhjaFlqdWxBUUVwaVIwVnl5YmRpQWpLV2tYOGZjc0hfRQ?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 06:48",
     "date_ts": 1784011680.0,
     "title": "England XI vs Argentina: Confirmed team news, predicted lineup, injury latest for World Cup semi-final",
@@ -706,31 +730,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 20:20",
-    "date_ts": 1783801200.0,
-    "title": "Why Bukayo Saka Isn’t Playing for England vs. Norway—World Cup Quarterfinals",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDJRSjZLZ1k3LVdzTkpDZjBSR09FaWdMck44VG5MN3VtVlVZdDdlWGlodzFNZnd0cjAtNjhOOTNoenBWQ0J4MnJFS1RCUGp5Ul9QTzdWelItNkVaaThNdVRzVmhWenpCRy1Rc1B1cTQxM0FFVkxYTm5HRGtXc1daaVR3T254NzNZaHJQR3V3QThYSndBczRMN29WRnk?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 20:15",
-    "date_ts": 1783800904.0,
-    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
-    "source": "Action Network",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
