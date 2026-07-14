@@ -61,6 +61,17 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 15:02",
+    "date_ts": 1784041320.0,
+    "title": "How to watch the 2026 World Cup for free: Where to stream every semifinals match for $0",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMkQ4N3c0YzhTaTdsVGZMWDg3eFBlUFdGOUxqbjZpa1FKN3dJUzd2N1FvTDIwLUtsUEJjU1BaWTQ3SDd0NlJacm1UaUJacWFzTjJxQTNrQV9tZWRsY2c3WkhYcFVHWWNQZXBSLUpTbkN5NFpWWEcwcHpXXy03YWpMYXNkaHA2VkhFVG9RVHV6ZGFlRFFSQmhFcmV5enQxVHpJOGE2VTBUSEFQNlQyb05OajYzSUQ0VVhQWkR5bGRmb0RodENPcmlQTWRLcGk0dzVfTU9fYUNRYw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 14:30",
     "date_ts": 1784039400.0,
     "title": "FIFA World Cup 2026 – Spain vs France, semi-final: Score, lineups and live updates",
@@ -68,6 +79,17 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJDdnlXM1NyeV9fc1k1VkxkYnpza0FGc2hKWWV1bFB5M0Nibi1GUWZ4WFdVeDlXcmpJUUw1dFNwbmhzWnhEWFJiOWhoZDZkNUJGWnQ5NlF2dlZNNGU5bDI1SjI0WFoxbGl3dXlRNWJHWkdzUVc2bWRJeTJaM05VS2t2c003LWp6T2JyeUFvRFJTR1ZQWDdvQ0pZVmxONndYdTVGWUF2Mm5idw?oc=5",
     "teams": [],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 12:59",
+    "date_ts": 1784033968.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -693,33 +715,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 00:17",
-    "date_ts": 1783815466.0,
-    "title": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlJyX3ZCWl9nSkgxOTR2eVdBOEQ3REpZVFB4Z1dJaGEweEU0eUdaNEhXd2ItajlkSkZ4R1BaUGlYVlI3OGpwNGFyWU5Ld1N3ZlB6MW80VVBnbWZaazdwTEV3WGdMeXJZMkV6blpqNW9oZmNsQUxSd1E0aHBpdVNqMHNGNGtYVG45VGdWcDRjTzFpQWZMZWhYZ2JHelZFZUJaWlc1VF9KUnlzMlRLM0R3TFlGbHFqY3dpQ2fSAb8BQVVfeXFMTjBwb0NqQlZtTDBxMjRFTHhXRzRBU1NZU2FMMEo3S1d5M25nUE4wLXBhdFNMM2VxSWloZUZEblZMcWZLZ2VSSDNCQTJLMmtySEdURTAtZE13M0JqejlzMHpXZmIzdmxBYXg3OGtPS2JkZi1KVGc4UnB2LTcwZzVNMGp0VmVzSmdXallIWVQ5Njg4bC1FUWkxZW9yei1aOXVicVNKbG1QZEtZVTNOWlpMS01FSEVFNVV1dVB3cTUtYzg?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 00:14",
-    "date_ts": 1783815256.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the quarter-finals and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
