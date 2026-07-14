@@ -35,6 +35,19 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 07:00",
+    "date_ts": 1784012400.0,
+    "title": "World Cup 2026: France v Spain semi-final buildup; Atlanta police step up security for England v Argentina – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3VjU1c0djZ3S2N0dmJ0NW1kajZMTWo3dzZGMjMzWThQOG5LZEJCb0lwQnhsNWlOUG81Z2hPcG1hX2QzcXk0eDhqcUlXYnVHSF9uaVRjNjVIOWFqcWVhRUJMUmxudTNoZXVrYlBhcHJ6ZFV4dElTcXUzOXRMMHdvc0VVTTBFRDJUUjhscmo0dDNpS1ZiM2dJNHdVaWVHMjZtV0ZPSDFISUdHSFBBZTVLOGJpaUhhZDkx?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 06:48",
     "date_ts": 1784011680.0,
     "title": "England XI vs Argentina: Confirmed team news, predicted lineup, injury latest for World Cup semi-final",
@@ -424,6 +437,17 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 04:57",
+    "date_ts": 1783832220.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 04:54",
     "date_ts": 1783832063.0,
     "title": "Which teams are in the World Cup semifinals, and what’s the match schedule?",
@@ -702,31 +726,6 @@
       "Noruega"
     ],
     "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 21:10",
-    "date_ts": 1783804200.0,
-    "title": "Argentina vs. Switzerland live score, result, highlights from 2026 World Cup quarterfinal game",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUk4VWMzWDlISUZmckhkQm0tTGFRSGhpRzVKNG1FNXpfbmZaNDVfaVRpdG5PYkJvSXhnRkNKTzgtV3pDOWI2VTRVbTlwWlBFN3VrS1J0TDJ4aWk0WUF2bll2ZDdSOGRJQ085MnlVX2VYUEdLSWo0THJfTy1IMXVWczdKSmc2MC12eHg0TQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 21:01",
-    "date_ts": 1783803698.0,
-    "title": "World Cup 2026 live updates: England vs. Norway, Argentina vs. Switzerland in quarterfinals",
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYklLMFdxQnQ4aG5ZRHJ5OXhqdXIwenc5UERvUklPN0hiR1JlUEp5YTJYNlpVbWl4c2dnaXpaWGMzZC1Xbm5BNkZWT0lETG9kNDRuaWdab0lKVDh6cnZ3S2VybFU5dG93UkhvaVU1S0hwY2hGNnBNNUhOZXNwb1h5MWQ0Z3NWR2J4Z1loTXB4R0hRNEJEN2ZWQ2ZxTHpWVjFTOHBmcWtUQzc?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   }
