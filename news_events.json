@@ -603,6 +603,20 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 23:12",
+    "date_ts": 1783811523.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 21:57",
     "date_ts": 1783807076.0,
     "title": "England’s Jude Bellingham scores equalizer vs Norway | 2026 FIFA World Cup™",
@@ -719,20 +733,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 19:47",
-    "date_ts": 1783799220.0,
-    "title": "World Cup: Kane's England clash Haaland's Norway for semi-final spot",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS256RFd1LWQtNkVUR1RZaXk2QlFhTU10aVpIVDVWRVloNnpHQ1I2Q2l2VEplelpsSnBRZDFGM1VYNFZJR0xLYTJqdjRaMXZPbmZDYVlDT3Jtc2RkNUdySzhrbnVhQVZ6ZEl5aDhWb2s0eld1QTlYcDBzZXRuc0VOWDk4Zk5MbjV5LW5saw?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
