@@ -13,6 +13,17 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 09:17",
+    "date_ts": 1784020656.0,
+    "title": "France vs Spain mega-preview: Predictions, form guide, key players and more - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkFIX0duOUdyYkljb0JUbjVIYUV0OUxvVjdxLU1LR2NFUnZFZUF3bDFZMDN6dFNzb29sYkk2MlVNaE9BME1LamtuaVc3aGF0U01QQ0EtUTc1eUtPdWVMdklqQ1JpUHhvTThYSEpzdm5NWjl3Y3NUYmNGVjFOWWhjeDdvUzhnOTI2UFZiSFNtNlVXdmhaaVNVWjFaMHRvc21yNlRwSnBVeFA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 09:10",
     "date_ts": 1784020239.0,
     "title": "Watch FIFA World Cup: Mbappe vs Yamal headlines Spain-France semifinal",
@@ -716,19 +727,6 @@
       "Noruega"
     ],
     "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 20:44",
-    "date_ts": 1783802683.0,
-    "title": "Four England players at risk of semi-final suspension",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNel9PWUhzb3lFUkVBQ1pxZzRnQlhFaUh0bjVlYkJNN1VCT1czNm9JZS01a2FNVmJ2dGFMbVM5UWJXcU1ncDRCLWdEeFUxeXBPM2RLVnhUT1NRa3c3RUt0Zlp1VjFxdk1oSGh1alJWMkp3T3hkOFhCczhOZ1hhZmhVYUhuSzJ1dw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   }
