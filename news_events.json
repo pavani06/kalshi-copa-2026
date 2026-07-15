@@ -1,5 +1,31 @@
 [
   {
+    "date": "15/07 12:10",
+    "date_ts": 1784117404.0,
+    "title": "England face Argentina in second 2026 World Cup semifinal: Live updates",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXo3aWM4M1Y2b1FlNmNGekE5Wml6OEVzUjhmNmd4OFRSM1ZVX3NLMGdtenlMMFM2bEtvT0toYXlSQVVmV1N6U3VSeW9rRkRiWUwydGUwVGJzS1E1Qkh1c3BPRGRyZURsUm5wSE9XanNOSi1rU0J1TkhpcktTMEtDRUE5SUJ1dklib1Y4NUFVeWUyQUllbWJFUUVKaUFjNEFIaDVOSXRQbXVWOE5NX2s5enNjSTUtVzFkVzVXWnVSSzhtVnM?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 11:51",
+    "date_ts": 1784116315.0,
+    "title": "England vs Argentina: How to Watch, Start Time & Lineups — World Cup 2026",
+    "source": "SNJ Today",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmZ0FITnJwakVkVWYzSXNvUld5a2p2MkdjVFFkZUpZUjhaaFFwOHR2ZXlTOHZyeTdiVlVKa1ZZampwcjNNV2ZyNnpzVnotSjAzVVo3WGk2QTc1dFpET3k4NF9HR0MtcVp2Z3ZBQlFPNm1UcUE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 10:21",
     "date_ts": 1784110874.0,
     "title": "FIFA World Cup brackets: Teams, predictions, schedule and road to the final",
@@ -694,30 +720,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 12:58",
-    "date_ts": 1783861085.0,
-    "title": "World Cup semifinal bracket: Updated schedule, results for 2026 FIFA knockout games",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXBlWmNBeHplLVA2YlFtSHI4cnZUQVowMVhBXzlWZV9qazNDcDdVWXhYN2RKMDlxU05yMXFKaTVjR3otZk5YemJOb0NmTGpjNXFuZUZGeUdybUhBZDY5V25PS0JZTTZVS09SeW96MEdHVFlzOElZT3lPUDBtZVFrNFRiN1JLWTVDeF8yXw?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 12:01",
-    "date_ts": 1783857660.0,
-    "title": "Are There Any World Cup Games Today? Semifinal Schedule France vs Spain, England vs Argentina",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMF9Eb0p5ejlJNHRxS1BKY0dsamZxR21OTTU5TS1nRGJaYjh4N0ttZVZDemtnMjA5cGZySjg4M0VXZjd5Ti1HSUp3T1k0Tm5ISGpHNlkyTmhUQ1FiaGxJXy1FTXhaZFExTEU4VlVEVEphaE9YZlAzdHVXZ3Vyd19BWWJ0M1A1SmREV095LUo0dGRkdjU5eTFVaU56YUV4OW5vcHVXcXdHZmluOHZ5eTZTRkVuT2lkT0dCckNMblFBaw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   }
