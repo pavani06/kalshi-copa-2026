@@ -1,5 +1,18 @@
 [
   {
+    "date": "15/07 19:56",
+    "date_ts": 1784145406.0,
+    "title": "World Cup 2026 live updates: Argentina, England scoreless at halftime of semifinal",
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRG5NRUdoaDhydEVXMVYxSjh3RE5pS3pkTUFfckduaHgtblBHMk9SczR6dlhkQVd6OFhoT0F0T2Mwc1hGX2xBVlNkZDdUUldreGk1X0swOUF1bVhwUVZBN2lFTDJQaGJGM2kzc09JWkVKdFRfNTRnVm05b0xjYzg3VHBjMUo2MmxnOHlZOFliN3VrUWRiUW1jTTEtd1ZWbF9JclVESVJ5dW9BOV9zV3hNamp3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 18:11",
     "date_ts": 1784139075.0,
     "title": "2026 FIFA WORLD CUP: England and Argentina confirmed lineup for Semi-Final Showdown",
@@ -712,19 +725,6 @@
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVVRiNGR4djBXRWdZaEFIaTRNbUhQU3dzdXowbmVYdml0Y3RqMEZCQXVKdXh1XzIyOThVRFpUdWZpMUtpc3lkZG14eEFqcTFpMWxxVFlFaFMzRDAxaTd6bTV6X1lXcGpHal9LbTY5Z2lJX0I4VFhiWkxxNXFzLVlWM3N4T1N0aFRVMEtFU1FOeGthbTVnU0VXcVBaRG5QWGFaLXdoRk5XQ2RUTjNDWkQ0WVJDQUVyd3MwSWszUHhMSklvdnMxQTg2VXkyQVBpcDl5UFBXLUU5ai1rRjNmendZd1RndldHcnlQUjF0b2I1OXI?oc=5",
     "teams": [],
     "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "13/07 19:06",
-    "date_ts": 1783969594.0,
-    "title": "England football news: Live updates, schedule and analysis of Thomas Tuchel's Three Lions",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeVlHSTJsY0pkMGNudnVSRkEzR2kzZVpZbUlEV09ncXhPRVFXUk11NlFzTjkwZkIyRHcyOHFpWjVzdDVFTWpPeVAtZTF6OFNvSnpwWUd1SjlabEc2X0txRmt2cFltS1JsQmZLcS1GcDNxQzV4dV9Sa1BWOTlrQmtERUJsUzFvN1pvcHZ4SmpwdFNMQ2tGWkRSY2w0eGlmOUY4Tmc4akJpTG5ObHZwdGpfc1dxUEppMGlNenZaazV4U2ZIeWN2Qm4wTjdKMTZiQlViQ0lPSURUaGZKeVBTY3p3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   }
