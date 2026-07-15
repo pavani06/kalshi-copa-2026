@@ -1,5 +1,29 @@
 [
   {
+    "date": "15/07 22:25",
+    "date_ts": 1784154300.0,
+    "title": "Argentina's epic comeback vs England sends champs to World Cup final",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVllDT3lXQXVjMjY3MllRZHdYRXVCaFpKTmVEMjBQWm9sbTBYWW9ZQzczWTFvcGxMU0xaLW4zNF9zdU5VSDVuVlh6ZG9xMlRjU1ZQQXVTeWlGa1JUXzQwblZvRWtHSUxTX25KZWN4T2czVnpENGduTVU5Y2hVOEo0WFlKYWxnVUc0VzFHaks3MTdGTXM3V2FMZ2g3SmszaHg0Ukc4a3Bad0FkaDhQcXVmRkR5NVlPQmN6R2RqZFdpZ2ZTYnJQNmJBbGc3SEJodGJPRkVOX05JRjdHTVJmbEtJQQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 21:32",
+    "date_ts": 1784151120.0,
+    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNExLUnZXZlpubEVkN1E2NGFCLUc4T3pyakhETnpSdC1BU2l1WFREcFhadUI0MTRLMkJiQktzQ3JyS3lEX3k2a04tck5kR1REZ2tSY0E0LXFGQ3dPV1hWd251SkMyTUR3TmxleDZhQW5XVE5fU09WWmxhNktXVi1yd0Z5ZVBIVEhIXzVIcVFZM0gxRjMybndKZXlCaEVGNGlTbmg4b3h0NTdzU213VHA3Rzc3R2NqamY0d3N4LUc5TngyQkNYTnc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 21:32",
     "date_ts": 1784151120.0,
     "title": "England vs Argentina Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Semifinals",
@@ -9,6 +33,19 @@
       "Inglaterra"
     ],
     "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 21:04",
+    "date_ts": 1784149440.0,
+    "title": "Argentina stun England with late rally to reach World Cup final",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2pENkVHRm5IcXJUeVIwZGEyZnBzUXRhTTEzSmRXNE0wbUhhZC1DMXFxWE96NFJCLXFzd2hlMWhTY0pGVlFOaDRhU2laWlppYzNpNUVHdHBiTW5SdUx5WTBhaXVhSEltRE1SY3IwTEJYMmhZa2VPYXpURXYyS2JTdjdLcnljMzRJWkpOaGRvMTU0WENmLU5yMnhzMEFCSnNCSXVz?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -694,41 +731,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 09:17",
-    "date_ts": 1784020656.0,
-    "title": "France vs Spain mega-preview: Predictions, form guide, key players and more - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkFIX0duOUdyYkljb0JUbjVIYUV0OUxvVjdxLU1LR2NFUnZFZUF3bDFZMDN6dFNzb29sYkk2MlVNaE9BME1LamtuaVc3aGF0U01QQ0EtUTc1eUtPdWVMdklqQ1JpUHhvTThYSEpzdm5NWjl3Y3NUYmNGVjFOWWhjeDdvUzhnOTI2UFZiSFNtNlVXdmhaaVNVWjFaMHRvc21yNlRwSnBVeFA?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 09:10",
-    "date_ts": 1784020239.0,
-    "title": "Watch FIFA World Cup: Mbappe vs Yamal headlines Spain-France semifinal",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HZTFHMGZMaHZRS3pCX3FBcDhKUXRfdDdqcW5GMHFxdFJkMWtVMVM4SEhDZnhZNVNGZy1oNXhEcm1GTGxZelpkWHNrb2ZqMGZmb0FLZ3ZtOWprRUc3bVlOdEZDQmJfZ1JvYlFtdGZYcTJGQTdtT1EyMU9Pb3N5Z9IBgwFBVV95cUxQTWpDcWIxeFBRTzh3YmNMT052YVpuZ29pNllpMG0wTUY1OFpKbGp2QmtKT1d3azN2a2ZSQTd0S2h5WGNTekt2SWo0RTRZNDJzcF9ZaGc2eXZZOXBVYjBwMllsbGhjaFlqdWxBUUVwaVIwVnl5YmRpQWpLV2tYOGZjc0hfRQ?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 07:00",
-    "date_ts": 1784012400.0,
-    "title": "World Cup 2026: France v Spain semi-final buildup; Atlanta police step up security for England v Argentina – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3VjU1c0djZ3S2N0dmJ0NW1kajZMTWo3dzZGMjMzWThQOG5LZEJCb0lwQnhsNWlOUG81Z2hPcG1hX2QzcXk0eDhqcUlXYnVHSF9uaVRjNjVIOWFqcWVhRUJMUmxudTNoZXVrYlBhcHJ6ZFV4dElTcXUzOXRMMHdvc0VVTTBFRDJUUjhscmo0dDNpS1ZiM2dJNHdVaWVHMjZtV0ZPSDFISUdHSFBBZTVLOGJpaUhhZDkx?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   }
