@@ -24,6 +24,17 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 21:56",
+    "date_ts": 1784066160.0,
+    "title": "Every team's championship odds for the 2026 World Cup: Spain new favorites after win",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 21:41",
     "date_ts": 1784065262.0,
     "title": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
@@ -706,21 +717,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 05:02",
-    "date_ts": 1783832520.0,
-    "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzN6ZVZRMUJ4QmxUc2EweW8waXVrS0lGcVU0aWdua0p4WTRySnJjRF9FczRqQlphZWp4R2o3dEljc0FwUFB4MGEtWWJnUThNcHdpdTlpZDd4T3pqTDNVcVlGQzg0bDZQeXc0S0ZTcE9WVHcyc24tdzhEUDlsM09sak43UlFMODJRWTdMcDBoX2hLanZYal82RlBJSGxQSU50M0NZV1BOWnVSdG5obHpFbmNCczMwYkhha2tV?oc=5",
-    "teams": [
-      "Senegal",
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
