@@ -1,5 +1,40 @@
 [
   {
+    "date": "14/07 22:55",
+    "date_ts": 1784069700.0,
+    "title": "Dominant Spain shuts out Mbappe and France to reach World Cup final",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSnl2YnJFVFJTZnFlVTdjRC04Z05kZVBBWnNoNXVHNDRERllvUHhVenEydTJxLXRxT3JzbEY1dVQyc1JTQlB2ZXo4ZkFGMHZtMnNpLVVlM21TaF9fOXI5RDk5QWlKcDRCOVVyRTBYeC1ZaGd4WjJLZ3ZYdkx4SC1ZU2lPNUZKcXNlcnZIN2wySTRnX1RldnRsQlZPTHNsckk1QUd0azRqTEVRdVF4TFVxcEtIczFXZDVLb3B0YlNnZXZqYTRURlBFR3AxOW5BODNObEs3alpLN3ZsUVE?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 22:28",
+    "date_ts": 1784068091.0,
+    "title": "England's World Cup semi-final squad hit by Henderson injury and Quansah suspension ahead of Argentina clash",
+    "source": "Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGxMUzd3eG1zNnVjMzJESS1zeHV0NENPSkNFTGg0azNKX1pWY29aN2hoaGxVQlkxbmYxM0R1a05mNmJnT1U4SGk3UlpyRi1qWmxQREhVeVcxTkQ5LWR2WVprc2JibURBMFFoaWhLMTZ5R3RDeHNpb0todUR2YU5qTTZVUDY?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 21:41",
+    "date_ts": 1784065262.0,
+    "title": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3hpOU45VUEzYkItcDVVdUR0ekkzRGlOemFYX2JoVjk4ZzhxQ1FMWUx4cmM4RUFyUnlZVmFVYXVQZDhRLWQtNGJXYXZITlFuekJKWkFmMkt5MEZUR1VPRWpCd0NuNl8yZUZvbEZPbzhLNlBMV3lzMGFvR3U4NG1rZzJHb2xsYkRWSURURnhLR1RjcnBBNTZ4LWNDdHM4bEJsNXVLMFl3MXlUYTZtUEI5TkpZUdIBuAFBVV95cUxQUGl0eW5OVkxyZXZ2bjJFSEhoRGQyS1Uta29ZY0tWWnhfS3Z2cm5ncmVYSEp4Q0xWTzZaUDltU05KSzN3TENZbWNyYzNBQVQtcXhyRXQxakdlZ0VTbkJwLW5NRk5IRVFSS2d2T3BVbWNCMlo1VWZoalhIelBLS1Z4NTl3cUtSX0NsaF9WUDBXT1M5MzJfZUdoWnVYQm8yVmI1M29yVGZPQzY1ekJ2bXp6dXFBSld0SWd2?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 21:27",
     "date_ts": 1784064435.0,
     "title": "Spain scores 2-0 win over France, advancing to World Cup final",
@@ -19,6 +54,30 @@
     "teams": [],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 21:06",
+    "date_ts": 1784063180.0,
+    "title": "France vs Spain Highlights 🌎🏆 2026 FIFA World Cup™ | Semifinals",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Fano5NW1WMEl0NjVtQXp3bU9Md1ZocnU2UzRhTDBiQ1ZhMkZaSUtocDgxdlRkemoxR2xTUFM3d0p3VXdMc0IwNGVVQ0xuNGtUZktBTVRDcVF6aUp3RW5MMU9n?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 20:16",
+    "date_ts": 1784060212.0,
+    "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdWVwc2FtaUtfMXVUMV9yYTVYQ3hERGE4ejdtcUJCeFRNX0FPd0JDN3JKZnlybkdjX1Z6M1hXRmVDTElWSVc1TldPeUxKM1dUOTVKdnlYTElvSWNldFRpbU1yVENZaW8?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -82,6 +141,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 17:42",
+    "date_ts": 1784050920.0,
+    "title": "World Cup 2026 today as it happened: News and updates as Kane backs England, France and Spain prep for semifinal - July 14",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOXk2WjFYVm92TUFEZ2RLUnpWZzg3bkNuRGRvd29vazdWM25xZWZVd2s0Nm5lQS05bjAzVk9BcEY3c09wY3ZPSVdFSzVRcmJGRkVsU3IyZHRpYlVEaGRVME1ERjlrQ1NwbjFGbXE5NlhNeHJQdHhqcjA3bUFVTGtkNXZ1M3NHLXlJaWo3ckh0NHJURlEyRFdTcDd1anNNWDhDa0Jyd28tbDNDdVpxbEhtdk5ZQnZEd1JpVE5yZVd3M3d0N3NGUFd1SHBfSVBmd0czOEVGdnJZWERRaWFrN1FoMlZqcw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -649,74 +721,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 04:57",
-    "date_ts": 1783832220.0,
-    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
-    "source": "Action Network",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 04:54",
-    "date_ts": 1783832063.0,
-    "title": "Which teams are in the World Cup semifinals, and what’s the match schedule?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTNxcTBEWldJQmdINHBSNkF3TUhYbDFNX2c4T1ZDQmREZ1FQT3F2b003MEtNNU5aV0lZZXBmcWRReWIwbVA4WGM2c2ZPOXg2YjN3by1uYW1FZ0RIeDBTWi1tZENwem1IMDZwbU9wbHR1ajM4VFFQU29pb2p0aExNTFQ0ZVZrMExnbXJPMWJfZEYyMTczQ0Q5RlZXanR2eE9uemlXZEZjcmVBekRmXzUzR2o4WXo5Z9IBuwFBVV95cUxQbUg0NXZzZXFKTDcxR0dHOUl4VEZCYXJ0cHp1S0cwMVNnN2xkODBIZzEwLXJTOFBLSldZeGNrUXdKbnkwd3RVMHZLSkl0akpoWGpqdHpiSHUyZktydkRDbk1CRjBNUzg1NmdFSFFhckppWmVMd3JVelRPTl90T3JQcER2R09jdUpGekhKMGxlRV9kM205UGktcDNfTGVoSjNuekFPZmE4Y2pIdktwVDNkb0hJWGdsdUoxdTNV?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 04:46",
-    "date_ts": 1783831560.0,
-    "title": "England at FIFA World Cup 2026: The Three Lions' results, scores and standings - full list",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjEyeWNWSHUyZ2lhVDBfMW9fd3NjMUYzdGo1RTMwZDZNaDhsaE54VlotR1Fsa2RFVXltdEpqcEE5MWtUTkdUNmZWUkpoUkxMcV9wWklnR2FCbU1jampGVlhCaC12bmphUF9jYTZMT3ozTUtmV1ZSeXF3cDROUHNlZlctM0hENWlOWmgwVF9xTXVZSmZYcE9UTGw2NkFjT1hnekVhSmk4UTN6TzA?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 04:45",
-    "date_ts": 1783831500.0,
-    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 04:30",
-    "date_ts": 1783830638.0,
-    "title": "Argentina vs Switzerland Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoaDlSalZNMDZLMTV2aHV5a2F2V3RCTVJwY0tkbVpoTExIcHdzLUg0NHNVZG10S0RvazVDeE1QLV9QRkpFbm1oc05qcFZQUnBMbzh5T3hXLVpjMnRNTC1LbDVB?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 04:05",
-    "date_ts": 1783829101.0,
-    "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWc3WGtyemhwZ2VjbXNaQTlTVnNobW9TTmhtMkxVdl9xTHVXOVpBNS1mOGc3MkgxTnZaa3B0VE1DVWxCMFZGZGFlTGlNb0RMWGtkazBIckpMemhYZ0FxbVVfN0NCRGdEMXBxcGl3ckhYblJaaUNFRFhaTGpfSjJKNE5YYzZZZ1k1SENnUDB3UXUwNjJXRXFWWWctajdUSFdZNkRKOFNfcy1KN2NjZVpyT3J5V2R3QWhNVm01NzlQbHczYzd1WFA0?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
