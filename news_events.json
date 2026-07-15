@@ -181,6 +181,19 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 17:37",
+    "date_ts": 1784050620.0,
+    "title": "World Cup: Bayern stars start as France and Spain battle it out to reach final",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3FhU1BnMVVZb2dUbk1Pemk0OE90RktTck9aTGNyOHpyMDliSmxqR1JILVR5eGtmdzh6Z295MnpxLV9heUZCcG9mMWVUNHV4MnNjNGNqWV9CdUhqbWZHa2lDNU5DTnhNaWVFVzZQZXVNWmZ5cjQ5akJXekJjQUlhV0JCQnNvR3ZQYVpBNXp3?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 17:34",
     "date_ts": 1784050440.0,
     "title": "Spain lineup vs France today: Starting X confirmed for World Cup semifinal",
@@ -706,17 +719,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 06:07",
-    "date_ts": 1783836462.0,
-    "title": "World Cup 2026 Latest Scores and Fixtures",
-    "source": "FourFourTwo",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXJOa3djSWN1TVJ3aFNfX1FNNnk0X3RyWG9hdFBROFU4eHlmel9zZTl6MlhHQWNKRW54d19YUFBVY2FIY3J4bHlQc0xDNTloVVpTWGh5MHZzTXNuelhHU0F2X3FibWMycklPWlllT1BraWEwSTJMTzRRT2syTE81dW1fV0lhOUxGRUVnSjY5a2ZSTzlrcWJMRWE2SGdCQQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
