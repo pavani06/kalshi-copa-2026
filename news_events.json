@@ -63,6 +63,17 @@
     "source_type": "news"
   },
   {
+    "date": "15/07 12:19",
+    "date_ts": 1784117940.0,
+    "title": "How to Watch the World Cup Today: Schedule, Time, TV, Streaming for Second Semifinal",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelVNclZZN29GMFdMLXdaaTY3OHhDTS0tdTV0SzlNeEYzNmcwRDZjVTFQYnVRZGR0cUZzNWNOZFB0eXk4bDdyUFVDaFp1VEdKVFFFMXZjUjh1YnI5SUx2bGU2cGdkblBtenNDa0MxZUI0bzM2Zml5V190OVlhM0VNTDRMMzl0LXY0d1hUejZBWDUyT2ktYlRPYTRuNFhSaWJ4QmF4QW1oem5tZjFSbnNr?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 12:10",
     "date_ts": 1784117404.0,
     "title": "England face Argentina in second 2026 World Cup semifinal: Live updates",
@@ -121,6 +132,19 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 06:46",
+    "date_ts": 1784097960.0,
+    "title": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQREZiemNPS2lvUEptd0FxS21ZeEMyeGFwbG96WWoxN1RURExXM2VCZEtFYU41WFo5WVJ3Mm9JZzYzOHlZYTltWmFFbzZKLTZST2w5Zl9LTnF5a1NURUI1N0RwS1BCNlhnSXNNTVlQZmhPYjUxNDdzaHJmMUxjQkl4RzY0NkxOeEdhWk5UcGlnNUZ6QkV1blVTVjJoNko4SGtYN1RZU19qbDZya3ktTzNhZlVpbnNEdWV5QjBsYjc3c0JCZFZWQjNqdFBNNjFmUF81XzZscXhpRG52UHc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -696,30 +720,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "13/07 07:52",
-    "date_ts": 1783929140.0,
-    "title": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhHdTlLd0VGY0VpTkxUSmVDa25qRkNCQUkta1lueVJaQ0NaRWZva1ZmN1RjeGhZRGxiZXhPa0daRk1fZVlBMDhibmdDT19FZWw3RVpVZWJKMnEtb3VfVThMZDVpT3MzVGhyVW8zaFN4M1NkaFFYOV85OHd2ZDFIQVpDWVN6cTBEZW42S29Sa3M0RjJCSUNzZFZR?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 23:44",
-    "date_ts": 1783899855.0,
-    "title": "2026 World Cup bracket: Full knockout schedule, soccer results, how to watch",
-    "source": "Times Union",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXUwRUFYeVk4bXhRUG45dGhNYXRuM1VDRlB0MGhieVZkbGpyRmpWdkdNdkUtSHUxbGt1REdKbGlDaU03SmF1R0RCTDQwUTl6bXJvWVhPS0VieGlSbWRxZjBsY0p3ZnFPRjZpb2p1emhIUm9FUFR5Qk9rNHFtX1NRdlJRZ1A2bEpzMnhDWWhSc3llVktXYmRSRGZJTDZfdw?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
