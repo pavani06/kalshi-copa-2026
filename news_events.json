@@ -1,5 +1,16 @@
 [
   {
+    "date": "15/07 10:21",
+    "date_ts": 1784110874.0,
+    "title": "FIFA World Cup brackets: Teams, predictions, schedule and road to the final",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejFuYVhVMW5JZWotbENRUHFzZ1RDVXpVbnNXRm40VThmNE9RRnlqOWZ0UGEtV0hid2g3Tm82cm1rTFRSLW5kR25QWVUtRDZ4eVM4eV9UWThhaUVUc2RnRXdlZGNwT0tId2xWb0xnRGpmeExSNFowM2xvQXF0RmtMSS1KVGgxb1JVWDViYUFxbktSeGFwWG1SUkpSaXV2TXJoQjNDd1VJdG1WNmRkWGVKaHBpMNIBuAFBVV95cUxNRTZxMjAydHRKUEx0aVRBcjlOdVF1NUJ0Z3hob0d3WTdUa2xNZzhTOGRLM0tzNkphSjNqeU9JOG5EbE04Mm0wNnpiaWF4Y2hlSXBmVkNhZUpzZlA3ajdCQy15bVdtNnYxZkM4Y3k1eHVkb3F4eGVmQ21jaG12b2xpY3FsbzN1NkNHeFd5NGhSTW1pTVFjN0JEQURnLTdfN3NiM28wYUVlZjlrcDF1bGxWVmphTDBwSHpx?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 08:42",
     "date_ts": 1784104961.0,
     "title": "Watch FIFA World Cup: Spain defeats France to reach final",
@@ -708,17 +719,6 @@
     ],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 11:36",
-    "date_ts": 1783856211.0,
-    "title": "Argentina vs Switzerland Results Today: FIFA World Cup 2026 Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWZxVHB2QlNMdVVrdGVkVEtmWk9zejFHb2tick8zeHMxbGFPWlBFVnlraVRtY1VnTnM1bXNFUTlqdzJOOU8zZUNHUzlUck1xY2lxU05xZGR2NEJkSnFfRUhncjZrQS1aZkxMLW1Najg4OVNlS1NjaDVSVWRUMVlRV1cxTzBTQWZQbllBYXRyVmw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
