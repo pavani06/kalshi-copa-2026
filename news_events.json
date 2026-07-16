@@ -594,6 +594,19 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 22:27",
+    "date_ts": 1784068020.0,
+    "title": "2026 FIFA World Cup bracket, results, scores: Semifinals matchups with Argentina, England, France, Spain",
+    "source": "CBS Sports",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUJTLXlOOGw5VldMaVBRa3EzOWc0M2Q2U0x4X3I2NWtNcjlQZDVHWmxieEpHUU43RS1EMHNuSmlaZ2o5Zkd6V3NLNUdaVU1pT2c5NllFNXZEdWYwdUNrYzhDa2NpLUZHNThhMG04SmZJQ3Y3UFhWVVBlbzMwdFZFUzc1b29UOHdJMk5GNFRvbmsxV3BCakp0M0p4RVpOUWlQdExBa0lhRGFOOVU0ZlJUQkRWUQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 21:56",
     "date_ts": 1784066160.0,
     "title": "Every team's championship odds for the 2026 World Cup: Spain new favorites after win",
@@ -718,19 +731,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 18:06",
-    "date_ts": 1784052360.0,
-    "title": "Spain lineup vs France today: Starting XI confirmed for World Cup semifinal",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelFwaVZ3MEJqX3dEbklOZnFRc0VZYkx2b21QUUFmMjY5dzdpeFlIakZZQXAybnk5LWptdkVEMnd6b0FiRDFNSkZaTHBNeV85a3EwaWdvd2QzU0hWT01nbGJjTVhIbElLN1pfTnFYcTJoMEstWUpnR3VnTUhiNmp6SllIX25lVGFQandXbkJkdDNLM3NIc3cwbkloMHhoWDk2aUZNUkM0b0V5eUpHNFpKNm00Rl9YcTJSQUl2bQ?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
