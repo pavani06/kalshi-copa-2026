@@ -37,6 +37,19 @@
     "source_type": "news"
   },
   {
+    "date": "15/07 21:05",
+    "date_ts": 1784149517.0,
+    "title": "England vs Argentina Highlights 🌎🏆 2026 FIFA World Cup™ | Semifinals",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DS21FRmtXVTFZOEVRNkdnNTg3VzQ3UnVxQVFxUFNvUTVhdnhnNkljNWlubUJXTkFxeEFyaVRjdFhkclNSSG52ZDFWNm9tU3hzY2NaTWduaXRLWXIyeVY1a2hn?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 21:04",
     "date_ts": 1784149440.0,
     "title": "Argentina stun England with late rally to reach World Cup final",
@@ -177,6 +190,19 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 17:34",
+    "date_ts": 1784136871.0,
+    "title": "England XI vs Argentina: Starting lineup, confirmed team news, injury latest for World Cup semi-final today",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMlpILXYxa1hhVFVCbHhaVUFTS3VKN2FXZWpUMkYtUXNyWF9nVS1EblVOXzRhYXNHRnptSmZMVlNDOGxreWl0WkpNd2RnS0dyc2xXSHFqcjhkek55Z0VIN056Wi1FZFZsaEtfLVpuZjUwemFTMUJMb0k3c1p3dlpXTXFLcmRRaUIwdUE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -706,32 +732,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 10:16",
-    "date_ts": 1784024178.0,
-    "title": "England XI vs Argentina: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOXVFSjZGWWFPcnNfRnBkTTBwRWZfdFB3Q2M2amdia3hDMktYQ0stc3NZc1dSeE00TTJCZXFVa2dqMGh3ZDlpWEZDMUxPM2JTRDgxWlNQWG5vUWtWazNmQVdPbXpnbEk0aGNkSnpIZWwyeENOc2ZuQUlxcUxTS0F0Q245Qkc4VU52emxIb2dRSEI3cWFzS3Frc2lqdEJzVHRZX3RTS2h4Q2F2SlpwTGRSajA0TEF2R01DdkE5RFhfRml5N05ENU9qOGc4bm5IY0c2blNPU1FfTUxzSmNOT2c?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 09:17",
-    "date_ts": 1784020664.0,
-    "title": "England vs Argentina: Declan Rice fit for World Cup semi-final as Thomas Tuchel's squad issues begin to ease",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSUpTeTB5VVFSX0UwNmJlYVBjbkhzbmpJdGFid2Y5bnQ4UlRnSUR1aXBERnpYZDlua0NLbUhLWmotNG01OGN6U293djN4RHNIMTlrTHhLbVZYLVphQ0tUU2hMaGhCMnFCaTl3MXlNaXM0XzFYZGJjandpWWtEMU8zZDNub0RXZnVadHU5WThpeTQ0eGJjazNDM2pIck5sdVNVcC1kd2E3SWNFbUF3bmVHLVRLY1IxRURkRTVlelJZRE1ONlNKM1VvMmpxbC1Wdk4zUEdOZWFyVWJoU2R5WGxVbU1vbjRpcmN5MTc2TDNWWWV3Wlk?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
