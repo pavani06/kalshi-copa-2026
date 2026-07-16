@@ -1,5 +1,18 @@
 [
   {
+    "date": "16/07 01:52",
+    "date_ts": 1784166740.0,
+    "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
+    "source": "Radio Times",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWTZNUkhwSmlzZkticTFQLUZwTEIwNVJOdmc4NXcwb0dNT18tUG4zMUtFTzRMNDFsYU9sYnppSlBGd1pDWldFS1RPZHV3Ry1uTDFQYTVNTTlrOWZxMDhHdHlZcWpMbzZ1MTNsUW9MZ2JfdXRhNTNWMk9CSHBCLXM?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 22:25",
     "date_ts": 1784154300.0,
     "title": "Argentina's epic comeback vs England sends champs to World Cup final",
@@ -34,6 +47,17 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 21:12",
+    "date_ts": 1784149957.0,
+    "title": "HISTORIC COMEBACK 🇦🇷 Argentina Scores Two Goals in Second Half, ADVANCING to FIFA World Cup™ Final",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42S1NyNm4yQ01DY0ZzRDBTTzRaTUN0djZpdGFGSGcwMFFhb2RVU3RQM28waEZEUTlWbVVoUkJINDNDVkcyS0x3X1JEek5pakNIZ1lwSkdwOS1rX3VfZGZaVTBR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -705,31 +729,6 @@
     "source": "olympics.com",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJDdnlXM1NyeV9fc1k1VkxkYnpza0FGc2hKWWV1bFB5M0Nibi1GUWZ4WFdVeDlXcmpJUUw1dFNwbmhzWnhEWFJiOWhoZDZkNUJGWnQ5NlF2dlZNNGU5bDI1SjI0WFoxbGl3dXlRNWJHWkdzUVc2bWRJeTJaM05VS2t2c003LWp6T2JyeUFvRFJTR1ZQWDdvQ0pZVmxONndYdTVGWUF2Mm5idw?oc=5",
     "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 12:59",
-    "date_ts": 1784033968.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 11:59",
-    "date_ts": 1784030385.0,
-    "title": "Are Vinicius Jr. and Erling Haaland playing? Brazil vs Norway confirmed lineups for the 2026 World Cup game",
-    "source": "MSN",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS1VZclVxWFl5MXlzLVp3Rkh4aWd2WkxsazdIb0dJNUlwYncyMzR3NGxhei1yWGJVc0dhb3NwbnRfV3ZmMGRtV25nXzJkNElBMHlMV25MOE0tUkY0TW1kS3l6TWpNZUJvN21rQ211eU9SZmRJeVY0ejdzNElmZmtBVF9namtoS0xyMUlCNVdlSlg1Mi1obnFCVnhLc3lydEp1Z0hVbFdpMWhqbmVSVXhPX3ZTdjFNRHp6ZmJPTExrWXNETldsQUhyOHhyQUtITWVpcHFSbXB4cmFlY1YyRnRiT0ZmV0hYMUxMYk05dGJB?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
     "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
