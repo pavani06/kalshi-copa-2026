@@ -1,5 +1,16 @@
 [
   {
+    "date": "16/07 18:44",
+    "date_ts": 1784227483.0,
+    "title": "World Cup 2026: Fifa 'assessing reports' after Argentina players hold Falklands banner",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xdXVPeGZiMW9PS1g0ajNnc1I4T0FCd0J5SHUwTXdPODRnYkhOMFh3cFozWmY4UHlvY3J1akpDeXRFemp4T2F3YXdDRl9ud0VwWV9MS19fRnBhVWhiRG5Rc05vQ3g3TE0?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "16/07 14:35",
     "date_ts": 1784212507.0,
     "title": "World Cup: Why is there a third-place playoff between France and England?",
@@ -718,19 +729,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 18:51",
-    "date_ts": 1784055076.0,
-    "title": "Folarin Balogun admits overturned suspension at 2026 World Cup affected USA vs Belgium",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2M0dmhrVWxFQ244T1JSVEhYU2lRTUlUdE02WlUzd2tmVGRyaEt2TDdMZ1d1NFV0OHpRM2ZXRzZ3eGpTYk94SzFPUmNiWXFMWmlFbktuUWFyczdobXZOa3Q4RUR1a1dZUG5aaDd3NDAtVDhzUEZrOHEybTBnbjRTWFJCeWcyLVFha3JtRVBaX1dvakthUTFlRmNCbW9USmdmbUdGcEE0RDdaQWx6Q3dVN1I0MGYwbm5obFZj0gHAAUFVX3lxTE1ZZkVKYTRrdHZ5N3hKNnhOVHMyZ1dFaHgtLUV4dXlWQkFpbmxfQjdvYUlTQWhrZTJkUDI4SGlLcGFKcENXanl6RlNFelFhTHNOeTdUT0RGQjJZUVAycmNUWVB4cmVqZC1ZUTlLWUc2Qm1jZG9leE9HMkhxMWlSNS1hTmJxaEIwYW5fSXo5aFVGcnI5ZXlTc3BhNFpWNmxOYWdBN0N4eXV5UXpycEFZcGhoR1hxdUdzeEtMWFYxY1NlRA?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
