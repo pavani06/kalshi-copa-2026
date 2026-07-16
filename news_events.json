@@ -1,5 +1,18 @@
 [
   {
+    "date": "16/07 14:35",
+    "date_ts": 1784212507.0,
+    "title": "World Cup: Why is there a third-place playoff between France and England?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMW84Q3FTb2hReVpqRXBZa2Q4RGtoa1NXWmc5VHhYOUVndFQzaXF6LVd4RTN5V2FQXzNPRHFSNDN5cXMwT21LNlU4OGRtSE81ZFF6VTlFdlVqdkRleWdMRlpBZzJ6T2d5SzlSaFBLdnFXZVI1eDhKd2UwSDRrZWtyeHdQSVJ1emtKUVFVMndSUmZtRlEzeXdxT3JlSVdpNHl3SEJzU2p2dXM3QmNaUTRqVWJSWU3SAboBQVVfeXFMTzc4dzBNS2hIdldVZjlXWlpQRTFPcUJ0WThrMWZBRWpCRXVsaTNZeV9rVlFoUWU3NmR4Y0oxMTZYNkZ0aktzNnE1eTF2WE1LSDE1RWtHWnk4N19DNHdLSkgxMzh3V1FXeXNvSF9DOGUwRTNPX2hIaXlWTXpmd2R3ZlNuXzBqaUtxS3hkMV96RXNNMTRKTVNoZmZOOENTOWZPcGdIU3VYa1E2VU1remVEdGctRnVONWhXRlVn?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "16/07 09:23",
     "date_ts": 1784193807.0,
     "title": "FIFA World Cup: Schedule, Results and Standings",
@@ -717,19 +730,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0kzdjlVS2szWU5SVi1wR2FhQ0FjM2VCTS1kVklYSUtrWExXbk5uQVQxN3RGU1BicTduMXRtNU5SNGNROGpEYkI0b21UZFBUTnh2UjNuSWRDVkNodGhiYklqSktGZEQtR1ljUVdrcHRaZ2xfWGhMTFR0QTJhQkQ3XzFENUNuMFNJUm9MMTRqYUl0aGtKTzJyVlUtTE5EcXVYQXVJc0lJeVhGdw?oc=5",
     "teams": [
       "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 17:48",
-    "date_ts": 1784051339.0,
-    "title": "France vs. Spain: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjZYYk9uRjljMWVVTE1kQUtUNHFMSERkQlFPd2swV2hHeGFNdFpzdExWSnhhYnh3V1NVcE5XcXdsSDdZejZ6VlNkUXhvMGpaMzUyYnNlOXU3UFJHUzVuY1RlSzBlMW9DazNBRXE1MWtiOVhYakgydFI2YjA2cHQ4Rkd0LUhKZ21kdVN5SQ?oc=5",
-    "teams": [
-      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
