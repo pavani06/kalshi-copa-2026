@@ -1,5 +1,16 @@
 [
   {
+    "date": "16/07 09:23",
+    "date_ts": 1784193807.0,
+    "title": "FIFA World Cup: Schedule, Results and Standings",
+    "source": "Eli Sports Network",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUU1Yc0RwLThESG9QTUhheVlsVXNhUHZLYnVybFVRV0s5cFFnWnRDMm0waFZHY0I3VHZqZEViZW9sYU12LXd6b1R5UXlzTkZnLUdDd2NranV4dTdoLVdVUTk2TVFKZzFXb0xqWmkzY3J4aXZFenhaRzZyVDhfdFhIb1M3cHoydElLLUhxRHlGWG9YMloy?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "16/07 06:41",
     "date_ts": 1784184091.0,
     "title": "Is Jeremy Doku playing? Belgium vs Senegal confirmed lineups for the 2026 World Cup game",
@@ -9,6 +20,30 @@
       "Senegal"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "16/07 06:11",
+    "date_ts": 1784182306.0,
+    "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
+    "source": "UEFA.com",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2JMTXRPVmREV09GaEdtaGRTS1pVbXlKZ3hyb2lzWUE1QnEyNVh4REc0ZUFCeVY0UXVVb2ZTVnlzNExOSmJsd1VmaHF4ekJ4RHJBc3h6UkxVMllZekl3UjZGakVtUDZxbGFzWmxHdnU2OUdHcldtX2pMU3YyMzQwdm80djczWTdKVzVmb1kyOFdJdzZfYlVEa0pBUGpfeHdMM2hleVlPamp4UDk4Q1U2SDZ3ajYxX3pMMWVFZ3RKNkNTbVlNWDVZYXBWcnFkUzhVYnplV1BwNkl4d28?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "16/07 05:00",
+    "date_ts": 1784178000.0,
+    "title": "World Cup 2026: Tuchel takes blame amid speculation over England future; Argentina players criticised for banner – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmFPUFlMQ09QemNJdXZnYUVBM20taHFETjR0TWp0U3hRajQ5eXFZMDg0bDNYTWtWUi14bmE2SEhfb041OWtjY1ZjUEIwT0JzMl9PVFBDYVd6VUFxdGhxUmp3NG5wMkRGamp6LTZObURERzU3QVk3YTJRMGdodzI2VkhIM1FHR0FMek9jZkR2VjJsaXd5VzQwQzFVZUt2M25OOWtHRlllVVJQclpDV2RZMjN5NHZtNWN5Rkh1dkMzMkkzWm9rWmNwYnNyOWltTFU?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -698,45 +733,6 @@
     ],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 17:37",
-    "date_ts": 1784050646.0,
-    "title": "Why isn’t Nico Williams playing today for Spain vs France at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHRTZ3lYQ0Z3d2I4VnpNSndrNC1oemswdlNaa3ItTi1aVTdVT0NiMllEbTVpZXJDVHYyZXplRWNGVTBwN28yMHFIelQzRmRzMmJWRUdSM2NHdlJGenV4elBlRnZYRGRDMFdBd1piNHdZQjUwLXZieWRuMXNHa2RQQjFQS0hWWnJQTDVVU1hzMW4wOTc1aFRVWk9vTUFzTm55UG81WGdZYjVPN0FqYklDa9IBtgFBVV95cUxQRzlRVGI2X3N1MFU3dGtOT2xncFJuTVdDYkdjd3RmLUlPc1NJUENVY2pyczVrWDRyTXcxUllFbVZFSUZ5MExhaEFBREtGX0tnSHJtTnotSFBhTk9pMVczQVpmRGhTRnk5QnFxTUpmMXBYLXY2dmw5MDRtckdBY3kxclBUMjBhR0RBNE9iY2tQYnBpUURqRmI2cXJDelNfMEJfNGt6UmI5TWMxdE1tN2Y5VWJRM2Q4dw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 17:37",
-    "date_ts": 1784050620.0,
-    "title": "World Cup: Bayern stars start as France and Spain battle it out to reach final",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3FhU1BnMVVZb2dUbk1Pemk0OE90RktTck9aTGNyOHpyMDliSmxqR1JILVR5eGtmdzh6Z295MnpxLV9heUZCcG9mMWVUNHV4MnNjNGNqWV9CdUhqbWZHa2lDNU5DTnhNaWVFVzZQZXVNWmZ5cjQ5akJXekJjQUlhV0JCQnNvR3ZQYVpBNXp3?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 17:34",
-    "date_ts": 1784050440.0,
-    "title": "Spain lineup vs France today: Starting X confirmed for World Cup semifinal",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelFwaVZ3MEJqX3dEbklOZnFRc0VZYkx2b21QUUFmMjY5dzdpeFlIakZZQXAybnk5LWptdkVEMnd6b0FiRDFNSkZaTHBNeV85a3EwaWdvd2QzU0hWT01nbGJjTVhIbElLN1pfTnFYcTJoMEstWUpnR3VnTUhiNmp6SllIX25lVGFQandXbkJkdDNLM3NIc3cwbkloMHhoWDk2aUZNUkM0b0V5eUpHNFpKNm00Rl9YcTJSQUl2bQ?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
