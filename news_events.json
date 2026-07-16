@@ -1,5 +1,18 @@
 [
   {
+    "date": "16/07 06:41",
+    "date_ts": 1784184091.0,
+    "title": "Is Jeremy Doku playing? Belgium vs Senegal confirmed lineups for the 2026 World Cup game",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0haNUpTYnVoTGtrZHJkNHFWci1tOXZEOFcwSlRyRUpick1aWGhkSEFOZlNhVzBldGNhZ2tmbnVocnZEMVZtcWt4UHpZZE92ZmdQVVEtWGpHTVpReWVqQjNIZUw4eFkzYmpfR0RkOVpRQVhBbzZIeEVwYkRsVDNEM3c2TnFmOXItbnZiMjE5LU95bkdSQzZWZzFHc2VoeE40cGpoWG5xWUh5VUNGUWNEejV1aS1wR0FIOWZ0ZGo4b2cwdVlvRGRrX3pFd3liMHU3QmNGVml3?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "16/07 01:52",
     "date_ts": 1784166740.0,
     "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
@@ -251,6 +264,19 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 17:04",
+    "date_ts": 1784135040.0,
+    "title": "World Cup 2026 today as it happened: News and updates as England face Argentina with final against Spain at stake",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUJ4RFRta01xS2xrSkVVN0NVbm5rOE5RM2NoSUJ6Snp3QUZFbllwb3VzZDlQbjd4YUwxeXhycEZ2bVdaaWFBOUwyeDVfX3Z6RHdnTlpyYXUtRUhwOXBfbmVEdVB2SDhPZ2syUFc0dllJMUhDYnpnM3dlTHdvTERlQmtCSng4eGs2TGxFN0tTQzFnd3NyRWhZODZTaWUyTHpiQXZRSjJNQ3J1ektnbGpXd2N6VGMwYlRK?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -711,28 +737,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 16:40",
-    "date_ts": 1784047205.0,
-    "title": "France face Spain in 2026 World Cup’s first semifinal: Live updates - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXJ1VFlOdkhtel9oTjY2b0lvY1FCcENTaVdtMzlicE4wMm01RmFXOWhSOG03cGZNcERUY1llMm9nYmUyU0ptVEx0bzI1UGtpMmxwZXZ5OWVMNEdSTHZCY05WajJid09mdnliSFZxcGFCdFJ5YmlhUk5NWUdqMjZwUlItYXNueFZkcThMUVpvUXlQalZWNGxqbURPR2JBODlNS0FCVnowMjJpVFVaNGF4S1d1YVA?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 15:30",
-    "date_ts": 1784043000.0,
-    "title": "France vs Spain LIVE: FIFA World Cup 2026 semifinal",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVpoOHprWXcxbkxtRGNDclhINEhxSUJBbEJUbE9QakhqLV9QcXlONGd0UVRvX19tNFdkai1tV1pZWkt2YXdlY2gxck5aSjJHM2k1RUFmZVBpYUhqNDI5RWU3UTZCODZIZUlfZ0tvUV9FUWZnbm83ZFpkN3NLOHl2cFVjSFhfZVphVlNvdFlINWpoQ3BSNWU1TFQtQVVhTnFXQkNxddIBqgFBVV95cUxNZlhxSDZfSmhDQUdnTm43U29BbnZYU0ZnVlA5b29aa0MyS0lxWGRwTkhUeVlnY3k3ckplaWpzWFFzN0pBVVVWek41azllaWdhMnVkdHJ6Mm9VcWpoam94Ui12d0NINUpVdzF3QnNQMlVhUmJMUXBFT0VkZkl5dHNqM0dkZFE5eUw4SDIxaGw4aUtYQUFOOWNDeEIxWVl0amIwekxjSFZ6S0lsdw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
