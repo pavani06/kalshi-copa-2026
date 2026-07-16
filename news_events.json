@@ -684,6 +684,19 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 18:06",
+    "date_ts": 1784052360.0,
+    "title": "Spain lineup vs France today: Starting XI confirmed for World Cup semifinal",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelFwaVZ3MEJqX3dEbklOZnFRc0VZYkx2b21QUUFmMjY5dzdpeFlIakZZQXAybnk5LWptdkVEMnd6b0FiRDFNSkZaTHBNeV85a3EwaWdvd2QzU0hWT01nbGJjTVhIbElLN1pfTnFYcTJoMEstWUpnR3VnTUhiNmp6SllIX25lVGFQandXbkJkdDNLM3NIc3cwbkloMHhoWDk2aUZNUkM0b0V5eUpHNFpKNm00Rl9YcTJSQUl2bQ?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 17:59",
     "date_ts": 1784051945.0,
     "title": "France vs Spain: Confirmed Lineups for World Cup Semifinal",
@@ -720,19 +733,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 17:42",
-    "date_ts": 1784050920.0,
-    "title": "World Cup 2026 today as it happened: News and updates as Kane backs England, France and Spain prep for semifinal - July 14",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOXk2WjFYVm92TUFEZ2RLUnpWZzg3bkNuRGRvd29vazdWM25xZWZVd2s0Nm5lQS05bjAzVk9BcEY3c09wY3ZPSVdFSzVRcmJGRkVsU3IyZHRpYlVEaGRVME1ERjlrQ1NwbjFGbXE5NlhNeHJQdHhqcjA3bUFVTGtkNXZ1M3NHLXlJaWo3ckh0NHJURlEyRFdTcDd1anNNWDhDa0Jyd28tbDNDdVpxbEhtdk5ZQnZEd1JpVE5yZVd3M3d0N3NGUFd1SHBfSVBmd0czOEVGdnJZWERRaWFrN1FoMlZqcw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
