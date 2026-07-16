@@ -26,6 +26,17 @@
     "source_type": "news"
   },
   {
+    "date": "15/07 22:09",
+    "date_ts": 1784153397.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 21:32",
     "date_ts": 1784151120.0,
     "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
@@ -720,17 +731,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 14:30",
-    "date_ts": 1784039400.0,
-    "title": "FIFA World Cup 2026 – Spain vs France, semi-final: Score, lineups and live updates",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJDdnlXM1NyeV9fc1k1VkxkYnpza0FGc2hKWWV1bFB5M0Nibi1GUWZ4WFdVeDlXcmpJUUw1dFNwbmhzWnhEWFJiOWhoZDZkNUJGWnQ5NlF2dlZNNGU5bDI1SjI0WFoxbGl3dXlRNWJHWkdzUVc2bWRJeTJaM05VS2t2c003LWp6T2JyeUFvRFJTR1ZQWDdvQ0pZVmxONndYdTVGWUF2Mm5idw?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
