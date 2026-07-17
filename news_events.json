@@ -1,5 +1,18 @@
 [
   {
+    "date": "17/07 10:29",
+    "date_ts": 1784284172.0,
+    "title": "World Cup third-place playoff: What are France and England playing for?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmtJLXF3X3p3a1FCN3lFaGVaeDRlWkhka2lrSWlLWUpHdjVKalg3TWdaWUxySTU3cEZSRXc3TnMwcGlMN0VfNmctclhyeFRHOVhvVFBweXQ2N25kNDBQOEpoSm03MGxuUUJ4V1pKajhsOTFxUW1OTllnejJmNjRfSy01VnJwaFdWTHdaSVNfVEdubDVxYlNQZ1lVRUZWRl92NGlzYlc3QmpfU3hqbV9tRkpR0gG3AUFVX3lxTFB1T2FuUW9hcVNhOF9uakdISllwaTl4NjFNMTVOR3NNYmxIX0pCdGJPblhTTTNSQ2FzdG1EQ0xESEFlQWJscjQ0NllfMnpKSTI1UVdrTVlYWFphbmhQODh3ajZzdTZXLU1EVXBvczJSeVZETVNkMEM4NTczN1VSMTFlVGtMSkkySk5IallITUdXRWUyalFOS3JlNVd5QnBWd0xWV1ItYzZ3WWhnZ20ybEo3RlpvVVVaWQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "17/07 08:27",
     "date_ts": 1784276830.0,
     "title": "World Cup 2026: Spain v Argentina countdown, Trump to attend final, England news – live",
@@ -724,17 +737,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 21:09",
-    "date_ts": 1784063350.0,
-    "title": "Espanha vai à final da Copa e iguala maior sequência invicta da história do futebol de seleções",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS1ZDd2RVeU91QjZxbmRoakNjR2pHU1dfMjFFUnlBMk9WSWt3enpWcU4yeGswV1BvVUhUT182amVURlROYUJDcHZNamo0WnpjZEVSSjVKeGFhV2JhYTBNNFBGZjIydldEc3RmT0xOTFA3X2JEdENYQmdhZkV6S0xwTWd4c3N5X1hsdlo3QUo0eVc3ZmlUeUlfeUJ5R1BFTTBUYVo3OFFKX01vSlg1NzhhM3dTTnVjUjVBYVY3OUZibURadDB0OVQ4dGg1S3pHNUVSVmFXZWpGYVZfRjVqdTZ0VU9WcmltM2RxdkdOZHdsWC1FeGdtejVNeUFn0gGIAkFVX3lxTE10WDUtU0dvQU5VMnUtVjBuZUpucTdKSWRuZUNYcTVCSzNNNGhmc2ZNSnZGNnlGSVpkWHlZSWVtR3ZhR2dDVTNnS2g3VnhRcm0zbzFUTGIyUUp5T1dzdlY2VjRoOUZ4VXI2amMtdXBmcFBLNGt0bTBKOU1RT2d4cDA0N01rLU55MjQ3UGZUWnk5Y2Q4WXJEZzdQMUtFd3d6MVdUMHFuRVFtR2hDeFFVd3Y3NEdySzk4WUlURzlEck1kMmFFY0ZXbWxiUWRfMFlYaGZrR0xpV2k1bnRYd3BoYWZScUsycDBRSDR3WUc0aDRDMl9jeGN4cG9iSmNIRDdjd0lGdUJkRm1tSw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
