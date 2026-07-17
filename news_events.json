@@ -1,5 +1,31 @@
 [
   {
+    "date": "17/07 01:33",
+    "date_ts": 1784251980.0,
+    "title": "France vs England Third-Place Preview: Lineups & Score Prediction",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXUtXzgtYXJrQVlFRkg4QzBwYUZYeHlpNTUtWGRXaVAtNjViZFFCeVJMZ2w4cmJzREFYTndULUNBa1ZmdklMaE9wVTJOUDF3dzcwc1BqRV9ZY3U3dWVZLW9ac2dqcVRBU3FyMDFhXy1XM2VWX1dOT1FuZGM5N1ptX0RJUF9sRmg3N0FCcklsTVpkUGR5UG1LUjZKNWZiNjRCYXVHVmNST2NmZE5iZHdzcS1uMVhiMUI1RGhIaV9uQThraHBWUEgxRHNmNmhzbkM2OTBNdDJITW9icEI4SFBJWGRzWGcyQlJj?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "17/07 00:31",
+    "date_ts": 1784248279.0,
+    "title": "Joias da base brilham, e Botafogo vence o Santos com gol nos acréscismos, no retorno do Brasileiro",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU2psWDlmMVByRG14QW9WWjBRVDZQTXhBb3FTa2xWcV9LamNlMGU3cVlHRUpyamtqcFZXSC1zNGdObFY2ZktpTkRDY0R0bjFwSkhDWEFFRVVaLURDSFNFZUJOYlpVTy1ESlBOczNRN2lROGpQcHF3N2cyNGdrdTZKMkJfTU5HRXdrdU5rbnJZN0R0bjBlWWVlS2ZUSUxfT0hEbDNTVEhCRnZPanNORlVoVTFnZDlSSmJ4UWRwampnSTlvMmZ3VUtLeFV1STRhVWZPMnJlZnY1aTdrbnkxYnJOSTVvVTZQdENudnNCazI0dlhMSWx5dFp6OTB4TkVIa0Jj0gGPAkFVX3lxTE1EcEdGVWFBSkhmTy1hR2xCV241N1FtTmlfUkZkYjV5VFVwdVdDb1lIRnVFNElWdXd6QU5JUjRPaEtUc1JxQk1mZi1pV29Zd2xDSTBnWm9YOGFnTDc2ZmN5aEFkRTFSYzlSb2JjTEQ0MFQ4c1BDRk5kSDJ4LVF1cWVWTV9BVjNnLVF6S2VnU1JPMElFTnRZelFRdTIwb2QyaW5SQXR1UmotQzVaS01TaW0zbWVZcGVwcWpSM0phZHpoT09SbEpSeFF6b0JaaVJpdjlwNm1OMFplUDRNTzVYSWJELXd4MUxSX2xXdFBXblVmRW9GM0k3eGFUQnl5V0k3NFFFM0tXMV9vemJlNTNnNUk?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "16/07 18:44",
     "date_ts": 1784227483.0,
     "title": "World Cup 2026: Fifa 'assessing reports' after Argentina players hold Falklands banner",
@@ -707,30 +733,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 20:42",
-    "date_ts": 1784061720.0,
-    "title": "France vs. Spain LIVE: World Cup 2026 updates as Spanish cruising into final with sublime display",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzJRQVhNZk1TMnY0WmRnOTcyRFZxNDF0RjN3TzlnQ0N3SkJuRjQ2MW11V2txMzh6elRKTnFUejhoc3RRQjdLRUl4a1VXWTNJcHd5YWlUcEQyemZCTFM2emxjSzRadWtWcWFjNDRENmEtSXdqMjlxcUpoUkRONURMNWM0ZE1PWXZZa1pfYTRKeEFoVnpqMnZlcEEtQUluNmlidmdaWEJHSkpNZkhzSjdSdnYxVmRjbUloMDNJ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 20:16",
-    "date_ts": 1784060212.0,
-    "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdWVwc2FtaUtfMXVUMV9yYTVYQ3hERGE4ejdtcUJCeFRNX0FPd0JDN3JKZnlybkdjX1Z6M1hXRmVDTElWSVc1TldPeUxKM1dUOTVKdnlYTElvSWNldFRpbU1yVENZaW8?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
