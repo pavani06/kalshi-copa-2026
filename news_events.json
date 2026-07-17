@@ -1,5 +1,18 @@
 [
   {
+    "date": "17/07 13:56",
+    "date_ts": 1784296591.0,
+    "title": "England XI vs France: Confirmed team news, predicted lineup, injury latest for World Cup bronze final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbjJmOWo5TzZDMUtfc2FhOXpqTklJTG40Ykdqc2Zxa2ZmS2R3Y1daS2ZqaUg3cDU2YzR2RDhxNnhtZk01bWpia3RsTmJIdFhDLXVuUFVBX1A5cDRKZU9WeVpYOVVoODZ0WDlzQWtPcDZ3eEF1bWpqcEk0Nkw3aTFZWldtZEttUQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "17/07 10:29",
     "date_ts": 1784284172.0,
     "title": "World Cup third-place playoff: What are France and England playing for?",
@@ -728,17 +741,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 21:56",
-    "date_ts": 1784066160.0,
-    "title": "Every team's championship odds for the 2026 World Cup: Spain new favorites after win",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkdkNkZiX1VMMXZQY3lNT3pmSWt1OFkwaVFGN1hqY2lqX2hSbm9GZVhOMEdhRVNBY1dqbnFtVEh0LXM5RXNRNmFOYnZzVjRLczYxQlRBX2tXWlVkQS1RQ1pMWUJkRFZfd0pMWW1CWVU3ZDJFVGxtQm1zenAzd1pLeHp0R3huMU5pVmpuNHZPSHhjX29PZWdYemFLWE9VWG1OLWZXMmkxbTI4Ymt6QUF0NU1FUV9udw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
