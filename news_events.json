@@ -1,5 +1,18 @@
 [
   {
+    "date": "17/07 19:54",
+    "date_ts": 1784318081.0,
+    "title": "England XI vs France: Confirmed team news and predicted lineup",
+    "source": "London Evening Standard",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUVFMGo4NDVjOUdCQjVBcEFRTVRXZFkyT3VvYm56eHJGWW1NZjJfNWdfNXVhZmp3Y2F4MEFfMnhCVld1dVBJbXp6Um1INUJ6cWxEM0l0MXpWQU5jeFc4OE1HWHVtNjhneGJTbnFSVEFZMUVrazFidEVwOTM0OXRINjAxUkdPOEltN3dqbmRncWwtSHZqT1hYWmJWdTIxOHRsakdiQXJfa0hURFpvNGJBaFhuc241blBwZVo2Um5ZN3BjMnBNcUVqYTRhNmFCSlF3WDMyQ3pYdkNsS3owT2xEdUNOZVV6TnJXU2pJ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "17/07 14:42",
     "date_ts": 1784299333.0,
     "title": "France vs England – World Cup third-place playoff: Prediction, kickoff",
@@ -730,17 +743,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 22:55",
-    "date_ts": 1784069700.0,
-    "title": "Dominant Spain shuts out Mbappe and France to reach World Cup final",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSnl2YnJFVFJTZnFlVTdjRC04Z05kZVBBWnNoNXVHNDRERllvUHhVenEydTJxLXRxT3JzbEY1dVQyc1JTQlB2ZXo4ZkFGMHZtMnNpLVVlM21TaF9fOXI5RDk5QWlKcDRCOVVyRTBYeC1ZaGd4WjJLZ3ZYdkx4SC1ZU2lPNUZKcXNlcnZIN2wySTRnX1RldnRsQlZPTHNsckk1QUd0azRqTEVRdVF4TFVxcEtIczFXZDVLb3B0YlNnZXZqYTRURlBFR3AxOW5BODNObEs3alpLN3ZsUVE?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
