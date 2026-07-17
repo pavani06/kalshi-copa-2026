@@ -89,6 +89,17 @@
     "source_type": "news"
   },
   {
+    "date": "16/07 13:30",
+    "date_ts": 1784208600.0,
+    "title": "World Cup final: Argentina vs. Spain - What you need to know, predictions, odds",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1M4Q2tnSU9RVTF1b1hKQVdPUTNDQzJGcTZ1TUVpLTNuVzdwcFI4M0xjZlBoVlZJRDctSExaSzc1Sks4UVVwY2Nuem5FSkhTVUtCWTNhSXhVa291U0d6ZzJvWkM2R2VDejFSMEVqcDBYWUtESGx6RVotOXRlNkdSRjhwSlNLQTRLclBOelZfdnljNGV3RkMwN2MyNjF5eFIwbkV6RVFsX1pqUzJzMXd6MjZTUW4?oc=5",
+    "teams": [],
+    "category": "general",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "16/07 13:14",
     "date_ts": 1784207640.0,
     "title": "Are There Any World Cup Games Today? Schedule France vs England, Spain vs Argentina",
@@ -245,6 +256,17 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 21:31",
+    "date_ts": 1784151096.0,
+    "title": "World Cup 2026 Latest Scores and Fixtures",
+    "source": "FourFourTwo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXJOa3djSWN1TVJ3aFNfX1FNNnk0X3RyWG9hdFBROFU4eHlmel9zZTl6MlhHQWNKRW54d19YUFBVY2FIY3J4bHlQc0xDNTloVVpTWGh5MHZzTXNuelhHU0F2X3FibWMycklPWlllT1BraWEwSTJMTzRRT2syTE81dW1fV0lhOUxGRUVnSjY5a2ZSTzlrcWJMRWE2SGdCQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -717,28 +739,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 21:41",
-    "date_ts": 1784065262.0,
-    "title": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3hpOU45VUEzYkItcDVVdUR0ekkzRGlOemFYX2JoVjk4ZzhxQ1FMWUx4cmM4RUFyUnlZVmFVYXVQZDhRLWQtNGJXYXZITlFuekJKWkFmMkt5MEZUR1VPRWpCd0NuNl8yZUZvbEZPbzhLNlBMV3lzMGFvR3U4NG1rZzJHb2xsYkRWSURURnhLR1RjcnBBNTZ4LWNDdHM4bEJsNXVLMFl3MXlUYTZtUEI5TkpZUdIBuAFBVV95cUxQUGl0eW5OVkxyZXZ2bjJFSEhoRGQyS1Uta29ZY0tWWnhfS3Z2cm5ncmVYSEp4Q0xWTzZaUDltU05KSzN3TENZbWNyYzNBQVQtcXhyRXQxakdlZ0VTbkJwLW5NRk5IRVFSS2d2T3BVbWNCMlo1VWZoalhIelBLS1Z4NTl3cUtSX0NsaF9WUDBXT1M5MzJfZUdoWnVYQm8yVmI1M29yVGZPQzY1ekJ2bXp6dXFBSld0SWd2?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 21:33",
-    "date_ts": 1784064832.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
