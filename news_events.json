@@ -24,6 +24,19 @@
     "source_type": "news"
   },
   {
+    "date": "16/07 14:14",
+    "date_ts": 1784211240.0,
+    "title": "\"Strung along & false promises\" – DFB employee critical of Nagelsmann's dealings with squad",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUZHeTRNaEctNnQxdGtvQWVmVUgtcFkzdndqRHpUdWZyaEhuQ0UzcWJpVk5RamdmcE1iMml2YlQ3VGt1ekxySlgxQ2FkRzM5ZzdzYkJjOHlEb01QMWF0TW5BQUhHNGN4XzIxQmFONTNNUG80V0lSTExIbnVZenZvclVGS0t3cXQydTJ4V3lNNVhRbWRnQUs2WG1iSy14RDlObUE?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "16/07 09:23",
     "date_ts": 1784193807.0,
     "title": "FIFA World Cup: Schedule, Results and Standings",
@@ -106,6 +119,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 22:58",
+    "date_ts": 1784156296.0,
+    "title": "Lionel Messi fuels Argentina’s stunning late rally past England into World Cup final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHRYbHROVW9uM1R6aUYwYloxdzZfemhSdWRaWXljajBKdFRyMnhidFRRMG5xLV96Wk5uLW51NkR6VE5TT1RJVTFiZkNVVm95R0t6MDN5UndCdlNoeDByTGpLZjgwOVpIZEdSUjJlczRMOVBhWkpaVlNCeTRRNjd5cFJFNmRjVEkzemJmSlFVQTdIUDlaeWhuNXdHYk9GLUNOdFVVVGhlZkJiVkQ4amMtZ2thVFpPZlNfOUg5eXdfSQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -704,30 +730,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 18:57",
-    "date_ts": 1784055462.0,
-    "title": "France vs. Spain (14 Jul, 2026) Live Score",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTX3VDUUZBWm5XSzhXRk90MnhJQ1ZuYzVnVHFQQXFDNTFENUJUVGhUeDIxcEpEc2oyOVowYS1oWms5X0J1NjhZQlhYNHhxZ1R2V2pMZmZOSmNWZmJoQ2Zab05SWQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 18:55",
-    "date_ts": 1784055339.0,
-    "title": "France vs. Spain Starting Lineups: Who's Playing in the 2026 World Cup Semifinal",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0hYQ3J1b3pQRkN1UkNLMThLUzV5azc0TFpLdF91VHBPZzh4UEFpWjRqNjEtZk9TeXhPbi1zU3A2RXZhQ29DeDFrR3RKR3AzOGx1bkhfREVJbU5vQ3BhamJBM3hyTFlSelJ1MDk2V0JiN25QdG5PRDYyZGJoN1BLMGh0Q2NfRGZPRF9TZGlYeENEdnp3RUI0clZLRjVLX3N0ZzVtOXdHVnY2MnktQVF6dQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
