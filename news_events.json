@@ -1,5 +1,18 @@
 [
   {
+    "date": "18/07 21:39",
+    "date_ts": 1784410740.0,
+    "title": "Bukayo Saka scores World Cup goal for England vs. France in Miami",
+    "source": "The Palm Beach Post",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUJIMjc4THNSMU5BUTdlNDlvU2VkNUVsX1cxb1dJaDdQMzY3bjFoR0t3ZFIybVZGWDV4b1dCX0wtRlpsd3UxSHdJTUdOQlE5TE1uNzJCM1FPMmJocG5DWTRXMUljWjRDa0NBRlNXejRJSlN6ZExTc1VHNXI0ZlExTm0yRjh3X0JJLVdXVXJDd3AwbVExR2Yyc3FaN0VudkUxdndUTVo3dm1KWExoVUFhbGJuU2YwQ0I0UENLaU9GdUVmU0V3eFdmcVR0OWRhekN3YmlN?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 20:34",
     "date_ts": 1784406851.0,
     "title": "France vs. England - Live Score - July 18, 2026",
@@ -729,19 +742,6 @@
       "Inglaterra"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 18:11",
-    "date_ts": 1784139075.0,
-    "title": "2026 FIFA WORLD CUP: England and Argentina confirmed lineup for Semi-Final Showdown",
-    "source": "Africa Top Sports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2FkTG5xNldKNE9fMGFNWkNxUnJkVmVEZWpQRjgzRkJGWTBxV2F4eFJCOVUzMi0wUm1Xal81aWh2eUZ2M0ZCNS1nS1ZhWDdEeTJGMUthXzBGaFdLYmFjSWdDQ2FpT055NWFSQ1RpUVkxQzEwbVJNcl9NYjJsQ2Z0WGdSSnF3bDMtTkdnQWhxR0ZpeVpFSnFLVHBaeHV2VmRUTXRKSWwwaVVhMENpSWV3OHNrU3g?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
