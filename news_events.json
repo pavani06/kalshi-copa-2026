@@ -1,5 +1,18 @@
 [
   {
+    "date": "18/07 16:10",
+    "date_ts": 1784391000.0,
+    "title": "FIFA World Cup 2026 – France vs England, third-place play-off: Score, lineups and live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPal9rd2duTFBOdVBpdWFhYkZBVDZtODlkSm9GdmlZS000SzZMeTdHelQwbXVkU1NJNDVkUTdiU29ZT05scUliZkNSWWhYNjJSTXlFVlhhXzVxNTRhU3V2ZHYwRFVfRmp5SjNPeWNMZkhTcTYxZnpwaF9ZdVNnNHRORFlOcUVkWGU3ck11UmE1d04tQzE1RW5TUnZB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 13:23",
     "date_ts": 1784380993.0,
     "title": "World Cup 2026: Third-place play-off - an unwanted tie or a match with a 'golden layer'?",
@@ -730,17 +743,6 @@
     "teams": [
       "Inglaterra"
     ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 15:23",
-    "date_ts": 1784128980.0,
-    "title": "World Cup 2026 semifinals live updates: Schedule, how to watch and news",
-    "source": "Los Angeles Times",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb25kcmF2VGgzVVZaWlFYSkdhcmJUd0NZd0VwSm5Wc1hyLThyTXREbnVJQldTRkRTNXRBRzFtNktTbDlCUnM2TE9CVWFHMHhLbkNOWFlGd0dPQjdDMVk5bUwzTl9jbDJBOE53RGpiak9GbkU3ZGNYZ0tPdUVxRk1EZU96MlBiRUZ1Q0tqS3psdjNfZ1NCdmxfWTNUOC1lbGcyNG9IdzgwSC03MmtBN25sakV0SG1zVFl1eUNQMXBDeUxuRm40?oc=5",
-    "teams": [],
     "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
