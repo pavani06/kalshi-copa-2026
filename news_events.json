@@ -1,5 +1,70 @@
 [
   {
+    "date": "18/07 20:12",
+    "date_ts": 1784405558.0,
+    "title": "France vs. England Lineups Confirmed, Starting XIs in World Cup Third-Place Game",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEZFRHR0SW9kSFVUN3lCczBsb2FkS29uWkUzMlY0TDVkRlhKSFhyNkJkUGl1SXhlNzJ6V19vVnYzUjMzbnNzWUdval9xLUZRWmJtTzZzQXZ4S01LQWM1WEp6RlFfV1lsRnJXMjBSU2F6OGRFVFBoY0ljNDNpYUVBVWU2VnEzQldoa0ZtMTNpOFBmZXFzblFtZHVaLWhSdUdjbUZJRzVET0dhQmlMbTNEWHpqREZockdoUWJR?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 19:44",
+    "date_ts": 1784403840.0,
+    "title": "England lineup vs France today: Confirmed starting XI for World Cup",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 19:42",
+    "date_ts": 1784403720.0,
+    "title": "World Cup: Bundesliga stars face off in third-place showdown as Kane starts on bench",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHNaRG8zUkFDQXBlZW51bWJOTG52ZVNZSF9oN21BYTVzNE50UzVMRFZLYzM3TTJlbVRjeHhJTVExVGZ1TmtRaVo2NFl2bFlzdGxsaWFMczhIZHdTMTRHbUxtTFZHZm1JUzBROVJaN0pEZEttYThEQXI5bVRsZUZhZmFldlR4cDhDckV0WGRlYlgtdGs5aUtjTXF3QQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 19:16",
+    "date_ts": 1784402213.0,
+    "title": "France v England: World Cup third-place playoff – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdTJ6dm54cVhDYmNVcmtna2tzR0J1NlYyc1FFcS1GUnlPdlZ1VWZWY1haOHhDRTJ3Y2E4ckhLNjR1c2NYVFVaRkNnSmdRNVRrZTFJOUFXbUVNdHByaml6NFV0XzJjTmlBeF8zYmpLQTNnVFhPbmpzVklZRFRGZFJQaDJOOVgxTl9YUnNVajM2eFQ4V1FibFlBbmtlU2daX1F0THFxMmR5YTY?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 19:00",
+    "date_ts": 1784401204.0,
+    "title": "World Cup live updates: France vs. England lineups, preview for third-place game",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 16:10",
     "date_ts": 1784391000.0,
     "title": "FIFA World Cup 2026 – France vs England, third-place play-off: Score, lineups and live updates",
@@ -675,71 +740,6 @@
     "title": "England v Argentina: World Cup 2026 semi-final – live",
     "source": "The Guardian",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUpNMjJwcXFacVFaZndVMHdxOFU3TnhZcjRPcDIwY0tzS2hSQjVnN2VLakhmcUlyVGhCb2pKdERaSEJoak5YYnVvc3dsSDdCZlVfanRmMkwyTDVMREhEUWhsbFhZOEFGSWpEeFFBMjJESHJxXzFWLU5pd0FRQlE1ZlpKV2VzQmdSNVFIN3BiSzdqRWZZQzJwTEZJYjlaSm14SlFFdXU4dw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:43",
-    "date_ts": 1784137382.0,
-    "title": "England v Argentina confirmed line-ups: Who starts World Cup semi-final?",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDBjcVNMRF9zY2JjSHpfUzU4bS1RNWdISHhjcGdJOWdCV1BYenpNSUt4eTNUUFVoVUxZUzU2UFdNZm5CeHdoY3ZIUlN2ODdPa1p3NDBHV1dGbm5JSjNqWFZ3YVhSUDJpZHNBQ1l4LUxaRXBVbktiaUo2SG1MNFNHamhMSmFoM2xxUk1r?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:37",
-    "date_ts": 1784137067.0,
-    "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:35",
-    "date_ts": 1784136920.0,
-    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:34",
-    "date_ts": 1784136871.0,
-    "title": "England XI vs Argentina: Starting lineup, confirmed team news, injury latest for World Cup semi-final today",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMlpILXYxa1hhVFVCbHhaVUFTS3VKN2FXZWpUMkYtUXNyWF9nVS1EblVOXzRhYXNHRnptSmZMVlNDOGxreWl0WkpNd2RnS0dyc2xXSHFqcjhkek55Z0VIN056Wi1FZFZsaEtfLVpuZjUwemFTMUJMb0k3c1p3dlpXTXFLcmRRaUIwdUE?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:04",
-    "date_ts": 1784135040.0,
-    "title": "World Cup 2026 today as it happened: News and updates as England face Argentina with final against Spain at stake",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUJ4RFRta01xS2xrSkVVN0NVbm5rOE5RM2NoSUJ6Snp3QUZFbllwb3VzZDlQbjd4YUwxeXhycEZ2bVdaaWFBOUwyeDVfX3Z6RHdnTlpyYXUtRUhwOXBfbmVEdVB2SDhPZ2syUFc0dllJMUhDYnpnM3dlTHdvTERlQmtCSng4eGs2TGxFN0tTQzFnd3NyRWhZODZTaWUyTHpiQXZRSjJNQ3J1ektnbGpXd2N6VGMwYlRK?oc=5",
     "teams": [
       "Inglaterra"
     ],
