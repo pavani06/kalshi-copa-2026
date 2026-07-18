@@ -13,6 +13,19 @@
     "source_type": "news"
   },
   {
+    "date": "18/07 07:16",
+    "date_ts": 1784358960.0,
+    "title": "World Cup 2026 latest: buildup to France v England third-place playoff and Spain v Argentina final",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEJTTFdPQVRTU2NFeWxHNTlob0NpcnpoSHl0N1k5UkFnNVV4THZDenZxTkZUS0dQVmNEZ0pOX2F6eldtT1dFS0o5M0hJT19hWG1Fa2psUlRQM0JUUlFHaFlrektfSDZWcWFuVzdTZHJ6andQUXBhRmtpblJTdGt5alNTYjVYRlFwUmppVy1QNzRPaTlpdGh6NFNYZ0RkQnFkOXF5X3FvX3M1bWJVaVVVZFdlRkNQaDZaX19rd1lB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 03:24",
     "date_ts": 1784345060.0,
     "title": "2026 World Cup Predictions",
@@ -729,19 +742,6 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yc2hzTy14aUI4T2ZkYjg4bDBQQndwTC11d3hBbkNnZUFzcTRkY2JtZ3FFNFQ3dlJ3YnppQ2ZPSkxaNDJUb01CbHJsMjlGWkxmYUpCaUV1cEJUYzhrUWFraFZOREU3S1hhRWxwNWRDLTFTN3otRzljRUE5dldPZ9IBgwFBVV95cUxOZEYyaUN1TGxPNEFhb3lUQXlseGJTYTQ1RXZ0NEZmVGhveWR3UWVHYTNaVmk4MFEzNDhZcTRPVjJyTDFnT0VxNXlJc1JEQ2NLandDOU10SC1STksyb29fTXRMQzZCNERNTDIya2xMYldHVFluWnNISTNOTmtGN0tydC1CWQ?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 07:22",
-    "date_ts": 1784100120.0,
-    "title": "England at the 2026 World Cup: Schedule, results, how to watch, news, analysis, injuries, more",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMzdGdDhHcFBmZ2VySGEyUFo1ME5idXMwUUxZNVNjQk5qeGFROHk3cVlwaDZ4dGxiM21SQXhUWWYzb2FJQmREQVo2b1plZWRNRGIzQjJFRDU2MGZPZ09Ia1YyYllndTBwcV9ubFZOcUZOQlRaWF9TUlRDb0JGS0g0bmhTdXBOOVNKekpxS00wNXhYeFhQNHF4V3RCSXowOFktaHdtelF1QjhrbEFhWm1RWDJrOVNMSFR5MFJRUVZrc2VfRXBHY0tzcHpNNEZRdkhYM1ptbjU4Y3JNSW9FMzhEbw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
