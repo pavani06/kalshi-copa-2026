@@ -37,6 +37,19 @@
     "source_type": "news"
   },
   {
+    "date": "18/07 12:18",
+    "date_ts": 1784377124.0,
+    "title": "France predicted.lineup today vs England: World Cup starting XI projection",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1Q0WUNHekQtRXpwekVVaGsycFhfYkZSRWk4Q1dGS3l4MC1xYUlCRlExN1ViMENTS3ZmZUQtNTJJS1ZIX0wySkExX0hib2N5ekd2Vmc3TXBjaVlCSHI5UDBobkJwWWlxQTdWVUVDLWFCWGQ2MWFKclVILUpoZ0FidERydkEtMVFq?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 11:56",
     "date_ts": 1784375816.0,
     "title": "England XI vs France: Predicted lineup and confirmed team news",
@@ -731,19 +744,6 @@
       "Inglaterra"
     ],
     "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 15:40",
-    "date_ts": 1784130000.0,
-    "title": "England vs Argentina LIVE: FIFA World Cup 2026 semifinal",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVFDYTVacHdvWk5MaFVmc3pyUVZ2elJvbFU4SlJnR0NUQTdTVWJ6MjVXVi1Pd2EwWTRDLXFUWmh2SDFNQTYwUE0tc1JFRU5tLTFJYTRub2c4OWk5OHAycm5oNHZvX3g0ZjVidGVHZGkzTzRhX0dUQ1NBLVpqaHQtLWFkcmNaMlBvUjZLRUxyeUxMUk9ISUVwaGFLTUFDdDVZdzZpbjNxTmRmTnfSAbABQVVfeXFMUDVDaGJCd1ZfZzFsc1o5dW9mN0hWY2xSWlY2Yk55SkNOOGhUTVJsczcxdzlfMXpWNHpuQlhXQnE3cjlsazhxZWstVXdPbmg5Z096Ml9Wd3FiUGNuZ2YxVWdiMkxyaUJDYlZDcENJU24tSnhCaXp1S3M1QnlXb051eG45V19RU2p6bmJ3TXp0cnctZVdnRnlCSEttLVlzbnZwMDZIWUlLZV8tc1BidVBMV1I?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
   }
