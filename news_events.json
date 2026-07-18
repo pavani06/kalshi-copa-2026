@@ -263,6 +263,19 @@
     "source_type": "news"
   },
   {
+    "date": "15/07 22:37",
+    "date_ts": 1784155050.0,
+    "title": "World Cup 2026: Argentina could face disciplinary action for displaying Falklands banner after beating England",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hM0VHRFkwNV92eHlkY3BLS2JBdl9vem8yMWZQZ3JjSUNsRG40RHdWVlRRRmYtbHdfaUVra2g3cXVXNG40T0YwdVFtX2Zrby1LTXdmazhIY3V0cHdvYno2cHJNanZwZXM?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 22:25",
     "date_ts": 1784154300.0,
     "title": "Argentina's epic comeback vs England sends champs to World Cup final",
@@ -732,17 +745,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 05:52",
-    "date_ts": 1784094722.0,
-    "title": "2026 World Cup Predictions",
-    "source": "Silver Bulletin",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
