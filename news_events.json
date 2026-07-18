@@ -1,5 +1,16 @@
 [
   {
+    "date": "18/07 03:24",
+    "date_ts": 1784345060.0,
+    "title": "2026 World Cup Predictions",
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "17/07 19:54",
     "date_ts": 1784318081.0,
     "title": "England XI vs France: Confirmed team news and predicted lineup",
@@ -296,6 +307,17 @@
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
     "teams": [],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 21:33",
+    "date_ts": 1784151180.0,
+    "title": "World Cup 2026: Final start time, date and results in full",
+    "source": "The Independent",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXdYZFA1QlVTS2FTbG5ISFgzOS12LWJiTFl6SDdkVmJyN0FJMkhjSUJlM1RMeFBlRVdHQVg0QUtEaUdUX3FBd05vckFVbEViVkRHdUtxRDc3dUc3Njg4MFUzN3VKNWN0ODVPbTIwcTZOdHdWWVhuRkZiZ2E2dngxU2puTmJCeW5Hc1RWNXhOOUtDb19LaXNxV3hrX1p2Mi1icHFiakc4TDJiemV4UFVSblJjeXVRVmVLOHY0?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -721,30 +743,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 06:37",
-    "date_ts": 1784097420.0,
-    "title": "England XI vs Argentina: Predicted lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0haVDlDRi1qbE5QazdRc0N0VTEtR2JKZ3pwVVJQNm9VMzF1OFQzT2Q1VG9yc1BYTndCYTZwcXRvWHdHVTlGdTNHZF9STFZyc2ZzcHA4SEJIbkFMaHRMUUp4UVpVdWZVbXF3NzJhNHJhcEtyX19ZZ3p1emU0OEc1UHI5WldCLUVvNURlUW5wZnpHSllOdjBjUDZNUnFhaDdSWDlBMXAwWkhLTFJPUENlUU9PN0dTNFc1Ukw5X1I2cXZOUkNZYmJ0Z1Y2b0xJOEVOTXgzclowX3REMHBKc0hYaWF6MDBOdw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 06:14",
-    "date_ts": 1784096048.0,
-    "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWc3WGtyemhwZ2VjbXNaQTlTVnNobW9TTmhtMkxVdl9xTHVXOVpBNS1mOGc3MkgxTnZaa3B0VE1DVWxCMFZGZGFlTGlNb0RMWGtkazBIckpMemhYZ0FxbVVfN0NCRGdEMXBxcGl3ckhYblJaaUNFRFhaTGpfSjJKNE5YYzZZZ1k1SENnUDB3UXUwNjJXRXFWWWctajdUSFdZNkRKOFNfcy1KN2NjZVpyT3J5V2R3QWhNVm01NzlQbHczYzd1WFA0?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
