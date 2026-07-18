@@ -1,5 +1,18 @@
 [
   {
+    "date": "18/07 20:34",
+    "date_ts": 1784406851.0,
+    "title": "France vs. England - Live Score - July 18, 2026",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjdPRzVXNHg0Rm5zTTNMblBXZktZTXpZSkZvV3pIcnRCUnNXVHdPVzVsY0NEVjFCT3NZSDcyV2l0ZVVKdmx3MUtmUUVKeFgtc0ZoUEhraUJoTjYtMUVZYmxkNWpBcG1pV2pPLUtWTU5JdmtWVzBGT29rSndWUjlldS15TVNjOFRYWXY1aFdVZEtiaUN6OHhYY0lFcmotamJCbTVhZg?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 20:12",
     "date_ts": 1784405558.0,
     "title": "France vs. England Lineups Confirmed, Starting XIs in World Cup Third-Place Game",
@@ -10,6 +23,32 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 20:09",
+    "date_ts": 1784405342.0,
+    "title": "Why Jude Bellingham, Harry Kane Aren’t Playing for England vs. France—World Cup",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDhPYUExcHlFdldYV0d4Y0hlZncwZ21FeVA1RWJUVmRsTmFvM092U0szYUZLbE42bnJKYVdhTDhfRm1wNVRNeDdlVVduOVZ3c0FNYVo2QXJDV0J5X2NfT203cGxSQTdTTTJPYi12Vm1Yc1BzSW05VGZGQzRSUEpHUmZQMmJkcTIyQmNzMC1iOGYxT0lsTGkyUmtPTFByaUU?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 19:51",
+    "date_ts": 1784404270.0,
+    "title": "Why isn’t Harry Kane starting today for England vs France at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjBqT1piME5qb3YxU2JGSDJwYlVJdlFFMGVMc3J2RGc5bDJ1clhiWFBKdktTbjdjQ01hcm5obHRaQjBGWTNVc3pBM1dsX3hyZjdheEl6c3d0ekowblFNWDY1QnpaYjY5eFhHVW42aWpjdjhzWUR4WEp1LUZycThfaWRXZnN6amNYNnBkV0I3RzNHN01lZ1d6b2JZVnA5S2xaM040VlV2S3FQbTdsRlRNLdIBtgFBVV95cUxQTmluaHE5ZUxKRF82NWQ4VVZjWURmMmJHX1RFbzFfWGlOMXNVLVBoNlR6cERfa1NFTk5xN3VuYWJReEFBQTFpUEEzVlh2VkRLOHI0ZkVMVEJXN1RzT29rcFNmOEV1MDl1a2gyNGRiSHFQSHpMeGRRLXdoOGFIZklCZVVkRUlyLTdnZzJ0TEF4ZENDLVRmeWoyWTNEMDRta0RzZzVvY1MwNG10b1VpUnVxcDJHaVo1QQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -62,6 +101,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 17:25",
+    "date_ts": 1784395504.0,
+    "title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcllXN3YzeXo4YUFCdW1ESDRPdERuckZyZkEwSmoxR2NmQUlpb2Z4U2U1dXNGMmo1cDRobVRYWjhjNWxKUEExbTdRamtnNkF5SHMxdnBkbVl6OC1mYUhxal92OEhXRmtqYV8yT3NFazM0MS11MzBwbGJMUHpzS2U0ZmU2dmwwTDQweC1FcWZsSU9OYlU0ZUJISzlFd3BGcDJTUWQxTVpUQ2o0d3hrWlZXV2dPbUk3TlBP?oc=5",
+    "teams": [],
+    "category": "general",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -693,58 +743,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:55",
-    "date_ts": 1784138116.0,
-    "title": "England vs. Argentina Lineups Confirmed, Starting XIs for World Cup Semifinal Today",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjZ4XzJoRTZlc1dKZkpGYzJEcEk5emF0bzRSYmVjUDlBVklVRklCSWFQM01TX29CaFlVWmNyRnN4RjdUQWZpcnBFcHF2aWw4Z1dUVjUtalhCNENNMTA5TUVIeEc5M3NuTXBPMkcyeDhBNEFuWUhleDlNckpZVUdrUnVBQUU4SHp1WkE0aFY2Q0FUUFhBYVhSNWd1Z0ZZZzZuZmVlRjN3aWhyeVpsWnp2OFp3YnVBMkl1bFpnX0F3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:53",
-    "date_ts": 1784138016.0,
-    "title": "England confirms lineup for World Cup 2026 semi-final vs Argentina",
-    "source": "Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1laT0JQcjhNdjlIUV83ekZEeU1CWU15N283YVVHVGlyMzFmNnM2MzlkQi1WUEhVQm9BbVRoZ1FiYXpHT3Z6UVFXVVU5VnNhTVliMjktNExXbk1iVnNvLVNOMVQ5S2JYOHQwTlJiNS1lQWJKSndPLVZpcWlWdzdQcXhhQk9IOXNTdm14RE5NNW1CS0JQNWk1cl9n?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:51",
-    "date_ts": 1784137869.0,
-    "title": "England vs Argentina: Confirmed Lineups for World Cup Semifinal",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONE9pR3Z6Z19Za0hXMXk0czFMSTY1MDMyQndiN280VjVoNHk3RlhIbFd5RmxIc2YzemlaWmFKNmlGcnNUTF9hNXFnVmlRR2RfamlxbGtwTzVZbDYxZ1lVanZSUHc4bVhpV0JZVWFyMmEzOHZaa0VHM0w2S3hxeWpUbUhRSEp4bWZYbjlHMkpIb1gwSTdZS2tTRmltM0JZaGF2azhfNHl1aGl4LUNYWWQzVA?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 17:43",
-    "date_ts": 1784137397.0,
-    "title": "England v Argentina: World Cup 2026 semi-final – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUpNMjJwcXFacVFaZndVMHdxOFU3TnhZcjRPcDIwY0tzS2hSQjVnN2VLakhmcUlyVGhCb2pKdERaSEJoak5YYnVvc3dsSDdCZlVfanRmMkwyTDVMREhEUWhsbFhZOEFGSWpEeFFBMjJESHJxXzFWLU5pd0FRQlE1ZlpKV2VzQmdSNVFIN3BiSzdqRWZZQzJwTEZJYjlaSm14SlFFdXU4dw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
