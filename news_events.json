@@ -39,6 +39,19 @@
     "source_type": "news"
   },
   {
+    "date": "18/07 06:20",
+    "date_ts": 1784355600.0,
+    "title": "England vs. France line-ups: World Cup 2026 predicted XIs",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2lPVnBhSy1wVGJqUXQtNV82a3oyQWQ1cUdQYURKVzFvYmJ4Q25fTGRKRDNMcXpXc2hlZURDbURXczk5M3prQTc1YTRreFRLSHJXT1pPNDlPajEtSnBoQkd1enVrRW44cWFqbGEzTkxVUGlSLVkwZFBBbjdXMjdBYm5LUjRSbXUtdTdUczlYSDVVdnk0cm5mYnBNbi0tQ0tJOGx2R2Myaks1QQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 03:24",
     "date_ts": 1784345060.0,
     "title": "2026 World Cup Predictions",
@@ -735,17 +748,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 13:39",
-    "date_ts": 1784122799.0,
-    "title": "2026 World Cup bracket: Full knockout schedule, soccer results, how to watch",
-    "source": "Times Union",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXUwRUFYeVk4bXhRUG45dGhNYXRuM1VDRlB0MGhieVZkbGpyRmpWdkdNdkUtSHUxbGt1REdKbGlDaU03SmF1R0RCTDQwUTl6bXJvWVhPS0VieGlSbWRxZjBsY0p3ZnFPRjZpb2p1emhIUm9FUFR5Qk9rNHFtX1NRdlJRZ1A2bEpzMnhDWWhSc3llVktXYmRSRGZJTDZfdw?oc=5",
-    "teams": [],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
