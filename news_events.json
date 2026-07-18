@@ -1,5 +1,18 @@
 [
   {
+    "date": "18/07 13:18",
+    "date_ts": 1784380725.0,
+    "title": "France vs England live updates: World Cup 2026 third-place play-off latest score and news",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOW5rXzRGaERMczJJSjJDai1IYzN1YnlqRGF4TmUtclp1Q0JGMWRoeVFSSW5kZUp4QUJna2JIX2NpcnNIbFBtVTBGUlQ2TWlZckdQT09nVVhiSWphcWIzWUVPek1FYXVoSFRKdVBTZklXUy1qWGtBLTdsZGhvMlVxYWNZaFh4czZYM0ZjUF9TTGdOb3U2dWl4b2dRRjJ0VUdOSVNqX3ZaU2ZoSFh5cjJqR01YNVkzV2s?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 11:56",
     "date_ts": 1784375816.0,
     "title": "England XI vs France: Predicted lineup and confirmed team news",
@@ -736,19 +749,6 @@
     ],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 14:30",
-    "date_ts": 1784125800.0,
-    "title": "England Starting XI vs Argentina: Confirmed Team News and Predicted Lineup",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkNlcVBBb3Y5WGhVZGc3blVuVURqZFJPQ3UwQzBsLXp6T0sxRTJxUkJ0RjVtc3YyaDhSU19pNkFqR3N1WlBCY24yODgwa1R2TjY2Q3ctRU1ucS1uM3Z0LTJtelJLaUhBdmh4ZVJxRDd2VXFJXzhkSmxnLWlsS3ktY2tWTVJyb1V6?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
