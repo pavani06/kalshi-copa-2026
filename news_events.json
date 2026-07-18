@@ -1,5 +1,16 @@
 [
   {
+    "date": "18/07 13:23",
+    "date_ts": 1784380993.0,
+    "title": "World Cup 2026: Third-place play-off - an unwanted tie or a match with a 'golden layer'?",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQVl5WGc2S3lWbHZpWGJQV3Bad0hyOFp1YWVrdzFHT054UDhYUnR4M3FMd1duRUhObmEycDd1cGcyb29rcWVzLTQ4Q09pSmVDQUsxMXMwRnZWVTV4NjdQTTFBOXp3N3M?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 13:18",
     "date_ts": 1784380725.0,
     "title": "France vs England live updates: World Cup 2026 third-place play-off latest score and news",
@@ -23,6 +34,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 08:17",
+    "date_ts": 1784362649.0,
+    "title": "World Cup final: Spain vs Argentina – Which team has best chance to win?",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjRVdHQycUg3MGxwOEY1Q3dlcFNXTTFRbjBWemZmV0MzVGZLcmZQOFJvQnNWcmZaaWhpejJSaVBmVk54b2l0MElwa1hhTlZZWU5tMG84X0JsdE4xX19rd1gxU2dQNTFJUFNfcWRzMEMyOEp2QlhWXzlPeFpyUHZQWTBkaHhUWnVFaW1sYmU3Z0xVY3doMmJ5WXh4VENCWlJIcG5iM2d2NHhkRjZ5ZEVqOXB0VdIBuAFBVV95cUxOZU1iWV9lZHRTN3A1V3JRVU1yV1V2aGZkMER4MVg1WkdtXy1nZERJd2xiMzY3aFA2QXNLNnlxVFZfYWJ3NG9NNGIzNUVmTDQ2VlZYYTRjY3VUbGswbHJOc0h0YWc4a19vTmRiZFBrV2pQSGtaZjA2UVRKVGZpeUtyTllIWjN1cHprZGhWdlpaMFFfVEhuM3dQbXZmcmR5UEs3Vy1rZ1dqRlFiQ2RCdHB0UDBhTkFVaV9L?oc=5",
+    "teams": [],
+    "category": "general",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -722,32 +744,6 @@
       "Inglaterra"
     ],
     "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 15:19",
-    "date_ts": 1784128740.0,
-    "title": "FIFA World Cup 2026 – England vs Argentina, semi-final: Score, lineups and live updates",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUZXcmZ5aHlvWmpDZnB1WExNdHVQTGNQWUNnVzlIRWt4Tjd3S18tN010ZmJxWTdNSzhUNThzLVp6RXZFRmlCRWQ0bWV0UWpTUWZVWEtZM185bXVFdlZqbUF5dzZmMVdoaWtTM1BmUHBJZ1I1bDVtbmlSVVI5OXBWN1dSUVdrNWtZRi04cHNQdTMwVFJFSzV0X2JlQ0hqdkUzQUMzQUNiYXNCT3JN?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 14:55",
-    "date_ts": 1784127359.0,
-    "title": "England vs. Argentina mega-preview: Predictions, form guide, key players and more",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlVMY1hKSzZfSV91aGhJRmdaUnhEVXJHem9Yc3daMy1rMGE2Q3VMQ3hETlJRNlRiclowM1ZNQU5RZzVXNmZFRFhzX2UwX2J5blpJVzV3MURsN3loM0FwemJBd1lGT3k3cmlDTjIyVUZnSVI2SjhvOUdHLXAtMTZyZUhfTGMwSkp6eVlMTDFVZ0ZtRTVaMzFjSzNTUUFuUkxmSGZDR1NJQWIxWWwzZmdfWFY2OGY?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   }
