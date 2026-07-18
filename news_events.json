@@ -37,6 +37,19 @@
     "source_type": "news"
   },
   {
+    "date": "17/07 20:06",
+    "date_ts": 1784318778.0,
+    "title": "Star-Studded Bronze Match: Mbappé, Bellingham Lead France-England Third-Place Game",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYk9FclVYdkc4djF2SmVqcVJLdE1NdklOcUtLeHB2SWxJU1hBcGVyenVqczJqdkd1cm14dE56d20ySnNfaE1YcWM1bjd2Nzl0eDZVcHpQeE1kWmpTRmdzUGhaVDFWM0NEb1RUbWZUbXFYblJ1Q3NPazEwa3JOMEdNWEp2djQ1YlVDQ0RUQjItTW9rVXdPRV9LdDNCYllxRG0xbWx5YURQSHUzdjjSAasBQVVfeXFMUG1DRm1vamVYMzlOak9CNURHQ2NFWXRodm9vN2FuS1hBdnBhQTJKMk1Wd3FGWEQweXVIQ0dZR2RJaFpnVHB6a3Z0RE9hODNqVE9oVkdiMnNMbXJrNlhXS1ZYQWZRcFFSanZRM21jeUhhcnFWNEdkTExxeTdTRW5iSzZ6RF9FS00xaEl6amRWRkxnVXpPS3lfNElsYzIyUW1majRRRzRpandlaGZZ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "17/07 19:54",
     "date_ts": 1784318081.0,
     "title": "England XI vs France: Confirmed team news and predicted lineup",
@@ -732,17 +745,6 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 08:42",
-    "date_ts": 1784104961.0,
-    "title": "Watch FIFA World Cup: Spain defeats France to reach final",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yc2hzTy14aUI4T2ZkYjg4bDBQQndwTC11d3hBbkNnZUFzcTRkY2JtZ3FFNFQ3dlJ3YnppQ2ZPSkxaNDJUb01CbHJsMjlGWkxmYUpCaUV1cEJUYzhrUWFraFZOREU3S1hhRWxwNWRDLTFTN3otRzljRUE5dldPZ9IBgwFBVV95cUxOZEYyaUN1TGxPNEFhb3lUQXlseGJTYTQ1RXZ0NEZmVGhveWR3UWVHYTNaVmk4MFEzNDhZcTRPVjJyTDFnT0VxNXlJc1JEQ2NLandDOU10SC1STksyb29fTXRMQzZCNERNTDIya2xMYldHVFluWnNISTNOTmtGN0tydC1CWQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
