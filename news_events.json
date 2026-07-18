@@ -63,6 +63,19 @@
     "source_type": "news"
   },
   {
+    "date": "17/07 17:09",
+    "date_ts": 1784308140.0,
+    "title": "World Cup 2026 today as it happened: Updates, news as England prep for third-place playoff against France - July 17",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVd6ZndyMUhENnZSQktmMEl2cVRPZV80SlpjQVRhbGdfMmlPcVBpSWlvVHhvR19sT3VZZ1BfQ29RWC03TDNxeTlSOC1meDJUOC1KSUxQcVRnOEcwSWhKSDEybmd1N3BDZzd6ZTEzbWctQ0k2QnlISWRXbWN3TkZJYzVWSUNleGNBTU9PSHZjSEZmVzhFN1BTaWFWUVBLXy1INUhmVllBVzgxSFFRcVFWb1dUUGotQmpNX1JLV2otb3cwZWs?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "17/07 14:42",
     "date_ts": 1784299333.0,
     "title": "France vs England – World Cup third-place playoff: Prediction, kickoff",
@@ -733,17 +746,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejFuYVhVMW5JZWotbENRUHFzZ1RDVXpVbnNXRm40VThmNE9RRnlqOWZ0UGEtV0hid2g3Tm82cm1rTFRSLW5kR25QWVUtRDZ4eVM4eV9UWThhaUVUc2RnRXdlZGNwT0tId2xWb0xnRGpmeExSNFowM2xvQXF0RmtMSS1KVGgxb1JVWDViYUFxbktSeGFwWG1SUkpSaXV2TXJoQjNDd1VJdG1WNmRkWGVKaHBpMNIBuAFBVV95cUxNRTZxMjAydHRKUEx0aVRBcjlOdVF1NUJ0Z3hob0d3WTdUa2xNZzhTOGRLM0tzNkphSjNqeU9JOG5EbE04Mm0wNnpiaWF4Y2hlSXBmVkNhZUpzZlA3ajdCQy15bVdtNnYxZkM4Y3k1eHVkb3F4eGVmQ21jaG12b2xpY3FsbzN1NkNHeFd5NGhSTW1pTVFjN0JEQURnLTdfN3NiM28wYUVlZjlrcDF1bGxWVmphTDBwSHpx?oc=5",
     "teams": [],
     "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 09:39",
-    "date_ts": 1784108377.0,
-    "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
-    "source": "Opta Analyst",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
-    "teams": [],
-    "category": "injury",
     "impact": "MEDIUM",
     "source_type": "news"
   }
