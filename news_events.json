@@ -124,6 +124,17 @@
     "source_type": "news"
   },
   {
+    "date": "17/07 19:49",
+    "date_ts": 1784317740.0,
+    "title": "Third place matches at the men's World Cup: Winners, results",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWhJM0NJTm1xVmJTSzZVcnJON2prY0podkJTSTBwd2Z6X1JoVlE3LXdGQkZhQmszRW9oRS1UWUkzTmlINHJtOWxrOXBzcmtPYkNoUVBERHZ5VUZONno2ZUJRUEt0anloV0FieWk3RWt2TGdPZ3FKMzVEZW1SNGUwR0pRajlNRmpxbzdRS3k3S2dNU212LTR6N3pmNjdyQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "17/07 17:09",
     "date_ts": 1784308140.0,
     "title": "World Cup 2026 today as it happened: Updates, news as England prep for third-place playoff against France - July 17",
@@ -730,19 +741,6 @@
     "source": "Los Angeles Times",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb25kcmF2VGgzVVZaWlFYSkdhcmJUd0NZd0VwSm5Wc1hyLThyTXREbnVJQldTRkRTNXRBRzFtNktTbDlCUnM2TE9CVWFHMHhLbkNOWFlGd0dPQjdDMVk5bUwzTl9jbDJBOE53RGpiak9GbkU3ZGNYZ0tPdUVxRk1EZU96MlBiRUZ1Q0tqS3psdjNfZ1NCdmxfWTNUOC1lbGcyNG9IdzgwSC03MmtBN25sakV0SG1zVFl1eUNQMXBDeUxuRm40?oc=5",
     "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 15:20",
-    "date_ts": 1784128818.0,
-    "title": "The uniforms England and Argentina are wearing today for 2026 World Cup semifinals",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTG9yOC1CRV9iQ29TVVY5Z3ZfR29RV0ZKdWhfVGJ3akEwREdrX21QZzFmSy1ZZkt3M2pqalZobkVscmlkLWJ3eTVpY1hNVTY1a1dJM1RIZ2c3Qm1wQ2FobDVpVnhHY1V2NDF6UjFFaGJLOTdlSnp6dnBaMFFKVFdGVFF4blJ6ZGZhdmxUZ1M2LV9LVXFUZjVXYW9aRlBSRmJHNnRHZW5sLUJrdFkyTHlzMGZJbXVlQdIBuwFBVV95cUxNZS00U3dSYnowLWd5QjN5NWxrdUtOYXFPLWl1WU5iT1dnSnpVRHpkQVZqb2dfWkZEa0hNS0NOUnp0Zi13aFJIN0FOTEVCVHVpTnozc3pVZjlRVjlWX3EwR0pibFZRamZuZ1VxSU81SkVycVRwcjU4eXlFS2s5b3U0R3lIY3FfbV9qcDVjNVNNR1FuTmpiR0hqcjVERzMzRjFuYU9IZVRtd0NvdXhmTTBmVG9yU0FDeVlvUVln?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
     "category": "bracket",
     "impact": "LOW",
     "source_type": "news"
