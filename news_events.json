@@ -22,6 +22,19 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 02:50",
+    "date_ts": 1784429434.0,
+    "title": "England 6-4 France: FIFA World Cup 2026 – as it happened",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2dLSWZUNUpwb25XU1TSAboBQVVfeXFMTjRpQ2ZNVmxNSElLQ1FPQmN4ZkZrRHRHbW0xZmFUNnVUdjA0UVA5aERXeXFzN3JpajBKbDdMa1hQMk8xOUlvWXA1VWgyLVhvUGg5bG5JeGE4ZFhlZUk4RjZ0N3U0blljSF9tTFM1U195ekI2ZUdWdWFkTFZrVmtoN0hPQ000VHFBRXFpRENZMTFlS3pERFdQSy0ta2tJNzV4U1E4WElMN3dvRkFyNDdrSkhiOWllS2hJSVpR?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 02:29",
     "date_ts": 1784428140.0,
     "title": "World Cup 2026: England team is best for a long time - Declan Rice",
@@ -108,6 +121,17 @@
     ],
     "category": "general",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 23:35",
+    "date_ts": 1784417707.0,
+    "title": "World Cup 2026 bracket: Latest results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -718,30 +742,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 09:12",
-    "date_ts": 1784193120.0,
-    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 06:41",
-    "date_ts": 1784184091.0,
-    "title": "Is Jeremy Doku playing? Belgium vs Senegal confirmed lineups for the 2026 World Cup game",
-    "source": "MSN",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0haNUpTYnVoTGtrZHJkNHFWci1tOXZEOFcwSlRyRUpick1aWGhkSEFOZlNhVzBldGNhZ2tmbnVocnZEMVZtcWt4UHpZZE92ZmdQVVEtWGpHTVpReWVqQjNIZUw4eFkzYmpfR0RkOVpRQVhBbzZIeEVwYkRsVDNEM3c2TnFmOXItbnZiMjE5LU95bkdSQzZWZzFHc2VoeE40cGpoWG5xWUh5VUNGUWNEejV1aS1wR0FIOWZ0ZGo4b2cwdVlvRGRrX3pFd3liMHU3QmNGVml3?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
