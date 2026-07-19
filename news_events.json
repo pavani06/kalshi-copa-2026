@@ -1,5 +1,31 @@
 [
   {
+    "date": "19/07 17:45",
+    "date_ts": 1784483100.0,
+    "title": "Spain vs Argentina: Confirmed lineups with Yamal, Messi for 2026 World Cup final",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYW1fMHdidUQyVWZNc01UZ0ZlNmFyZnJRS0lLX3ZDS1hGYjNrRUEyN2dzLV9IdUhjc1pXRmVwaXJSb0U0NFZ4Qndyel9rMHVMVGY4WnVLVkhmVXBrVVFOVjVzdDZyVkNhVklfYkpIaUhlbmIzSkFmc1lINHQyY1FCa0pOTGJ0LVItMnZ1UDU5dzdMQml0M210WE1fT0cydmVVTzJDWWpaUUIwbU9GT0lNctIBtgFBVV95cUxPSlZmM2RadjNvbXk3bEpWR240VDl4cFZHM3ZsSnFIeWt6TEF3S3RHdHVhUENITnBYaUtpWGdYSUhjQTRkMmJTdVRhcDFlZERFdWh3ZTRZMFJBdTFXcm5XdC03SXlfTHBsNWZtV2ozdkJBS2dTc1dHOTFjUVIwUFRGUVZDc0RCQ1ExTDE2VmlsWlJIQ3IxY3FqbDFGaXBUNHU1dUVuNU52c2JfVGRTODBJOWQ0SGIyQQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 17:44",
+    "date_ts": 1784483089.0,
+    "title": "Messi and Yamal Headline Starting Lineups for World Cup Final",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTRtYlVpSDB6N2pkWjV6R051VzlDZHhiaG9FZDF0TXpXd0s1UXlPdEdCVUlOM1hRVWpvTDk4WW54Uk9GcnVmQ2xXaXozNkJXaWZkei1wNFJFck5WOWZ3dE9ZYmR3NHJ2Rm5FZFNMVWczM3R5aTFZNUpwd1p4VmZaWDVKSElabVVNcEdkZzNUdEM4SDlWVzhKX21mVnhmZUl2YTZYLWxXNi1Va0tnaVpZ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 16:30",
     "date_ts": 1784478600.0,
     "title": "Who is performing at the 2026 FIFA World Cup Final halftime show? Full list of artists",
@@ -717,32 +743,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 08:27",
-    "date_ts": 1784276830.0,
-    "title": "World Cup 2026: Spain v Argentina countdown, Trump to attend final, England news – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFFzMmVySDN5UjdVZlNKcWVtQ2FQaXhYWWdFMWtWVUNXYTQ4Z2Rzd0dQWG9IY21kSzZCUnlvYzNfbmxtQUhLUmw4ZF9iNnc3Y3p6bU1YRkxUeUp3bUVVZ2JORTZPLXp0eVJ3Y2tzamtMYjVHaGFtTTA5eGdoTnl1OTBZUUQ2eHpPSjM5MVM3UDAzX29JWTF5RS1xZnZELTJvcmctSDFXdzhETG9Ga25ROHNzdVJMY25sVFZVTnlmR3FLZUZhdDdKeGVHZWhWaGdJZHc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 01:33",
-    "date_ts": 1784251980.0,
-    "title": "France vs England Third-Place Preview: Lineups & Score Prediction",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXUtXzgtYXJrQVlFRkg4QzBwYUZYeHlpNTUtWGRXaVAtNjViZFFCeVJMZ2w4cmJzREFYTndULUNBa1ZmdklMaE9wVTJOUDF3dzcwc1BqRV9ZY3U3dWVZLW9ac2dqcVRBU3FyMDFhXy1XM2VWX1dOT1FuZGM5N1ptX0RJUF9sRmg3N0FCcklsTVpkUGR5UG1LUjZKNWZiNjRCYXVHVmNST2NmZE5iZHdzcS1uMVhiMUI1RGhIaV9uQThraHBWUEgxRHNmNmhzbkM2OTBNdDJITW9icEI4SFBJWGRzWGcyQlJj?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
