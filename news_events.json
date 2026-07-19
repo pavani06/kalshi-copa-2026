@@ -1,5 +1,18 @@
 [
   {
+    "date": "19/07 17:47",
+    "date_ts": 1784483262.0,
+    "title": "Spain vs. Argentina: Confirmed Lineups for 2026 World Cup Final",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1QzbWJSVVVxcGNkWjRQRTg4ZUxLRnMwODlCLXlNa012WUNBU1lNbmE5ZHR2UVlZc1hZd2xiSW91V0htQWpudFItX1BEeUp0TENZeWxVSWR2Wmg4dE1QeUM1cUhScEM3dU1yQmx1QlNibTBEcUtoMkQzdnZqelplWE9GdHZhQnRqLW5v?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 17:45",
     "date_ts": 1784483100.0,
     "title": "Spain vs Argentina: Confirmed lineups with Yamal, Messi for 2026 World Cup final",
@@ -729,19 +742,6 @@
       "Inglaterra"
     ],
     "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 10:29",
-    "date_ts": 1784284172.0,
-    "title": "World Cup third-place playoff: What are France and England playing for?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmtJLXF3X3p3a1FCN3lFaGVaeDRlWkhka2lrSWlLWUpHdjVKalg3TWdaWUxySTU3cEZSRXc3TnMwcGlMN0VfNmctclhyeFRHOVhvVFBweXQ2N25kNDBQOEpoSm03MGxuUUJ4V1pKajhsOTFxUW1OTllnejJmNjRfSy01VnJwaFdWTHdaSVNfVEdubDVxYlNQZ1lVRUZWRl92NGlzYlc3QmpfU3hqbV9tRkpR0gG3AUFVX3lxTFB1T2FuUW9hcVNhOF9uakdISllwaTl4NjFNMTVOR3NNYmxIX0pCdGJPblhTTTNSQ2FzdG1EQ0xESEFlQWJscjQ0NllfMnpKSTI1UVdrTVlYWFphbmhQODh3ajZzdTZXLU1EVXBvczJSeVZETVNkMEM4NTczN1VSMTFlVGtMSkkySk5IallITUdXRWUyalFOS3JlNVd5QnBWd0xWV1ItYzZ3WWhnZ20ybEo3RlpvVVVaWQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   }
