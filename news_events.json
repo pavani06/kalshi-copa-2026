@@ -1,5 +1,27 @@
 [
   {
+    "date": "19/07 22:06",
+    "date_ts": 1784498792.0,
+    "title": "Spain defeat Argentina to win World Cup title",
+    "source": "MLSsoccer.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc08yemFDWnFvUW1WMklvanFnN1NldVloWW5WaGd1Nm1fMGJqc3hxVGZrdXRLZldnWWp2SWR6cklmYWYwTXJtcVdhNk45Sm5qUGZNOC1TSWZlWFZjZk9WN01OTS0wWGxIamNCYzJrRmZBQ2d0Q3ZEa3ZSR1Jia2Z3aHRncmhfbm5qSjFJaHBIZTlkeVROWGxrNFRncXpsZmJxNWtTM284VQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 22:03",
+    "date_ts": 1784498605.0,
+    "title": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
+    "source": "NPR",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORldyT1lCVzFrYVlTaHk3c0pOalB0ZzZQdngxSTN4YkdUMU9IaEtjUWVpRGRhMkVINGxfRTlYY2pOU2tHSFRvV2pnTnpOVUp5TFdhaUxyM25WekRrMDc4bVJVYmFZSDdncUxTSWExeVJEWkFjYkJzYWpteWhreXdBWFF3U0FPODhuczFPRjFMOWNFdTdNMEpldTJjMTRpbnlx?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 21:58",
     "date_ts": 1784498326.0,
     "title": "Spain vs. Argentina live updates: World Cup final score, highlights, latest news and analysis",
@@ -713,30 +735,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 17:09",
-    "date_ts": 1784308140.0,
-    "title": "World Cup 2026 today as it happened: Updates, news as England prep for third-place playoff against France - July 17",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVd6ZndyMUhENnZSQktmMEl2cVRPZV80SlpjQVRhbGdfMmlPcVBpSWlvVHhvR19sT3VZZ1BfQ29RWC03TDNxeTlSOC1meDJUOC1KSUxQcVRnOEcwSWhKSDEybmd1N3BDZzd6ZTEzbWctQ0k2QnlISWRXbWN3TkZJYzVWSUNleGNBTU9PSHZjSEZmVzhFN1BTaWFWUVBLXy1INUhmVllBVzgxSFFRcVFWb1dUUGotQmpNX1JLV2otb3cwZWs?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 14:55",
-    "date_ts": 1784300117.0,
-    "title": "2026 World Cup Bracket: Opta Supercomputer Knockout-Stage Predictions",
-    "source": "Opta Analyst",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc3V2Qk1NWHpIelprMS1yejZtR0kzSFY3Y24xVFByZ1cxMU5EVE9IYS02czZsVlVaMDkzY3JZekYyRU02Mi1sbVlVTlZLNFRnMUtmS2xaUnJ1cEs0R3NTem1zd1dMaVV0bkVPdFE2aGZrem9oQlhuUXNxUkN4UQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
