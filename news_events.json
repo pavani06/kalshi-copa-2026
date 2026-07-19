@@ -1,5 +1,16 @@
 [
   {
+    "date": "19/07 14:28",
+    "date_ts": 1784471280.0,
+    "title": "FIFA World Cup 2026 – Spain vs Argentina, final: Score, lineups and live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFhKV1Ffd3dJWmxOWnN6di1xUWpqMTRWbjZUYjdXMWVRSWdXc0U5QnNaakxwNkJPZHpnUHloc2l4blJzdGtiMFQwbGstenJTTkFnYXpZMGNWQmU5cHcwR0RhamFnV1l1NUVybzRXRDVyWHRNSjNDdDNkczY5MzhKVVRKMTBjUGtJTlJhNFVlVThoLWF3X1FsMHN5TGptVE1jbmFB?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 10:08",
     "date_ts": 1784455720.0,
     "title": "World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live",
@@ -181,6 +192,19 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 23:17",
+    "date_ts": 1784416677.0,
+    "title": "World Cup prize money: England’s third-place payout and the full list of team earnings",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUl5MWFpREJZVVQ0dGNFZGx1LTNTdkI3OXp6WUFVZ1BlNi10VldTT0E3VmFQMUd2cXVpQWFzekRSNUJWUjRXYklHY3VaaTFzaFBFWkpzUGhzc3MydzR2OHg4d0pIUWlBZ3FvbWpHaERHQmU0UW5zQXhKUTI4UGRObGJzU2dYMVhOV3VfWXF1aW5mSEhnQU9INTZDSzRteHBjUHczM1ZoQ2x6bVAxeWlmUVF6TFBabi1UOHp6ZmNjTGtoRGdINkxpOVVFcGxYcWs?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -719,32 +743,6 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 14:35",
-    "date_ts": 1784212507.0,
-    "title": "World Cup: Why is there a third-place playoff between France and England?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMW84Q3FTb2hReVpqRXBZa2Q4RGtoa1NXWmc5VHhYOUVndFQzaXF6LVd4RTN5V2FQXzNPRHFSNDN5cXMwT21LNlU4OGRtSE81ZFF6VTlFdlVqdkRleWdMRlpBZzJ6T2d5SzlSaFBLdnFXZVI1eDhKd2UwSDRrZWtyeHdQSVJ1emtKUVFVMndSUmZtRlEzeXdxT3JlSVdpNHl3SEJzU2p2dXM3QmNaUTRqVWJSWU3SAboBQVVfeXFMTzc4dzBNS2hIdldVZjlXWlpQRTFPcUJ0WThrMWZBRWpCRXVsaTNZeV9rVlFoUWU3NmR4Y0oxMTZYNkZ0aktzNnE1eTF2WE1LSDE1RWtHWnk4N19DNHdLSkgxMzh3V1FXeXNvSF9DOGUwRTNPX2hIaXlWTXpmd2R3ZlNuXzBqaUtxS3hkMV96RXNNMTRKTVNoZmZOOENTOWZPcGdIU3VYa1E2VU1remVEdGctRnVONWhXRlVn?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 14:14",
-    "date_ts": 1784211240.0,
-    "title": "\"Strung along & false promises\" – DFB employee critical of Nagelsmann's dealings with squad",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUZHeTRNaEctNnQxdGtvQWVmVUgtcFkzdndqRHpUdWZyaEhuQ0UzcWJpVk5RamdmcE1iMml2YlQ3VGt1ekxySlgxQ2FkRzM5ZzdzYkJjOHlEb01QMWF0TW5BQUhHNGN4XzIxQmFONTNNUG80V0lSTExIbnVZenZvclVGS0t3cXQydTJ4V3lNNVhRbWRnQUs2WG1iSy14RDlObUE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
