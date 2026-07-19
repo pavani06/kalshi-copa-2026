@@ -122,6 +122,17 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 09:12",
+    "date_ts": 1784452320.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 07:18",
     "date_ts": 1784445534.0,
     "title": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
@@ -474,6 +485,19 @@
     "source_type": "news"
   },
   {
+    "date": "18/07 18:01",
+    "date_ts": 1784397660.0,
+    "title": "France 4-6 England: Three Lions secure best World Cup finish since 1966 with crazy win",
+    "source": "Metro.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1BWenhrT0Rtdk5TeWxkRWh1aW5zQmh6aC1YM2FJdlpCaVdWVm9GdDhRNzVKNDhIQzdHRXJpb3JNeFl6SE9QYU82TEZZZWc0ZDExUE96SXoxVk5GTjRYdGNQeWZJT01ocUhBaWt5eTNYdlFXSlNiOV9kVElKdkM2bGNDVXFzUFcwNlUyb0hucnRrODdnVGhpaklxbXE4MDFpQnpVWEJTVUtudkNkcXZ0ZkxCd1g0UHdyc1JJcDlkN1U0aHExTG1hVjVSanNhTHZ1ZnpOb0xjbGtKRzgw0gHiAUFVX3lxTFBEb3dDQ2RLTHZUMFNoTkd2MXRDbWFwa09TZzJuRU8yVnBNR3B4MW1sZ2hRdG51aXZ4LS13V0EtVWp0RkVGMVBvU0Rlbzl3NVBaaldzZlVPSE9BNnV3azVBZm12NXMydDFoVU16MDZVV2hSSm1JOXJoOTFNMG01TjdfbGtaLXBXMWE5anNwNEdiaG9qaU9OdDF6V0dLRkFpcDh1R3lhV2JVUnNMb19BYmc2dUpUUGxWZ1AyYkdfT3dBa3FHREtEUVdENHBDZExhc0VtZUxoU3VlZXdBS3NWSENBMFE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 17:32",
     "date_ts": 1784395965.0,
     "title": "World Cup 2026: Spain training session cancelled before World Cup final",
@@ -717,32 +741,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 13:45",
-    "date_ts": 1784295905.0,
-    "title": "World Cup 2026: Five positives for England from the tournament",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EeDlEWGZlMWl2U3dOZ1pHSm5pc2JadG11ME5TQUZNeEpBSlNTS1ZoeVY5bU1uUWNaVTQ1OUVZSGFKUi1Bei12em1JcUwwVVlXa3U4T1RCdktKV3FLWTZHRmR5cl8xbnc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 11:37",
-    "date_ts": 1784288220.0,
-    "title": "France vs England football, FIFA World Cup 2026 third-place play-off - Know FRA vs ENG match time, h2h, and how to watch live",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSDhMQ0pYWW1YR2g1OTR5ejlJT09udGxGR3AzU0szUWh4YjZSdWFobldWOUduMWhGOXlTNmZYUU9JSHJOeVJUdWxJM25FdjdCN2N4S29XZk5YY1FZTHRQeHl2RE5Wc0tTdG1jVjdlUTVzWnFTb2Ezd1BnaHYtU2JkZ3hlNmZoeW1fdzBiNW1QNndhTHBGUDh0YkJ0S3BSWUgta3BRZTNoVEh2MkNlc0Jtd2R0czg5VkdXNVROcExPS20zMTE3M1RUcUIxczFEZUVabWhKX09fWS1FdnV0Tkc0TzF5T3dmZlRPUVE?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
