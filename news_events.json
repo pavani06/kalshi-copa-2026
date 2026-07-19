@@ -13,6 +13,30 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 10:03",
+    "date_ts": 1784455425.0,
+    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the semi-finals and route to final",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 09:40",
+    "date_ts": 1784454002.0,
+    "title": "World Cup 2026 Latest Scores and Fixtures",
+    "source": "FourFourTwo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXJOa3djSWN1TVJ3aFNfX1FNNnk0X3RyWG9hdFBROFU4eHlmel9zZTl6MlhHQWNKRW54d19YUFBVY2FIY3J4bHlQc0xDNTloVVpTWGh5MHZzTXNuelhHU0F2X3FibWMycklPWlllT1BraWEwSTJMTzRRT2syTE81dW1fV0lhOUxGRUVnSjY5a2ZSTzlrcWJMRWE2SGdCQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 07:18",
     "date_ts": 1784445534.0,
     "title": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
@@ -84,6 +108,19 @@
     ],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 01:14",
+    "date_ts": 1784423640.0,
+    "title": "Craziest World Cup game ever? England wins 10-goal thriller, Mbappe sets record",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONmctRjNvaWNYbEp1MUxSY1NyY1Y5aXlXeng3a1RmbllyS0FCN2Fha0owUktOeHJCaG1QSTlwZDEyZEtxS1ViV0tJWDE1NGhyUDMzbDU2cjlCcTFfb3FqRk5rZ09OYTZlSXFlZldnQmxRMVBhR19DR0RYclBjcEx5TDNCUzRJVjZHdlc1VV9aTV9ERjBYSkRoNExmaHlqSmVvd09WZndwY3RGajJ3YkZOSlNXLTJaZ0ZBMWJhV29CbkVrVUw5WGh5cVRTZlVMcmtHOEEwa0EyQVZCaUFPWWc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -708,41 +745,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 13:30",
-    "date_ts": 1784208600.0,
-    "title": "World Cup final: Argentina vs. Spain - What you need to know, predictions, odds",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1M4Q2tnSU9RVTF1b1hKQVdPUTNDQzJGcTZ1TUVpLTNuVzdwcFI4M0xjZlBoVlZJRDctSExaSzc1Sks4UVVwY2Nuem5FSkhTVUtCWTNhSXhVa291U0d6ZzJvWkM2R2VDejFSMEVqcDBYWUtESGx6RVotOXRlNkdSRjhwSlNLQTRLclBOelZfdnljNGV3RkMwN2MyNjF5eFIwbkV6RVFsX1pqUzJzMXd6MjZTUW4?oc=5",
-    "teams": [],
-    "category": "general",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 13:14",
-    "date_ts": 1784207640.0,
-    "title": "Are There Any World Cup Games Today? Schedule France vs England, Spain vs Argentina",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUpiQlBuY3UxRnR6M2JYa2ctUGxweUVReGoyX3pCWmxsNVdqajVvRXZ1NjMza3pjak9SbGFPSHQ1dXNYTUVjN0dqcHV1TmlBV2hIU1RkcUNCTy1rdURwMUs3bTd5NndLSldWQ3pMNFYtM3duM1BuNFNnclNvV2tpSHRQZlFPNERyUTJyZElPejVlc2VUN2dLVnRPdl8xTzJ5Z1hzZFdLVVpZS2FTcGkwb05R?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 09:23",
-    "date_ts": 1784193807.0,
-    "title": "FIFA World Cup: Schedule, Results and Standings",
-    "source": "Eli Sports Network",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUU1Yc0RwLThESG9QTUhheVlsVXNhUHZLYnVybFVRV0s5cFFnWnRDMm0waFZHY0I3VHZqZEViZW9sYU12LXd6b1R5UXlzTkZnLUdDd2NranV4dTdoLVdVUTk2TVFKZzFXb0xqWmkzY3J4aXZFenhaRzZyVDhfdFhIb1M3cHoydElLLUhxRHlGWG9YMloy?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
