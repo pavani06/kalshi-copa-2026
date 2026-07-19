@@ -1,5 +1,16 @@
 [
   {
+    "date": "19/07 15:34",
+    "date_ts": 1784475253.0,
+    "title": "2026 World Cup: All the European sides' fixtures and results",
+    "source": "UEFA.com",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcFdsRkx5c2pSZWFnRFQyd2RCUGU2UXRDVkVBd0JWaVlUeGQyNkQwOUNZbVM4ZEF2RmgxWDhCTGNtVk93c25RS21mbE1EdVdpOXFVN2FmSWl6aGtjNXJLWTljRl9fM0xoQzVyY0o2NEZ0TGRwbGl1MjR0WFBpMjdxWk1fWWdVOTJpS0JMa0R3dlIzZTd6SkRPSHJ0Vm9BTzM4UkJaM05xQUlhX0VIc0QtaTRpRThXMk0zSzQyeDc2WlcwdEVKYjRsSWFqYkFWZ2Q3SXc2cFJ6bnhpQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 14:28",
     "date_ts": 1784471280.0,
     "title": "FIFA World Cup 2026 – Spain vs Argentina, final: Score, lineups and live updates",
@@ -732,17 +743,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 18:44",
-    "date_ts": 1784227483.0,
-    "title": "World Cup 2026: Fifa 'assessing reports' after Argentina players hold Falklands banner",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xdXVPeGZiMW9PS1g0ajNnc1I4T0FCd0J5SHUwTXdPODRnYkhOMFh3cFozWmY4UHlvY3J1akpDeXRFemp4T2F3YXdDRl9ud0VwWV9MS19fRnBhVWhiRG5Rc05vQ3g3TE0?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
