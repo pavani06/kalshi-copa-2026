@@ -1,5 +1,29 @@
 [
   {
+    "date": "19/07 16:30",
+    "date_ts": 1784478600.0,
+    "title": "Who is performing at the 2026 FIFA World Cup Final halftime show? Full list of artists",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGFvbkJLekxsT1Y1Q1JuOFZ3OGJJMThLcGFEdHhDQ090SUhkTzBGLVpKbDRLMk41R1hod2RBVTR6MFhBaTlTR0tyM0Y2c3N4MkRtV2hWQUxDV0JLeGFZZEc1TzBLcUpONlFkN3J0WUpHdmQ5OWZQMTZ3SElaUFFhRkVtbWQzeFNzbWUza3N6Q2FlV1VKX3p4Q1NzQXlFR3JBV3g4RzYzWi1LbzBlajRmd1QxOVU5THpwa0HSAb8BQVVfeXFMUG9BTjI0eEtwT1Y1UzJ1WG9MQ3Q1dkJxT3dlQ3E5WTBoVTg1clZqVFJVQWhXamx3YnNjZS16c25YUGRCektoVnFyNWJjQkc0a212Y2pVWjVaVXJBMHBwOHJKUVpQMjZfLUJUMVRodkF2dXJRWTVBTmZ6X3Jzd0pHOWdQU09scHo1bTFKRG1BQWRCREs0bUxxRzFEcjJYRDl2NURwN3MtT0Q0RkNQMWMtdHNXNVlOejRhMEJSTnIzT0U?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 15:53",
+    "date_ts": 1784476409.0,
+    "title": "Zlatan, Thierry Henry & Alexi Lalas Share FAVORITE Moments From 2026 FIFA World Cup™ 🌎🏆",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5odmhXNmZDNEpXVXM4QTRrMExiNkdkbEJyQmUwOUlFYlp1a3hFYUw5ODF3Sjh3ZjFKcXJQN0xSbHU1VFpVd1BjdzgwRGZXZHlzeXB3X2MycW4zajlHTk1WaGx3?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 15:34",
     "date_ts": 1784475253.0,
     "title": "2026 World Cup: All the European sides' fixtures and results",
@@ -719,30 +743,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 00:31",
-    "date_ts": 1784248279.0,
-    "title": "Joias da base brilham, e Botafogo vence o Santos com gol nos acréscismos, no retorno do Brasileiro",
-    "source": "O GLOBO",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU2psWDlmMVByRG14QW9WWjBRVDZQTXhBb3FTa2xWcV9LamNlMGU3cVlHRUpyamtqcFZXSC1zNGdObFY2ZktpTkRDY0R0bjFwSkhDWEFFRVVaLURDSFNFZUJOYlpVTy1ESlBOczNRN2lROGpQcHF3N2cyNGdrdTZKMkJfTU5HRXdrdU5rbnJZN0R0bjBlWWVlS2ZUSUxfT0hEbDNTVEhCRnZPanNORlVoVTFnZDlSSmJ4UWRwampnSTlvMmZ3VUtLeFV1STRhVWZPMnJlZnY1aTdrbnkxYnJOSTVvVTZQdENudnNCazI0dlhMSWx5dFp6OTB4TkVIa0Jj0gGPAkFVX3lxTE1EcEdGVWFBSkhmTy1hR2xCV241N1FtTmlfUkZkYjV5VFVwdVdDb1lIRnVFNElWdXd6QU5JUjRPaEtUc1JxQk1mZi1pV29Zd2xDSTBnWm9YOGFnTDc2ZmN5aEFkRTFSYzlSb2JjTEQ0MFQ4c1BDRk5kSDJ4LVF1cWVWTV9BVjNnLVF6S2VnU1JPMElFTnRZelFRdTIwb2QyaW5SQXR1UmotQzVaS01TaW0zbWVZcGVwcWpSM0phZHpoT09SbEpSeFF6b0JaaVJpdjlwNm1OMFplUDRNTzVYSWJELXd4MUxSX2xXdFBXblVmRW9GM0k3eGFUQnl5V0k3NFFFM0tXMV9vemJlNTNnNUk?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 20:05",
-    "date_ts": 1784232300.0,
-    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
-    "source": "Action Network",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
