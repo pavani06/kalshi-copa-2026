@@ -1,5 +1,18 @@
 [
   {
+    "date": "19/07 01:21",
+    "date_ts": 1784424060.0,
+    "title": "World Cup today live scores and updates: France vs England for third place",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUVSOXNtTm9MX2lWUFI0STduYW1MYWtkT2JBQXNNLWpYOXIyY3lBMVhrRlBCUnRJU3FoYW5hSUIwRTl2OEpKZFUxOE1lOWExckxxdFBnb2liNmlSeURyZDRaeGhhQ3RfVVBRSUhLRWhwb19EcFlqT2FLZ2ZyMHE4OV81S3RIZTRTZHRxai1FV2NtN1JGcmg5YURqMUI1V1R6R25INi1LTmVuS09jUW1CUkVPQUVDSnJjcWs0M1FFaXE0VmZobHJ4Zi05RVJRLVZVZlE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 00:31",
     "date_ts": 1784421060.0,
     "title": "France 4-6 England: Bukayo Saka scores hat trick as Thomas Tuchel's men win thriller to finish third",
@@ -10,6 +23,19 @@
     ],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 00:30",
+    "date_ts": 1784421000.0,
+    "title": "FIFA World Cup 2026 stats: Mbappé tops Messi with 22; Olise breaks Pelé's record with 7; Bellingham's 7 most-ever for England",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSEhSeUd1cGhvb3E3dW42T3lDX2l5Q1h6NkF4dWxrcjJjTnZwTE1LcEdkQVM4bEhJWktVbUpNYmtITDJXWjBtQVF6WWpZX0ZhZEkyNVJYM2lTTkF5eFJTQzB2NVg5RTZ0UlBWYkVuV0tNRUJwX1ZTeWdoY0NTS1V5YU8xdTFRSjdDSUdKSlZBZ1lFMHI1Q2tITndKWE5fUTBYdmlTRE1yMmFMR003M29aX1NCc1I0dnlqWUV5YTViLW9GLUJqMmszMjVhcUtBWXpkSDR6ck00M1h3dFZMTmlPdzFuWVNNaEw4ZHA2TUFWd1lLV2pZSTFZdTgxR3otcERTWmhuU3B1NXR0TzQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -60,6 +86,17 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 23:10",
+    "date_ts": 1784416200.0,
+    "title": "World Cup results 2026: Updated scores today, yesterday, and so far from 2026 FIFA tournament",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNExLUnZXZlpubEVkN1E2NGFCLUc4T3pyakhETnpSdC1BU2l1WFREcFhadUI0MTRLMkJiQktzQ3JyS3lEX3k2a04tck5kR1REZ2tSY0E0LXFGQ3dPV1hWd251SkMyTUR3TmxleDZhQW5XVE5fU09WWmxhNktXVi1yd0Z5ZVBIVEhIXzVIcVFZM0gxRjMybndKZXlCaEVGNGlTbmg4b3h0NTdzU213VHA3Rzc3R2NqamY0d3N4LUc5TngyQkNYTnc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -709,41 +746,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 22:25",
-    "date_ts": 1784154300.0,
-    "title": "Argentina's epic comeback vs England sends champs to World Cup final",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVllDT3lXQXVjMjY3MllRZHdYRXVCaFpKTmVEMjBQWm9sbTBYWW9ZQzczWTFvcGxMU0xaLW4zNF9zdU5VSDVuVlh6ZG9xMlRjU1ZQQXVTeWlGa1JUXzQwblZvRWtHSUxTX25KZWN4T2czVnpENGduTVU5Y2hVOEo0WFlKYWxnVUc0VzFHaks3MTdGTXM3V2FMZ2g3SmszaHg0Ukc4a3Bad0FkaDhQcXVmRkR5NVlPQmN6R2RqZFdpZ2ZTYnJQNmJBbGc3SEJodGJPRkVOX05JRjdHTVJmbEtJQQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 22:09",
-    "date_ts": 1784153397.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 21:36",
-    "date_ts": 1784151360.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
