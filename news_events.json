@@ -1,5 +1,18 @@
 [
   {
+    "date": "18/07 23:35",
+    "date_ts": 1784417735.0,
+    "title": "France vs England Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Bronze Final",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zeWVmWU50bnhXWjB0YjlHYTZ3OXRzaElta0tZY09kSzFnRE9QZGhUeUFKbndVcmpCdUp0U2x1RHNEbDNGS003a1BaQ1BpeHh0YWlHX2JTdW90Qk9LSjJvYldB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 23:15",
     "date_ts": 1784416506.0,
     "title": "England outlasts France in thrilling World Cup Bronze Final",
@@ -730,17 +743,6 @@
     ],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 21:31",
-    "date_ts": 1784151096.0,
-    "title": "World Cup 2026 Latest Scores and Fixtures",
-    "source": "FourFourTwo",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXJOa3djSWN1TVJ3aFNfX1FNNnk0X3RyWG9hdFBROFU4eHlmel9zZTl6MlhHQWNKRW54d19YUFBVY2FIY3J4bHlQc0xDNTloVVpTWGh5MHZzTXNuelhHU0F2X3FibWMycklPWlllT1BraWEwSTJMTzRRT2syTE81dW1fV0lhOUxGRUVnSjY5a2ZSTzlrcWJMRWE2SGdCQQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
