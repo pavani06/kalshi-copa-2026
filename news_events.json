@@ -1,5 +1,42 @@
 [
   {
+    "date": "19/07 05:34",
+    "date_ts": 1784439240.0,
+    "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 02:29",
+    "date_ts": 1784428140.0,
+    "title": "World Cup 2026: England team is best for a long time - Declan Rice",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKXzRqcDd1MEF0SDJyNVJuOTZGbHpYTkNoNTNnVlNCT21uZ2hWb2VzZkZKZ3NyT1o4N2diUUJZSjlES0pEZTZlS1cwZWpOZHo0MFA4LVg5bU1oMW1FdFV5Qks4c3ZFZFE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 02:06",
+    "date_ts": 1784426783.0,
+    "title": "France 4-6 England (Jul 18, 2026) Game Analysis",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ieXN5d0xnc2ZXaFlkLXJhTzBZc1BOQkh1YUh1Y0RwTGw3NzFlSm5Zb0tfQmpNTkc2aGk2UXJWMDV0bW5iY3ZuZ295VHZ1aV9KdklYNlY1NV9jZm52MXAw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 01:21",
     "date_ts": 1784424060.0,
     "title": "World Cup today live scores and updates: France vs England for third place",
@@ -239,6 +276,17 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 18:01",
+    "date_ts": 1784397719.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -693,58 +741,6 @@
     "source": "UEFA.com",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2JMTXRPVmREV09GaEdtaGRTS1pVbXlKZ3hyb2lzWUE1QnEyNVh4REc0ZUFCeVY0UXVVb2ZTVnlzNExOSmJsd1VmaHF4ekJ4RHJBc3h6UkxVMllZekl3UjZGakVtUDZxbGFzWmxHdnU2OUdHcldtX2pMU3YyMzQwdm80djczWTdKVzVmb1kyOFdJdzZfYlVEa0pBUGpfeHdMM2hleVlPamp4UDk4Q1U2SDZ3ajYxX3pMMWVFZ3RKNkNTbVlNWDVZYXBWcnFkUzhVYnplV1BwNkl4d28?oc=5",
     "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 05:00",
-    "date_ts": 1784178000.0,
-    "title": "World Cup 2026: Tuchel takes blame amid speculation over England future; Argentina players criticised for banner – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmFPUFlMQ09QemNJdXZnYUVBM20taHFETjR0TWp0U3hRajQ5eXFZMDg0bDNYTWtWUi14bmE2SEhfb041OWtjY1ZjUEIwT0JzMl9PVFBDYVd6VUFxdGhxUmp3NG5wMkRGamp6LTZObURERzU3QVk3YTJRMGdodzI2VkhIM1FHR0FMek9jZkR2VjJsaXd5VzQwQzFVZUt2M25OOWtHRlllVVJQclpDV2RZMjN5NHZtNWN5Rkh1dkMzMkkzWm9rWmNwYnNyOWltTFU?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "16/07 01:52",
-    "date_ts": 1784166740.0,
-    "title": "Meet the England squad at World Cup 2026: Confirmed 26-man squad list of players",
-    "source": "Radio Times",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWTZNUkhwSmlzZkticTFQLUZwTEIwNVJOdmc4NXcwb0dNT18tUG4zMUtFTzRMNDFsYU9sYnppSlBGd1pDWldFS1RPZHV3Ry1uTDFQYTVNTTlrOWZxMDhHdHlZcWpMbzZ1MTNsUW9MZ2JfdXRhNTNWMk9CSHBCLXM?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 22:58",
-    "date_ts": 1784156296.0,
-    "title": "Lionel Messi fuels Argentina’s stunning late rally past England into World Cup final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHRYbHROVW9uM1R6aUYwYloxdzZfemhSdWRaWXljajBKdFRyMnhidFRRMG5xLV96Wk5uLW51NkR6VE5TT1RJVTFiZkNVVm95R0t6MDN5UndCdlNoeDByTGpLZjgwOVpIZEdSUjJlczRMOVBhWkpaVlNCeTRRNjd5cFJFNmRjVEkzemJmSlFVQTdIUDlaeWhuNXdHYk9GLUNOdFVVVGhlZkJiVkQ4amMtZ2thVFpPZlNfOUg5eXdfSQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 22:37",
-    "date_ts": 1784155050.0,
-    "title": "World Cup 2026: Argentina could face disciplinary action for displaying Falklands banner after beating England",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hM0VHRFkwNV92eHlkY3BLS2JBdl9vem8yMWZQZ3JjSUNsRG40RHdWVlRRRmYtbHdfaUVra2g3cXVXNG40T0YwdVFtX2Zrby1LTXdmazhIY3V0cHdvYno2cHJNanZwZXM?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
     "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
