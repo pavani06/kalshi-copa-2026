@@ -176,6 +176,17 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 22:01",
+    "date_ts": 1784498519.0,
+    "title": "Ranking da Fifa: Espanha assume liderança após título da Copa | Ge",
+    "source": "ge",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUEpIMmhfbUw2T01oSUZBSi1XRUh4QkR0NGpSXzNxc3VMb1NDLTYtdmlaRjZGaVluN1U3ZURJSThnMThZWThnMVMyNGR1clBOQUMxUHFDLUt5Zzdjc2hON21yVFF0cHNDbEJKR2dTV3M3Q1RzOHVnMmJiNlFhNzdNU0xFRi1nTE83cUxlR3Fwc1NYeXNKbDZFYWlmLVFvZjlGbWpwTERQdkhCeWxBdC1IOVJZSXhWUUFSRFJyZlFBSW9nNngycExhT0NydlY3ZmR1akM3dTlWN21DNjFham5ROEFiSFRtOFhxczBPMXhpM0owbmc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 21:58",
     "date_ts": 1784498326.0,
     "title": "Spain vs. Argentina live updates: World Cup final score, highlights, latest news and analysis",
@@ -706,19 +717,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 19:00",
-    "date_ts": 1784401204.0,
-    "title": "World Cup live updates: France vs. England lineups, preview for third-place game",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
