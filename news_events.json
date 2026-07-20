@@ -55,6 +55,17 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 22:02",
+    "date_ts": 1784498557.0,
+    "title": "Spain beats Argentina to win 2026 FIFA World Cup behind Ferran Torres' extra-time goal",
+    "source": "Fox News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHprRTZWeGwwYzhtbmxIQzRzbFkteTViSGRXSjU0dGtZbVNaNVR1TzJoZEk4MEhBUkYxNkpQWWlNRWFpUk9KVHpkb0lOOUNYUFAxeDYyd1dha1JPRzBRZktEMnRhMElNVEJ4X2RvelRneFo4cEZzQjR4eEJmZEwzVldZNWFEc2gwZ0FHZ1pjdzBjcTBNYWktVG5GREozVlVUaWdqMlZwY0hSa09jMDdGREVHWdIBuAFBVV95cUxQUEVud0RrWTlpLVFYeE5PNXBWSlVqVVdzQy1vRjlaUEkzSF9nX1VjdTlhckRyU05rbms1RzVwQWxKVEFNNjlKcWx0WmZlRVJ4clgxRkRTd3ZDWkszWFRTUHZZQnM1bW1PZFEwSWVNdDZWdmtyeW5vVjJDOEdzNXFrc2JNeDJqVWlncmxWeGRtTjdxRTdTb1F0WVJuMWhVZTVuMGZybHpuTlFfSDhkM1M3cDkzSlYyZjVE?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 21:58",
     "date_ts": 1784498326.0,
     "title": "Spain vs. Argentina live updates: World Cup final score, highlights, latest news and analysis",
@@ -718,19 +729,6 @@
     "teams": [],
     "category": "general",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:28",
-    "date_ts": 1784359724.0,
-    "title": "World Cup final weekend: France vs England prediction, schedule, news",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOERRQkhJdEZPZTZXNjhQTFZKN1RjMk9nZ3M0RXJwb2g4dmVyaS1McW9fb01SckdieEFMZ0U3Nnl0UFZaLVdjcW9MemkzR0ZuYjBUSTJOeV9sM19feExqWk85RTZQcG5jZHJSUHE3aFdhcjRyelRyY1BFUWF6TXVqTjNGYm11SkxnSTg2VFllRmh1ZGQ1WF80NHZlMGZxY3Vzb0NGM2toV0piakM5ZmfSAbMBQVVfeXFMT3lDdWU3U1F6ZEdIQlBIQ2Q5RUY4Rm5tN0JJQ2dJMWpqOWtKclgwY1pIbXd0T3pLQ2hzOVd0TlVmSUxBMkZtZ1BIdmljUmNmSWpNa0FXSXQxTVhseXhsTjRHVjlqc1hydFZCSlFjZUc0Y2FNWnl3MXFuSkdGRUtVRmp6dnJJWGhWSGVsOUV1VkVkbTVqRkNDbkF2aGVEUUFqQzlpUGI1dGd2bWM3MHQ2S3I1d3M?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
