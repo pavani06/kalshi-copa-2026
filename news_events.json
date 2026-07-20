@@ -1,5 +1,27 @@
 [
   {
+    "date": "20/07 05:00",
+    "date_ts": 1784523600.0,
+    "title": "World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy – live",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEtkeHFaUkpqc0YzMnV0dHMzdEJIeHdubzIxcVRKZ1FfNHJJSlZVVi01Sl9QSEw5dnhKQjRzTDJNZzNjSnVNamw3cGR4M19hbjQzOUhZbzBVY1hkODY2QmpPYTRvajFjQXUtZl9oYmtTV2otSk9OTDV5dkRFM01yUFZiMWhvdlgxVWJEZDc1RlBuWk10bThqNHY5QU1oZkZlY3B1RHh4VQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "20/07 02:18",
+    "date_ts": 1784513896.0,
+    "title": "FIFA World Cup: Schedule, Results and Standings",
+    "source": "Eli Sports Network",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWhYTW1UcXdXaTF3UG5vV0FDWDhndEg0eklCUUlxOHctRVJfT3UzWGlZZ0U1Q3lvTWNjMGVLMjRmbUluaWRmdlpjXzI1QjZlLUV2N3czNndZdzFqZTZmV1lKdFhzREo3b2N1UmpoaVV2dFdOeTVNV1V4RzMybHdxNFZIZ3BULUtEMUxfQ05DLUwtcnB4?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 00:35",
     "date_ts": 1784507705.0,
     "title": "Spain 1-0 Argentina (Jul 19, 2026) Game Analysis",
@@ -702,32 +724,6 @@
       "Inglaterra"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 12:18",
-    "date_ts": 1784377124.0,
-    "title": "France predicted.lineup today vs England: World Cup starting XI projection",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1Q0WUNHekQtRXpwekVVaGsycFhfYkZSRWk4Q1dGS3l4MC1xYUlCRlExN1ViMENTS3ZmZUQtNTJJS1ZIX0wySkExX0hib2N5ekd2Vmc3TXBjaVlCSHI5UDBobkJwWWlxQTdWVUVDLWFCWGQ2MWFKclVILUpoZ0FidERydkEtMVFq?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 11:56",
-    "date_ts": 1784375816.0,
-    "title": "England XI vs France: Predicted lineup and confirmed team news",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLXVBbVZsMHJCY2FoVU4wTlNWZm1Tejh1ZEpqcFRxSFk3Uk00QWVvdTJEbU5nUnV0Z2xlLWpYTFd0dWVKSy1WUmJidS1vR2NNeHlubHFzdWRUZzJhSWNRT2dpUHJfR2JFM0h5dUhaWXdzTnVqZl9FR0lQWEVfeS1MQXEyVG93clNMRkpHeTd1bHBHbjFoMEY2cVlSWGFkS3VqSFhNaUpsVTBMSUFIOEQyTXc2VXgzUFYwVHl4ZGVnTURGa0trVEJCM2d1OEhJa0J6U2Z4ZHRfMkRmNTlPRWJ5V3RST3FpRVFOcld0RVhPY3FfTFU?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
