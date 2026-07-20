@@ -318,6 +318,17 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 13:12",
+    "date_ts": 1784466720.0,
+    "title": "The 2026 FIFA World Cup is handing out record cash — here's who gets what",
+    "source": "Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUs2NkJhc0g5WTdmamVIRnprTmJRODRtT0RrMG9mQjN6aG9qRlllXzl3QUFHQVRhVXk3MDQ4OERoenJpQmhaa19VRXNIZUk4MDJZYUw0dE00RDlFSFktalVWZWtlbVBLQWhFdGswQzRta0xiX2JNMXA5b2lZR3ZENGVpV2o3TUFnQzJpZE9vYUhpeXNhS0QzYzFLVmZVdlHSAaQBQVVfeXFMT3RUYVVRckVXb19QNW9uRmNhaUpBV3dJZXNrS0hlRmxHczZWbGFhWk1nb2pSaDBVeEgyUTdUT1A3a3dXcVVZQk1MODE5UUxGOGphazgyV3J1SHU2UGdPOFVWTG5uRThnLUhlcy1jazQ2bFBzdkZDLUxHeTNxdVQ4OV82U3NyazVGOTlRdUZHaXRGOGtOWjU4Q1VBczVfeW8ySElESlQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 10:08",
     "date_ts": 1784455720.0,
     "title": "World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live",
@@ -703,19 +714,6 @@
       "Alemanha"
     ],
     "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 19:16",
-    "date_ts": 1784402213.0,
-    "title": "France v England: World Cup third-place playoff – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdTJ6dm54cVhDYmNVcmtna2tzR0J1NlYyc1FFcS1GUnlPdlZ1VWZWY1haOHhDRTJ3Y2E4ckhLNjR1c2NYVFVaRkNnSmdRNVRrZTFJOUFXbUVNdHByaml6NFV0XzJjTmlBeF8zYmpLQTNnVFhPbmpzVklZRFRGZFJQaDJOOVgxTl9YUnNVajM2eFQ4V1FibFlBbmtlU2daX1F0THFxMmR5YTY?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
     "impact": "LOW",
     "source_type": "news"
   }
