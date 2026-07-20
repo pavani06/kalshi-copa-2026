@@ -1,5 +1,16 @@
 [
   {
+    "date": "20/07 15:00",
+    "date_ts": 1784559614.0,
+    "title": "World Cup 2026 Odds & Predictions: Favorites & Bracket",
+    "source": "Squawka",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXZk9xQTE3ZDd2TWZabkNSdE1PanVnUE4xRW1BSTNncnB3NFN3RWJQUWJsYVp2WVl6YlJheDhvQURMUnc5TjJCY01HdC1ncWFNa1BQN096OVpRS3pQY05UaEI5SnNPZFkwZDQ5RVhQQ0ZBZWNwSkdCa0FvZEJDUQ?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 14:04",
     "date_ts": 1784556292.0,
     "title": "2026 World Cup: All the European sides' results",
@@ -355,6 +366,19 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
+    "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
+    "source": "bundesliga.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 05:34",
     "date_ts": 1784439240.0,
     "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
@@ -695,30 +719,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 18:01",
-    "date_ts": 1784397719.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 18:01",
-    "date_ts": 1784397660.0,
-    "title": "France 4-6 England: Three Lions secure best World Cup finish since 1966 with crazy win",
-    "source": "Metro.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1BWenhrT0Rtdk5TeWxkRWh1aW5zQmh6aC1YM2FJdlpCaVdWVm9GdDhRNzVKNDhIQzdHRXJpb3JNeFl6SE9QYU82TEZZZWc0ZDExUE96SXoxVk5GTjRYdGNQeWZJT01ocUhBaWt5eTNYdlFXSlNiOV9kVElKdkM2bGNDVXFzUFcwNlUyb0hucnRrODdnVGhpaklxbXE4MDFpQnpVWEJTVUtudkNkcXZ0ZkxCd1g0UHdyc1JJcDlkN1U0aHExTG1hVjVSanNhTHZ1ZnpOb0xjbGtKRzgw0gHiAUFVX3lxTFBEb3dDQ2RLTHZUMFNoTkd2MXRDbWFwa09TZzJuRU8yVnBNR3B4MW1sZ2hRdG51aXZ4LS13V0EtVWp0RkVGMVBvU0Rlbzl3NVBaaldzZlVPSE9BNnV3azVBZm12NXMydDFoVU16MDZVV2hSSm1JOXJoOTFNMG01TjdfbGtaLXBXMWE5anNwNEdiaG9qaU9OdDF6V0dLRkFpcDh1R3lhV2JVUnNMb19BYmc2dUpUUGxWZ1AyYkdfT3dBa3FHREtEUVdENHBDZExhc0VtZUxoU3VlZXdBS3NWSENBMFE?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
