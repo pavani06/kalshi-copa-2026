@@ -11,6 +11,17 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 22:13",
+    "date_ts": 1784499180.0,
+    "title": "How to Watch the 2026 FIFA World Cup: Scores for Every Match",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 22:06",
     "date_ts": 1784498792.0,
     "title": "Spain defeat Argentina to win World Cup title",
@@ -722,19 +733,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 06:20",
-    "date_ts": 1784355600.0,
-    "title": "England vs. France line-ups: World Cup 2026 predicted XIs",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2lPVnBhSy1wVGJqUXQtNV82a3oyQWQ1cUdQYURKVzFvYmJ4Q25fTGRKRDNMcXpXc2hlZURDbURXczk5M3prQTc1YTRreFRLSHJXT1pPNDlPajEtSnBoQkd1enVrRW44cWFqbGEzTkxVUGlSLVkwZFBBbjdXMjdBYm5LUjRSbXUtdTdUczlYSDVVdnk0cm5mYnBNbi0tQ0tJOGx2R2Myaks1QQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
