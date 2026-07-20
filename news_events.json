@@ -1,5 +1,16 @@
 [
   {
+    "date": "20/07 00:35",
+    "date_ts": 1784507705.0,
+    "title": "Spain 1-0 Argentina (Jul 19, 2026) Game Analysis",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY2RMY1hmZ3FrdHIwT2J5a0tKZ3J3eGtuVEZaME1kaXg2OFl4RC1WM2FRekE3Zk4tUG0xdzlmNThmaVRaY2ZJVlh3YlJUMUNqMDFnQUlVWGJoUmZuTnJn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 00:17",
     "date_ts": 1784506644.0,
     "title": "How Spain won the World Cup and why Lionel Messi’s Argentina finished up furious",
@@ -718,17 +729,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 08:17",
-    "date_ts": 1784362649.0,
-    "title": "World Cup final: Spain vs Argentina – Which team has best chance to win?",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjRVdHQycUg3MGxwOEY1Q3dlcFNXTTFRbjBWemZmV0MzVGZLcmZQOFJvQnNWcmZaaWhpejJSaVBmVk54b2l0MElwa1hhTlZZWU5tMG84X0JsdE4xX19rd1gxU2dQNTFJUFNfcWRzMEMyOEp2QlhWXzlPeFpyUHZQWTBkaHhUWnVFaW1sYmU3Z0xVY3doMmJ5WXh4VENCWlJIcG5iM2d2NHhkRjZ5ZEVqOXB0VdIBuAFBVV95cUxOZU1iWV9lZHRTN3A1V3JRVU1yV1V2aGZkMER4MVg1WkdtXy1nZERJd2xiMzY3aFA2QXNLNnlxVFZfYWJ3NG9NNGIzNUVmTDQ2VlZYYTRjY3VUbGswbHJOc0h0YWc4a19vTmRiZFBrV2pQSGtaZjA2UVRKVGZpeUtyTllIWjN1cHprZGhWdlpaMFFfVEhuM3dQbXZmcmR5UEs3Vy1rZ1dqRlFiQ2RCdHB0UDBhTkFVaV9L?oc=5",
-    "teams": [],
-    "category": "general",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
