@@ -1,5 +1,16 @@
 [
   {
+    "date": "20/07 14:04",
+    "date_ts": 1784556292.0,
+    "title": "2026 World Cup: All the European sides' results",
+    "source": "UEFA.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1pYc0V0Qi1EMXFqZ3hpZ0twWW84ZFptVlByV2FPMkU0ZzlOYTR0cDZqQTlUWDNlOFhFMVZwQmhrYnNFbjhNSFY3a0NnNmd2TU0zVzk5SEgwOFFKM1pfY00tOWlCNEtNM0VtalNuaTlWU1dPOWUwQm90MllQdUUwUHZJeXl3NFhseEotWlVpUjZqNW5MOHU1amhkS1dnLVd5V2NDeGhJVTR5R0FEWFpGMTRycEx2THQ1NGtEMGVCdzZfUGE4Z09HSA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 11:40",
     "date_ts": 1784547627.0,
     "title": "World Cup 2026 awards: Lamine Yamal, golden boot, Mbappe, Messi, Ronaldo, all di records of 2026 Fifa World Cup",
@@ -74,6 +85,17 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 23:25",
+    "date_ts": 1784503500.0,
+    "title": "Rodri wins World Cup Golden Ball as Spain dominate awards",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHI2bUVOUkk2YUhKb00yeHRPcjNtQjJXcjdzY2pGNjZUS2thQXVMNUFoV2t5MnFTaE14am9CaWJ1MmI4RmJoYnFNNERSc29BRlRPeDIxbnhxb0w3TWl3R01xOF83azk3amtQVTNlMHNZWHZfeUJMNG5fNmVOUUdnMWRqSlFTQU1xUy1tUjUzRTFzOGtUS1gyVVFUQWdUZm1DUEZkeTZB?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -697,28 +719,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 17:32",
-    "date_ts": 1784395965.0,
-    "title": "World Cup 2026: Spain training session cancelled before World Cup final",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01a3Vnc3ZlYlJNVk50MnlSTWltTFRobTRhWmlUOU90NUY4YU0zWmRfSElFLUExWWxhekZmQVhrN2tRRll0YkRiSG9tNDFlaFhjaFNSWnBDN3l4blN3c2FQS0hnTVlxLTg?oc=5",
-    "teams": [],
-    "category": "general",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 17:25",
-    "date_ts": 1784395504.0,
-    "title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcllXN3YzeXo4YUFCdW1ESDRPdERuckZyZkEwSmoxR2NmQUlpb2Z4U2U1dXNGMmo1cDRobVRYWjhjNWxKUEExbTdRamtnNkF5SHMxdnBkbVl6OC1mYUhxal92OEhXRmtqYV8yT3NFazM0MS11MzBwbGJMUHpzS2U0ZmU2dmwwTDQweC1FcWZsSU9OYlU0ZUJISzlFd3BGcDJTUWQxTVpUQ2o0d3hrWlZXV2dPbUk3TlBP?oc=5",
-    "teams": [],
-    "category": "general",
-    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
