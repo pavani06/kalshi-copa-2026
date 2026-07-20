@@ -1,5 +1,16 @@
 [
   {
+    "date": "19/07 22:30",
+    "date_ts": 1784500200.0,
+    "title": "The ‘hopeless, bad people’ just won Donald Trump's World Cup",
+    "source": "Politico",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTRXcm1kTzhoUDdvZXFWUERNTHhMdnZxcVZ1UjE0TXlfX2tSRm5ZU1hfSVBIM1E0S2tDX1JNSG4xSzZ1akl4UHlGTXZRNTJpbHBJdUNfU1ZjUXVzQTlLVmJEczVrcHhNa3BmalhZZ0szV2g4Y3JnMlk0Vkczazg3NUtvSnY?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 22:06",
     "date_ts": 1784498792.0,
     "title": "Spain defeat Argentina to win World Cup title",
@@ -41,6 +52,30 @@
     "teams": [],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 18:00",
+    "date_ts": 1784484001.0,
+    "title": "Spain 1–0 Argentina—World Cup: Match Stats, As It Happened",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQay1ETlVSQlIxdk9xbERzemxoWkdWbnYzU3I3LVVqZUNWd1hiVFh0X2lnM1ktMjZrM09WYXB4UVFZX2sxVlZLbjdqaVlUaXFUd2NhbGFjeWxzY0RaVldfSV9USE00dm94bEFzbmI0REhsSXRIUHlzREVvZnAtRkpBbHcwRQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 17:59",
+    "date_ts": 1784483940.0,
+    "title": "World Cup Final: Leverkusen’s Palacios on the bench as Argentina face Spain",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnBPeFkyNktia2M4ZXVDeS1ZVXFzNTlQRkwxcnJXMnR1Um1YT0pHSV90SFRUUkdXMktUWlpjNGVYT1BDZ0gxaUZDRjdRWTNaTWh3cWJJTTNUMFpFQkV4OEpZc0owYzFXYUxMSGxNY084c2pUdWphcW14Q2ZLWlMwQS1GWW9KQTYzM2NoeGhmbWQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -401,6 +436,19 @@
     "source_type": "news"
   },
   {
+    "date": "18/07 20:45",
+    "date_ts": 1784407500.0,
+    "title": "Why Is Harry Kane Not Playing for England vs. France in the World Cup Third-Place Playoff Match?",
+    "source": "Athlon Sports",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUlNVDdQc3Bmb3pDV1M4QW5zV1d0d3pCY3ZlNGZVRmNMTW5ua0hrdzc3eVN0XzVuU3FjNVZ6TlhQT1F2dVhoQWlkeUs5UXJvQS1TZ1ZYSDFpTGxvaHo0anJyX0hYZjVhcDZZVGNsOU1mcjdENWFQbFVJRFRDbzRkN1FuRmE2Zw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 20:34",
     "date_ts": 1784406851.0,
     "title": "France vs. England - Live Score - July 18, 2026",
@@ -686,54 +734,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 03:24",
-    "date_ts": 1784345060.0,
-    "title": "2026 World Cup Predictions",
-    "source": "Silver Bulletin",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGZfdFBZWWlBWkQ5OEVpc3dYV09iSGluZlJNQmNkUTBkc0lxZVRIcWpQOUlCMlRRaEM2S1N2TmxGMWVhcUNBcWhwMFRCRkxIMC1SNmpydFFhOV9OSjN5TGZ6bG45TmN3dDJadw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 20:06",
-    "date_ts": 1784318778.0,
-    "title": "Star-Studded Bronze Match: Mbappé, Bellingham Lead France-England Third-Place Game",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYk9FclVYdkc4djF2SmVqcVJLdE1NdklOcUtLeHB2SWxJU1hBcGVyenVqczJqdkd1cm14dE56d20ySnNfaE1YcWM1bjd2Nzl0eDZVcHpQeE1kWmpTRmdzUGhaVDFWM0NEb1RUbWZUbXFYblJ1Q3NPazEwa3JOMEdNWEp2djQ1YlVDQ0RUQjItTW9rVXdPRV9LdDNCYllxRG0xbWx5YURQSHUzdjjSAasBQVVfeXFMUG1DRm1vamVYMzlOak9CNURHQ2NFWXRodm9vN2FuS1hBdnBhQTJKMk1Wd3FGWEQweXVIQ0dZR2RJaFpnVHB6a3Z0RE9hODNqVE9oVkdiMnNMbXJrNlhXS1ZYQWZRcFFSanZRM21jeUhhcnFWNEdkTExxeTdTRW5iSzZ6RF9FS00xaEl6amRWRkxnVXpPS3lfNElsYzIyUW1majRRRzRpandlaGZZ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 19:54",
-    "date_ts": 1784318081.0,
-    "title": "England XI vs France: Confirmed team news and predicted lineup",
-    "source": "London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUVFMGo4NDVjOUdCQjVBcEFRTVRXZFkyT3VvYm56eHJGWW1NZjJfNWdfNXVhZmp3Y2F4MEFfMnhCVld1dVBJbXp6Um1INUJ6cWxEM0l0MXpWQU5jeFc4OE1HWHVtNjhneGJTbnFSVEFZMUVrazFidEVwOTM0OXRINjAxUkdPOEltN3dqbmRncWwtSHZqT1hYWmJWdTIxOHRsakdiQXJfa0hURFpvNGJBaFhuc241blBwZVo2Um5ZN3BjMnBNcUVqYTRhNmFCSlF3WDMyQ3pYdkNsS3owT2xEdUNOZVV6TnJXU2pJ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 19:49",
-    "date_ts": 1784317740.0,
-    "title": "Third place matches at the men's World Cup: Winners, results",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWhJM0NJTm1xVmJTSzZVcnJON2prY0podkJTSTBwd2Z6X1JoVlE3LXdGQkZhQmszRW9oRS1UWUkzTmlINHJtOWxrOXBzcmtPYkNoUVBERHZ5VUZONno2ZUJRUEt0anloV0FieWk3RWt2TGdPZ3FKMzVEZW1SNGUwR0pRajlNRmpxbzdRS3k3S2dNU212LTR6N3pmNjdyQQ?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
