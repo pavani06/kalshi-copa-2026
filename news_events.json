@@ -110,6 +110,28 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 23:11",
+    "date_ts": 1784502660.0,
+    "title": "Spain's persistence pays off to win 2026 World Cup as Messi, Argentina exit quietly",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTB5eURmRnlsZHpLNUVIMXJrTXNrZUlIUzR2a3czOHZWaF9VT2lvOW5mYnR5UW11VnV5M2wyUkJwVmZBWndvN2RHTllsTlpaWktuRXBmdVZPWnpvRzdac3R5Sll2YjdXMWpjX1lySV83OW5aWWgyR0VmVXctdkdrb0pCMWVkQWRSYWNCRVY5dE1lRjE4aU5ZYlNHLXBWcFdrYmFrQ2ZNMUhya3ViVDEwajQtLVNzT3p2YXVRTjdJQQ?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 23:03",
+    "date_ts": 1784502180.0,
+    "title": "Kylian Mbappé wins Golden Boot at 2026 World Cup after Lionel Messi's goalless final",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYng4RlhBdmtzVjNMQUQtVXA0QWFaUlIwU3Uza1g0SWNhVTVqaUFBVzd1N0JoV1FjTXcxM0txc0p5UmpTQUkxay1VMHBfYUNkR2tOaVpTNEZMRUpDYWxGaVRqZUxnNmtYU0ZmWHhGNUNLbjBETkhBWDBYWXBjMDkxMldGNlJmU19xcTF1OGNZdVE2Y0lxMTh4ZU5pN29lNG9pa180QmJqS1F5V3FrcXRJUmtSblUyamd2aklaQVZ3?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 22:30",
     "date_ts": 1784500200.0,
     "title": "The ‘hopeless, bad people’ just won Donald Trump's World Cup",
@@ -689,32 +711,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 19:44",
-    "date_ts": 1784403840.0,
-    "title": "England lineup vs France today: Confirmed starting XI for World Cup",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 19:42",
-    "date_ts": 1784403720.0,
-    "title": "World Cup: Bundesliga stars face off in third-place showdown as Kane starts on bench",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHNaRG8zUkFDQXBlZW51bWJOTG52ZVNZSF9oN21BYTVzNE50UzVMRFZLYzM3TTJlbVRjeHhJTVExVGZ1TmtRaVo2NFl2bFlzdGxsaWFMczhIZHdTMTRHbUxtTFZHZm1JUzBROVJaN0pEZEttYThEQXI5bVRsZUZhZmFldlR4cDhDckV0WGRlYlgtdGs5aUtjTXF3QQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
