@@ -242,6 +242,17 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 22:00",
+    "date_ts": 1784498400.0,
+    "title": "Real Madrid 'win' 2026 World Cup with more goals scored than any other club",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWFfcDlxaUVLMVR0WEIxUG15NGJvZnRtTzB4dDRKYUx0MXJORjlzWll6blo3a0xHeTBzbTd1dHJNNjJ0VHF6SnBYeTVUQ1liNUk5SXk1d01ESkJNa0E1clJSRXlDbXJ4U0l2eXpRTFR2T1VtTDFZbXlOM1d6N2V1NkZVM2xkRXNLdDIyN1kxbDUwbDRfc1FuZHF0aTN3WHV4VExMcF9HZFFmLUE?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 21:58",
     "date_ts": 1784498326.0,
     "title": "Spain vs. Argentina live updates: World Cup final score, highlights, latest news and analysis",
@@ -691,19 +702,6 @@
       "Inglaterra"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 20:12",
-    "date_ts": 1784405558.0,
-    "title": "France vs. England Lineups Confirmed, Starting XIs in World Cup Third-Place Game",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEZFRHR0SW9kSFVUN3lCczBsb2FkS29uWkUzMlY0TDVkRlhKSFhyNkJkUGl1SXhlNzJ6V19vVnYzUjMzbnNzWUdval9xLUZRWmJtTzZzQXZ4S01LQWM1WEp6RlFfV1lsRnJXMjBSU2F6OGRFVFBoY0ljNDNpYUVBVWU2VnEzQldoa0ZtMTNpOFBmZXFzblFtZHVaLWhSdUdjbUZJRzVET0dhQmlMbTNEWHpqREZockdoUWJR?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
