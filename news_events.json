@@ -11,6 +11,17 @@
     "source_type": "news"
   },
   {
+    "date": "20/07 18:41",
+    "date_ts": 1784572910.0,
+    "title": "The 2026 World Cup won over America and proved the planet wrong",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGU3VVh1N2l4Vm15Wl9hbks2WVlNZWxIRDZnZDJNdG56TGFUVXAySHFxcWw1Ulk1N3UzVUFzSXAwU053UFBvLUhhWWY0VE0yekRHYjc4dERfRk5sTlpqSUg1anRWV1ZIWGwwd0MxWndPUjNBVFNtcU5kOUJMR3NTelpocEtOdXpDM3lNRnJDdlFzZkY1ZE1FTU5PNnU3VHVsV1B3XzNNTlRTYWVXLUtibjZ0bTc1MzcxcHc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 18:27",
     "date_ts": 1784572036.0,
     "title": "News Analysis: Argentina lost more than the World Cup final. It lost its class and decorum",
@@ -690,19 +701,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 20:34",
-    "date_ts": 1784406851.0,
-    "title": "France vs. England - Live Score - July 18, 2026",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjdPRzVXNHg0Rm5zTTNMblBXZktZTXpZSkZvV3pIcnRCUnNXVHdPVzVsY0NEVjFCT3NZSDcyV2l0ZVVKdmx3MUtmUUVKeFgtc0ZoUEhraUJoTjYtMUVZYmxkNWpBcG1pV2pPLUtWTU5JdmtWVzBGT29rSndWUjlldS15TVNjOFRYWXY1aFdVZEtiaUN6OHhYY0lFcmotamJCbTVhZg?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
