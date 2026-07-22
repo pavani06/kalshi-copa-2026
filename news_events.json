@@ -55,6 +55,17 @@
     "source_type": "news"
   },
   {
+    "date": "20/07 13:10",
+    "date_ts": 1784553004.0,
+    "title": "Goal-fest finishes top, but how low is the final in our rankings of all 104 2026 World Cup games? - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTdvanhUMDNQdEswTWlTV21FZUxEM3lLSVNrWmx3TjhoNnh1b3hmaHlHRWpSWlJCMVR0NlplcUQ0am5fc0toNjN5aDgyTnh0Qm9xT19FQ0RzQ3ZudHVvR0lpUVRuQjctLWRNN3ZiYVdhSjRONS04V3BBMzFkc0Jwc25GcXdYRFdTb3c?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 11:40",
     "date_ts": 1784547627.0,
     "title": "World Cup 2026 awards: Lamine Yamal, golden boot, Mbappe, Messi, Ronaldo, all di records of 2026 Fifa World Cup",
@@ -687,19 +698,6 @@
       "Inglaterra"
     ],
     "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 20:45",
-    "date_ts": 1784407500.0,
-    "title": "Why Is Harry Kane Not Playing for England vs. France in the World Cup Third-Place Playoff Match?",
-    "source": "Athlon Sports",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUlNVDdQc3Bmb3pDV1M4QW5zV1d0d3pCY3ZlNGZVRmNMTW5ua0hrdzc3eVN0XzVuU3FjNVZ6TlhQT1F2dVhoQWlkeUs5UXJvQS1TZ1ZYSDFpTGxvaHo0anJyX0hYZjVhcDZZVGNsOU1mcjdENWFQbFVJRFRDbzRkN1FuRmE2Zw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   }
