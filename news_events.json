@@ -11,6 +11,17 @@
     "source_type": "news"
   },
   {
+    "date": "21/07 13:19",
+    "date_ts": 1784639957.0,
+    "title": "World Cup 2026: Argentina react to final defeat and Messi questions",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xNEtpV2U4R0FHX2tQaW1MYkpVcGhqamJqbkxfNDZlbjN3TDZ4eXRvWmhjTmtROWoxcHE2VUN6MW1zZEx6bFRqOVJZZDFJX3JpQWhzY3Z5cm42S0Y5b25BZ0psV2sxanM?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 18:41",
     "date_ts": 1784572910.0,
     "title": "The 2026 World Cup won over America and proved the planet wrong",
@@ -686,19 +697,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 21:13",
-    "date_ts": 1784409204.0,
-    "title": "England’s Declan Rice nets goal to take lead vs France | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WNWtxaEQ2UF9SR2g0S1dPazlyZjVHQnZXVExXdGNHMWJhTmM3S0RMRi1yNUdRcjRaVEZqMlBxamVQV1NPb0liMVpJTldtRnVORUVNZTYxdXBNM056dXNzazVn?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
