@@ -513,6 +513,17 @@
   {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
+    "title": "World Cup 2026 fixture schedule and all the results",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjV5RGljazVyVWNyblVRWWIzV2tsMUVCTHJ3c01BYjgzLUlSWHN1WTJqb1JubTVtRU1vTW1kYlYyWUNPeHY1VzBmRndsV3lTeFZEaXlQZllheVhIU0h3Nmp6SnZHcHBFaDBXX1VhNjRnbF9vU0p4TkJWMGxNTklTb0ZaNGI0VzY4THQyQ094alRvS1lHOEFZZUlMZG02S2M5VTVYR2lOc2ZvV3d5dk9NUmxmeFVqR1R0cTNGbTd5RHJ0MFV1QmR6QS1lR1k5a0wtY3pGZl9oOExxRHFPeEhBaXBZZ3AwZmFTNHk0QW5oSHhJRFNCQ0czcjRB?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
     "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
     "source": "bundesliga.com",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
@@ -683,19 +694,6 @@
       "Inglaterra"
     ],
     "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 23:15",
-    "date_ts": 1784416506.0,
-    "title": "England outlasts France in thrilling World Cup Bronze Final",
-    "source": "CNN",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45YU85LVpsNFFMY0k0bDdXWXNfUGlSdDFIUG5fOE1sUTYwS0I2N2hNRHBFaUYyY3d0MkNDMmVNUUd3UU1idkJnQ0t2U3U0UzF6b2I2NTFVOW1jSjhLQmU0UXBScjl3OUVVdFJmRHBmQzd5OVlxczlEeTNGLWFfUQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   }
