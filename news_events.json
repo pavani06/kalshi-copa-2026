@@ -1,5 +1,18 @@
 [
   {
+    "date": "24/07 10:33",
+    "date_ts": 1784889229.0,
+    "title": "Jürgen Klopp confirmed as new German national team coach",
+    "source": "Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXBIMmhBSVFNTTljS3kxR1JDVllITWVBLVBZMUVsaldZb1JPblBOSE9wcGp3M3I2ZjF4WGFNazY0TlNocGFmN3hzTmFqZGJKZ2puMnJrazRaWHZiMGlYM1cyRXd0NFVheEZGWVQxTUViNERrV0RKbGI2R183Ylg0akluMk9aTWp6N2IwVkVWbWxsVHJUaXhV?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/07 01:33",
     "date_ts": 1784856782.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
@@ -681,17 +694,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 23:48",
-    "date_ts": 1784418520.0,
-    "title": "Over to you, Messi - Mbappe leads Golden Boot race for the ages",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03QjNvQWVaSlNmSTNPZ0oxQnI3N2MwWEo3VHpWUkN3MW10SmtwU0tsTjhobGc0Ym4tb05JNEF6Qld4Wnp4NFdja2s4a1Fya3ZHWV9RVWM4dDU2T2NwVV9KT0pnX2RnQVU?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
