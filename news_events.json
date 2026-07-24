@@ -13,6 +13,19 @@
     "source_type": "news"
   },
   {
+    "date": "24/07 09:05",
+    "date_ts": 1784883900.0,
+    "title": "Jürgen Klopp vows to change Germany but threatens to quit if family hounded by media",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3liLUhySlA1SnpSSzV4eHlRZTdHUnVaNHU5dXg3ZkF5dnN0X1FJU2JrYU9Db0xZM0RqSDRHLWNMTmZkdmcyZ0xBdURRd2NXRUg0S2dtLWhfYzh2ZlhNUGRCNHZZUmQxdDF0dUlCWndTZS05Qm0zeHhPNXRKVHJoUlV5dEJ5bUs4QTFaYldNMTNNQXFsWTNZ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "24/07 01:33",
     "date_ts": 1784856782.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
@@ -681,19 +694,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 00:30",
-    "date_ts": 1784421000.0,
-    "title": "FIFA World Cup 2026 stats: Mbappé tops Messi with 22; Olise breaks Pelé's record with 7; Bellingham's 7 most-ever for England",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSEhSeUd1cGhvb3E3dW42T3lDX2l5Q1h6NkF4dWxrcjJjTnZwTE1LcEdkQVM4bEhJWktVbUpNYmtITDJXWjBtQVF6WWpZX0ZhZEkyNVJYM2lTTkF5eFJTQzB2NVg5RTZ0UlBWYkVuV0tNRUJwX1ZTeWdoY0NTS1V5YU8xdTFRSjdDSUdKSlZBZ1lFMHI1Q2tITndKWE5fUTBYdmlTRE1yMmFMR003M29aX1NCc1I0dnlqWUV5YTViLW9GLUJqMmszMjVhcUtBWXpkSDR6ck00M1h3dFZMTmlPdzFuWVNNaEw4ZHA2TUFWd1lLV2pZSTFZdTgxR3otcERTWmhuU3B1NXR0TzQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
