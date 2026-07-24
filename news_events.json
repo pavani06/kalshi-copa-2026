@@ -134,6 +134,17 @@
     "source_type": "news"
   },
   {
+    "date": "20/07 07:00",
+    "date_ts": 1784530800.0,
+    "title": "2026 World Cup bracket: Full knockout schedule, soccer results, champion crowned",
+    "source": "Times Union",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXUwRUFYeVk4bXhRUG45dGhNYXRuM1VDRlB0MGhieVZkbGpyRmpWdkdNdkUtSHUxbGt1REdKbGlDaU03SmF1R0RCTDQwUTl6bXJvWVhPS0VieGlSbWRxZjBsY0p3ZnFPRjZpb2p1emhIUm9FUFR5Qk9rNHFtX1NRdlJRZ1A2bEpzMnhDWWhSc3llVktXYmRSRGZJTDZfdw?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 05:00",
     "date_ts": 1784523600.0,
     "title": "World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy – live",
@@ -679,19 +690,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 23:17",
-    "date_ts": 1784416677.0,
-    "title": "World Cup prize money: England’s third-place payout and the full list of team earnings",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUl5MWFpREJZVVQ0dGNFZGx1LTNTdkI3OXp6WUFVZ1BlNi10VldTT0E3VmFQMUd2cXVpQWFzekRSNUJWUjRXYklHY3VaaTFzaFBFWkpzUGhzc3MydzR2OHg4d0pIUWlBZ3FvbWpHaERHQmU0UW5zQXhKUTI4UGRObGJzU2dYMVhOV3VfWXF1aW5mSEhnQU9INTZDSzRteHBjUHczM1ZoQ2x6bVAxeWlmUVF6TFBabi1UOHp6ZmNjTGtoRGdINkxpOVVFcGxYcWs?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
