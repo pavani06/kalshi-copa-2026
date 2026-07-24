@@ -148,6 +148,17 @@
     "source_type": "news"
   },
   {
+    "date": "20/07 09:02",
+    "date_ts": 1784538150.0,
+    "title": "World Cup 2026 bracket: Latest results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "2026 World Cup bracket: Full knockout schedule, soccer results, champion crowned",
@@ -681,19 +692,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 23:35",
-    "date_ts": 1784417735.0,
-    "title": "France vs England Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Bronze Final",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zeWVmWU50bnhXWjB0YjlHYTZ3OXRzaElta0tZY09kSzFnRE9QZGhUeUFKbndVcmpCdUp0U2x1RHNEbDNGS003a1BaQ1BpeHh0YWlHX2JTdW90Qk9LSjJvYldB?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
