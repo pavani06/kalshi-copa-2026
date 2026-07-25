@@ -40,6 +40,19 @@
     "source_type": "news"
   },
   {
+    "date": "23/07 17:18",
+    "date_ts": 1784827126.0,
+    "title": "England vs. Croatia Congo Starting Lineups: Starting 11 For June 17th, 2026",
+    "source": "Lineups",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjVLLUo1UXZicDNQdkU1M2hUVkpXWnpYYmJmWV9YMnB3ZVk3d3lNdlk5bzhxNndNYVVFWkp2Q1RyaWtwUG1KQ0VEQlpKX0dHUWM0VjAyNmNLaUVZQWtkN2YwMWNIN3pTaGRvdEVXVUt3MW5wUi15ZHBCYVB1VERXTUFHaUhWbzRUU2QxUU1sT2pCNTc5MkNhRE5aZXR1UVhjYlFXU2xJLVg4NG8t?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/07 07:00",
     "date_ts": 1784790009.0,
     "title": "Viralizou: show paraguaio, gol contra bizarro, sangue em entrada dura, e Pedro fez falta à Seleção?",
@@ -681,19 +694,6 @@
     ],
     "category": "general",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 00:31",
-    "date_ts": 1784421060.0,
-    "title": "France 4-6 England: Bukayo Saka scores hat trick as Thomas Tuchel's men win thriller to finish third",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNamw1aVhJT1Y1elFJT2xKaHlNUGZuR3gtTWpxZkk4YUJYOFdKeFVRdGpOMDRWRTlVR3BlSDN3VnUxRHRmWmx0aUJXbHJ3YUJDQTBjczAyYWV0MGY3eW91RjZPcXlPVlJfTlhTem90N3JnZU85UWh1TlN5d0Z1dkxzVmdjYlU2NkhQb2ZLcTNYV0lkTURnUUx0Q21LVVdyUktvODNRM2J3QnJhV3hYbXdjZXIxM3ZuSmhNLVg0QU1EcmJKXzdhSDh3OTN6NmR3eUo0VEJtQlc0aEtvZw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
