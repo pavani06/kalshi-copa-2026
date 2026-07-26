@@ -571,32 +571,6 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 10:08",
-    "date_ts": 1784455720.0,
-    "title": "World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTE9FS3pmMFQzVWhvVl9fUVBsZ1NhaTRJcnQ0QlR1N1poOVNOSXg3Zi1DQmtQWHJCOXR3WmhlRmRwYVg3Z0xnN1NtWVVOSjhtYTZ1UWhuZUlHQTktN0ZPQUZEWXBOM19tSlg3XzhJZTBQZWxiU0dhRlFqX0JPdlc2MWp3eXdadUpHVVotUllKLVFUeURBcm1HWGc1UWxKNnQ3V3pITURKMVBPekhrcXgzMEp4cS1pUldCMVJyOUNUR3BjU3VheWtWMGpPRWs0bDQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 10:03",
-    "date_ts": 1784455425.0,
-    "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the semi-finals and route to final",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
@@ -632,8 +606,8 @@
     "source_type": "news"
   },
   {
-    "date": "18/07 19:44",
-    "date_ts": 1784403840.0,
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
@@ -641,19 +615,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 21:16",
-    "date_ts": 1784150175.0,
-    "title": "France 4-6 England (Jul 18, 2026) Final Score",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85czY1R1FaNXJyejQ3YkZHekFPMGtKTE9tcGNfb21wTVV2cnczOXc5VlRhYmk0anBwanAxbTd0VHRYQXlhcDBSSklyVkdOTzAxcUpvMFI5LVRXX3M1RVZIbUREaHh5QzlYUW5BbjRiWE43QQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -690,6 +651,48 @@
     "source": "BBC",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdWVwc2FtaUtfMXVUMV9yYTVYQ3hERGE4ejdtcUJCeFRNX0FPd0JDN3JKZnlybkdjX1Z6M1hXRmVDTElWSVc1TldPeUxKM1dUOTVKdnlYTElvSWNldFRpbU1yVENZaW8?oc=5",
     "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England: Confirmed lineups with Erling Haaland today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 07:00",
+    "date_ts": 1783666800.0,
+    "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
+    "teams": [
+      "Noruega",
       "Inglaterra"
     ],
     "category": "injury",
