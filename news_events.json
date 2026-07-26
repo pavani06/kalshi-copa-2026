@@ -319,39 +319,6 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 23:11",
-    "date_ts": 1784502660.0,
-    "title": "Spain's persistence pays off to win 2026 World Cup as Messi, Argentina exit quietly",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTB5eURmRnlsZHpLNUVIMXJrTXNrZUlIUzR2a3czOHZWaF9VT2lvOW5mYnR5UW11VnV5M2wyUkJwVmZBWndvN2RHTllsTlpaWktuRXBmdVZPWnpvRzdac3R5Sll2YjdXMWpjX1lySV83OW5aWWgyR0VmVXctdkdrb0pCMWVkQWRSYWNCRVY5dE1lRjE4aU5ZYlNHLXBWcFdrYmFrQ2ZNMUhya3ViVDEwajQtLVNzT3p2YXVRTjdJQQ?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 23:03",
-    "date_ts": 1784502180.0,
-    "title": "Kylian Mbappé wins Golden Boot at 2026 World Cup after Lionel Messi's goalless final",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYng4RlhBdmtzVjNMQUQtVXA0QWFaUlIwU3Uza1g0SWNhVTVqaUFBVzd1N0JoV1FjTXcxM0txc0p5UmpTQUkxay1VMHBfYUNkR2tOaVpTNEZMRUpDYWxGaVRqZUxnNmtYU0ZmWHhGNUNLbjBETkhBWDBYWXBjMDkxMldGNlJmU19xcTF1OGNZdVE2Y0lxMTh4ZU5pN29lNG9pa180QmJqS1F5V3FrcXRJUmtSblUyamd2aklaQVZ3?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 22:30",
-    "date_ts": 1784500200.0,
-    "title": "The ‘hopeless, bad people’ just won Donald Trump's World Cup",
-    "source": "Politico",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTRXcm1kTzhoUDdvZXFWUERNTHhMdnZxcVZ1UjE0TXlfX2tSRm5ZU1hfSVBIM1E0S2tDX1JNSG4xSzZ1akl4UHlGTXZRNTJpbHBJdUNfU1ZjUXVzQTlLVmJEczVrcHhNa3BmalhZZ0szV2g4Y3JnMlk0Vkczazg3NUtvSnY?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
@@ -368,19 +335,6 @@
     "title": "England starting lineup vs France today, World Cup XI confirmed",
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:00",
-    "date_ts": 1784358000.0,
-    "title": "France vs. England Lineups Confirmed, Starting XIs in World Cup Third-Place Game",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEZFRHR0SW9kSFVUN3lCczBsb2FkS29uWkUzMlY0TDVkRlhKSFhyNkJkUGl1SXhlNzJ6V19vVnYzUjMzbnNzWUdval9xLUZRWmJtTzZzQXZ4S01LQWM1WEp6RlFfV1lsRnJXMjBSU2F6OGRFVFBoY0ljNDNpYUVBVWU2VnEzQldoa0ZtMTNpOFBmZXFzblFtZHVaLWhSdUdjbUZJRzVET0dhQmlMbTNEWHpqREZockdoUWJR?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -426,6 +380,19 @@
     "source_type": "news"
   },
   {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
+    "title": "England v Argentina confirmed line-ups: Who starts World Cup semi-final?",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDBjcVNMRF9zY2JjSHpfUzU4bS1RNWdISHhjcGdJOWdCV1BYenpNSUt4eTNUUFVoVUxZUzU2UFdNZm5CeHdoY3ZIUlN2ODdPa1p3NDBHV1dGbm5JSjNqWFZ3YVhSUDJpZHNBQ1l4LUxaRXBVbktiaUo2SG1MNFNHamhMSmFoM2xxUk1r?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "14/07 07:00",
     "date_ts": 1784012400.0,
     "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
@@ -445,8 +412,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -459,8 +426,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -473,24 +440,11 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "World Cup 2026 yellow card watch: Players at risk of semi-final suspension",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjg2S1NLR01zNmpxSFVvS1JTaGgwT1VYWGZua2p4UDdyY2duWTc5Tk9PUXU2MnlhZW56cXdOMi1mazhxdVQ3RFZsbjVlMUJfamtqQnB1YUZqU1NmSkRKVlBIRE1zeGNnX1NIb3hlZG1BejRMaXB6NVVPZWVQTFJwRDJjYUtZcm45Y3Q5UFptN2V1UQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -591,8 +545,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0lFckZ2dURGTjB3NWZ0ZENqUkRXX1NVNzlaeUxyTjZyazlyS2tTYzVkbmZKUlRINE9xd19jYVlWc2V4cjd1MzMxQ1laNkVNbkVUN29WeWdqdmQ5TVFsOFlBcG00bEFWamVvUlNiVUw1RGhnTzVtQ2Zzc0M2NExWeUx6TFo?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -631,8 +585,8 @@
     "source": "Metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -727,6 +681,60 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Brazil Starting XI vs Norway: Confirmed Team News and Predicted Lineup",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXF2YmEzR0VrWWhSMGpJMTJSYUNRdERBTkZ4MnJEZjJBdGlHeUdVOEhJa1lSUU0yNnBuTzJ1amNpYi1vblROcXFDUVRXdW5IbmJSdFRRdXVMWHFuRDFmVG1jVjhHWU1iRXMzTnh6YXRUa0o0LWV3d2drRVFVMGhENkNiUQ?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Norway lineup today vs. Brazil: World Cup starting XI confirmed for round of 16",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 07:00",
+    "date_ts": 1783062000.0,
+    "title": "World Cup Buzz: Mohamed Salah Starting For Egypt After Knockout Round Injury",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:00",
+    "date_ts": 1782975600.0,
+    "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeW5GVVVNR2hXOF9uT1VuNC1HWUZyZVdFT2p5eEVWOC1uay1GZV95RzJBcXJaN0hxcWxXZDVCX2FteU9ONjRsZld2VmVrTmtDYzZHQUxNdVZsNXpXdDRGa0dNYUpvZ1ZWckQ0ZVFidFpnSENlcUpGRndCMmMxTHAzS09DQTFCcmVmVkg1ZjZob2pSamJuMUI1ckxRVGJXZVJaQ3piYTllYnc3WUdwOUY4NUtQMnktVWxnRklrOEd2ZjF1MzdmYlE?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
