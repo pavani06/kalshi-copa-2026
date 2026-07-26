@@ -641,21 +641,8 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
-    "title": "All the latest FIFA World Cup 2026 news - Daily updates and LIVE blog!",
-    "source": "bundesliga.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUFXQ2VFYUFTb1k3R1ZmTk5GUTllTDM4WDdINUVLZDFGSnhqLW56Wnc0eG9OVmVOdWs0SDFJSEU4Sk1WclZvRUIxS0ZiUDVYZVF0OWV1ZmVrT1I1S24zZmVrVUJUQ2FBbGxiNTg3MUwzbGYxTHRFbl9uTXpDUjJrcDcxUWNfX21QM2dIaHV6TnNXRGhXM2w5UTJR?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 05:34",
-    "date_ts": 1784439240.0,
+    "date": "18/07 23:15",
+    "date_ts": 1784416502.0,
     "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
@@ -687,6 +674,19 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 21:16",
+    "date_ts": 1784150175.0,
+    "title": "France 4-6 England (Jul 18, 2026) Final Score",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85czY1R1FaNXJyejQ3YkZHekFPMGtKTE9tcGNfb21wTVV2cnczOXc5VlRhYmk0anBwanAxbTd0VHRYQXlhcDBSSklyVkdOTzAxcUpvMFI5LVRXX3M1RVZIbUREaHh5QzlYUW5BbjRiWE43QQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
