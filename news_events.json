@@ -560,17 +560,6 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 13:12",
-    "date_ts": 1784466720.0,
-    "title": "The 2026 FIFA World Cup is handing out record cash — here's who gets what",
-    "source": "Fox Business",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUs2NkJhc0g5WTdmamVIRnprTmJRODRtT0RrMG9mQjN6aG9qRlllXzl3QUFHQVRhVXk3MDQ4OERoenJpQmhaa19VRXNIZUk4MDJZYUw0dE00RDlFSFktalVWZWtlbVBLQWhFdGswQzRta0xiX2JNMXA5b2lZR3ZENGVpV2o3TUFnQzJpZE9vYUhpeXNhS0QzYzFLVmZVdlHSAaQBQVVfeXFMT3RUYVVRckVXb19QNW9uRmNhaUpBV3dJZXNrS0hlRmxHczZWbGFhWk1nb2pSaDBVeEgyUTdUT1A3a3dXcVVZQk1MODE5UUxGOGphazgyV3J1SHU2UGdPOFVWTG5uRThnLUhlcy1jazQ2bFBzdkZDLUxHeTNxdVQ4OV82U3NyazVGOTlRdUZHaXRGOGtOWjU4Q1VBczVfeW8ySElESlQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
@@ -695,6 +684,20 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 07:00",
+    "date_ts": 1783666800.0,
+    "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
