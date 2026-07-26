@@ -1,5 +1,16 @@
 [
   {
+    "date": "25/07 23:59",
+    "date_ts": 1785023986.0,
+    "title": "Liverpool vs Sunderland Match Results Today: Club Friendly Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXMydnZpak5YcWw0NDBmX0dpa2dlcW5fXzlua0RPcGdLRkxuMjMxVGlYYjRDNlRtUlR6WC1wX1RJLTM2T3FXT2NyYUNvYm9YSkNoZlNLMHh5aVlUbV9LOVJFT1RXdk9hZGpIWlJDQTZNVmpNQmN5bjdQLUF5RjEwWG5nb2w5VUptM1VxRURMOA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "24/07 18:34",
     "date_ts": 1784918061.0,
     "title": "Rosenborg vs Manchester United Match Results Today: Club Friendly Live Score, Updates, Stats",
@@ -676,19 +687,6 @@
       "Inglaterra"
     ],
     "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 02:06",
-    "date_ts": 1784426783.0,
-    "title": "France 4-6 England (Jul 18, 2026) Game Analysis",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ieXN5d0xnc2ZXaFlkLXJhTzBZc1BOQkh1YUh1Y0RwTGw3NzFlSm5Zb0tfQmpNTkc2aGk2UXJWMDV0bW5iY3ZuZ295VHZ1aV9KdklYNlY1NV9jZm52MXAw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
     "impact": "LOW",
     "source_type": "news"
   }
