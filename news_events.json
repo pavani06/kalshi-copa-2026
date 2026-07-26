@@ -462,69 +462,6 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 18:00",
-    "date_ts": 1784484001.0,
-    "title": "Spain 1–0 Argentina—World Cup: Match Stats, As It Happened",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQay1ETlVSQlIxdk9xbERzemxoWkdWbnYzU3I3LVVqZUNWd1hiVFh0X2lnM1ktMjZrM09WYXB4UVFZX2sxVlZLbjdqaVlUaXFUd2NhbGFjeWxzY0RaVldfSV9USE00dm94bEFzbmI0REhsSXRIUHlzREVvZnAtRkpBbHcwRQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 17:59",
-    "date_ts": 1784483940.0,
-    "title": "World Cup Final: Leverkusen’s Palacios on the bench as Argentina face Spain",
-    "source": "Bulinews",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnBPeFkyNktia2M4ZXVDeS1ZVXFzNTlQRkwxcnJXMnR1Um1YT0pHSV90SFRUUkdXMktUWlpjNGVYT1BDZ0gxaUZDRjdRWTNaTWh3cWJJTTNUMFpFQkV4OEpZc0owYzFXYUxMSGxNY084c2pUdWphcW14Q2ZLWlMwQS1GWW9KQTYzM2NoeGhmbWQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 17:47",
-    "date_ts": 1784483262.0,
-    "title": "Spain vs. Argentina: Confirmed Lineups for 2026 World Cup Final",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1QzbWJSVVVxcGNkWjRQRTg4ZUxLRnMwODlCLXlNa012WUNBU1lNbmE5ZHR2UVlZc1hZd2xiSW91V0htQWpudFItX1BEeUp0TENZeWxVSWR2Wmg4dE1QeUM1cUhScEM3dU1yQmx1QlNibTBEcUtoMkQzdnZqelplWE9GdHZhQnRqLW5v?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 17:45",
-    "date_ts": 1784483100.0,
-    "title": "Spain vs Argentina: Confirmed lineups with Yamal, Messi for 2026 World Cup final",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYW1fMHdidUQyVWZNc01UZ0ZlNmFyZnJRS0lLX3ZDS1hGYjNrRUEyN2dzLV9IdUhjc1pXRmVwaXJSb0U0NFZ4Qndyel9rMHVMVGY4WnVLVkhmVXBrVVFOVjVzdDZyVkNhVklfYkpIaUhlbmIzSkFmc1lINHQyY1FCa0pOTGJ0LVItMnZ1UDU5dzdMQml0M210WE1fT0cydmVVTzJDWWpaUUIwbU9GT0lNctIBtgFBVV95cUxPSlZmM2RadjNvbXk3bEpWR240VDl4cFZHM3ZsSnFIeWt6TEF3S3RHdHVhUENITnBYaUtpWGdYSUhjQTRkMmJTdVRhcDFlZERFdWh3ZTRZMFJBdTFXcm5XdC03SXlfTHBsNWZtV2ozdkJBS2dTc1dHOTFjUVIwUFRGUVZDc0RCQ1ExTDE2VmlsWlJIQ3IxY3FqbDFGaXBUNHU1dUVuNU52c2JfVGRTODBJOWQ0SGIyQQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 17:44",
-    "date_ts": 1784483089.0,
-    "title": "Messi and Yamal Headline Starting Lineups for World Cup Final",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTRtYlVpSDB6N2pkWjV6R051VzlDZHhiaG9FZDF0TXpXd0s1UXlPdEdCVUlOM1hRVWpvTDk4WW54Uk9GcnVmQ2xXaXozNkJXaWZkei1wNFJFck5WOWZ3dE9ZYmR3NHJ2Rm5FZFNMVWczM3R5aTFZNUpwd1p4VmZaWDVKSElabVVNcEdkZzNUdEM4SDlWVzhKX21mVnhmZUl2YTZYLWxXNi1Va0tnaVpZ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
@@ -702,6 +639,72 @@
       "Inglaterra"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "Four England stars at risk of World Cup suspension if they are booked against Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0lFckZ2dURGTjB3NWZ0ZENqUkRXX1NVNzlaeUxyTjZyazlyS2tTYzVkbmZKUlRINE9xd19jYVlWc2V4cjd1MzMxQ1laNkVNbkVUN29WeWdqdmQ5TVFsOFlBcG00bEFWamVvUlNiVUw1RGhnTzVtQ2Zzc0M2NExWeUx6TFo?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "Is James Rodriguez playing? Switzerland vs Colombia confirmed lineups for the 2026 World Cup game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBLcmxyVTU4Rml4bXJvb0U4WGIyd0xyU09ZUTR0d3M0X3B3QU9mOGZ5c1ZuN1IzQ1lScU9TSl90RGFNOTgxVks5d1VocE9NdUphZ2xyYk1URlVjTThiRFg1djIyR1BybkdfWDJwWFpDbW1VRjMzYkpTUWJRVm05MTl3d0wxQ0JlNV9mMm1jeGZkTHk3YXZXMzdsTldRai1QZmEyVXRXME1kbTJ5TmhYdjhuT3ZmUi1tWmwtRThIQlVUZzJqaGtTbExKRzAxaDFR0gHUAUFVX3lxTE5rNWZnWS1OR19ZMlZuWGp5cjNoZEFJZ0lkb3pIaXZkOVdTUE5EX1MwVTdURWN0Rk81OW9XWWFTQVBTTVMtYUV2NEtSWU1kcUdiRnJLa3NGLUthNk9FRGt6dXRXbFoxWU8tRUoxUTU2SlZockdRc1R3WXZ3VlhCUFo2LUhDLTFGS0liblV6dmlZdVUxczVtaERrYVpGVGNrNDBqOWk0SUdMRUVPMG1zWWVlSUhQdld0T0owd3NhSm8xOVgzRnpVVHFkdXlKaTJRWGNoeGF1?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "Switzerland vs Colombia Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 16",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYW5iaTAwNDNRdHR2UTV3NGNGNHZ0WjMzUk9INGlPcnBUQVVQUUpyUkNsM2dGTlFjZ0lYN2VxVWRRcE5FSzNPalNSUV9ydTZsS2pjS0huTzl4RTU2TDZ5TEhSa1BXNlR0d0t0NDlyUEV0d2ctZnlQWkI3LXZ5Vlk2bXpjU3ZlMS1KLVo2S2swcUFEbFpndUE5V3BTZ0RpUW52ZXg1M2VzVmpFd1RyZ0tWR2x1NG5kN0ZETTVVNnZMMHlZLW5xNHg0emRsREw2YVI0ZGppMXNJQ09tcms5T3hmV2RLdVkyUQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
