@@ -75,6 +75,17 @@
     "source_type": "news"
   },
   {
+    "date": "23/07 07:00",
+    "date_ts": 1784790000.0,
+    "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/07 17:12",
     "date_ts": 1784740367.0,
     "title": "Casemiro joins Lionel Messi: Inter Miami’s projected lineup for remainder of 2026 MLS season",
@@ -679,19 +690,6 @@
     ],
     "category": "result",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 01:21",
-    "date_ts": 1784424060.0,
-    "title": "World Cup today live scores and updates: France vs England for third place",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUVSOXNtTm9MX2lWUFI0STduYW1MYWtkT2JBQXNNLWpYOXIyY3lBMVhrRlBCUnRJU3FoYW5hSUIwRTl2OEpKZFUxOE1lOWExckxxdFBnb2liNmlSeURyZDRaeGhhQ3RfVVBRSUhLRWhwb19EcFlqT2FLZ2ZyMHE4OV81S3RIZTRTZHRxai1FV2NtN1JGcmg5YURqMUI1V1R6R25INi1LTmVuS09jUW1CUkVPQUVDSnJjcWs0M1FFaXE0VmZobHJ4Zi05RVJRLVZVZlE?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
