@@ -560,6 +560,17 @@
     "source_type": "news"
   },
   {
+    "date": "18/07 23:15",
+    "date_ts": 1784416502.0,
+    "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 19:50",
     "date_ts": 1784404233.0,
     "title": "England XI vs France: Starting lineup, confirmed team news, injury latest for World Cup bronze final today",
@@ -583,17 +594,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:00",
-    "date_ts": 1784358000.0,
-    "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
