@@ -619,17 +619,6 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 07:18",
-    "date_ts": 1784445534.0,
-    "title": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMU9wa3BMLUlPc3BqalE2bm45cFFzazZZemNVdWJvZmNNRFRDdGhsUC16T1BjYlRrMTBiek80aHBHTmF4eGpOSFJvMlN5VXhyZUhCQWxwOHVzbndWMTVUVW1sWHRDYVhiMnB3QVVCUlVSNDljcnBnLXpXaUN3VFZid3BPdF92XzRURzF6U1V6bTQzQURKRFVocjgzZlpxdnIxTndycVAxQ2doUWo0SzljX1E0UU8xSmx2OXRiMlhRQ0N0UW01Umk40gHMAUFVX3lxTE11cWtiejJhY3kwOS15aENRdktNN0llNkgwNVhZYU1KNGtOekkxa3VIUkFFd082WnZGd2Vua042bFBIZnZmMFZVeW5NYmljZmotaVV6aWZTMk5Sd01jZUdtbWl0bTg1dnRFNXM2YmdmQi1ES0JlOXNGUVhXNDFacnlfdVRZeUE0QWRxa0tNX1M4bGdwaHZ1X3hQcE9raXNYX3B2QmJDZEhPNTdmeTlCdDRkTTlSZzdmYlkwU0JQbExKZVpvYVREdkpCT2hrVQ?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
@@ -688,6 +677,19 @@
     ],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
+    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
