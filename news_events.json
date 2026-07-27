@@ -1,5 +1,16 @@
 [
   {
+    "date": "26/07 23:34",
+    "date_ts": 1785108882.0,
+    "title": "Flamengo tem gol anulado no final e tropeça diante do São Paulo, em atuação pouco inspirada no Maracanã",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMmlsNWZCbWFhVm1UVGpjallmeXRDZ2tCNkdLcEtkWWNyaFdjdUc1a250VmVjN25pS08wVlI4NzdKNW9yeHdfQmRDbHRXdmd4LS05WFlnV3RJR0R4SHd0M1Z0dVZ1MUpCOWN0WldjSkZzWkRsMWZ5a045a2hBODFWdGkzNUxDOXhEYVN4NFhUYW04eUlzcnd6bktNM0ZZSEFxbkxtdWNMd0k3UkVEZHNnQ3pxeHVuUWhycDZ6WWpIQlhfb2F3MHJ5ZXJGU2dremJwUWEzeVRBX2pVbGdHOUt3NjlNQW1qek1Ha0h5OE42MUh2ZTZzSUZ2dkhWWDdrS3JzM3JvSHhQbXFaZ9IBmAJBVV95cUxNcnhYUG91Y2lULXNlVFhXVTg4R050d1FQVFVEOGpQbHNUZlVIZ3NQRU1STFowU1RISjh5VmxLcnFxekh5SnB6VjdncTJ2R1FsazZRMUxldGdheTZRdTI0NllxRzhPOWpFM09meWtDVnZsTEZrd2pmN3hlZlB0UzdZWE5FaHRBTDhxejdpRlpON2hEeUFpT3BHYnJkNldmaUx3aG95ZXJERHIxOXo5MkptMkRmSzM3ang0UHFVQ0M5WUIwMFIxSnEzclNMVHlTazZNZ3o2SEtSdDlpazdOVTJOdUhJa3E5WnplbWVIeG1kRDltZFpHRnBLeTZaNWxDa1Z4bTRhWVdOVmxvckxYbXdVNFI0MHI4dVFK?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/07 23:59",
     "date_ts": 1785023986.0,
     "title": "Liverpool vs Sunderland Match Results Today: Club Friendly Live Score, Updates, Stats",
@@ -117,6 +128,17 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQndRSUdsbnFqU2tNLUlka2pldDBFX1I5N1dVelhKbmdodndVTlktQmFRU1FZVnBjZ3hDWXNRZmM2aHZpMFg3NHJZeGxzYXpyUFlUU2xRSDFQX1pHREhkRlRnRXJZNWIxVHMyTHE2QWlyYnd2b2xrSmdMQjIzQUVPb2E1ZU5RTnFFRzJfam1IZm42Skh2dmFCUmRwSWJpNnQza2R5Ykx1RHBfcFhPamFHUkplc1BsbnlZMTBfSWlZdnd5R3FNUGxtTTlyLWV4Tmw5RXk2aWd3?oc=5",
     "teams": [],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/07 07:00",
+    "date_ts": 1784703600.0,
+    "title": "FIFA World Cup: Schedule, Results and Standings",
+    "source": "Eli Sports Network",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -264,17 +286,6 @@
     "source_type": "news"
   },
   {
-    "date": "20/07 02:18",
-    "date_ts": 1784513896.0,
-    "title": "FIFA World Cup: Schedule, Results and Standings",
-    "source": "Eli Sports Network",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWhYTW1UcXdXaTF3UG5vV0FDWDhndEg0eklCUUlxOHctRVJfT3UzWGlZZ0U1Q3lvTWNjMGVLMjRmbUluaWRmdlpjXzI1QjZlLUV2N3czNndZdzFqZTZmV1lKdFhzREo3b2N1UmpoaVV2dFdOeTVNV1V4RzMybHdxNFZIZ3BULUtEMUxfQ05DLUwtcnB4?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 02:00",
     "date_ts": 1784512800.0,
     "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
@@ -356,17 +367,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 07:00",
-    "date_ts": 1784012400.0,
-    "title": "Existe disputa de terceiro lugar na Copa do Mundo?",
-    "source": "ge",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXdLQkh5U01EcGdvekN4WUdsSWJQTGpfT0ZiQWswUllKZk1neUI2dDRaLXFlN2hMZ29BMmJULUNBamVGak1fc1ZSVGgzeGNteXBrZjd1VVRZVzNWUUlCNDhxNFRzV3JmNEt3UDdxZjkxOVBjaVI3S05ZOTBJdUZmSzkwdFRieV9HZVFFTHI1YnJCQkZ5ZXZadnhsVE9sQ1lWSldXRTdEMUYzWTFNaktfSjU3d0JWZzhk0gHHAUFVX3lxTE1Ldy1DbDVJY050X0ZFMnRtYVR2VjUyY1NIaGlIOV9RdzFMNU9jWVJwMUs5TVVkY1VLak1kVlBWNGo1ekx6VnJ0Ym1WMkJqWnVFOTdMT2ZCZTZqeENnbFpuUGxSOWh5MHJQbXk5cUdMc28zY3dqZWVuVE9aSWFtZzZTc1U1RkZTRGdjWTczVHo0VmdkcFE1WjhabXFidnRqSGx5ZHlCa3VwMGhuU3M4enByc0hJMGpQTGlQTFp2ejM2M3QxY3NXbUk?oc=5",
-    "teams": [],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
