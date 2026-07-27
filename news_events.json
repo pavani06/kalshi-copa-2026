@@ -275,17 +275,6 @@
     "source_type": "news"
   },
   {
-    "date": "20/07 05:00",
-    "date_ts": 1784523600.0,
-    "title": "World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy – live",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEtkeHFaUkpqc0YzMnV0dHMzdEJIeHdubzIxcVRKZ1FfNHJJSlZVVi01Sl9QSEw5dnhKQjRzTDJNZzNjSnVNamw3cGR4M19hbjQzOUhZbzBVY1hkODY2QmpPYTRvajFjQXUtZl9oYmtTV2otSk9OTDV5dkRFM01yUFZiMWhvdlgxVWJEZDc1RlBuWk10bThqNHY5QU1oZkZlY3B1RHh4VQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 02:00",
     "date_ts": 1784512800.0,
     "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
@@ -638,8 +627,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -652,8 +641,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2k2eHZyNFFhcXJ0bXktdVJxTlV5VDZLMU43Tk9Tc0t3eHZmeFB0NkVmVmhZZ0ZwSW0wbmNLVkpLdWhQLWJiZlRaWUtVeWFOb1ZNSkY1bGkxd1k1OGF5bks3dmRISDNLWU5QTTJEbzlodHhVaEgyMlltN3VxQk12d21HdF9lNkhndHp1MUdWZUZYbVMybExvUWZ0NlhRdEhVblNkWUVXV2FQbFE?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -666,8 +655,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXF2YmEzR0VrWWhSMGpJMTJSYUNRdERBTkZ4MnJEZjJBdGlHeUdVOEhJa1lSUU0yNnBuTzJ1amNpYi1vblROcXFDUVRXdW5IbmJSdFRRdXVMWHFuRDFmVG1jVjhHWU1iRXMzTnh6YXRUa0o0LWV3d2drRVFVMGhENkNiUQ?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -680,8 +669,8 @@
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -737,6 +726,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
