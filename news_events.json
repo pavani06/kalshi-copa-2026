@@ -209,17 +209,6 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 21:11",
-    "date_ts": 1784495502.0,
-    "title": "Spain vs Argentina Match Results Today: FIFA World Cup Final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0lON2hnR3d2d1lJNUpMc0pnUkZUU29wWEhNTVl5VmN0X1hibEdKVkMzcjgyZ2hnRC1IQTB0NGZFbUZKZk5SU1UzX01YZVlCU0xlQ3kyRUdpTUZ4YUdIOE9vb3kwVm5HSHNKSUlKems4N2dpLURsajVfZkgwcVNYZjBfOFRNYUky?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
@@ -276,17 +265,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 21:23",
-    "date_ts": 1784150624.0,
-    "title": "Spain 1-0 Argentina (Jul 19, 2026) Final Score",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qS1NzeVRSLWI1T3E3cW83OFozclljcjk2UGUyVlVndllOcDByblZjMW1xRktVMGpUaGtLRHlSQzFqSWp6eTQ3bk9McFFJbENuZFdlX1JLVGVpci1RakVybzBhbVAxQ0ZrV21tSkdUMjRNT3c?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -748,6 +726,34 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 07:00",
+    "date_ts": 1782543600.0,
+    "title": "Colombia vs. Portugal confirmed lineups, starting 11 for World Cup Group K game in Miami",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDNGSVhEMVZOVFU1SEFaX28xU0NRVlN6M0tSOW1zN0xnX2ZWMkw4OXVsNTFST0FYeDdYUzRZaFp6MmNwS0dkbVVGZTJkMG5idEtPUVJVQ0FYa2w0dk90dk1wM3JleEFjMTNZVjRQcmtaRmloOVNmOVpIbjNDSi04X1R3LVVfUUR0MlVtakxjTHdNNHpvelltZDRPb2hnaTNSRDhBLUpYQVhfZzh5c2JGR1VrZUhVdzB6WnZpQ0ZQeGs2U2E5OUk1NA?oc=5",
+    "teams": [
+      "Colombia",
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 07:00",
+    "date_ts": 1782543600.0,
+    "title": "Colombia vs Portugal: Potential Lineup, How, When to Watch the 2026 World Cup Match",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
+    "teams": [
+      "Colombia",
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
