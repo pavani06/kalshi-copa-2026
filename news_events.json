@@ -121,6 +121,17 @@
     "source_type": "news"
   },
   {
+    "date": "21/07 16:56",
+    "date_ts": 1784652960.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "21/07 16:29",
     "date_ts": 1784651346.0,
     "title": "2026 World Cup winners and losers: Spain dominated, while the U.S. crashed out in controversy",
@@ -275,50 +286,6 @@
     "source_type": "news"
   },
   {
-    "date": "20/07 00:35",
-    "date_ts": 1784507705.0,
-    "title": "Spain 1-0 Argentina (Jul 19, 2026) Game Analysis",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY2RMY1hmZ3FrdHIwT2J5a0tKZ3J3eGtuVEZaME1kaXg2OFl4RC1WM2FRekE3Zk4tUG0xdzlmNThmaVRaY2ZJVlh3YlJUMUNqMDFnQUlVWGJoUmZuTnJn?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 00:17",
-    "date_ts": 1784506644.0,
-    "title": "How Spain won the World Cup and why Lionel Messi’s Argentina finished up furious",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNekg3QlR2c3lpTGRRNk9KMmFPdUlxdVFkVzg1MmtTWjJuWkEwZGwxWHIxdUpEZzFiQVNNaEJ6LVpIakg1VDR1SFNYSDYzcDVWQTduWEZZWmdiX1IzMVJqOGdKUml5dUVCMlphdmowWUc5UVRIOTk2bFQ0TmlZOHBoeDlpYXZGbDlGWnI1NTJtc3ZadFRjMmY2RkE4N0Zzbk8yOGdHQWhJb3g?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 00:07",
-    "date_ts": 1784506020.0,
-    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
-    "source": "Action Network",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 23:25",
-    "date_ts": 1784503500.0,
-    "title": "Rodri wins World Cup Golden Ball as Spain dominate awards",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHI2bUVOUkk2YUhKb00yeHRPcjNtQjJXcjdzY2pGNjZUS2thQXVMNUFoV2t5MnFTaE14am9CaWJ1MmI4RmJoYnFNNERSc29BRlRPeDIxbnhxb0w3TWl3R01xOF83azk3amtQVTNlMHNZWHZfeUJMNG5fNmVOUUdnMWRqSlFTQU1xUy1tUjUzRTFzOGtUS1gyVVFUQWdUZm1DUEZkeTZB?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
@@ -351,19 +318,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 07:00",
-    "date_ts": 1784098800.0,
-    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -402,6 +356,17 @@
       "Inglaterra"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "Argentina vs Switzerland Results Today: FIFA World Cup 2026 Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWZxVHB2QlNMdVVrdGVkVEtmWk9zejFHb2tick8zeHMxbGFPWlBFVnlraVRtY1VnTnM1bXNFUTlqdzJOOU8zZUNHUzlUck1xY2lxU05xZGR2NEJkSnFfRUhncjZrQS1aZkxMLW1Najg4OVNlS1NjaDVSVWRUMVlRV1cxTzBTQWZQbllBYXRyVmw?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -463,6 +428,19 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
     "title": "Morocco dealt huge blow as injured Saibari out of World Cup quarterfinal",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmRDcUpMUUVOcXZQamVBSWs5NHBpRUdUV0VkQjNyTlRVd1RJNjNBRUpVRDhxeDlUNTNVQU1CaGJtRXMyc0ZLR2tmVWswcmJjX2JweXlwMTdFNERjSnFJck5OR2Y2UjFwREg0RGg4TkxWWGpoSVZtZGUtT1NaMHh3b3VxUHM2WUM2WHhjTUVjZi13bGpuYXlLalZsVElpSVNvdXBXV3RSa0lXQ0VUaFZGYWcxZTHSAboBQVVfeXFMUEJ5RWxLRlZXUGNxNmpFN0ZmLVlRY0RqRmhycld5bWlpblpZSzYxMFk3czJWeGZ0WDlwWk9mdS1CMlRQYnhlbTd1S3duRkRMOFN3NTZmUFlXM0MzTlhaTUpQcEVQcEZHWDBkMG5ieEFJUEVVd1pUekM4aWhDOG9FNmpPWEhUWHlCeFRUZHhuck9ieTRBS1pQQnVtM0p6ekFTS3Q1eTJTTUxoblVVSFJJaDBnNWpTeXlXejhB?oc=5",
@@ -479,19 +457,6 @@
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -662,8 +627,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -676,8 +641,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2k2eHZyNFFhcXJ0bXktdVJxTlV5VDZLMU43Tk9Tc0t3eHZmeFB0NkVmVmhZZ0ZwSW0wbmNLVkpLdWhQLWJiZlRaWUtVeWFOb1ZNSkY1bGkxd1k1OGF5bks3dmRISDNLWU5QTTJEbzlodHhVaEgyMlltN3VxQk12d21HdF9lNkhndHp1MUdWZUZYbVMybExvUWZ0NlhRdEhVblNkWUVXV2FQbFE?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -690,8 +655,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXF2YmEzR0VrWWhSMGpJMTJSYUNRdERBTkZ4MnJEZjJBdGlHeUdVOEhJa1lSUU0yNnBuTzJ1amNpYi1vblROcXFDUVRXdW5IbmJSdFRRdXVMWHFuRDFmVG1jVjhHWU1iRXMzTnh6YXRUa0o0LWV3d2drRVFVMGhENkNiUQ?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -704,8 +669,8 @@
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -734,6 +699,45 @@
       "Portugal"
     ],
     "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:00",
+    "date_ts": 1782975600.0,
+    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 07:00",
+    "date_ts": 1782889200.0,
+    "title": "Belgium vs Senegal Confirmed Lineups & Formations Today Predictions World Cup 2026",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEZYanJKeWdFSDdNR3c1bUxaYnFQbHdpemp4TVB4S0MyOEE5NS1hWHpqSmdZU1RHLUxWeElYeUFFNnlBaUpMeTk0eVdkRFhwQ25ST0FYVFRqc2RhUE5qU1NsN3BCVmo3ekJCYmtZakt6TWxCbTQxbld1OG04TDBrSk93NUtXTi13WFVPc0phZzg3YWx6OTA1TlloVE1YRDA3bG1jeVBkV0VGV2RYSlJtRXJLVWE3X2Q3?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   }
