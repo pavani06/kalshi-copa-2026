@@ -264,17 +264,6 @@
     "source_type": "news"
   },
   {
-    "date": "20/07 07:00",
-    "date_ts": 1784530800.0,
-    "title": "2026 World Cup bracket: Full knockout schedule, soccer results, champion crowned",
-    "source": "Times Union",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXUwRUFYeVk4bXhRUG45dGhNYXRuM1VDRlB0MGhieVZkbGpyRmpWdkdNdkUtSHUxbGt1REdKbGlDaU03SmF1R0RCTDQwUTl6bXJvWVhPS0VieGlSbWRxZjBsY0p3ZnFPRjZpb2p1emhIUm9FUFR5Qk9rNHFtX1NRdlJRZ1A2bEpzMnhDWWhSc3llVktXYmRSRGZJTDZfdw?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 02:00",
     "date_ts": 1784512800.0,
     "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
@@ -318,6 +307,19 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
+    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -428,19 +430,6 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
     "title": "Morocco dealt huge blow as injured Saibari out of World Cup quarterfinal",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmRDcUpMUUVOcXZQamVBSWs5NHBpRUdUV0VkQjNyTlRVd1RJNjNBRUpVRDhxeDlUNTNVQU1CaGJtRXMyc0ZLR2tmVWswcmJjX2JweXlwMTdFNERjSnFJck5OR2Y2UjFwREg0RGg4TkxWWGpoSVZtZGUtT1NaMHh3b3VxUHM2WUM2WHhjTUVjZi13bGpuYXlLalZsVElpSVNvdXBXV3RSa0lXQ0VUaFZGYWcxZTHSAboBQVVfeXFMUEJ5RWxLRlZXUGNxNmpFN0ZmLVlRY0RqRmhycld5bWlpblpZSzYxMFk3czJWeGZ0WDlwWk9mdS1CMlRQYnhlbTd1S3duRkRMOFN3NTZmUFlXM0MzTlhaTUpQcEVQcEZHWDBkMG5ieEFJUEVVd1pUekM4aWhDOG9FNmpPWEhUWHlCeFRUZHhuck9ieTRBS1pQQnVtM0p6ekFTS3Q1eTJTTUxoblVVSFJJaDBnNWpTeXlXejhB?oc=5",
@@ -457,6 +446,19 @@
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -690,6 +692,19 @@
     "source_type": "news"
   },
   {
+    "date": "03/07 07:00",
+    "date_ts": 1783062000.0,
+    "title": "Colombia vs. Ghana projected lineups, starting 11 for World Cup Round of 32 game in Kansas City",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVNVRE9Ba1hvSU1YVWVhcGxIS0h6QjVwRTFENGV5RzltcHV5ZGdRVTFHeEJ0b09sU2dFQnhzYnNfTnRYMk03aTRkY0VZQUJITnRYVlNMOHBZNkNLaEtYcnNadXJxWV9uZjBUNG83TzgtWnI4UVJrOC1nVDhHZ3ZHRVphSDRqTm5OWWhCSUNFX1dUZFY5TXhrbVhOMjhHdHZ5cnJld2VkM0xRSkFjd0d0RV96ODN4c1VQOXc?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
     "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
@@ -726,19 +741,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
