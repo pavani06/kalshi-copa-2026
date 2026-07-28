@@ -217,19 +217,6 @@
   {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
-    "title": "Spain vs. Argentina: Confirmed Lineups for 2026 World Cup Final",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1QzbWJSVVVxcGNkWjRQRTg4ZUxLRnMwODlCLXlNa012WUNBU1lNbmE5ZHR2UVlZc1hZd2xiSW91V0htQWpudFItX1BEeUp0TENZeWxVSWR2Wmg4dE1QeUM1cUhScEM3dU1yQmx1QlNibTBEcUtoMkQzdnZqelplWE9GdHZhQnRqLW5v?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
     "title": "Spain reign supreme in FIFA World Cup 2026 with extra-time goal from Ferran Torres giving them a 1-0 victory over Lionel Messi's Argentina in final: As it happened!",
     "source": "olympics.com",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFhKV1Ffd3dJWmxOWnN6di1xUWpqMTRWbjZUYjdXMWVRSWdXc0U5QnNaakxwNkJPZHpnUHloc2l4blJzdGtiMFQwbGstenJTTkFnYXpZMGNWQmU5cHcwR0RhamFnV1l1NUVybzRXRDVyWHRNSjNDdDNkczY5MzhKVVRKMTBjUGtJTlJhNFVlVThoLWF3X1FsMHN5TGptVE1jbmFB?oc=5",
@@ -306,19 +293,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 07:00",
-    "date_ts": 1784271600.0,
-    "title": "Neymar returns to Santos with questions hanging over his future",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnRMSmgtRFZUbDhTWElsd3NXbHo4bFZ3VmFQLTJBLThzUElYV3NhZ2U3cUUxdFcyeTBBdGtuSUVidk1TNUZqai1XQ3pENkEwcWtsQThENzNVN2MybkNrRWt2ajVia2YzTFFmcXV5LUdaaWp1TzNaTnpieEhmOTRlSVhqcFhwNkl0RExNWXhUUFlTdw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -653,8 +627,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -667,8 +641,8 @@
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -750,6 +724,32 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Germany vs Paraguay Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG9GQTdVbmRJWU5EYXhKcFFocW9GTGVJRDlfT1dTc3Z5ankzTDRxSjdfWTl3dTB4cVA2WURibTgyenJ4TkdYWkpybEJhZEdRNzcxYVJ0VENRNFg1Nk5iSG9TbENZaVNORk5GY1FPenkzSDFqR3Q1UVFzMDFhZGFMRGN3NlFORk03TWtIWHdZNnNIN1BUaEpnYmx3N1cyd2dYU2g3azAwV1pJRERlOU0wcWRra3BpeDZvd2swcHFSUW1pOFM2amxMdGVyMFMwa28weTMxOFVULVNoYi1tU091Nw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
