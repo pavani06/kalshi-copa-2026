@@ -51,6 +51,19 @@
   },
   {
     "date": "26/07 23:34",
+    "date_ts": 1785108899.0,
+    "title": "Em reestreia de Thiago Silva, Hulk abre o placar, mas Fluminense leva o empate do Grêmio no Brasileirão",
+    "source": "Extra online",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRG56eE5uRTJMNEJYeXZ6NThXWGR3MnJ4dXRPY2VSMk9RMnVmLVFYRnF6STBHQjMwekJTa3dxRzVzZzk0aDF1cGNlX1NJdFZsb1JRZEFiQ1lWQUV0bzhaUTIzUGJiRjltOHZZOXRDOWVFckpGT3dFQXliM2duckFPQWozRExTV280UzJ6UGczSzduTXMxVU5neXgwR25pY3NjQVBjRFJsbWlyLWVIWkRTYml4WHVyck14NENuVkhrT3diZ2lENlJBVXB2YUxlSUF3dXZWTTNEY1lTcnZvRXlacHNsYjE4QXQ4VGFyOEp4SzFyTVRMcWtwTi1R0gGIAkFVX3lxTFA3eHl2a21tS0drVDIzMlRRSThpVHNWYTlsRWhHaFVIVXNZcGxCQVZHczdxa3JrR1JSMUhNZnVpMk5RbGFmQnJPSm5BXzNacm5EWXlsYVJtbzg2Y3l2VVBNSkhDU2lGZHhCU0pSaVFScjBmQW56dVVEem9tZE5TLUYwQ1lOaENKbE8ta1hyTG41eFVwblRNOE5NZkhISW5ZX05kb09LTjZKTGZCTG5YZnpVcmFFTW1GRXdWWlUtTnJoXzUxQlliZnUxdk84M0JpLWNKdUpnTlFiejhRRG5FTGFfOXhZY1BUYmZtczRZRXNYcW9oS3ZqeTBicERkWXIzRzZ1a1JiaF91Yg?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "26/07 23:34",
     "date_ts": 1785108882.0,
     "title": "Flamengo tem gol anulado no final e tropeça diante do São Paulo, em atuação pouco inspirada no Maracanã",
     "source": "O GLOBO",
@@ -296,6 +309,19 @@
     "source_type": "news"
   },
   {
+    "date": "17/07 07:00",
+    "date_ts": 1784271600.0,
+    "title": "Neymar returns to Santos with questions hanging over his future",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnRMSmgtRFZUbDhTWElsd3NXbHo4bFZ3VmFQLTJBLThzUElYV3NhZ2U3cUUxdFcyeTBBdGtuSUVidk1TNUZqai1XQ3pENkEwcWtsQThENzNVN2MybkNrRWt2ajVia2YzTFFmcXV5LUdaaWp1TzNaTnpieEhmOTRlSVhqcFhwNkl0RExNWXhUUFlTdw?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
@@ -318,17 +344,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 07:00",
-    "date_ts": 1784012400.0,
-    "title": "Existe disputa de terceiro lugar na Copa do Mundo?",
-    "source": "ge",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXdLQkh5U01EcGdvekN4WUdsSWJQTGpfT0ZiQWswUllKZk1neUI2dDRaLXFlN2hMZ29BMmJULUNBamVGak1fc1ZSVGgzeGNteXBrZjd1VVRZVzNWUUlCNDhxNFRzV3JmNEt3UDdxZjkxOVBjaVI3S05ZOTBJdUZmSzkwdFRieV9HZVFFTHI1YnJCQkZ5ZXZadnhsVE9sQ1lWSldXRTdEMUYzWTFNaktfSjU3d0JWZzhk0gHHAUFVX3lxTE1Ldy1DbDVJY050X0ZFMnRtYVR2VjUyY1NIaGlIOV9RdzFMNU9jWVJwMUs5TVVkY1VLak1kVlBWNGo1ekx6VnJ0Ym1WMkJqWnVFOTdMT2ZCZTZqeENnbFpuUGxSOWh5MHJQbXk5cUdMc28zY3dqZWVuVE9aSWFtZzZTc1U1RkZTRGdjWTczVHo0VmdkcFE1WjhabXFidnRqSGx5ZHlCa3VwMGhuU3M4enByc0hJMGpQTGlQTFp2ejM2M3QxY3NXbUk?oc=5",
-    "teams": [],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -386,6 +401,20 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 07:00",
     "date_ts": 1783666800.0,
     "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
@@ -415,9 +444,9 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
+    "title": "FIFA gives Jarell Quansah two-game ban for red card, would miss England’s World Cup semi-final - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamdDVU5ZcUs0bkY5b0lHSGFHbTM5b3hkZzlQcnVGS0Y0S0pWMlctaVFsUFoweUxKcFdYTG5tRkhjUmVDZVZIUnpHbEFrODZpN3p3UmFMVWRMYlIxOC1kV25WZTZOb09VSHlEb21jc09mX0dJWDFLcVJMSE5BWGdEMHdxUGY4cUdMRjVseUlyQnMzNG8?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -446,6 +475,19 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
     "teams": [
       "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
+    "teams": [
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -601,8 +643,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -615,8 +657,8 @@
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -688,19 +730,6 @@
     "source_type": "news"
   },
   {
-    "date": "01/07 07:00",
-    "date_ts": 1782889200.0,
-    "title": "Kane salva, Inglaterra vira sobre RD Congo e vai às oitavas da Copa",
-    "source": "TribalFootball",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMmpYeTYxVVRCY2ZrYVM2LUw0MFd3eW1TWFg3UEdhaERtZmdya1V4TnVXTGpPVTlKWW5fVkk3NFU2X0lLVjREQnNlUHRMYjNTMnNVQktFNW1vanBmeXFEZEgtNTM1N01NcTQzSkVNVl9fbVRoaEdZdlJyckllMWdMMVczNzN5RkxxclBqM2I4cnZhdm1DYmEwLTVRenJJamlxU1AxcGgxLWRzVmtCcUswWGIzTU9WU2FCQTJONnFvcVFZQXRxMU1nVlpNbVB0aTEwc2VETTZpUjZEb295Umh2a21LZjhpWVdxRkhva2laRUtid2c1NXFUOG5BMmV2U28?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
@@ -716,40 +745,14 @@
   {
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
-    "title": "Why isn’t Diego Gomez playing today for Paraguay vs Germany at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtodG40cEZ0VDVVVGFYR04wUkpDOVNsX1RBRTRlN1I1SURuU29wY3h5S1dHUGhWYkFfTGdGNnhfYUJnXzhTclhHT2FtUFZBc0g4MWl0cUREM3MtNUdZTHlXQ0NCcm1fdHQ1Ml9XTEd4V01SRTZRWEdPcFBueFZtTERFWWpWQXdPemZKeDF2b0tfZ2ttVUtaZFhBWDNvdzJBbl9aYl95NWdReV9KTHg5U2kxSdIBuAFBVV95cUxNMTFyNHdtV1FZeGJXLTdoWGVOaHZIZVBBank3bGx4eDJQaTdkTlpGUjNlbzd4V2w4Rjd3c21xd3prZ09FbjVjYW10b21XNXRia2Exd0QxMFg2U0duaU02eDlnbThKbWcxYXlZMDU3Zk16YnVVaXB6Y21IQXJINmpJdEc0T3gzX0NVZkczSWM3cEI4ZGxjWmFwTTBjcC1mMjB3c2ZveGhIT3RzTFVWM1lIeDNBZkpOeDRG?oc=5",
+    "title": "Germany vs Paraguay Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG9GQTdVbmRJWU5EYXhKcFFocW9GTGVJRDlfT1dTc3Z5ankzTDRxSjdfWTl3dTB4cVA2WURibTgyenJ4TkdYWkpybEJhZEdRNzcxYVJ0VENRNFg1Nk5iSG9TbENZaVNORk5GY1FPenkzSDFqR3Q1UVFzMDFhZGFMRGN3NlFORk03TWtIWHdZNnNIN1BUaEpnYmx3N1cyd2dYU2g3azAwV1pJRERlOU0wcWRra3BpeDZvd2swcHFSUW1pOFM2amxMdGVyMFMwa28weTMxOFVULVNoYi1tU091Nw?oc=5",
     "teams": [
       "Alemanha"
     ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
+    "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
