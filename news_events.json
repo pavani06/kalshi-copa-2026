@@ -1,5 +1,16 @@
 [
   {
+    "date": "28/07 18:15",
+    "date_ts": 1785262523.0,
+    "title": "Real Madrid vs Leganés Match Results Today: Club Friendly Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWV1Z0k4WWIwam1KLVlSa3N0Mjh3Zy1RUFF3cTI4SUs2UjlCSGtHZHdPZmE0N0c1YWNBWVNNbzZKU0Z1NzM5UTNuODBPcC1NWFduSXRLNTlyd3hhQkNyOGczTUNfSFN0NzdzN0pYY3lEVWhTbjUtcks0ZVVlbUVGeA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/07 01:54",
     "date_ts": 1785203641.0,
     "title": "Canada vs Morocco Predicted Lineups & Preview | 2026 World Cup Round of 16",
@@ -212,17 +223,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
-    "title": "Spain reign supreme in FIFA World Cup 2026 with extra-time goal from Ferran Torres giving them a 1-0 victory over Lionel Messi's Argentina in final: As it happened!",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFhKV1Ffd3dJWmxOWnN6di1xUWpqMTRWbjZUYjdXMWVRSWdXc0U5QnNaakxwNkJPZHpnUHloc2l4blJzdGtiMFQwbGstenJTTkFnYXpZMGNWQmU5cHcwR0RhamFnV1l1NUVybzRXRDVyWHRNSjNDdDNkczY5MzhKVVRKMTBjUGtJTlJhNFVlVThoLWF3X1FsMHN5TGptVE1jbmFB?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -627,8 +627,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Noruega",
-      "Brasil"
+      "Brasil",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -641,8 +641,8 @@
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Brasil"
+      "Brasil",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -714,6 +714,19 @@
     "source_type": "news"
   },
   {
+    "date": "01/07 07:00",
+    "date_ts": 1782889200.0,
+    "title": "Kane salva, Inglaterra vira sobre RD Congo e vai às oitavas da Copa",
+    "source": "TribalFootball",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMmpYeTYxVVRCY2ZrYVM2LUw0MFd3eW1TWFg3UEdhaERtZmdya1V4TnVXTGpPVTlKWW5fVkk3NFU2X0lLVjREQnNlUHRMYjNTMnNVQktFNW1vanBmeXFEZEgtNTM1N01NcTQzSkVNVl9fbVRoaEdZdlJyckllMWdMMVczNzN5RkxxclBqM2I4cnZhdm1DYmEwLTVRenJJamlxU1AxcGgxLWRzVmtCcUswWGIzTU9WU2FCQTJONnFvcVFZQXRxMU1nVlpNbVB0aTEwc2VETTZpUjZEb295Umh2a21LZjhpWVdxRkhva2laRUtid2c1NXFUOG5BMmV2U28?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
@@ -736,19 +749,6 @@
       "Alemanha"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
