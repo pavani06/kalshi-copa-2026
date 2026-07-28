@@ -364,10 +364,21 @@
     "date": "14/07 07:00",
     "date_ts": 1784012400.0,
     "title": "Existe disputa de terceiro lugar na Copa do Mundo?",
-    "source": "ge",
+    "source": "GE",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXdLQkh5U01EcGdvekN4WUdsSWJQTGpfT0ZiQWswUllKZk1neUI2dDRaLXFlN2hMZ29BMmJULUNBamVGak1fc1ZSVGgzeGNteXBrZjd1VVRZVzNWUUlCNDhxNFRzV3JmNEt3UDdxZjkxOVBjaVI3S05ZOTBJdUZmSzkwdFRieV9HZVFFTHI1YnJCQkZ5ZXZadnhsVE9sQ1lWSldXRTdEMUYzWTFNaktfSjU3d0JWZzhk0gHHAUFVX3lxTE1Ldy1DbDVJY050X0ZFMnRtYVR2VjUyY1NIaGlIOV9RdzFMNU9jWVJwMUs5TVVkY1VLak1kVlBWNGo1ekx6VnJ0Ym1WMkJqWnVFOTdMT2ZCZTZqeENnbFpuUGxSOWh5MHJQbXk5cUdMc28zY3dqZWVuVE9aSWFtZzZTc1U1RkZTRGdjWTczVHo0VmdkcFE1WjhabXFidnRqSGx5ZHlCa3VwMGhuU3M4enByc0hJMGpQTGlQTFp2ejM2M3QxY3NXbUk?oc=5",
     "teams": [],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "Argentina vs Switzerland Results Today: FIFA World Cup 2026 Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWZxVHB2QlNMdVVrdGVkVEtmWk9zejFHb2tick8zeHMxbGFPWlBFVnlraVRtY1VnTnM1bXNFUTlqdzJOOU8zZUNHUzlUck1xY2lxU05xZGR2NEJkSnFfRUhncjZrQS1aZkxMLW1Najg4OVNlS1NjaDVSVWRUMVlRV1cxTzBTQWZQbllBYXRyVmw?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -726,19 +737,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 07:00",
-    "date_ts": 1782889200.0,
-    "title": "Kane salva, Inglaterra vira sobre RD Congo e vai às oitavas da Copa",
-    "source": "TribalFootball",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMmpYeTYxVVRCY2ZrYVM2LUw0MFd3eW1TWFg3UEdhaERtZmdya1V4TnVXTGpPVTlKWW5fVkk3NFU2X0lLVjREQnNlUHRMYjNTMnNVQktFNW1vanBmeXFEZEgtNTM1N01NcTQzSkVNVl9fbVRoaEdZdlJyckllMWdMMVczNzN5RkxxclBqM2I4cnZhdm1DYmEwLTVRenJJamlxU1AxcGgxLWRzVmtCcUswWGIzTU9WU2FCQTJONnFvcVFZQXRxMU1nVlpNbVB0aTEwc2VETTZpUjZEb295Umh2a21LZjhpWVdxRkhva2laRUtid2c1NXFUOG5BMmV2U28?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
