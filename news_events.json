@@ -1,5 +1,18 @@
 [
   {
+    "date": "29/07 03:28",
+    "date_ts": 1785295727.0,
+    "title": "Brazil court ties football player’s suspension to recovery time for his injured rival",
+    "source": "Sportstar",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJFNjhWU2NxZmJtSl9DN2R0WFQtRVRJeUNhSURxSnhLV2hueHZ4aDVpWDZqNzFXQ1RnQzlDY182djk0clJTQmhVczhvaHFlSTc0Z2FlOEswOXJabThJNlRpcTUyMUxHTVdiQTdLa1hOU3hKZmhvWWxnZzJmdjctLTlOaklaYVM1V2hqX3dLUC1rQTZuRldINmZxTzFiY2prajZxcXVtOHdIQlRCenpRckV6Z25sZ9IBvAFBVV95cUxNMk84STl3RWw2eVZyUmZ2VnNNSVcxaWcwbG1BOHBhcHFOYzM1cnkwdWV3QkZyT3NUM1YtWDVMay1Hdm5TdEx2a0gtcDJYMmZiOFAwazRCdURCMVN2a0tpRkVHUFZfdzNGbFZLZml5d1FYNVNrMGMtWU00VFF0RjZBTkpQSmZIOUV2RG5aaTl2bmVub3FqSkZUM291eUY2TGRwSXNHd2d3NXZWWmRCdVJXUzFtQ3A5Nm9hRlFXdA?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "28/07 18:15",
     "date_ts": 1785262523.0,
     "title": "Real Madrid vs Leganés Match Results Today: Club Friendly Live Score, Updates, Stats",
@@ -219,17 +232,6 @@
   {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 07:00",
-    "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
     "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
@@ -248,6 +250,17 @@
       "Brasil"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -308,19 +321,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 07:00",
-    "date_ts": 1784271600.0,
-    "title": "Neymar returns to Santos with questions hanging over his future",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnRMSmgtRFZUbDhTWElsd3NXbHo4bFZ3VmFQLTJBLThzUElYV3NhZ2U3cUUxdFcyeTBBdGtuSUVidk1TNUZqai1XQ3pENkEwcWtsQThENzNVN2MybkNrRWt2ajVia2YzTFFmcXV5LUdaaWp1TzNaTnpieEhmOTRlSVhqcFhwNkl0RExNWXhUUFlTdw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -399,20 +399,6 @@
       "Noruega"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -752,6 +738,19 @@
       "Inglaterra"
     ],
     "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   }
