@@ -157,6 +157,19 @@
     "source_type": "news"
   },
   {
+    "date": "24/07 02:06",
+    "date_ts": 1784858799.0,
+    "title": "World Cup Stars Who Could Transform Their Club Next Season",
+    "source": "gambyl.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN01hZ3NjdDkybWZiUUkzaVY0Q05ULXRiUWdUMkpsejFDS3doMDFINGlXcUI5NXpRWkpZWUJuVERWcGZwaFV6OV9qamsyMGQ2SGJYVVB4eFNIQ0FRMURQeEZGNTRkSUk1d0sxQTIxS05aX0JkVG40YmYyTjhuWWRZVlFiUi1hN2kyNzc5U2d5c096cHRicmhXRE53RTUyY2tYUnA2eg?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "24/07 01:33",
     "date_ts": 1784856782.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
@@ -358,8 +371,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -372,8 +385,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -386,8 +399,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2RwOERDX2RDZm9kMW5ISWNRanZaTE1iZkMzZmwyby1YV0g2ajNiYXdzWnljSFlZTnVZZ2E1Qmt6dXAtTVNvSThIZFM0UjVFYXpaam9qNlAtSW5RT2ZqWG1LVVBvM09yc19LZTNkVWNlYzQtQkFJUUFlbU95c2RpNnNqSTRydWwxdzNBQnpwZ3p3dEdD?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -400,8 +413,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "result",
     "impact": "HIGH",
@@ -414,8 +427,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -545,37 +558,11 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0lFckZ2dURGTjB3NWZ0ZENqUkRXX1NVNzlaeUxyTjZyazlyS2tTYzVkbmZKUlRINE9xd19jYVlWc2V4cjd1MzMxQ1laNkVNbkVUN29WeWdqdmQ5TVFsOFlBcG00bEFWamVvUlNiVUw1RGhnTzVtQ2Zzc0M2NExWeUx6TFo?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 07:00",
-    "date_ts": 1783407600.0,
-    "title": "Is James Rodriguez playing? Switzerland vs Colombia confirmed lineups for the 2026 World Cup game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBLcmxyVTU4Rml4bXJvb0U4WGIyd0xyU09ZUTR0d3M0X3B3QU9mOGZ5c1ZuN1IzQ1lScU9TSl90RGFNOTgxVks5d1VocE9NdUphZ2xyYk1URlVjTThiRFg1djIyR1BybkdfWDJwWFpDbW1VRjMzYkpTUWJRVm05MTl3d0wxQ0JlNV9mMm1jeGZkTHk3YXZXMzdsTldRai1QZmEyVXRXME1kbTJ5TmhYdjhuT3ZmUi1tWmwtRThIQlVUZzJqaGtTbExKRzAxaDFR0gHUAUFVX3lxTE5rNWZnWS1OR19ZMlZuWGp5cjNoZEFJZ0lkb3pIaXZkOVdTUE5EX1MwVTdURWN0Rk81OW9XWWFTQVBTTVMtYUV2NEtSWU1kcUdiRnJLa3NGLUthNk9FRGt6dXRXbFoxWU8tRUoxUTU2SlZockdRc1R3WXZ3VlhCUFo2LUhDLTFGS0liblV6dmlZdVUxczVtaERrYVpGVGNrNDBqOWk0SUdMRUVPMG1zWWVlSUhQdld0T0owd3NhSm8xOVgzRnpVVHFkdXlKaTJRWGNoeGF1?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 07:00",
-    "date_ts": 1783407600.0,
-    "title": "Switzerland vs Colombia Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 16",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYW5iaTAwNDNRdHR2UTV3NGNGNHZ0WjMzUk9INGlPcnBUQVVQUUpyUkNsM2dGTlFjZ0lYN2VxVWRRcE5FSzNPalNSUV9ydTZsS2pjS0huTzl4RTU2TDZ5TEhSa1BXNlR0d0t0NDlyUEV0d2ctZnlQWkI3LXZ5Vlk2bXpjU3ZlMS1KLVo2S2swcUFEbFpndUE5V3BTZ0RpUW52ZXg1M2VzVmpFd1RyZ0tWR2x1NG5kN0ZETTVVNnZMMHlZLW5xNHg0emRsREw2YVI0ZGppMXNJQ09tcms5T3hmV2RLdVkyUQ?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -652,6 +639,30 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 07:00",
+    "date_ts": 1783062000.0,
+    "title": "Colombia vs. Ghana projected lineups, starting 11 for World Cup Round of 32 game in Kansas City",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVNVRE9Ba1hvSU1YVWVhcGxIS0h6QjVwRTFENGV5RzltcHV5ZGdRVTFHeEJ0b09sU2dFQnhzYnNfTnRYMk03aTRkY0VZQUJITnRYVlNMOHBZNkNLaEtYcnNadXJxWV9uZjBUNG83TzgtWnI4UVJrOC1nVDhHZ3ZHRVphSDRqTm5OWWhCSUNFX1dUZFY5TXhrbVhOMjhHdHZ5cnJld2VkM0xRSkFjd0d0RV96ODN4c1VQOXc?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 07:00",
+    "date_ts": 1783062000.0,
+    "title": "Argentina vs Cape Verde Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVkR5cnp0YnRDNHRTbjNJVnhWa0V2dDJDd3QxeWRjcGNTLVdUcjVjYWNrT2VDQVZ0aDgydlhFRXNud21zeWZHTXBUWENLdi0tZHBMbi1CWFFsaWtmcmwyTnJ3?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -743,19 +754,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
