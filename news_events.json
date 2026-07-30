@@ -417,20 +417,6 @@
   {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
-    "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
@@ -684,7 +670,7 @@
     "date": "03/07 07:00",
     "date_ts": 1783062000.0,
     "title": "Argentina vs Cape Verde Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "foxsports.com",
+    "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVkR5cnp0YnRDNHRTbjNJVnhWa0V2dDJDd3QxeWRjcGNTLVdUcjVjYWNrT2VDQVZ0aDgydlhFRXNud21zeWZHTXBUWENLdi0tZHBMbi1CWFFsaWtmcmwyTnJ3?oc=5",
     "teams": [],
     "category": "bracket",
@@ -754,6 +740,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Why isn’t Diego Gomez playing today for Paraguay vs Germany at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtodG40cEZ0VDVVVGFYR04wUkpDOVNsX1RBRTRlN1I1SURuU29wY3h5S1dHUGhWYkFfTGdGNnhfYUJnXzhTclhHT2FtUFZBc0g4MWl0cUREM3MtNUdZTHlXQ0NCcm1fdHQ1Ml9XTEd4V01SRTZRWEdPcFBueFZtTERFWWpWQXdPemZKeDF2b0tfZ2ttVUtaZFhBWDNvdzJBbl9aYl95NWdReV9KTHg5U2kxSdIBuAFBVV95cUxNMTFyNHdtV1FZeGJXLTdoWGVOaHZIZVBBank3bGx4eDJQaTdkTlpGUjNlbzd4V2w4Rjd3c21xd3prZ09FbjVjYW10b21XNXRia2Exd0QxMFg2U0duaU02eDlnbThKbWcxYXlZMDU3Zk16YnVVaXB6Y21IQXJINmpJdEc0T3gzX0NVZkczSWM3cEI4ZGxjWmFwTTBjcC1mMjB3c2ZveGhIT3RzTFVWM1lIeDNBZkpOeDRG?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
