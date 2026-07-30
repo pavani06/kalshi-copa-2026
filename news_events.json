@@ -208,28 +208,6 @@
     "source_type": "news"
   },
   {
-    "date": "23/07 07:00",
-    "date_ts": 1784790000.0,
-    "title": "O que vem por aí para Enzo Fernández? O jogador do Chelsea, que foi alvo de críticas na Copa do Mundo, encontra-se em um impasse nas negociações após tentativas frustradas de se transferir para o Real Madrid",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPeHFEV0JTNUZpbFVaUXdaTThuRTh6SmV3M056bzdpRzRsNW1Pa1dlbzI4ejdZZVBOd0FDc2JOeDZwQ0g3MzA2SFJmQXJDZFF5VHo2eVZINGRuVXpvbHg0OHFfbGIxbHo2VDN3REQtak4tUDNDenNnQTh2bHVpU20zR0oyZHB4RkcyNkdndXdYYlpBU0lMU1BOaGxtQWhHZEh5eXRIWXpzQUR3a0REYnFEdmw3MEw2dF8xV1BUVXVhZW90V2c4eUlHVnVrTS1qaGJQVGd5ejZVOU1TVk5yZ3FmdEVMc0k3N0U4TklUZ1VpUXBXSWdPVktWV0wxdnhHcWVYaHdIekNzQWExbkVzcm55ZmRlNWxPZnFxd2h5NS1QdDl6Tmg5RTNFTU9Ta3NseHhYSjJ2SDk0bnU0cFpoSnNiTzRZYk4ydWZaOVFNY3htN1dBN0Fqb3NsV0I3UEFORlZKZXF3YXNLXzQwWDhXRUxDRg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "23/07 07:00",
-    "date_ts": 1784790000.0,
-    "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "21/07 16:56",
     "date_ts": 1784652960.0,
     "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
@@ -337,9 +315,35 @@
   {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
+    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
     "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
+    "title": "England v Argentina confirmed line-ups: Who starts World Cup semi-final?",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDBjcVNMRF9zY2JjSHpfUzU4bS1RNWdISHhjcGdJOWdCV1BYenpNSUt4eTNUUFVoVUxZUzU2UFdNZm5CeHdoY3ZIUlN2ODdPa1p3NDBHV1dGbm5JSjNqWFZ3YVhSUDJpZHNBQ1l4LUxaRXBVbktiaUo2SG1MNFNHamhMSmFoM2xxUk1r?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -364,7 +368,7 @@
     "date": "14/07 07:00",
     "date_ts": 1784012400.0,
     "title": "Existe disputa de terceiro lugar na Copa do Mundo?",
-    "source": "GE",
+    "source": "ge",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXdLQkh5U01EcGdvekN4WUdsSWJQTGpfT0ZiQWswUllKZk1neUI2dDRaLXFlN2hMZ29BMmJULUNBamVGak1fc1ZSVGgzeGNteXBrZjd1VVRZVzNWUUlCNDhxNFRzV3JmNEt3UDdxZjkxOVBjaVI3S05ZOTBJdUZmSzkwdFRieV9HZVFFTHI1YnJCQkZ5ZXZadnhsVE9sQ1lWSldXRTdEMUYzWTFNaktfSjU3d0JWZzhk0gHHAUFVX3lxTE1Ldy1DbDVJY050X0ZFMnRtYVR2VjUyY1NIaGlIOV9RdzFMNU9jWVJwMUs5TVVkY1VLak1kVlBWNGo1ekx6VnJ0Ym1WMkJqWnVFOTdMT2ZCZTZqeENnbFpuUGxSOWh5MHJQbXk5cUdMc28zY3dqZWVuVE9aSWFtZzZTc1U1RkZTRGdjWTczVHo0VmdkcFE1WjhabXFidnRqSGx5ZHlCa3VwMGhuU3M4enByc0hJMGpQTGlQTFp2ejM2M3QxY3NXbUk?oc=5",
     "teams": [],
     "category": "lineup",
@@ -572,22 +576,8 @@
   {
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
-    "title": "Four England stars at risk of World Cup suspension if they are booked against Norway",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0lFckZ2dURGTjB3NWZ0ZENqUkRXX1NVNzlaeUxyTjZyazlyS2tTYzVkbmZKUlRINE9xd19jYVlWc2V4cjd1MzMxQ1laNkVNbkVUN29WeWdqdmQ5TVFsOFlBcG00bEFWamVvUlNiVUw1RGhnTzVtQ2Zzc0M2NExWeUx6TFo?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 07:00",
-    "date_ts": 1783407600.0,
     "title": "Is James Rodriguez playing? Switzerland vs Colombia confirmed lineups for the 2026 World Cup game",
-    "source": "World Soccer Talk",
+    "source": "worldsoccertalk.com",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBLcmxyVTU4Rml4bXJvb0U4WGIyd0xyU09ZUTR0d3M0X3B3QU9mOGZ5c1ZuN1IzQ1lScU9TSl90RGFNOTgxVks5d1VocE9NdUphZ2xyYk1URlVjTThiRFg1djIyR1BybkdfWDJwWFpDbW1VRjMzYkpTUWJRVm05MTl3d0wxQ0JlNV9mMm1jeGZkTHk3YXZXMzdsTldRai1QZmEyVXRXME1kbTJ5TmhYdjhuT3ZmUi1tWmwtRThIQlVUZzJqaGtTbExKRzAxaDFR0gHUAUFVX3lxTE5rNWZnWS1OR19ZMlZuWGp5cjNoZEFJZ0lkb3pIaXZkOVdTUE5EX1MwVTdURWN0Rk81OW9XWWFTQVBTTVMtYUV2NEtSWU1kcUdiRnJLa3NGLUthNk9FRGt6dXRXbFoxWU8tRUoxUTU2SlZockdRc1R3WXZ3VlhCUFo2LUhDLTFGS0liblV6dmlZdVUxczVtaERrYVpGVGNrNDBqOWk0SUdMRUVPMG1zWWVlSUhQdld0T0owd3NhSm8xOVgzRnpVVHFkdXlKaTJRWGNoeGF1?oc=5",
     "teams": [
       "Colombia"
@@ -640,8 +630,22 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Norway lineup today vs. Brazil: World Cup starting XI confirmed for round of 16",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -651,7 +655,7 @@
     "date": "03/07 07:00",
     "date_ts": 1783062000.0,
     "title": "Argentina vs Cape Verde Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "foxsports.com",
+    "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVkR5cnp0YnRDNHRTbjNJVnhWa0V2dDJDd3QxeWRjcGNTLVdUcjVjYWNrT2VDQVZ0aDgydlhFRXNud21zeWZHTXBUWENLdi0tZHBMbi1CWFFsaWtmcmwyTnJ3?oc=5",
     "teams": [],
     "category": "bracket",
@@ -740,7 +744,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "foxsports.com",
+    "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
     "teams": [
       "Brasil"
