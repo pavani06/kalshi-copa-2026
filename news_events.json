@@ -243,19 +243,8 @@
   {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
-    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 07:00",
-    "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -278,9 +267,31 @@
   {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
+    "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
     "title": "Spain vs Argentina Match Results Today: FIFA World Cup Final Live Score, Updates, Stats",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0lON2hnR3d2d1lJNUpMc0pnUkZUU29wWEhNTVl5VmN0X1hibEdKVkMzcjgyZ2hnRC1IQTB0NGZFbUZKZk5SU1UzX01YZVlCU0xlQ3kyRUdpTUZ4YUdIOE9vb3kwVm5HSHNKSUlKems4N2dpLURsajVfZkgwcVNYZjBfOFRNYUky?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
+    "title": "World Cup 2026 fixture schedule and all the results",
+    "source": "skysports.com",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjV5RGljazVyVWNyblVRWWIzV2tsMUVCTHJ3c01BYjgzLUlSWHN1WTJqb1JubTVtRU1vTW1kYlYyWUNPeHY1VzBmRndsV3lTeFZEaXlQZllheVhIU0h3Nmp6SnZHcHBFaDBXX1VhNjRnbF9vU0p4TkJWMGxNTklTb0ZaNGI0VzY4THQyQ094alRvS1lHOEFZZUlMZG02S2M5VTVYR2lOc2ZvV3d5dk9NUmxmeFVqR1R0cTNGbTd5RHJ0MFV1QmR6QS1lR1k5a0wtY3pGZl9oOExxRHFPeEhBaXBZZ3AwZmFTNHk0QW5oSHhJRFNCQ0czcjRB?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
@@ -366,7 +377,7 @@
     "date": "14/07 07:00",
     "date_ts": 1784012400.0,
     "title": "Existe disputa de terceiro lugar na Copa do Mundo?",
-    "source": "ge",
+    "source": "ge.globo.com",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXdLQkh5U01EcGdvekN4WUdsSWJQTGpfT0ZiQWswUllKZk1neUI2dDRaLXFlN2hMZ29BMmJULUNBamVGak1fc1ZSVGgzeGNteXBrZjd1VVRZVzNWUUlCNDhxNFRzV3JmNEt3UDdxZjkxOVBjaVI3S05ZOTBJdUZmSzkwdFRieV9HZVFFTHI1YnJCQkZ5ZXZadnhsVE9sQ1lWSldXRTdEMUYzWTFNaktfSjU3d0JWZzhk0gHHAUFVX3lxTE1Ldy1DbDVJY050X0ZFMnRtYVR2VjUyY1NIaGlIOV9RdzFMNU9jWVJwMUs5TVVkY1VLak1kVlBWNGo1ekx6VnJ0Ym1WMkJqWnVFOTdMT2ZCZTZqeENnbFpuUGxSOWh5MHJQbXk5cUdMc28zY3dqZWVuVE9aSWFtZzZTc1U1RkZTRGdjWTczVHo0VmdkcFE1WjhabXFidnRqSGx5ZHlCa3VwMGhuU3M4enByc0hJMGpQTGlQTFp2ejM2M3QxY3NXbUk?oc=5",
     "teams": [],
     "category": "lineup",
@@ -457,7 +468,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "FIFA gives Jarell Quansah two-game ban for red card, would miss England’s World Cup semi-final - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamdDVU5ZcUs0bkY5b0lHSGFHbTM5b3hkZzlQcnVGS0Y0S0pWMlctaVFsUFoweUxKcFdYTG5tRkhjUmVDZVZIUnpHbEFrODZpN3p3UmFMVWRMYlIxOC1kV25WZTZOb09VSHlEb21jc09mX0dJWDFLcVJMSE5BWGdEMHdxUGY4cUdMRjVseUlyQnMzNG8?oc=5",
     "teams": [
       "Inglaterra"
@@ -628,8 +639,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -642,8 +653,8 @@
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -653,7 +664,7 @@
     "date": "03/07 07:00",
     "date_ts": 1783062000.0,
     "title": "Argentina vs Cape Verde Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVkR5cnp0YnRDNHRTbjNJVnhWa0V2dDJDd3QxeWRjcGNTLVdUcjVjYWNrT2VDQVZ0aDgydlhFRXNud21zeWZHTXBUWENLdi0tZHBMbi1CWFFsaWtmcmwyTnJ3?oc=5",
     "teams": [],
     "category": "bracket",
@@ -736,19 +747,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
