@@ -317,6 +317,19 @@
   {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
+    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
     "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
@@ -341,19 +354,6 @@
     "source_type": "news"
   },
   {
-    "date": "12/07 07:00",
-    "date_ts": 1783839600.0,
-    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
@@ -371,7 +371,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "PrizePicks",
+    "source": "prizepicks.com",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
       "Noruega",
@@ -518,7 +518,7 @@
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "Full list of players injured for FIFA World Cup 2026 quarterfinals",
-    "source": "Sportstar",
+    "source": "sportstar.thehindu.com",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWo3aVFpNDIteEEtc1FaTFRubEdhUHJ3Y3Z4bFRPRDJJc19tbGpPYWhGeGtldFBzbFJlVzE0SmRmSDJYQ2xDZzNMQmplWVZBQ0t4YmN0NGlxOXB5TWZlWmw4QUlqMjhGam05QjNKcUVJbEFKdFhSY0VXX1dXWFVNdjl1OTNMdjFWd2VKc2pZcGtWNUVCa3paQnZkWTQxdnFNRDV6N0ZOVEhVZlpzSXBOR2k2djFhMkdkeXFVUEY2eERHX0pXQV80MFVEd2VzSVI2QzZvQUZfNEZOblZKN0RsaWxxNjNGc2kw0gHvAUFVX3lxTE96dnRLc1RWSmt3ZGMyWnZLOEdZRnBxcXZNUll0UmVFbTU3OTVMbHhCcWQyZW85VkNuYVhrcEhHZ0VOZjhkUFFNbmduN3lMeEYtanpxZ1hKM3dRaTVsWW8zVnk1WFR4YkUyM1RfYU9YSFFBdWVqa0VqY18yNnoxUUgyR2V6NVdJV3RZYUsySjRaZlY0Zm9VS25KSExTcmtyb0d6bXNyNHJhVDRHVVpGajF4QWNBSEVWNVMxUS03MTJOZDltOG9ta3pMZkNsZ0tJcEZqMF9WcDJxOW1aeFZiXy0tY0tRZ0xJSlRWYkVJUXFr?oc=5",
     "teams": [
       "Marrocos"
@@ -643,7 +643,7 @@
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
     "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "PrizePicks",
+    "source": "prizepicks.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
     "teams": [
       "Portugal"
@@ -724,8 +724,8 @@
     "source": "sportingnews.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDNGSVhEMVZOVFU1SEFaX28xU0NRVlN6M0tSOW1zN0xnX2ZWMkw4OXVsNTFST0FYeDdYUzRZaFp6MmNwS0dkbVVGZTJkMG5idEtPUVJVQ0FYa2w0dk90dk1wM3JleEFjMTNZVjRQcmtaRmloOVNmOVpIbjNDSi04X1R3LVVfUUR0MlVtakxjTHdNNHpvelltZDRPb2hnaTNSRDhBLUpYQVhfZzh5c2JGR1VrZUhVdzB6WnZpQ0ZQeGs2U2E5OUk1NA?oc=5",
     "teams": [
-      "Colombia",
-      "Portugal"
+      "Portugal",
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -738,8 +738,8 @@
     "source": "Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
     "teams": [
-      "Colombia",
-      "Portugal"
+      "Portugal",
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -752,8 +752,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
     "teams": [
-      "Colombia",
-      "Portugal"
+      "Portugal",
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "LOW",
