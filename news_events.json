@@ -205,19 +205,6 @@
     "source_type": "news"
   },
   {
-    "date": "24/07 10:33",
-    "date_ts": 1784889229.0,
-    "title": "Jürgen Klopp confirmed as new German national team coach",
-    "source": "Euronews.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXBIMmhBSVFNTTljS3kxR1JDVllITWVBLVBZMUVsaldZb1JPblBOSE9wcGp3M3I2ZjF4WGFNazY0TlNocGFmN3hzTmFqZGJKZ2puMnJrazRaWHZiMGlYM1cyRXd0NFVheEZGWVQxTUViNERrV0RKbGI2R183Ylg0akluMk9aTWp6N2IwVkVWbWxsVHJUaXhV?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "24/07 01:33",
     "date_ts": 1784856782.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
@@ -235,7 +222,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -608,8 +595,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Noruega",
-      "Brasil"
+      "Brasil",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -754,6 +741,20 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 07:00",
+    "date_ts": 1782543600.0,
+    "title": "Why isn’t Joao Neves starting for Portugal against Colombia at the 2026 World Cup?",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
