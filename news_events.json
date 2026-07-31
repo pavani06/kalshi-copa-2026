@@ -194,25 +194,14 @@
     "source_type": "news"
   },
   {
-    "date": "24/07 18:34",
-    "date_ts": 1784918061.0,
-    "title": "Rosenborg vs Manchester United Match Results Today: Club Friendly Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVNybGh5a3dZaXAtR0lfekpkQ0hwZ1BHSjVLVWNKSXN4VXNIOEtYdU03NEFCa1MyUVctVU1ZS1AwZ3BVRHBJcmYwSmk2bU1xZk5Leld2MjhPUTdRdFZXYU93QmprSzBkaExZMGlfR3A1WlgyaEhHT09MYmRCZUlGSHlrUDAxM2VDcDEwU0l3?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "24/07 01:33",
     "date_ts": 1784856782.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Brasil",
-      "Marrocos"
+      "Marrocos",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -244,7 +233,7 @@
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "Spain vs. Argentina: Confirmed Lineups for 2026 World Cup Final",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1QzbWJSVVVxcGNkWjRQRTg4ZUxLRnMwODlCLXlNa012WUNBU1lNbmE5ZHR2UVlZc1hZd2xiSW91V0htQWpudFItX1BEeUp0TENZeWxVSWR2Wmg4dE1QeUM1cUhScEM3dU1yQmx1QlNibTBEcUtoMkQzdnZqelplWE9GdHZhQnRqLW5v?oc=5",
     "teams": [
       "Brasil"
@@ -328,21 +317,8 @@
   {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
-    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 07:00",
-    "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -362,6 +338,19 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -451,7 +440,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -542,7 +531,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Is James Rodriguez playing? Switzerland vs Colombia confirmed lineups for the 2026 World Cup game",
-    "source": "worldsoccertalk.com",
+    "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBLcmxyVTU4Rml4bXJvb0U4WGIyd0xyU09ZUTR0d3M0X3B3QU9mOGZ5c1ZuN1IzQ1lScU9TSl90RGFNOTgxVks5d1VocE9NdUphZ2xyYk1URlVjTThiRFg1djIyR1BybkdfWDJwWFpDbW1VRjMzYkpTUWJRVm05MTl3d0wxQ0JlNV9mMm1jeGZkTHk3YXZXMzdsTldRai1QZmEyVXRXME1kbTJ5TmhYdjhuT3ZmUi1tWmwtRThIQlVUZzJqaGtTbExKRzAxaDFR0gHUAUFVX3lxTE5rNWZnWS1OR19ZMlZuWGp5cjNoZEFJZ0lkb3pIaXZkOVdTUE5EX1MwVTdURWN0Rk81OW9XWWFTQVBTTVMtYUV2NEtSWU1kcUdiRnJLa3NGLUthNk9FRGt6dXRXbFoxWU8tRUoxUTU2SlZockdRc1R3WXZ3VlhCUFo2LUhDLTFGS0liblV6dmlZdVUxczVtaERrYVpGVGNrNDBqOWk0SUdMRUVPMG1zWWVlSUhQdld0T0owd3NhSm8xOVgzRnpVVHFkdXlKaTJRWGNoeGF1?oc=5",
     "teams": [
       "Colombia"
@@ -754,6 +743,20 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 07:00",
+    "date_ts": 1782543600.0,
+    "title": "Why isn’t Joao Neves starting for Portugal against Colombia at the 2026 World Cup?",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
+    "teams": [
+      "Colombia",
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
