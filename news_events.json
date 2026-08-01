@@ -208,6 +208,17 @@
     "source_type": "news"
   },
   {
+    "date": "20/07 07:00",
+    "date_ts": 1784530800.0,
+    "title": "World Cup 2026 bracket: Latest results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "Spain vs. Argentina: Confirmed Lineups for 2026 World Cup Final",
@@ -235,7 +246,7 @@
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
-    "source": "Sky Sports",
+    "source": "skysports.com",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjV5RGljazVyVWNyblVRWWIzV2tsMUVCTHJ3c01BYjgzLUlSWHN1WTJqb1JubTVtRU1vTW1kYlYyWUNPeHY1VzBmRndsV3lTeFZEaXlQZllheVhIU0h3Nmp6SnZHcHBFaDBXX1VhNjRnbF9vU0p4TkJWMGxNTklTb0ZaNGI0VzY4THQyQ094alRvS1lHOEFZZUlMZG02S2M5VTVYR2lOc2ZvV3d5dk9NUmxmeFVqR1R0cTNGbTd5RHJ0MFV1QmR6QS1lR1k5a0wtY3pGZl9oOExxRHFPeEhBaXBZZ3AwZmFTNHk0QW5oSHhJRFNCQ0czcjRB?oc=5",
     "teams": [],
     "category": "result",
@@ -290,17 +301,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "17/07 07:00",
-    "date_ts": 1784271600.0,
-    "title": "World Cup 2026 schedule for round of 16: How U.S. viewers can watch next knockout stage - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNExnX1N2RnNqWm1NZGhTUmNfUTZadHJBeFBiZGdoVTVhaWFXZ00walRtX0dXSWxCaDNTUkJBUFJKNDRxak1qc3gwdDdwdFZzdDNTWlZsRFZnZmZENk41OXdGd3ZCWDBUUXYzYlc2WjRRWU8xam1MR3Z2cGhZeTlYelVBZGFCdHpyN2hMXy0zZnVzWXUyYnc?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -364,19 +364,6 @@
       "Noruega"
     ],
     "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Germany, Jurgen Klopp and the 2030 World Cup Project",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iWlB1Tk41b1hfUHd3SlF5SzdOZGNOam5rNTFTQjZsTTF1dk5aUUNKd09NYmRTZ0VkMGZXYlpIcXhCNldnaU1ucENRd2J2RkFVSTZ1SEhxREhabHVxR3ZKRUg3ZDctdnBfYzJKaGoyUEhRWW1mdURwTg?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -480,7 +467,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "abc.net.au",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
@@ -619,20 +606,6 @@
     "source_type": "news"
   },
   {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "Norway lineup today vs. Brazil: World Cup starting XI confirmed for round of 16",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
-    "teams": [
-      "Noruega",
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Paraguay vs France Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
@@ -722,6 +695,19 @@
   {
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
+    "title": "Confirmed lineups: Germany vs Paraguay – World Cup 2026",
+    "source": "Bulinews",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXNEpwZmlnUVpkZTd3TnB1SXZmTXB0NC1idENwMkx6d2x3NFVmOThvT0w1dTgtcHVucUVZVXdhOXN1aFZNMzg1empramNHeWs2SWdsMVpETFo5aTlYcFRGdHN2UTdfUQ?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
     "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
     "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
@@ -758,6 +744,20 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 07:00",
+    "date_ts": 1782543600.0,
+    "title": "Why isn’t Joao Neves starting for Portugal against Colombia at the 2026 World Cup?",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
+    "teams": [
+      "Portugal",
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
