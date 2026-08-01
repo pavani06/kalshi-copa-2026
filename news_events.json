@@ -200,11 +200,22 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Marrocos",
-      "Brasil"
+      "Brasil",
+      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "21/07 07:00",
+    "date_ts": 1784617200.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -256,19 +267,8 @@
   {
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
-    "title": "Spain 1-0 Argentina (Jul 19, 2026) Game Analysis",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY2RMY1hmZ3FrdHIwT2J5a0tKZ3J3eGtuVEZaME1kaXg2OFl4RC1WM2FRekE3Zk4tUG0xdzlmNThmaVRaY2ZJVlh3YlJUMUNqMDFnQUlVWGJoUmZuTnJn?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
-    "source": "Sky Sports",
+    "source": "skysports.com",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjV5RGljazVyVWNyblVRWWIzV2tsMUVCTHJ3c01BYjgzLUlSWHN1WTJqb1JubTVtRU1vTW1kYlYyWUNPeHY1VzBmRndsV3lTeFZEaXlQZllheVhIU0h3Nmp6SnZHcHBFaDBXX1VhNjRnbF9vU0p4TkJWMGxNTklTb0ZaNGI0VzY4THQyQ094alRvS1lHOEFZZUlMZG02S2M5VTVYR2lOc2ZvV3d5dk9NUmxmeFVqR1R0cTNGbTd5RHJ0MFV1QmR6QS1lR1k5a0wtY3pGZl9oOExxRHFPeEhBaXBZZ3AwZmFTNHk0QW5oSHhJRFNCQ0czcjRB?oc=5",
     "teams": [],
     "category": "result",
@@ -342,7 +342,7 @@
     "date": "14/07 07:00",
     "date_ts": 1784012400.0,
     "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
-    "source": "BBC",
+    "source": "bbc.com",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdWVwc2FtaUtfMXVUMV9yYTVYQ3hERGE4ejdtcUJCeFRNX0FPd0JDN3JKZnlybkdjX1Z6M1hXRmVDTElWSVc1TldPeUxKM1dUOTVKdnlYTElvSWNldFRpbU1yVENZaW8?oc=5",
     "teams": [
       "Inglaterra"
@@ -445,6 +445,20 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 07:00",
     "date_ts": 1783666800.0,
     "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
@@ -514,7 +528,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "aljazeera.com",
+    "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
@@ -540,7 +554,7 @@
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
-    "source": "aljazeera.com",
+    "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW5WeWFwd2tKeW1MWXBMNF9qeVlaQ3NmamNUR3NQaGNUQXFkcGRGaG5lTUwyRmt1cjRicWEtU1VRdGFpWTVZQ2VaYUFFREVEckl4bndvUVNubkJEdFE4SGpmYXFTQW1FVXRWeXgtWjJDZUhnNC03T3loRWs3U1oweFRQVTlGNVNoTkpUWEZoRmhfRWhudWtvNG1hQXJKaHdlRmFEVXkxWmNyVmNXSGc3Y1FBdHJzQdIBuwFBVV95cUxOREsySktJNWpZS1J4RU03VFVHMlVVTVpva2xNX3dZY3JHVmRhT1JfdzY0Z3A0N1F2SmdLakZJUk5INF9PQmVsdFpoWXExTDJMazRQSF9zcXg3LVdSLU1qUWdwalNoWjhFZllhMkN4TVg2dHNqTUc4NmIySVBHaU5lTVFPbEx4Q2JkUV8zdlRtZjBTeHUxVWp6U3VkdFdnVnJmNUhaRXJOUmFwMmJtWWhqNDJrOWZxd0pBUFdF?oc=5",
     "teams": [
       "Marrocos"
@@ -553,7 +567,7 @@
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "Full list of players injured for FIFA World Cup 2026 quarterfinals",
-    "source": "Sportstar",
+    "source": "sportstar.thehindu.com",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWo3aVFpNDIteEEtc1FaTFRubEdhUHJ3Y3Z4bFRPRDJJc19tbGpPYWhGeGtldFBzbFJlVzE0SmRmSDJYQ2xDZzNMQmplWVZBQ0t4YmN0NGlxOXB5TWZlWmw4QUlqMjhGam05QjNKcUVJbEFKdFhSY0VXX1dXWFVNdjl1OTNMdjFWd2VKc2pZcGtWNUVCa3paQnZkWTQxdnFNRDV6N0ZOVEhVZlpzSXBOR2k2djFhMkdkeXFVUEY2eERHX0pXQV80MFVEd2VzSVI2QzZvQUZfNEZOblZKN0RsaWxxNjNGc2kw0gHvAUFVX3lxTE96dnRLc1RWSmt3ZGMyWnZLOEdZRnBxcXZNUll0UmVFbTU3OTVMbHhCcWQyZW85VkNuYVhrcEhHZ0VOZjhkUFFNbmduN3lMeEYtanpxZ1hKM3dRaTVsWW8zVnk1WFR4YkUyM1RfYU9YSFFBdWVqa0VqY18yNnoxUUgyR2V6NVdJV3RZYUsySjRaZlY0Zm9VS25KSExTcmtyb0d6bXNyNHJhVDRHVVpGajF4QWNBSEVWNVMxUS03MTJOZDltOG9ta3pMZkNsZ0tJcEZqMF9WcDJxOW1aeFZiXy0tY0tRZ0xJSlRWYkVJUXFr?oc=5",
     "teams": [
       "Marrocos"
@@ -592,7 +606,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Spain lineup vs Portugal today: World Cup starting XI confirmed",
-    "source": "centraloregondaily.com",
+    "source": "Central Oregon Daily",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUJnaWNVSjBEWkFzeE9IeUdjcDJZNFZFYnR4YTZfREhqWVljWnZacklKdGYxaGF5d2tSMFNhenN6RG9DVVNoaUdnOG1RdEtVSmRjT2owaHhNWGhQMlJkRUNTN2JoaTlmTEdYQlVoT1J0cVNfM09TZ3Rsb3hxdjFBY0FKRkE1eTNCbEZqc3FneHRtMFlyQjBMVi1fVUhtLUtUdnVSOTlkejBmdGI3Nlh5MllMc1I4VGhrczlCQVNjUjVmTDZvYUhIUFZqWVpaS0dvREJ6b3R3THlYal9xeHMyV08wa0dYZkZIQ0E?oc=5",
     "teams": [
       "Portugal"
@@ -619,8 +633,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -635,17 +649,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "2026 World Cup Bracket: A Full Look At The Round Of 16 Matchups",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUnhBZVp4SnB4clIyLXhkOFhhSGxmeW5ycVU1VVNoRnJkOGd0TkNWUEZSMW5pSWFpbk4tOVRjR0FRcHlWNEhUU2p4cXBKRmtlOURsM1o2T1RDVC1MTjl2eXh2STM?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -704,7 +707,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Germany vs Paraguay Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
-    "source": "rotowire.com",
+    "source": "RotoWire",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG9GQTdVbmRJWU5EYXhKcFFocW9GTGVJRDlfT1dTc3Z5ankzTDRxSjdfWTl3dTB4cVA2WURibTgyenJ4TkdYWkpybEJhZEdRNzcxYVJ0VENRNFg1Nk5iSG9TbENZaVNORk5GY1FPenkzSDFqR3Q1UVFzMDFhZGFMRGN3NlFORk03TWtIWHdZNnNIN1BUaEpnYmx3N1cyd2dYU2g3azAwV1pJRERlOU0wcWRra3BpeDZvd2swcHFSUW1pOFM2amxMdGVyMFMwa28weTMxOFVULVNoYi1tU091Nw?oc=5",
     "teams": [
       "Alemanha"
