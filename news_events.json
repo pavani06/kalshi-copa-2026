@@ -199,7 +199,7 @@
     "date": "23/07 07:00",
     "date_ts": 1784790000.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
-    "source": "Lineups",
+    "source": "lineups.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
       "Marrocos",
@@ -259,7 +259,7 @@
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
-    "source": "Sky Sports",
+    "source": "skysports.com",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjV5RGljazVyVWNyblVRWWIzV2tsMUVCTHJ3c01BYjgzLUlSWHN1WTJqb1JubTVtRU1vTW1kYlYyWUNPeHY1VzBmRndsV3lTeFZEaXlQZllheVhIU0h3Nmp6SnZHcHBFaDBXX1VhNjRnbF9vU0p4TkJWMGxNTklTb0ZaNGI0VzY4THQyQ094alRvS1lHOEFZZUlMZG02S2M5VTVYR2lOc2ZvV3d5dk9NUmxmeFVqR1R0cTNGbTd5RHJ0MFV1QmR6QS1lR1k5a0wtY3pGZl9oOExxRHFPeEhBaXBZZ3AwZmFTNHk0QW5oSHhJRFNCQ0czcjRB?oc=5",
     "teams": [],
     "category": "result",
@@ -410,7 +410,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "PrizePicks",
+    "source": "prizepicks.com",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
       "Inglaterra",
@@ -557,12 +557,25 @@
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "Full list of players injured for FIFA World Cup 2026 quarterfinals",
-    "source": "sportstar.thehindu.com",
+    "source": "Sportstar",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWo3aVFpNDIteEEtc1FaTFRubEdhUHJ3Y3Z4bFRPRDJJc19tbGpPYWhGeGtldFBzbFJlVzE0SmRmSDJYQ2xDZzNMQmplWVZBQ0t4YmN0NGlxOXB5TWZlWmw4QUlqMjhGam05QjNKcUVJbEFKdFhSY0VXX1dXWFVNdjl1OTNMdjFWd2VKc2pZcGtWNUVCa3paQnZkWTQxdnFNRDV6N0ZOVEhVZlpzSXBOR2k2djFhMkdkeXFVUEY2eERHX0pXQV80MFVEd2VzSVI2QzZvQUZfNEZOblZKN0RsaWxxNjNGc2kw0gHvAUFVX3lxTE96dnRLc1RWSmt3ZGMyWnZLOEdZRnBxcXZNUll0UmVFbTU3OTVMbHhCcWQyZW85VkNuYVhrcEhHZ0VOZjhkUFFNbmduN3lMeEYtanpxZ1hKM3dRaTVsWW8zVnk1WFR4YkUyM1RfYU9YSFFBdWVqa0VqY18yNnoxUUgyR2V6NVdJV3RZYUsySjRaZlY0Zm9VS25KSExTcmtyb0d6bXNyNHJhVDRHVVpGajF4QWNBSEVWNVMxUS03MTJOZDltOG9ta3pMZkNsZ0tJcEZqMF9WcDJxOW1aeFZiXy0tY0tRZ0xJSlRWYkVJUXFr?oc=5",
     "teams": [
       "Marrocos"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "Is James Rodriguez playing? Switzerland vs Colombia confirmed lineups for the 2026 World Cup game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBLcmxyVTU4Rml4bXJvb0U4WGIyd0xyU09ZUTR0d3M0X3B3QU9mOGZ5c1ZuN1IzQ1lScU9TSl90RGFNOTgxVks5d1VocE9NdUphZ2xyYk1URlVjTThiRFg1djIyR1BybkdfWDJwWFpDbW1VRjMzYkpTUWJRVm05MTl3d0wxQ0JlNV9mMm1jeGZkTHk3YXZXMzdsTldRai1QZmEyVXRXME1kbTJ5TmhYdjhuT3ZmUi1tWmwtRThIQlVUZzJqaGtTbExKRzAxaDFR0gHUAUFVX3lxTE5rNWZnWS1OR19ZMlZuWGp5cjNoZEFJZ0lkb3pIaXZkOVdTUE5EX1MwVTdURWN0Rk81OW9XWWFTQVBTTVMtYUV2NEtSWU1kcUdiRnJLa3NGLUthNk9FRGt6dXRXbFoxWU8tRUoxUTU2SlZockdRc1R3WXZ3VlhCUFo2LUhDLTFGS0liblV6dmlZdVUxczVtaERrYVpGVGNrNDBqOWk0SUdMRUVPMG1zWWVlSUhQdld0T0owd3NhSm8xOVgzRnpVVHFkdXlKaTJRWGNoeGF1?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -607,11 +620,11 @@
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "Norway confirmed starting lineup vs. Brazil: Solbakken’s XI for the World Cup round of 16 game",
-    "source": "en.as.com",
+    "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -624,8 +637,8 @@
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -659,7 +672,7 @@
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
     "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
-    "source": "moroccoworldnews.com",
+    "source": "Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeW5GVVVNR2hXOF9uT1VuNC1HWUZyZVdFT2p5eEVWOC1uay1GZV95RzJBcXJaN0hxcWxXZDVCX2FteU9ONjRsZld2VmVrTmtDYzZHQUxNdVZsNXpXdDRGa0dNYUpvZ1ZWckQ0ZVFidFpnSENlcUpGRndCMmMxTHAzS09DQTFCcmVmVkg1ZjZob2pSamJuMUI1ckxRVGJXZVJaQ3piYTllYnc3WUdwOUY4NUtQMnktVWxnRklrOEd2ZjF1MzdmYlE?oc=5",
     "teams": [
       "Portugal"
@@ -672,7 +685,7 @@
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
     "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "PrizePicks",
+    "source": "prizepicks.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
     "teams": [
       "Portugal"
@@ -738,7 +751,7 @@
     "date": "27/06 07:00",
     "date_ts": 1782543600.0,
     "title": "Colombia vs Portugal: Potential Lineup, How, When to Watch the 2026 World Cup Match",
-    "source": "moroccoworldnews.com",
+    "source": "Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
     "teams": [
       "Colombia",
@@ -746,20 +759,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 07:00",
-    "date_ts": 1782543600.0,
-    "title": "Why isn’t Joao Neves starting for Portugal against Colombia at the 2026 World Cup?",
-    "source": "worldsoccertalk.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
-    "teams": [
-      "Colombia",
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
