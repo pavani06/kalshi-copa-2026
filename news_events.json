@@ -173,7 +173,7 @@
     "date": "23/07 07:00",
     "date_ts": 1784790000.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
-    "source": "Lineups",
+    "source": "lineups.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
       "Brasil",
@@ -440,10 +440,23 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "source": "abc.net.au",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
+    "teams": [
+      "Marrocos"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -505,7 +518,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "World Cup: Luis Díaz starts for Colombia as Switzerland lose Manzambi to injury",
-    "source": "bulinews.com",
+    "source": "Bulinews",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVndQU3hSdFNfaW5VV0RfZ0pvZExOY2E1TDdvZzFHdWdjclpWTVAyU3ZndnZFNzUtdGI5dDdQeEdaUF95U29uZTJMVlhkaTRjT2xWQWVXOGl0YXJUbjdsNzZOcmc1cVFZdFUxSXRhUHFxc0poT3NGQnk5QVpFbFJfYVRzWTVlNlZMNHFFTWVqTUtDOExfSGppSg?oc=5",
     "teams": [
       "Colombia"
@@ -658,7 +671,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Confirmed lineups: Germany vs Paraguay – World Cup 2026",
-    "source": "bulinews.com",
+    "source": "Bulinews",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXNEpwZmlnUVpkZTd3TnB1SXZmTXB0NC1idENwMkx6d2x3NFVmOThvT0w1dTgtcHVucUVZVXdhOXN1aFZNMzg1empramNHeWs2SWdsMVpETFo5aTlYcFRGdHN2UTdfUQ?oc=5",
     "teams": [
       "Alemanha"
@@ -677,20 +690,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 07:00",
-    "date_ts": 1782543600.0,
-    "title": "Colombia vs. Portugal confirmed lineups, starting 11 for World Cup Group K game in Miami",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDNGSVhEMVZOVFU1SEFaX28xU0NRVlN6M0tSOW1zN0xnX2ZWMkw4OXVsNTFST0FYeDdYUzRZaFp6MmNwS0dkbVVGZTJkMG5idEtPUVJVQ0FYa2w0dk90dk1wM3JleEFjMTNZVjRQcmtaRmloOVNmOVpIbjNDSi04X1R3LVVfUUR0MlVtakxjTHdNNHpvelltZDRPb2hnaTNSRDhBLUpYQVhfZzh5c2JGR1VrZUhVdzB6WnZpQ0ZQeGs2U2E5OUk1NA?oc=5",
-    "teams": [
-      "Colombia",
-      "Portugal"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
