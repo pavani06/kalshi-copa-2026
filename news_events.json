@@ -173,11 +173,11 @@
     "date": "23/07 07:00",
     "date_ts": 1784790000.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
-    "source": "lineups.com",
+    "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Brasil",
-      "Marrocos"
+      "Marrocos",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -198,7 +198,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -440,7 +440,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "abc.net.au",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
@@ -528,19 +528,6 @@
     "source_type": "news"
   },
   {
-    "date": "07/07 07:00",
-    "date_ts": 1783407600.0,
-    "title": "Is James Rodriguez playing? Switzerland vs Colombia confirmed lineups for the 2026 World Cup game",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBLcmxyVTU4Rml4bXJvb0U4WGIyd0xyU09ZUTR0d3M0X3B3QU9mOGZ5c1ZuN1IzQ1lScU9TSl90RGFNOTgxVks5d1VocE9NdUphZ2xyYk1URlVjTThiRFg1djIyR1BybkdfWDJwWFpDbW1VRjMzYkpTUWJRVm05MTl3d0wxQ0JlNV9mMm1jeGZkTHk3YXZXMzdsTldRai1QZmEyVXRXME1kbTJ5TmhYdjhuT3ZmUi1tWmwtRThIQlVUZzJqaGtTbExKRzAxaDFR0gHUAUFVX3lxTE5rNWZnWS1OR19ZMlZuWGp5cjNoZEFJZ0lkb3pIaXZkOVdTUE5EX1MwVTdURWN0Rk81OW9XWWFTQVBTTVMtYUV2NEtSWU1kcUdiRnJLa3NGLUthNk9FRGt6dXRXbFoxWU8tRUoxUTU2SlZockdRc1R3WXZ3VlhCUFo2LUhDLTFGS0liblV6dmlZdVUxczVtaERrYVpGVGNrNDBqOWk0SUdMRUVPMG1zWWVlSUhQdld0T0owd3NhSm8xOVgzRnpVVHFkdXlKaTJRWGNoeGF1?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
@@ -570,7 +557,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal confirmed starting lineup vs Spain: Roberto Martínez’s XI for the round of 16 game",
-    "source": "Diario AS",
+    "source": "en.as.com",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0VzdXVrM3dHMm5HekdqMUxIZzBUbTdNTUNGNVVWNVByc0dmMmc3Wks1NTZXYXZmbWd4RUdYblNuN1YtaG9PRkgtT3l6TWQzdFFkLW9aaURnTTMwYWNtb2RUa3dNRU5LTTRTMHVIejFWWDhjUXktY1FubDF6cTN2TkljeTBzd2h6WGk2NW5FUjF3ZVVOWldEcVhyYTdzTHBsTktMR29WX2k3QTdIUGg0c19yNzFCaXd0eUFUdlBMQnhtaVHSAdcBQVVfeXFMTmZ4MnprZFY1dnY3VjhtY2pja0xINVY3V3FVWkMzWDJsU3R4LTQwLS1YSldHTVJZaUJDODhqUzdkYU9LbE03Z3ZBVUtQQTZ2Z1cxQ0dvY0QwaVhET1NkTGNOOHpOZ2pTZzFZUUZTbnUtbUx3MkdzX08wd2NIUlVZU21weUpteFJHbVFxUFcybWJ6RjBsQWZTV1lfajFyTGxrY1Ewd1lHcVhHZlJGS2pRNElPQzJqNlVpZHFHUzdLaEVxYUlobU1BVTBSc3lIdHZrNVQxNHNMaFE?oc=5",
     "teams": [
       "Portugal"
@@ -616,19 +603,6 @@
     "source_type": "news"
   },
   {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "World Cup Buzz: Mohamed Salah Starting For Egypt After Knockout Round Injury",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
     "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
@@ -670,6 +644,19 @@
   {
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
+    "title": "Why isn’t Diego Gomez playing today for Paraguay vs Germany at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtodG40cEZ0VDVVVGFYR04wUkpDOVNsX1RBRTRlN1I1SURuU29wY3h5S1dHUGhWYkFfTGdGNnhfYUJnXzhTclhHT2FtUFZBc0g4MWl0cUREM3MtNUdZTHlXQ0NCcm1fdHQ1Ml9XTEd4V01SRTZRWEdPcFBueFZtTERFWWpWQXdPemZKeDF2b0tfZ2ttVUtaZFhBWDNvdzJBbl9aYl95NWdReV9KTHg5U2kxSdIBuAFBVV95cUxNMTFyNHdtV1FZeGJXLTdoWGVOaHZIZVBBank3bGx4eDJQaTdkTlpGUjNlbzd4V2w4Rjd3c21xd3prZ09FbjVjYW10b21XNXRia2Exd0QxMFg2U0duaU02eDlnbThKbWcxYXlZMDU3Zk16YnVVaXB6Y21IQXJINmpJdEc0T3gzX0NVZkczSWM3cEI4ZGxjWmFwTTBjcC1mMjB3c2ZveGhIT3RzTFVWM1lIeDNBZkpOeDRG?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
     "title": "Confirmed lineups: Germany vs Paraguay – World Cup 2026",
     "source": "Bulinews",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXNEpwZmlnUVpkZTd3TnB1SXZmTXB0NC1idENwMkx6d2x3NFVmOThvT0w1dTgtcHVucUVZVXdhOXN1aFZNMzg1empramNHeWs2SWdsMVpETFo5aTlYcFRGdHN2UTdfUQ?oc=5",
@@ -690,6 +677,20 @@
       "Brasil"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "27/06 07:00",
+    "date_ts": 1782543600.0,
+    "title": "Colombia vs. Portugal confirmed lineups, starting 11 for World Cup Group K game in Miami",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDNGSVhEMVZOVFU1SEFaX28xU0NRVlN6M0tSOW1zN0xnX2ZWMkw4OXVsNTFST0FYeDdYUzRZaFp6MmNwS0dkbVVGZTJkMG5idEtPUVJVQ0FYa2w0dk90dk1wM3JleEFjMTNZVjRQcmtaRmloOVNmOVpIbjNDSi04X1R3LVVfUUR0MlVtakxjTHdNNHpvelltZDRPb2hnaTNSRDhBLUpYQVhfZzh5c2JGR1VrZUhVdzB6WnZpQ0ZQeGs2U2E5OUk1NA?oc=5",
+    "teams": [
+      "Colombia",
+      "Portugal"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
