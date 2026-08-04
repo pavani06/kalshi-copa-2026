@@ -172,7 +172,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -243,6 +243,19 @@
   {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
+    "title": "France vs England: Confirmed lineups for 2026 World Cup third-place game",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0dBTFU4bXhheVF5Y0xROGQ0aFhWbHgyeGM4clVxNjJmUnNjZ0k5dnp6NU9fNTIyMjZNUHZ0ZHE3My1KQVo4YjJGdlhYT1FhRnNqMU5IQUVya2RVdTh6R2lvYlh6NlpOSU5jckJhM2IxLVpJM0ZQZS1hUG1qNFpyZE9jY0MtZ0drdEJRZDYwUWIwWW1UZS12RXd6bVI3cF9RLWZRQXN2SdIBrAFBVV95cUxQakRabUxUUUNZNk45aEtybkllVHE5djkxUGdnYkRtcTRrWW9lV0RLbFVOLU5JQXJPT3MwaVZJUkpaMGxRMGdBSG90UXFVSGU3eEFWOXF4blhjVEtCZEllSi1VWHBlRTVGeDdHZnVaY2o3WWUtaG5OVzdkZWt6cE9aVE1xZUZpRVpMbngtMG5Ccm1qWERVX1k0VDlHc3NqbTB2em1KZ2NXSnZvdmpW?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
     "title": "World Cup final bracket: Spain vs. Argentina matchup, schedule and path to the championship",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
@@ -267,6 +280,19 @@
   {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
+    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
     "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
@@ -278,23 +304,10 @@
     "source_type": "news"
   },
   {
-    "date": "15/07 07:00",
-    "date_ts": 1784098800.0,
-    "title": "England v Argentina confirmed line-ups: Who starts World Cup semi-final?",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDBjcVNMRF9zY2JjSHpfUzU4bS1RNWdISHhjcGdJOWdCV1BYenpNSUt4eTNUUFVoVUxZUzU2UFdNZm5CeHdoY3ZIUlN2ODdPa1p3NDBHV1dGbm5JSjNqWFZ3YVhSUDJpZHNBQ1l4LUxaRXBVbktiaUo2SG1MNFNHamhMSmFoM2xxUk1r?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "14/07 07:00",
     "date_ts": 1784012400.0,
     "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
-    "source": "bbc.com",
+    "source": "BBC",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdWVwc2FtaUtfMXVUMV9yYTVYQ3hERGE4ejdtcUJCeFRNX0FPd0JDN3JKZnlybkdjX1Z6M1hXRmVDTElWSVc1TldPeUxKM1dUOTVKdnlYTElvSWNldFRpbU1yVENZaW8?oc=5",
     "teams": [
       "Inglaterra"
@@ -377,19 +390,6 @@
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -631,6 +631,19 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 07:00",
     "date_ts": 1782543600.0,
     "title": "Colombia vs Portugal: Potential Lineup, How, When to Watch the 2026 World Cup Match",
@@ -719,19 +732,6 @@
     "teams": [],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "24/06 07:00",
-    "date_ts": 1782284400.0,
-    "title": "Scotland vs Brazil Highlights | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMdTgtS0JaVWZhay16OUtTcVZuTW9Hd0VSbGd2ZjE0VTA0OHFuMWwyWFNiUlJwdk5MREpiUXdVU1RLX2lpWjJrczRORXFScjdxM19YNWZwdXVVNmxjSEVMX2pn?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "result",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
