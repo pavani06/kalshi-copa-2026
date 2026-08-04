@@ -133,25 +133,14 @@
     "source_type": "news"
   },
   {
-    "date": "28/07 20:34",
-    "date_ts": 1785270873.0,
-    "title": "Crystal Palace vs RC Lens Results Today: Como Cup Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwUDZLbUhMSUlZMmZIXzFkNkNQclN0WGQ0ZjNFN2Z3UTlrUkFvejhLemNfSEZla3NaVnhQYVBrM0pYQkVwSzY3Q0VGVGVJbkhpM2hTSFNTakYtdF8zVXpveWdTWXdaN1d0NjNyRlJaNnJpV0tsejJvZ2xRZ3NwY1U?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "23/07 07:00",
     "date_ts": 1784790000.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Brasil",
-      "Marrocos"
+      "Marrocos",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -185,7 +174,7 @@
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
     "teams": [],
     "category": "injury",
@@ -196,7 +185,7 @@
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "World Cup 2026 fixture schedule and all the results",
-    "source": "Sky Sports",
+    "source": "skysports.com",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjV5RGljazVyVWNyblVRWWIzV2tsMUVCTHJ3c01BYjgzLUlSWHN1WTJqb1JubTVtRU1vTW1kYlYyWUNPeHY1VzBmRndsV3lTeFZEaXlQZllheVhIU0h3Nmp6SnZHcHBFaDBXX1VhNjRnbF9vU0p4TkJWMGxNTklTb0ZaNGI0VzY4THQyQ094alRvS1lHOEFZZUlMZG02S2M5VTVYR2lOc2ZvV3d5dk9NUmxmeFVqR1R0cTNGbTd5RHJ0MFV1QmR6QS1lR1k5a0wtY3pGZl9oOExxRHFPeEhBaXBZZ3AwZmFTNHk0QW5oSHhJRFNCQ0czcjRB?oc=5",
     "teams": [],
     "category": "result",
@@ -246,7 +235,7 @@
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "World Cup final bracket: Spain vs. Argentina matchup, schedule and path to the championship",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
     "teams": [],
     "category": "bracket",
@@ -283,7 +272,7 @@
     "date": "14/07 07:00",
     "date_ts": 1784012400.0,
     "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
-    "source": "bbc.com",
+    "source": "BBC",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdWVwc2FtaUtfMXVUMV9yYTVYQ3hERGE4ejdtcUJCeFRNX0FPd0JDN3JKZnlybkdjX1Z6M1hXRmVDTElWSVc1TldPeUxKM1dUOTVKdnlYTElvSWNldFRpbU1yVENZaW8?oc=5",
     "teams": [
       "Inglaterra"
@@ -309,7 +298,7 @@
     "date": "12/07 07:00",
     "date_ts": 1783839600.0,
     "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
     "teams": [
       "Inglaterra"
@@ -403,7 +392,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
     "teams": [
       "Marrocos"
@@ -442,7 +431,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
     "teams": [
       "Marrocos"
@@ -652,8 +641,8 @@
     "source": "Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
     "teams": [
-      "Colombia",
-      "Portugal"
+      "Portugal",
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -666,8 +655,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
     "teams": [
-      "Colombia",
-      "Portugal"
+      "Portugal",
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "LOW",
@@ -677,7 +666,7 @@
     "date": "26/06 07:00",
     "date_ts": 1782457200.0,
     "title": "France vs Norway Starting Lineups: Confirmed XIs for Today's World Cup Match",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYS1ua3pEWmJ0ZnVSclZKb1pXblNLOFFZOWUxb1BaMkxnMGJPQ2szT0FCbEItQ09wT0taWFV1c1NaYkdLYlF3RjN3SlV5UkIxUEJRblRjaF9XMHc0QWUyc2tYcGZxRk5GbE93Zm9WYlZaZ0RjaVhHdVVVM1J0YU1pSEIwLU95MkhQb3BqV25ILUlZY2FvcGtiT0hQR1FnZzI2d09IMTU3cDNEQ3VRUHB4YzdsM3lDQzVTTGhBQWJ5bVQ?oc=5",
     "teams": [
       "Noruega"
@@ -715,19 +704,6 @@
   {
     "date": "25/06 07:00",
     "date_ts": 1782370800.0,
-    "title": "Germany lineup today vs. Ecuador: Confirmed Starting XI for World Cup game",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJJV1ZqdHpDY0prZVJDZlNRSXJ5bktPeEpfMWRDdVd4Qm1PY1NHczRCU3g5UUtxTVBweDNadnFGWU9FUFNtZ2xKSmpoN3pmRkdSTWV1V3hkcWYtVGszV3Z0WUd0dXBleFRUU2oydFpES2NNczBQa1FjV3cwSVgzdHdtQS1zOXVkdlNwRzFtWGstQ2M0MWUxOWxkSWhxWkNoV21CUGxCYzUxRlp1ckhRS2x0S21iaU9GYXlSdw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 07:00",
-    "date_ts": 1782370800.0,
     "title": "World Cup 2026 LIVE: June 25 Scores, Results and Updates",
     "source": "rg.org",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemFWaG94ak5WMm1DNUQ2bXhpVE5Eb0lpMFFYRDE1ZjFkWEh5R0M1dHcwR0N2cEVXNDhKOGhSY2lTNVNYd3VhRDQ3SVluVW03QnJDbnY5WVBlZGg5bXVLMkNzbThqUFh3YTFSbmxzb212M3lXTkJUdEc5cEttdDN3cWpSdHIyYWhYdUFn?oc=5",
@@ -753,12 +729,40 @@
     "date": "22/06 07:00",
     "date_ts": 1782111600.0,
     "title": "Colombia’s last training session before World Cup match against Congo suspended because of storm",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGVwUXZRNGlNVm0xazQ1ZVFBUk8zWHBNTWtBb2dMeFZLVXY4ZlFvaFRkRW52S3o3SWxUUVpPWVJXaFYzWUdkZ0oybzRpc3pNOE4ya1NDX05ya1VZT1ZlVDRiLTY0ZXprNm5lTHBlZFFYMnQyaVlzVGozM0dKMmMyeUxwZFVUS0hLWG1lY2l3?oc=5",
     "teams": [
       "Colombia"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 07:00",
+    "date_ts": 1782111600.0,
+    "title": "Is Erling Haaland playing? Norway vs Senegal confirmed lineups for the 2026 World Cup Group I game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
+    "teams": [
+      "Senegal",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 07:00",
+    "date_ts": 1782111600.0,
+    "title": "Norway vs Senegal Lineups & Formations Confirmed: Predictions for World Cup 2026",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BnNHdFcVdYQlJXWFpiT0xTU0p4Q0xpMmlOT05RRU9MaDQ5bVp5T2JpZi0tMFRtLV9nWW8tRENCdk1JVGROSHhtRzZlRThZamMwamEwU095eFl0ZnFqeUdUNzdKSnlMdllPdE12Z183eFdybzJBX25PVFZMaXFMUjduS19NSHd4VVFhQmJTNDhzQWVrN3VEVE9BN3FLN3pnSUVweDVIdmdrLVZsU0s5UkJnLWI?oc=5",
+    "teams": [
+      "Senegal",
+      "Noruega"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
