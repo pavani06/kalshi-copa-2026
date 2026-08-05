@@ -137,7 +137,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -219,19 +219,6 @@
   {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
-    "title": "France vs England: Confirmed lineups for 2026 World Cup third-place game",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0dBTFU4bXhheVF5Y0xROGQ0aFhWbHgyeGM4clVxNjJmUnNjZ0k5dnp6NU9fNTIyMjZNUHZ0ZHE3My1KQVo4YjJGdlhYT1FhRnNqMU5IQUVya2RVdTh6R2lvYlh6NlpOSU5jckJhM2IxLVpJM0ZQZS1hUG1qNFpyZE9jY0MtZ0drdEJRZDYwUWIwWW1UZS12RXd6bVI3cF9RLWZRQXN2SdIBrAFBVV95cUxQakRabUxUUUNZNk45aEtybkllVHE5djkxUGdnYkRtcTRrWW9lV0RLbFVOLU5JQXJPT3MwaVZJUkpaMGxRMGdBSG90UXFVSGU3eEFWOXF4blhjVEtCZEllSi1VWHBlRTVGeDdHZnVaY2o3WWUtaG5OVzdkZWt6cE9aVE1xZUZpRVpMbngtMG5Ccm1qWERVX1k0VDlHc3NqbTB2em1KZ2NXSnZvdmpW?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:00",
-    "date_ts": 1784358000.0,
     "title": "World Cup final bracket: Spain vs. Argentina matchup, schedule and path to the championship",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
@@ -290,6 +277,20 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "England lineup today: World Cup starting XI confirmed vs Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2RwOERDX2RDZm9kMW5ISWNRanZaTE1iZkMzZmwyby1YV0g2ajNiYXdzWnljSFlZTnVZZ2E1Qmt6dXAtTVNvSThIZFM0UjVFYXpaam9qNlAtSW5RT2ZqWG1LVVBvM09yc19LZTNkVWNlYzQtQkFJUUFlbU95c2RpNnNqSTRydWwxdzNBQnpwZ3p3dEdD?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -506,19 +507,6 @@
   {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
-    "title": "Portugal vs. Spain Lineups Confirmed for World Cup: Yamal, Ronaldo to Start",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDBvMFNDdl84a19XX3hqT1h2bnRHRTRhYzhlZk5ZbkMzc2RoQllWbFNacWQtTkYyMmd0TXhqaG5TNy1qbnZ0NW11Vm90V2xuQ2N1Qnd3ZmdoUjBuWmo5MXdnU1NaMnp5SHdJYW5ER1h1SjNqUHpqWHhhUEZPeVdRdlVVbXhxeXU3bUliZ3ppdmF3Y1VtWGxIa1loOTFPUzZHbkhYUzlielh1Wi1XSWstenNR?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
     "title": "Portugal confirmed starting lineup vs Spain: Roberto Martínez’s XI for the round of 16 game",
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0VzdXVrM3dHMm5HekdqMUxIZzBUbTdNTUNGNVVWNVByc0dmMmc3Wks1NTZXYXZmbWd4RUdYblNuN1YtaG9PRkgtT3l6TWQzdFFkLW9aaURnTTMwYWNtb2RUa3dNRU5LTTRTMHVIejFWWDhjUXktY1FubDF6cTN2TkljeTBzd2h6WGk2NW5FUjF3ZVVOWldEcVhyYTdzTHBsTktMR29WX2k3QTdIUGg0c19yNzFCaXd0eUFUdlBMQnhtaVHSAdcBQVVfeXFMTmZ4MnprZFY1dnY3VjhtY2pja0xINVY3V3FVWkMzWDJsU3R4LTQwLS1YSldHTVJZaUJDODhqUzdkYU9LbE03Z3ZBVUtQQTZ2Z1cxQ0dvY0QwaVhET1NkTGNOOHpOZ2pTZzFZUUZTbnUtbUx3MkdzX08wd2NIUlVZU21weUpteFJHbVFxUFcybWJ6RjBsQWZTV1lfajFyTGxrY1Ewd1lHcVhHZlJGS2pRNElPQzJqNlVpZHFHUzdLaEVxYUlobU1BVTBSc3lIdHZrNVQxNHNMaFE?oc=5",
@@ -547,8 +535,8 @@
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWNldkZTTTBrdlV1X09LTElkYnNZbjVUOVI4SEpwQ1dKY09VWXVJRDVkWXI1SzhiNTFmMUZ4U0FEdDY5RU9MVHdGVzA4cldYNTJiR1pGcm5ZQnBIX0FpT2NWamNPLWFHdWZTeEdGc2taQ3dzUTM0cUlvdUtRZnZhYl9sNzUxU1VVM2c2dTdTTU1QMzE4dHVpUHlzVUIzNlBIM0JLUWIwV242VnJNOWZaY0VaeUl0bjNUWGlrNzhnbDQzZ3FITlhNVFBNUUJCTGJuS19nSTA2RWpJQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Brasil"
+      "Brasil",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -565,6 +553,19 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:00",
+    "date_ts": 1782975600.0,
+    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -639,8 +640,8 @@
     "source": "moroccoworldnews.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
     "teams": [
-      "Portugal",
-      "Colombia"
+      "Colombia",
+      "Portugal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -653,8 +654,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
     "teams": [
-      "Portugal",
-      "Colombia"
+      "Colombia",
+      "Portugal"
     ],
     "category": "lineup",
     "impact": "LOW",
@@ -702,6 +703,19 @@
   {
     "date": "25/06 07:00",
     "date_ts": 1782370800.0,
+    "title": "Germany lineup today vs. Ecuador: Confirmed Starting XI for World Cup game",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJJV1ZqdHpDY0prZVJDZlNRSXJ5bktPeEpfMWRDdVd4Qm1PY1NHczRCU3g5UUtxTVBweDNadnFGWU9FUFNtZ2xKSmpoN3pmRkdSTWV1V3hkcWYtVGszV3Z0WUd0dXBleFRUU2oydFpES2NNczBQa1FjV3cwSVgzdHdtQS1zOXVkdlNwRzFtWGstQ2M0MWUxOWxkSWhxWkNoV21CUGxCYzUxRlp1ckhRS2x0S21iaU9GYXlSdw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 07:00",
+    "date_ts": 1782370800.0,
     "title": "World Cup 2026 LIVE: June 25 Scores, Results and Updates",
     "source": "rg.org",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemFWaG94ak5WMm1DNUQ2bXhpVE5Eb0lpMFFYRDE1ZjFkWEh5R0M1dHcwR0N2cEVXNDhKOGhSY2lTNVNYd3VhRDQ3SVluVW03QnJDbnY5WVBlZGg5bXVLMkNzbThqUFh3YTFSbmxzb212M3lXTkJUdEc5cEttdDN3cWpSdHIyYWhYdUFn?oc=5",
@@ -730,22 +744,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 07:00",
-    "date_ts": 1782111600.0,
-    "title": "Norway vs Senegal Lineups & Formations Confirmed: Predictions for World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BnNHdFcVdYQlJXWFpiT0xTU0p4Q0xpMmlOT05RRU9MaDQ5bVp5T2JpZi0tMFRtLV9nWW8tRENCdk1JVGROSHhtRzZlRThZamMwamEwU095eFl0ZnFqeUdUNzdKSnlMdllPdE12Z183eFdybzJBX25PVFZMaXFMUjduS19NSHd4VVFhQmJTNDhzQWVrN3VEVE9BN3FLN3pnSUVweDVIdmdrLVZsU0s5UkJnLWI?oc=5",
-    "teams": [
-      "Noruega",
-      "Senegal"
+      "Senegal",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
