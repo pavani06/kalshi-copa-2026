@@ -125,7 +125,7 @@
     "date": "23/07 07:00",
     "date_ts": 1784790000.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
-    "source": "Lineups",
+    "source": "lineups.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
       "Marrocos",
@@ -171,9 +171,9 @@
   {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
-    "title": "England vs. France line-ups: World Cup 2026 predicted XIs",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHpLbmdCbmd0dzF4UzdRYXVfamFxalJkSV9vVlRZd2xULXJmYmVKaTE0THRxby1mOENhVXY3WGJzc1M2R1k5WFNRU3JFUTZOc2FKNG9wVTFSLTNjZi02UnNmQmxMcGtodlFpU1lSV3ZWNE5yc01uUnJqWlNkUjZNbzVncUx4c1I1T3pMWmZldDRTNEpNR0ZKTi1jX01ucjRyLTloSw?oc=5",
+    "title": "England starting lineup vs France today, World Cup XI confirmed",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -184,9 +184,9 @@
   {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
-    "title": "England starting lineup vs France today, World Cup XI confirmed",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
+    "title": "England vs. France line-ups: World Cup 2026 predicted XIs",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHpLbmdCbmd0dzF4UzdRYXVfamFxalJkSV9vVlRZd2xULXJmYmVKaTE0THRxby1mOENhVXY3WGJzc1M2R1k5WFNRU3JFUTZOc2FKNG9wVTFSLTNjZi02UnNmQmxMcGtodlFpU1lSV3ZWNE5yc01uUnJqWlNkUjZNbzVncUx4c1I1T3pMWmZldDRTNEpNR0ZKTi1jX01ucjRyLTloSw?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -216,19 +216,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 21:16",
-    "date_ts": 1784150175.0,
-    "title": "France 4-6 England (Jul 18, 2026) Final Score",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85czY1R1FaNXJyejQ3YkZHekFPMGtKTE9tcGNfb21wTVV2cnczOXc5VlRhYmk0anBwanAxbTd0VHRYQXlhcDBSSklyVkdOTzAxcUpvMFI5LVRXX3M1RVZIbUREaHh5QzlYUW5BbjRiWE43QQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -324,6 +311,17 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "FIFA World Cup 2026 – Every match result on Saturday 11 July – Live updates",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXFEMDlIV3R2cUx4elUzTDhTSktpRWtxUS13eVJWc0lLX2U3WWpCV3dJMFFKNmhMOTg4b2xRcmMyVUtPSW1vb3lMZnlNTFk4a1M1d2I5RjVtZlctNVZXVGd2T1dKc1FNbmMweWx2dVczSzhoZkRoWWVMU1NWbkIwQXg1YjhhYk5XdDZDd3JVR3FaS216eExkbExyZENDVElXQm5V?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
