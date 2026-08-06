@@ -1,5 +1,18 @@
 [
   {
+    "date": "06/08 00:17",
+    "date_ts": 1785975432.0,
+    "title": "FIFA World Cup 2026 - Round of 32 - Netherlands v Morocco",
+    "source": "The Lufkin Daily News",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVmY4Y2Q3M3FhVDBKa2E0NWdqakxCY3FUUnN1c1NRcDExYTJ0X2o4cDRPU3d3dE1SUHp6Tl8zMHJGX2VLV01zVmpLdm1pQ0FNTndkVkhhVWk1TFE4eTFTNllvTzEtU0RtaEFIRFpWdXI4MUpKQmM1RFVwajUtbTBrYno5aGpfWXBPRHg5dTFBcWNJeFFMbXZLY3MwWHh1QWhJR1I2bVFYTm9xa1BsMl9LTEVDZk40TEV6MVF2Z2Z3NV9uS1gwSFNLajd0anA0dVJLYVEyYUVla2ktdkdKWFJQNkR1MHQ3ZWRHRmhF?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "03/08 22:28",
     "date_ts": 1785796080.0,
     "title": "Women's Africa Cup of Nations 2026: Full schedule, all results and group standings",
@@ -117,17 +130,6 @@
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
     "teams": [],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
-    "title": "World Cup 2026 fixture schedule and all the results",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjV5RGljazVyVWNyblVRWWIzV2tsMUVCTHJ3c01BYjgzLUlSWHN1WTJqb1JubTVtRU1vTW1kYlYyWUNPeHY1VzBmRndsV3lTeFZEaXlQZllheVhIU0h3Nmp6SnZHcHBFaDBXX1VhNjRnbF9vU0p4TkJWMGxNTklTb0ZaNGI0VzY4THQyQ094alRvS1lHOEFZZUlMZG02S2M5VTVYR2lOc2ZvV3d5dk9NUmxmeFVqR1R0cTNGbTd5RHJ0MFV1QmR6QS1lR1k5a0wtY3pGZl9oOExxRHFPeEhBaXBZZ3AwZmFTNHk0QW5oSHhJRFNCQ0czcjRB?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -333,23 +335,10 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "abc.net.au",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
-    "teams": [
-      "Marrocos"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -527,7 +516,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
     "teams": [
       "Brasil"
@@ -543,8 +532,8 @@
     "source": "Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
     "teams": [
-      "Portugal",
-      "Colombia"
+      "Colombia",
+      "Portugal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -557,8 +546,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
     "teams": [
-      "Portugal",
-      "Colombia"
+      "Colombia",
+      "Portugal"
     ],
     "category": "lineup",
     "impact": "LOW",
@@ -595,8 +584,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
-      "Senegal",
-      "Noruega"
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -609,8 +598,8 @@
     "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BnNHdFcVdYQlJXWFpiT0xTU0p4Q0xpMmlOT05RRU9MaDQ5bVp5T2JpZi0tMFRtLV9nWW8tRENCdk1JVGROSHhtRzZlRThZamMwamEwU095eFl0ZnFqeUdUNzdKSnlMdllPdE12Z183eFdybzJBX25PVFZMaXFMUjduS19NSHd4VVFhQmJTNDhzQWVrN3VEVE9BN3FLN3pnSUVweDVIdmdrLVZsU0s5UkJnLWI?oc=5",
     "teams": [
-      "Senegal",
-      "Noruega"
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -672,7 +661,7 @@
     "date": "17/06 07:00",
     "date_ts": 1781679600.0,
     "title": "Portugal’s João Neves scores header to take lead vs DR Congo | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbVBId3BubGxCMURKaVFYdENBZFNiYmZVemdLd2Q3ckJRYjF1aFBiNjRMOTZyUndsaXYzaHN0MS1ESnF5RnVMQjd5cVJ3LVppX0FYRVF0R3ozbWVCYW1vaElB?oc=5",
     "teams": [
       "Portugal"
@@ -738,7 +727,7 @@
     "date": "09/06 07:00",
     "date_ts": 1780988400.0,
     "title": "2026 FIFA World Cup Bracket: Simulating the Tournament Based on Betting Favorites",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVdQdUJ3S05NM3RsRkFnM0RaTHVRQldZN3hkbUtlY1Z5bmFWTnpvZ1NxbFo0ald0Y2RWZVVBNS12azlVcmlnbVZfZjR2bVZvYkxsUjdJTk1iLTRhZ29jUms2LWhfT3FXTjA0R2Q3M1FlVmVWbE1PRWNKOXE4dDFXa0psRzJyTVM4RnVYaExCWkVJOFkxcGlVaDlVOVhWRkhFMDBVQUNyckNUcTFhdHpqTTU2MkrSAbQBQVVfeXFMTXZ6VW1Sa3FnTTZJZlYyVUk2bkJsMmFQV0Y2V2VyQVF2bTJqOVprNkZWdHMzZW9IaGFLcGh1Ym93bk5OZnExV3Zka1Q0ekJZRHFERDdlRHh2bGtETHJMcGozSVBrVWlia1B1c1V2NUU4ODhaVTRiMlhGZ1ppM0JxWWJIUmR6NXhsSkF2N2JwcDVLSG84UFZoLV9UaFEtQlZYakFHcXRNOWFBczRWR2FLR3BqUmhv?oc=5",
     "teams": [],
     "category": "bracket",
@@ -768,6 +757,19 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/06 07:00",
+    "date_ts": 1780729200.0,
+    "title": "FIFA 2026 World Cup updates: Full list of confirmed players from Portugal, predicted starting XI, injury",
+    "source": "The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUGVCYkpyOVBDa0NjbTFycmFLOGNpOU10N1FubHU2ZURtQVdoZ0U2dmxlaFFCWktSdU1PTE1GOHFzVlRpWDlmNWkzaFFBODQ5TUZUajB0aTZSQXpjV3dNVkFpQS1BeDJCYlJqVFhaY2tTT0Jrcy1veUxMR1lHbHBjMEEtNGtiUjJTUngwTGhrbXNTaDlnbjJoTzRrcjZGb3RZbUdIZUJlM0JhczgxbHZMX1V3eGhzUjlxcms2dGswdWtGR0wxaUk0cWRuY01IajFPVWhVUnlFcUw3b1V6V2gyYnp1cWVHSW1oR0c4Y00taWlPTVh0YUxVbk9iem9qdFRZdmxRTXFFS2VfcnpBUTllSEF2NkNnbUZMMjBYN01JcVJZTmhWZWZNN1M1cnZ2TEtQbE92LVhjazRqLVRHSWZlVUpPVFRfUdIBywJBVV95cUxOTGdMLWk2Q1JiaEVtcmQtSkx1ZG5kc0U0ZGNONFoyU0ZLVDBjaGtFWVBxa3BYRlFSSjU2OTlEcGtuajhjNG1jNktadFpWU0M4UWt1azhLZ3BpRmMxV2RXZE5sbXhhMGEzRXZaVjZGVU9HZnhHVlE3a0ltemYyTzM3Y3Y4c25pclIza1JaMEtyZUtZMzA5WWRKTWdrWGM0Nm45Tno0ZllRdnBNUzI2M3dsZFl5amk2TWg2bmNsdE9MTUJDeFl2UGZ2ZERXNHE5N0pqT05MMi1VWUF4alpXQk41WUFCczBmU0lnT21vQ3VMVmdKVElwNlpDV2VuZnF1YzBGVEgycF9OUWNQSFRUTGdaYUl5MVhXd2hBOWNuendGZ1U4N1dHM0V2ZGl1U3BsMkRwMVJBWV9vS292VHJzRXV1dVZKcThsdlVmemIw?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
