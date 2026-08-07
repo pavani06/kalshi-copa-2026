@@ -185,7 +185,7 @@
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
     "teams": [
       "Inglaterra"
@@ -247,6 +247,19 @@
   {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
+    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
     "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
@@ -271,23 +284,10 @@
     "source_type": "news"
   },
   {
-    "date": "12/07 07:00",
-    "date_ts": 1783839600.0,
-    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
       "Inglaterra",
@@ -315,7 +315,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "England survives Norway in extra time thriller to reach World Cup semifinals",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSmNidm9DUmszWE1fUGdma3N5Z2R2NWlUUHlvU0dhMWNlNlZDYVhkdXZJdEhtdEdsR016bXo2cWpxZmZZeUJtdUZNeG9WSEJUWE9acU5wenNBcFRKQ1JJenlRWkRETDlYUV94MTV4TW8wdFIzQ1FjdXppMzUweTM5YzE0UmQ0VmJ2a3lGelFjVVlqeEVqVk82S2JzNS1LUUZrSWFpSE92YlltdzZ1dUdTcVc0TlhTUTc3TFJmTTE1LXN3QXBQM0JuaXZrRWhQbVpfNmNGcFJqVm9tYXY1SG5V?oc=5",
     "teams": [
       "Inglaterra",
@@ -373,19 +373,6 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
-    "teams": [
-      "Marrocos"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -474,21 +461,8 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGo3M1hlbmowblgzVkZQTVNTRkRmaThMV3NRN1JqekNXekhrQ3BoeWVjODh0T1ZPYzdHN19PMmtFU1NtU3V4Z29qMGh2VXlFcnlEOEFhUWdBbGlsUXhZZ2p4b2Z1S0ZyYldIVGhudFdJeVNuVFlTSGNSdFNyYzZWNW5HbWluR2ZVSXlqbUFxa0g0UUlZTzU2TEM2WkFGZFZuRzBDbmstV3ZnaTFFbkFJZ0pTUGRJQlJLemRV?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
-    "title": "Portugal confirmed starting lineup vs Spain: Roberto Martínez’s XI for the round of 16 game",
-    "source": "Diario AS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0VzdXVrM3dHMm5HekdqMUxIZzBUbTdNTUNGNVVWNVByc0dmMmc3Wks1NTZXYXZmbWd4RUdYblNuN1YtaG9PRkgtT3l6TWQzdFFkLW9aaURnTTMwYWNtb2RUa3dNRU5LTTRTMHVIejFWWDhjUXktY1FubDF6cTN2TkljeTBzd2h6WGk2NW5FUjF3ZVVOWldEcVhyYTdzTHBsTktMR29WX2k3QTdIUGg0c19yNzFCaXd0eUFUdlBMQnhtaVHSAdcBQVVfeXFMTmZ4MnprZFY1dnY3VjhtY2pja0xINVY3V3FVWkMzWDJsU3R4LTQwLS1YSldHTVJZaUJDODhqUzdkYU9LbE03Z3ZBVUtQQTZ2Z1cxQ0dvY0QwaVhET1NkTGNOOHpOZ2pTZzFZUUZTbnUtbUx3MkdzX08wd2NIUlVZU21weUpteFJHbVFxUFcybWJ6RjBsQWZTV1lfajFyTGxrY1Ewd1lHcVhHZlJGS2pRNElPQzJqNlVpZHFHUzdLaEVxYUlobU1BVTBSc3lIdHZrNVQxNHNMaFE?oc=5",
     "teams": [
       "Portugal"
     ],
@@ -511,7 +485,7 @@
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
     "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
     "teams": [
       "Portugal"
@@ -563,7 +537,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
     "teams": [
       "Brasil"
@@ -576,7 +550,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
     "teams": [
       "Brasil"
@@ -630,7 +604,7 @@
     "date": "25/06 07:00",
     "date_ts": 1782370800.0,
     "title": "Ecuador vs. Germany Lineups Confirmed, Starting XIs for World Cup Today",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkVwRldhdjZZN2hROEh2aG9NQjRpVjkzNGI1QjBPZUJnbkRvR1RweURWb2NkN3Z5TmFuZ0FMTXBYRHVYSUlZTFJyd3V2RWU5RFdlUHhFRS1McjVOZkdEbDREM2RUOE1VMVBRWDZLUkZaNVlnTnU4QmVlMGVFT2xDMlhLSEdPV2o0aUpUN3V2ZTh1cktSWUtzbldNcFdDTElCV2JQeGE0NmZFdkpNcmc?oc=5",
     "teams": [
       "Alemanha"
@@ -732,7 +706,7 @@
     "date": "17/06 07:00",
     "date_ts": 1781679600.0,
     "title": "Portugal’s João Neves scores header to take lead vs DR Congo | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbVBId3BubGxCMURKaVFYdENBZFNiYmZVemdLd2Q3ckJRYjF1aFBiNjRMOTZyUndsaXYzaHN0MS1ESnF5RnVMQjd5cVJ3LVppX0FYRVF0R3ozbWVCYW1vaElB?oc=5",
     "teams": [
       "Portugal"
@@ -745,7 +719,7 @@
     "date": "16/06 07:00",
     "date_ts": 1781593200.0,
     "title": "France vs. Senegal Confirmed Lineups for World Cup 2026 Match Today",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdGtnWTV1TllIUVZjVjVJQWtoVkN5SmhfbHRNd2YzdnRLVmFIbmpHalFKbUlMajRDNHFhd3ZWS1o4OXpKREVlZGVWU0MwajlwWnFycFRzY3lHT2R2UWRvOTFTZ0VBRkFlQTVpSWdWTGdhcFdQN25LbHo2ODNXLVRkcFRPTlJNU3hDUTI4d2RFVDJ3TUJwNnkwWWNxWnk0a0w1UThaZ0s2bW04bDRaMl93?oc=5",
     "teams": [
       "Senegal"
@@ -762,6 +736,34 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb0VfYk5ualhhV0JZV2tRcXptUHYyb1Bab05GU1ZXdGRGN2ZMQ1o5ZjV2YjFDMVNHZE41SXRzZDIxcEFOTVdpZmh3MUdRdmlmZWdCMGtuVTdfUll4Zkd1b1RvMnhFR0kzMS1pWXM4VnI4SXkzTnZ0OTZmY3lOSTBYU1FWZmNmcHM3TS1uTF91N1llOU1pbTliMFVKcDRtVER2bmVkWEp3YUVLazlNX3pkdmpmcjg0RnZfRFRBdDA3MnRkOXNhOFHSAcsBQVVfeXFMUE5OaEpDNHV0OTZxNmZVTloxNmVOU1ozVWtPTGJSanZFLUdid2g5MnRMZFZSMkdRS1pzQ1daNWxjaTNId2kyWVFDWkR0TVBUckpmZmsxdzNBS1hLMDlFU0ZGT3pMNThGSEw3NnpJUFF5RkFhSDZ1NzhtY29nQXFEVWljUGJFcnZadHNUek5YZzU0SW1xQ0pqMGF6NG1LYmxTTWZpQ2tpb25EYzJZdm5rQUt0MWY2c2hXcFdiS0VKNVNMX0k5Y3pFZGIzTHM?oc=5",
     "teams": [
       "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "13/06 07:00",
+    "date_ts": 1781334000.0,
+    "title": "Brazil vs. Morocco Lineups Confirmed for World Cup 2026 – Saturday, June 13",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2Q2UVJRV1Qtckl5NXVVTjUyN1VZalc0eEFqdHg2aEFPSmhYVGFNZmJQQTEtMndaTTNWQXF0OTBmZktiMy1Wd3EwT1RoZkJNTG1zOHk3N1JVYkZmN1ctTjVEOWs2VEV3LV95TmluVV9GWk9PWFJDa2xPMTNTZlR4SmhJY3dqQ29EUFZycU0yVENTZW5LdU43ZHE5Zy1fS3YzOElIc05SQTBJdHdvUjM3VQ?oc=5",
+    "teams": [
+      "Brasil",
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "13/06 07:00",
+    "date_ts": 1781334000.0,
+    "title": "Brazil vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Group C",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnY0WDE3U2xyNTNlWmVscldicWVtZ2YxazJzSnA4OUJvODFZdWRkUkZfdlRnR2Zocl90Zm5XTWJIZW5KUUczWEdiUmJxMzc0dnc2NnRrSzdBR3kwcmo1dGltYk45NXVxZzdEaU9ROVc2U0JDOHhXQ0M3T0ZvYUpXMWV6TVRfdTlWTlFSWmxfMV9lTGZZek5KdmdjS3BEYjNyYmlMdGtkRDl6WHRRdkNSdzh3eVprSmxlcnJvWktBRzBDZEoyUjJOekdvYS1qemVXdVBfWFcyYzQ?oc=5",
+    "teams": [
+      "Brasil",
+      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
