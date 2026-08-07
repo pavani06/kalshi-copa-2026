@@ -194,7 +194,7 @@
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
-    "source": "usatoday.com",
+    "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
     "teams": [
       "Inglaterra"
@@ -241,19 +241,6 @@
     "source_type": "news"
   },
   {
-    "date": "16/07 07:00",
-    "date_ts": 1784185200.0,
-    "title": "Argentina injury, suspension list and return dates for World Cup 2026 final: Cristian Romero, Leandro Paredes latest",
-    "source": "Sports Mole",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPN2V0WTFTQTNBYV9DNFNUNUFRUVdzZVFuV1U0MWJPVzlHRHVpRFFBV1FWVUdTSkRjeDIxbmNLR29BbmdxVDRRR3g2UGtWRVlqY3BzZHR0UFRod1ZDbGlyQWhZYVdHQWdCVjRpYkk2LTRBbDM3SHFGQkNpTkh6SGo1Qk5IVmVxSmk2NVdQRWJxZWxQWTBVWXdMMFBYLThYNl9SS1pxTlY5TUZ1NzBwUGdYM2hGcUZMTklJem9tMlNxZFoyMElNazNDZU1aMzBvZ1Yxb1JIZGxKTTc1VEYzTjBHd1hwM25TRWlVT3VvM3lGa3g2U2hsbEoyeHYtbHpEemRGOG1ENg?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "15/07 21:16",
     "date_ts": 1784150175.0,
     "title": "France 4-6 England (Jul 18, 2026) Final Score",
@@ -264,19 +251,6 @@
     ],
     "category": "result",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 07:00",
-    "date_ts": 1784098800.0,
-    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -303,6 +277,19 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -337,7 +324,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "England survives Norway in extra time thriller to reach World Cup semifinals",
-    "source": "usatoday.com",
+    "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSmNidm9DUmszWE1fUGdma3N5Z2R2NWlUUHlvU0dhMWNlNlZDYVhkdXZJdEhtdEdsR016bXo2cWpxZmZZeUJtdUZNeG9WSEJUWE9acU5wenNBcFRKQ1JJenlRWkRETDlYUV94MTV4TW8wdFIzQ1FjdXppMzUweTM5YzE0UmQ0VmJ2a3lGelFjVVlqeEVqVk82S2JzNS1LUUZrSWFpSE92YlltdzZ1dUdTcVc0TlhTUTc3TFJmTTE1LXN3QXBQM0JuaXZrRWhQbVpfNmNGcFJqVm9tYXY1SG5V?oc=5",
     "teams": [
       "Noruega",
@@ -482,7 +469,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
-    "source": "usatoday.com",
+    "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGo3M1hlbmowblgzVkZQTVNTRkRmaThMV3NRN1JqekNXekhrQ3BoeWVjODh0T1ZPYzdHN19PMmtFU1NtU3V4Z29qMGh2VXlFcnlEOEFhUWdBbGlsUXhZZ2p4b2Z1S0ZyYldIVGhudFdJeVNuVFlTSGNSdFNyYzZWNW5HbWluR2ZVSXlqbUFxa0g0UUlZTzU2TEM2WkFGZFZuRzBDbmstV3ZnaTFFbkFJZ0pTUGRJQlJLemRV?oc=5",
     "teams": [
       "Portugal"
@@ -638,7 +625,7 @@
     "date": "25/06 07:00",
     "date_ts": 1782370800.0,
     "title": "Qatar's Assim Madibo Gets 5-Match Ban For Breaking Canada's Ismaël Koné's Leg",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYkFuZFFrUWlkb0FFdS1NUkZ4MTZPWGpBVlhwYndnT1dNcHBFdmxYRy12WHZ1ZmlWd1BSTVNEMFl6VTF2OUxwOGVrVzEySS1NUXFUVFVCWDI1S1JxSXJfYmpnQncwaFh2eXNfZFFWTWNkVGZ5UkEtRk1XcEd5TGtZVkdBWHI1dkhhOGJoMFJIRTVqcHpMc3AzOEdFZDN1WmNjVXhxV04wOVZuSmx4bjRQTzF2YU54eUczU05Rb29tZHB3bFh5Y3dJQXQ5TzNvbU1rLVdCSdIB1AFBVV95cUxPakRyR0hseGtTMmZiWVFXVVZfZ3JOeVR1cHR6a0pTQzN6TGxaMGxSRjFySWJIbW5qX0hrVGlReXBwWjlyY3FCdjZiZXNHTDJhajVxaUpFTW9sQ3F5ZlVHTkR3WE41WHAyaFNwUzlVXzIwd3U5Mkd4SWVOOWZPUldPOWZYVjJBWmxKSnhFZGRaS3M5c0k0UTV3UXN2WEhNSjVXaU5fVk1tcjJhdGZlMnRpZ1FlVkhMcGpvTDlHaElWcERER0JHcFNKdmJIbG5uaHM1dUF1Qw?oc=5",
     "teams": [
       "Brasil"
@@ -689,7 +676,7 @@
     "date": "22/06 07:00",
     "date_ts": 1782111600.0,
     "title": "Is Erling Haaland playing? Norway vs Senegal confirmed lineups for the 2026 World Cup Group I game",
-    "source": "World Soccer Talk",
+    "source": "worldsoccertalk.com",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
       "Noruega",
@@ -722,6 +709,19 @@
       "Brasil"
     ],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/06 07:00",
+    "date_ts": 1781766000.0,
+    "title": "2026 World Cup: Why isn’t Cesar Montes playing today for Mexico vs South Korea?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVBIWGE2RS1XV2tnWEpiNV9IVWl5YV9LeExDZmVVREk0RUlxVUJ5TUFrYWpLbTBjaFpjVEJGaTRxeWQtSXg1UGdRajFOS3BxbUJyVmFDaC1CS0NkWXNmVFlGY2FSR0RyREw4cFU4V0pvMVM4QS1VZkptTzdWUEZsV2tiSEY2YkpuaVp5cGlhc2FvaXB4aVNCemp3cE8zM2FodWlQU05FNHZIT1dzZXfSAbMBQVVfeXFMT0Jvc21nR2FGZDN4MUNZMXRHSmJjTlA3cUxJcmRTM29ITWFWbi1GdThpR3hXWU9WVmNmUzE1Nm9XeDdkUXVqOGotaXdWVC1XcUtmNEJGSEg1M19ocS1vSXNSQ0xkQ0drUWE1X3NzOTd1ejA0RzA2RnRTYkFPazdCT0UybGsyZlhkRkVwV2hWeE92ekM1dDZRa2RNRks3ekgyNVJzOS1PYTNvNUlCOFQ1dml4Vkk?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
