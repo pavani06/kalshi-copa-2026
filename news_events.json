@@ -134,7 +134,7 @@
     "date": "29/07 06:32",
     "date_ts": 1785306774.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
-    "source": "KOHA.net",
+    "source": "koha.net",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
     "teams": [
       "Brasil"
@@ -163,11 +163,22 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Marrocos",
-      "Brasil"
+      "Brasil",
+      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "21/07 07:00",
+    "date_ts": 1784617200.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -218,17 +229,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:00",
-    "date_ts": 1784358000.0,
-    "title": "World Cup final bracket: Spain vs. Argentina matchup, schedule and path to the championship",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -381,19 +381,6 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
     "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
@@ -428,6 +415,19 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 07:00",
+    "date_ts": 1783494000.0,
+    "title": "Full list of players injured for FIFA World Cup 2026 quarterfinals",
+    "source": "Sportstar",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWo3aVFpNDIteEEtc1FaTFRubEdhUHJ3Y3Z4bFRPRDJJc19tbGpPYWhGeGtldFBzbFJlVzE0SmRmSDJYQ2xDZzNMQmplWVZBQ0t4YmN0NGlxOXB5TWZlWmw4QUlqMjhGam05QjNKcUVJbEFKdFhSY0VXX1dXWFVNdjl1OTNMdjFWd2VKc2pZcGtWNUVCa3paQnZkWTQxdnFNRDV6N0ZOVEhVZlpzSXBOR2k2djFhMkdkeXFVUEY2eERHX0pXQV80MFVEd2VzSVI2QzZvQUZfNEZOblZKN0RsaWxxNjNGc2kw0gHvAUFVX3lxTE96dnRLc1RWSmt3ZGMyWnZLOEdZRnBxcXZNUll0UmVFbTU3OTVMbHhCcWQyZW85VkNuYVhrcEhHZ0VOZjhkUFFNbmduN3lMeEYtanpxZ1hKM3dRaTVsWW8zVnk1WFR4YkUyM1RfYU9YSFFBdWVqa0VqY18yNnoxUUgyR2V6NVdJV3RZYUsySjRaZlY0Zm9VS25KSExTcmtyb0d6bXNyNHJhVDRHVVpGajF4QWNBSEVWNVMxUS03MTJOZDltOG9ta3pMZkNsZ0tJcEZqMF9WcDJxOW1aeFZiXy0tY0tRZ0xJSlRWYkVJUXFr?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -563,7 +563,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
     "teams": [
       "Brasil"
@@ -576,7 +576,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
     "teams": [
       "Brasil"
@@ -592,8 +592,8 @@
     "source": "Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
     "teams": [
-      "Colombia",
-      "Portugal"
+      "Portugal",
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -606,8 +606,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
     "teams": [
-      "Colombia",
-      "Portugal"
+      "Portugal",
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "LOW",
@@ -732,7 +732,7 @@
     "date": "17/06 07:00",
     "date_ts": 1781679600.0,
     "title": "Portugal’s João Neves scores header to take lead vs DR Congo | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbVBId3BubGxCMURKaVFYdENBZFNiYmZVemdLd2Q3ckJRYjF1aFBiNjRMOTZyUndsaXYzaHN0MS1ESnF5RnVMQjd5cVJ3LVppX0FYRVF0R3ozbWVCYW1vaElB?oc=5",
     "teams": [
       "Portugal"
