@@ -1,5 +1,16 @@
 [
   {
+    "date": "07/08 16:25",
+    "date_ts": 1786119940.0,
+    "title": "World Cup fans are still posting about the American hospitality they experienced, weeks after the tournament ended",
+    "source": "Yahoo Creators",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMFh4RFZFZWxyWnk3UDhOMGxFSm56bXlTY1J2eHRBNEdzZlVzbXZwazJENVF5RFUtT3RzdVRTbjBiSGlFeDZQUmFwSWFGWmVqZXZZdUp3cWRONUZGVFdpU1F5dmw4RkxqdW0wVlRHTGcwUlYweC1UM3FuRDNNZFVtZ1I4U0pURjJqRnQ5RzJ2RkZPQk5tVGxVek9fUWY3Z3gtYnlNcGhNS1M2RFpqZjFDbTdkM1BTbVIzYjlQdi1hTEc0b3QzVzdqZExYYk4tbnlObjZFd2lPUnpJRW9FdXpPVUM2bnpYRDZWUjNtM25KcG4zUWV6Nl96UHdMVUJiQnlv?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/08 06:16",
     "date_ts": 1786083372.0,
     "title": "AIFF confirms India to feature separate squads for FIFA ASEAN Cup and high-profile Brazil international fri...",
@@ -185,7 +196,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -211,6 +222,19 @@
     "title": "England vs. France line-ups: World Cup 2026 predicted XIs",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHpLbmdCbmd0dzF4UzdRYXVfamFxalJkSV9vVlRZd2xULXJmYmVKaTE0THRxby1mOENhVXY3WGJzc1M2R1k5WFNRU3JFUTZOc2FKNG9wVTFSLTNjZi02UnNmQmxMcGtodlFpU1lSV3ZWNE5yc01uUnJqWlNkUjZNbzVncUx4c1I1T3pMWmZldDRTNEpNR0ZKTi1jX01ucjRyLTloSw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "France vs England: Confirmed lineups for 2026 World Cup third-place game",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0dBTFU4bXhheVF5Y0xROGQ0aFhWbHgyeGM4clVxNjJmUnNjZ0k5dnp6NU9fNTIyMjZNUHZ0ZHE3My1KQVo4YjJGdlhYT1FhRnNqMU5IQUVya2RVdTh6R2lvYlh6NlpOSU5jckJhM2IxLVpJM0ZQZS1hUG1qNFpyZE9jY0MtZ0drdEJRZDYwUWIwWW1UZS12RXd6bVI3cF9RLWZRQXN2SdIBrAFBVV95cUxQakRabUxUUUNZNk45aEtybkllVHE5djkxUGdnYkRtcTRrWW9lV0RLbFVOLU5JQXJPT3MwaVZJUkpaMGxRMGdBSG90UXFVSGU3eEFWOXF4blhjVEtCZEllSi1VWHBlRTVGeDdHZnVaY2o3WWUtaG5OVzdkZWt6cE9aVE1xZUZpRVpMbngtMG5Ccm1qWERVX1k0VDlHc3NqbTB2em1KZ2NXSnZvdmpW?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -418,19 +442,6 @@
     "source_type": "news"
   },
   {
-    "date": "08/07 07:00",
-    "date_ts": 1783494000.0,
-    "title": "Full list of players injured for FIFA World Cup 2026 quarterfinals",
-    "source": "Sportstar",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWo3aVFpNDIteEEtc1FaTFRubEdhUHJ3Y3Z4bFRPRDJJc19tbGpPYWhGeGtldFBzbFJlVzE0SmRmSDJYQ2xDZzNMQmplWVZBQ0t4YmN0NGlxOXB5TWZlWmw4QUlqMjhGam05QjNKcUVJbEFKdFhSY0VXX1dXWFVNdjl1OTNMdjFWd2VKc2pZcGtWNUVCa3paQnZkWTQxdnFNRDV6N0ZOVEhVZlpzSXBOR2k2djFhMkdkeXFVUEY2eERHX0pXQV80MFVEd2VzSVI2QzZvQUZfNEZOblZKN0RsaWxxNjNGc2kw0gHvAUFVX3lxTE96dnRLc1RWSmt3ZGMyWnZLOEdZRnBxcXZNUll0UmVFbTU3OTVMbHhCcWQyZW85VkNuYVhrcEhHZ0VOZjhkUFFNbmduN3lMeEYtanpxZ1hKM3dRaTVsWW8zVnk1WFR4YkUyM1RfYU9YSFFBdWVqa0VqY18yNnoxUUgyR2V6NVdJV3RZYUsySjRaZlY0Zm9VS25KSExTcmtyb0d6bXNyNHJhVDRHVVpGajF4QWNBSEVWNVMxUS03MTJOZDltOG9ta3pMZkNsZ0tJcEZqMF9WcDJxOW1aeFZiXy0tY0tRZ0xJSlRWYkVJUXFr?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland beats Colombia in shootout for spot in World Cup quarterfinals",
@@ -460,7 +471,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal confirmed starting lineup vs Spain: Roberto Martínez’s XI for the round of 16 game",
-    "source": "Diario AS",
+    "source": "en.as.com",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0VzdXVrM3dHMm5HekdqMUxIZzBUbTdNTUNGNVVWNVByc0dmMmc3Wks1NTZXYXZmbWd4RUdYblNuN1YtaG9PRkgtT3l6TWQzdFFkLW9aaURnTTMwYWNtb2RUa3dNRU5LTTRTMHVIejFWWDhjUXktY1FubDF6cTN2TkljeTBzd2h6WGk2NW5FUjF3ZVVOWldEcVhyYTdzTHBsTktMR29WX2k3QTdIUGg0c19yNzFCaXd0eUFUdlBMQnhtaVHSAdcBQVVfeXFMTmZ4MnprZFY1dnY3VjhtY2pja0xINVY3V3FVWkMzWDJsU3R4LTQwLS1YSldHTVJZaUJDODhqUzdkYU9LbE03Z3ZBVUtQQTZ2Z1cxQ0dvY0QwaVhET1NkTGNOOHpOZ2pTZzFZUUZTbnUtbUx3MkdzX08wd2NIUlVZU21weUpteFJHbVFxUFcybWJ6RjBsQWZTV1lfajFyTGxrY1Ewd1lHcVhHZlJGS2pRNElPQzJqNlVpZHFHUzdLaEVxYUlobU1BVTBSc3lIdHZrNVQxNHNMaFE?oc=5",
     "teams": [
       "Portugal"
@@ -497,7 +508,7 @@
     "date": "03/07 07:00",
     "date_ts": 1783062000.0,
     "title": "World Cup Buzz: Mohamed Salah Starting For Egypt After Knockout Round Injury",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
     "teams": [
       "Brasil"
@@ -562,7 +573,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
     "teams": [
       "Brasil"
@@ -575,7 +586,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
     "teams": [
       "Brasil"
@@ -661,27 +672,14 @@
     "source_type": "news"
   },
   {
-    "date": "23/06 07:00",
-    "date_ts": 1782198000.0,
-    "title": "England vs. Ghana Lineups Confirmed, Starting XI for World Cup – Tuesday, June 23",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVNmbERYdXJNcnBqOUtoTG5NdVFCNEFybUVkZVROVm9ESkFUWVluWUJXbk9iMFFBTTkwX0RGR1N3YUNSNmxEOHNiWXpFYjRsZF9GNjlhanlERmZvMzdEMVotaWF3eTdKSjQzVUFBR2Z4OEFDSlJxVnR4T09QcEpJLW5ndlBfVXpzN2o3WE9ybE14LWRPVGxsQVVVY1NyeXpMekplNWozQTROZHBjUHdTdG83OVVxMTg?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "22/06 07:00",
     "date_ts": 1782111600.0,
     "title": "Norway vs Senegal Lineups & Formations Confirmed: Predictions for World Cup 2026",
-    "source": "fanduel.com",
+    "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BnNHdFcVdYQlJXWFpiT0xTU0p4Q0xpMmlOT05RRU9MaDQ5bVp5T2JpZi0tMFRtLV9nWW8tRENCdk1JVGROSHhtRzZlRThZamMwamEwU095eFl0ZnFqeUdUNzdKSnlMdllPdE12Z183eFdybzJBX25PVFZMaXFMUjduS19NSHd4VVFhQmJTNDhzQWVrN3VEVE9BN3FLN3pnSUVweDVIdmdrLVZsU0s5UkJnLWI?oc=5",
     "teams": [
-      "Noruega",
-      "Senegal"
+      "Senegal",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -694,8 +692,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Senegal"
+      "Senegal",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -743,26 +741,26 @@
   {
     "date": "17/06 07:00",
     "date_ts": 1781679600.0,
+    "title": "Confirmed lineups, referee, and uniforms for Uzbekistan vs Colombia in 2026 World Cup debut",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdVJTdnlwbW9FRXZHNE5ENThvaHJMVk82T3JhT0xMazAydkVIMzU5aXE4RnZsaVBPQWc2VW1NdnlaM1JHOTFiSWY1TGpBUDN2aTdLTm5USXp3NzVWdTZicVFTVEpSWmJERllQQURHVDRIWkVOQ3RNY1VWN3VQOHNPNmhSTThuNVZmeWlaT1lJNjFSN016WlJZMDZFYmpQeF9kNFNGY1d6Y21kdTNnc3NmTEV30gG3AUFVX3lxTE9jNGcyam14ZUlRVC1ab2ZHdnZrdEctSTBDR1p3SlNibmotcVhEczlhNk9aaFVGNmxyV0lTMVRFaFFYdXJ2R1hrUEVSV2tXSHl2UzhZSmpWWEZvZTJPWG02N19hdzJfN21ZbVh6UU1ZTkh6U21YUjBZVUpyLWtFZ0JoVG45QlZqLUI4RlkzSWxkanRnSFplVXJtTzJ0N1BKdXNPaXNqR3V2dEtoQ1JINXpFSjNTWnNicw?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "17/06 07:00",
+    "date_ts": 1781679600.0,
     "title": "Portugal’s João Neves scores header to take lead vs DR Congo | 2026 FIFA World Cup™",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbVBId3BubGxCMURKaVFYdENBZFNiYmZVemdLd2Q3ckJRYjF1aFBiNjRMOTZyUndsaXYzaHN0MS1ESnF5RnVMQjd5cVJ3LVppX0FYRVF0R3ozbWVCYW1vaElB?oc=5",
     "teams": [
       "Portugal"
     ],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "16/06 07:00",
-    "date_ts": 1781593200.0,
-    "title": "France vs. Senegal Confirmed Lineups for World Cup 2026 Match Today",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdGtnWTV1TllIUVZjVjVJQWtoVkN5SmhfbHRNd2YzdnRLVmFIbmpHalFKbUlMajRDNHFhd3ZWS1o4OXpKREVlZGVWU0MwajlwWnFycFRzY3lHT2R2UWRvOTFTZ0VBRkFlQTVpSWdWTGdhcFdQN25LbHo2ODNXLVRkcFRPTlJNU3hDUTI4d2RFVDJ3TUJwNnkwWWNxWnk0a0w1UThaZ0s2bW04bDRaMl93?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
