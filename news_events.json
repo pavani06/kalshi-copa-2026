@@ -150,11 +150,22 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Marrocos",
-      "Brasil"
+      "Brasil",
+      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "21/07 07:00",
+    "date_ts": 1784617200.0,
+    "title": "2026 World Cup Bracket: Interactive Predictions, Simulations, Form & More",
+    "source": "Action Network",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGxQa3BVbkk2TXZzNXlSUGJFX2NGUlp6emhUX25sU1JpTEtaaF90cW1EU3ZKdU14YTZvYjJXZjRUT1VOUkhNU050djJ6eUNidTNndWFNN0FoN0pXNm9XRUFGQUg3VGlERkZkR21EdkVlQ1Q4VWJIV2Q1cFZsbFVaLVNpeU5NYVVPaXh0UTN6THphUHRTVmt0a05QYXNkWm1icXo1dTJVQXo?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -183,12 +194,62 @@
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
     "teams": [
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "England vs. France line-ups: World Cup 2026 predicted XIs",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHpLbmdCbmd0dzF4UzdRYXVfamFxalJkSV9vVlRZd2xULXJmYmVKaTE0THRxby1mOENhVXY3WGJzc1M2R1k5WFNRU3JFUTZOc2FKNG9wVTFSLTNjZi02UnNmQmxMcGtodlFpU1lSV3ZWNE5yc01uUnJqWlNkUjZNbzVncUx4c1I1T3pMWmZldDRTNEpNR0ZKTi1jX01ucjRyLTloSw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "France vs England: Confirmed lineups for 2026 World Cup third-place game",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0dBTFU4bXhheVF5Y0xROGQ0aFhWbHgyeGM4clVxNjJmUnNjZ0k5dnp6NU9fNTIyMjZNUHZ0ZHE3My1KQVo4YjJGdlhYT1FhRnNqMU5IQUVya2RVdTh6R2lvYlh6NlpOSU5jckJhM2IxLVpJM0ZQZS1hUG1qNFpyZE9jY0MtZ0drdEJRZDYwUWIwWW1UZS12RXd6bVI3cF9RLWZRQXN2SdIBrAFBVV95cUxQakRabUxUUUNZNk45aEtybkllVHE5djkxUGdnYkRtcTRrWW9lV0RLbFVOLU5JQXJPT3MwaVZJUkpaMGxRMGdBSG90UXFVSGU3eEFWOXF4blhjVEtCZEllSi1VWHBlRTVGeDdHZnVaY2o3WWUtaG5OVzdkZWt6cE9aVE1xZUZpRVpMbngtMG5Ccm1qWERVX1k0VDlHc3NqbTB2em1KZ2NXSnZvdmpW?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "World Cup final bracket: Spain vs. Argentina matchup, schedule and path to the championship",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "16/07 07:00",
+    "date_ts": 1784185200.0,
+    "title": "Argentina injury, suspension list and return dates for World Cup 2026 final: Cristian Romero, Leandro Paredes latest",
+    "source": "Sports Mole",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPN2V0WTFTQTNBYV9DNFNUNUFRUVdzZVFuV1U0MWJPVzlHRHVpRFFBV1FWVUdTSkRjeDIxbmNLR29BbmdxVDRRR3g2UGtWRVlqY3BzZHR0UFRod1ZDbGlyQWhZYVdHQWdCVjRpYkk2LTRBbDM3SHFGQkNpTkh6SGo1Qk5IVmVxSmk2NVdQRWJxZWxQWTBVWXdMMFBYLThYNl9SS1pxTlY5TUZ1NzBwUGdYM2hGcUZMTklJem9tMlNxZFoyMElNazNDZU1aMzBvZ1Yxb1JIZGxKTTc1VEYzTjBHd1hwM25TRWlVT3VvM3lGa3g2U2hsbEoyeHYtbHpEemRGOG1ENg?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -203,6 +264,19 @@
     ],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
+    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -229,19 +303,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 07:00",
-    "date_ts": 1783839600.0,
-    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -275,22 +336,8 @@
   {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
-    "title": "England lineup today: World Cup starting XI confirmed vs Norway",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2RwOERDX2RDZm9kMW5ISWNRanZaTE1iZkMzZmwyby1YV0g2ajNiYXdzWnljSFlZTnVZZ2E1Qmt6dXAtTVNvSThIZFM0UjVFYXpaam9qNlAtSW5RT2ZqWG1LVVBvM09yc19LZTNkVWNlYzQtQkFJUUFlbU95c2RpNnNqSTRydWwxdzNBQnpwZ3p3dEdD?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
     "title": "England survives Norway in extra time thriller to reach World Cup semifinals",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSmNidm9DUmszWE1fUGdma3N5Z2R2NWlUUHlvU0dhMWNlNlZDYVhkdXZJdEhtdEdsR016bXo2cWpxZmZZeUJtdUZNeG9WSEJUWE9acU5wenNBcFRKQ1JJenlRWkRETDlYUV94MTV4TW8wdFIzQ1FjdXppMzUweTM5YzE0UmQ0VmJ2a3lGelFjVVlqeEVqVk82S2JzNS1LUUZrSWFpSE92YlltdzZ1dUdTcVc0TlhTUTc3TFJmTTE1LXN3QXBQM0JuaXZrRWhQbVpfNmNGcFJqVm9tYXY1SG5V?oc=5",
     "teams": [
       "Noruega",
@@ -344,7 +391,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "abc.net.au",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
@@ -393,17 +440,6 @@
     "source_type": "news"
   },
   {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "World Cup bracket predictions: Expert picks for 2026 quarterfinal knockout games",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdTM5aHJldjZPRHJocERXdWN2blBQa01SVmNpRHN1MnpneEY4ZE5XWGFFUHlhMUcteEU2bGpBS1gxYVlnZ194UkItVG1MelVWWFF0clA4b0RPTzgzc3ZPM3lDa0wyVW5GX0FIZHR1RmQwRExlYkh5TU9NZFJlUHF0ZWxzbnBrRGdxdmc0?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
@@ -446,7 +482,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGo3M1hlbmowblgzVkZQTVNTRkRmaThMV3NRN1JqekNXekhrQ3BoeWVjODh0T1ZPYzdHN19PMmtFU1NtU3V4Z29qMGh2VXlFcnlEOEFhUWdBbGlsUXhZZ2p4b2Z1S0ZyYldIVGhudFdJeVNuVFlTSGNSdFNyYzZWNW5HbWluR2ZVSXlqbUFxa0g0UUlZTzU2TEM2WkFGZFZuRzBDbmstV3ZnaTFFbkFJZ0pTUGRJQlJLemRV?oc=5",
     "teams": [
       "Portugal"
@@ -477,19 +513,6 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:00",
-    "date_ts": 1782975600.0,
-    "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeW5GVVVNR2hXOF9uT1VuNC1HWUZyZVdFT2p5eEVWOC1uay1GZV95RzJBcXJaN0hxcWxXZDVCX2FteU9ONjRsZld2VmVrTmtDYzZHQUxNdVZsNXpXdDRGa0dNYUpvZ1ZWckQ0ZVFidFpnSENlcUpGRndCMmMxTHAzS09DQTFCcmVmVkg1ZjZob2pSamJuMUI1ckxRVGJXZVJaQ3piYTllYnc3WUdwOUY4NUtQMnktVWxnRklrOEd2ZjF1MzdmYlE?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -599,6 +622,19 @@
     "source_type": "news"
   },
   {
+    "date": "26/06 07:00",
+    "date_ts": 1782457200.0,
+    "title": "France vs Norway Starting Lineups: Confirmed XIs for Today's World Cup Match",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYS1ua3pEWmJ0ZnVSclZKb1pXblNLOFFZOWUxb1BaMkxnMGJPQ2szT0FCbEItQ09wT0taWFV1c1NaYkdLYlF3RjN3SlV5UkIxUEJRblRjaF9XMHc0QWUyc2tYcGZxRk5GbE93Zm9WYlZaZ0RjaVhHdVVVM1J0YU1pSEIwLU95MkhQb3BqV25ILUlZY2FvcGtiT0hQR1FnZzI2d09IMTU3cDNEQ3VRUHB4YzdsM3lDQzVTTGhBQWJ5bVQ?oc=5",
+    "teams": [
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/06 07:00",
     "date_ts": 1782370800.0,
     "title": "Qatar's Assim Madibo Gets 5-Match Ban For Breaking Canada's Ismaël Koné's Leg",
@@ -632,19 +668,6 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemFWaG94ak5WMm1DNUQ2bXhpVE5Eb0lpMFFYRDE1ZjFkWEh5R0M1dHcwR0N2cEVXNDhKOGhSY2lTNVNYd3VhRDQ3SVluVW03QnJDbnY5WVBlZGg5bXVLMkNzbThqUFh3YTFSbmxzb212M3lXTkJUdEc5cEttdDN3cWpSdHIyYWhYdUFn?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 07:00",
-    "date_ts": 1782198000.0,
-    "title": "England vs. Ghana Lineups Confirmed, Starting XI for World Cup – Tuesday, June 23",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVNmbERYdXJNcnBqOUtoTG5NdVFCNEFybUVkZVROVm9ESkFUWVluWUJXbk9iMFFBTTkwX0RGR1N3YUNSNmxEOHNiWXpFYjRsZF9GNjlhanlERmZvMzdEMVotaWF3eTdKSjQzVUFBR2Z4OEFDSlJxVnR4T09QcEpJLW5ndlBfVXpzN2o3WE9ybE14LWRPVGxsQVVVY1NyeXpMekplNWozQTROZHBjUHdTdG83OVVxMTg?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -703,19 +726,6 @@
     "source_type": "news"
   },
   {
-    "date": "18/06 07:00",
-    "date_ts": 1781766000.0,
-    "title": "2026 World Cup: Why isn’t Cesar Montes playing today for Mexico vs South Korea?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVBIWGE2RS1XV2tnWEpiNV9IVWl5YV9LeExDZmVVREk0RUlxVUJ5TUFrYWpLbTBjaFpjVEJGaTRxeWQtSXg1UGdRajFOS3BxbUJyVmFDaC1CS0NkWXNmVFlGY2FSR0RyREw4cFU4V0pvMVM4QS1VZkptTzdWUEZsV2tiSEY2YkpuaVp5cGlhc2FvaXB4aVNCemp3cE8zM2FodWlQU05FNHZIT1dzZXfSAbMBQVVfeXFMT0Jvc21nR2FGZDN4MUNZMXRHSmJjTlA3cUxJcmRTM29ITWFWbi1GdThpR3hXWU9WVmNmUzE1Nm9XeDdkUXVqOGotaXdWVC1XcUtmNEJGSEg1M19ocS1vSXNSQ0xkQ0drUWE1X3NzOTd1ejA0RzA2RnRTYkFPazdCT0UybGsyZlhkRkVwV2hWeE92ekM1dDZRa2RNRks3ekgyNVJzOS1PYTNvNUlCOFQ1dml4Vkk?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "17/06 07:00",
     "date_ts": 1781679600.0,
     "title": "Portugal’s João Neves scores header to take lead vs DR Congo | 2026 FIFA World Cup™",
@@ -749,20 +759,6 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb0VfYk5ualhhV0JZV2tRcXptUHYyb1Bab05GU1ZXdGRGN2ZMQ1o5ZjV2YjFDMVNHZE41SXRzZDIxcEFOTVdpZmh3MUdRdmlmZWdCMGtuVTdfUll4Zkd1b1RvMnhFR0kzMS1pWXM4VnI4SXkzTnZ0OTZmY3lOSTBYU1FWZmNmcHM3TS1uTF91N1llOU1pbTliMFVKcDRtVER2bmVkWEp3YUVLazlNX3pkdmpmcjg0RnZfRFRBdDA3MnRkOXNhOFHSAcsBQVVfeXFMUE5OaEpDNHV0OTZxNmZVTloxNmVOU1ozVWtPTGJSanZFLUdid2g5MnRMZFZSMkdRS1pzQ1daNWxjaTNId2kyWVFDWkR0TVBUckpmZmsxdzNBS1hLMDlFU0ZGT3pMNThGSEw3NnpJUFF5RkFhSDZ1NzhtY29nQXFEVWljUGJFcnZadHNUek5YZzU0SW1xQ0pqMGF6NG1LYmxTTWZpQ2tpb25EYzJZdm5rQUt0MWY2c2hXcFdiS0VKNVNMX0k5Y3pFZGIzTHM?oc=5",
     "teams": [
       "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "13/06 07:00",
-    "date_ts": 1781334000.0,
-    "title": "Brazil vs. Morocco Lineups Confirmed for World Cup 2026 – Saturday, June 13",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2Q2UVJRV1Qtckl5NXVVTjUyN1VZalc0eEFqdHg2aEFPSmhYVGFNZmJQQTEtMndaTTNWQXF0OTBmZktiMy1Wd3EwT1RoZkJNTG1zOHk3N1JVYkZmN1ctTjVEOWs2VEV3LV95TmluVV9GWk9PWFJDa2xPMTNTZlR4SmhJY3dqQ29EUFZycU0yVENTZW5LdU43ZHE5Zy1fS3YzOElIc05SQTBJdHdvUjM3VQ?oc=5",
-    "teams": [
-      "Marrocos",
-      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
