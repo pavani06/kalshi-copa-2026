@@ -447,7 +447,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland beats Colombia in shootout for spot in World Cup quarterfinals",
-    "source": "Seattle Sports",
+    "source": "sports.mynorthwest.com",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
@@ -460,7 +460,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Norway boss speaks out on star's injury concern ahead of England clash",
-    "source": "Metro.co.uk",
+    "source": "metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
     "teams": [
       "Noruega",
@@ -627,6 +627,17 @@
     "source_type": "news"
   },
   {
+    "date": "27/06 07:00",
+    "date_ts": 1782543600.0,
+    "title": "FIFA World Cup 2026 – Every match result on Saturday 27 June – Live scores",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTNJM0dqaFprZ3N6aHU3eUk2WmdjanlQOXdxYmtvY2I3YXBLdTE1QWxRRmpwb01qZ2w1SnRDaW1hOVJCRTJYU1l2TVdvcDR2aGdwd3NXd0lGV3JWTkh6ajYwczFOVlpvc3I0a2NmT2ZYY2N0SkpUNTlxTDBkSFU3Um9fQm9CZjUzUXcxTVZxVWRKT1N5NUEwUGVXQzVBTG04bWZVZ2t3?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "26/06 07:00",
     "date_ts": 1782457200.0,
     "title": "France vs Norway Starting Lineups: Confirmed XIs for Today's World Cup Match",
@@ -670,8 +681,8 @@
     "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BnNHdFcVdYQlJXWFpiT0xTU0p4Q0xpMmlOT05RRU9MaDQ5bVp5T2JpZi0tMFRtLV9nWW8tRENCdk1JVGROSHhtRzZlRThZamMwamEwU095eFl0ZnFqeUdUNzdKSnlMdllPdE12Z183eFdybzJBX25PVFZMaXFMUjduS19NSHd4VVFhQmJTNDhzQWVrN3VEVE9BN3FLN3pnSUVweDVIdmdrLVZsU0s5UkJnLWI?oc=5",
     "teams": [
-      "Senegal",
-      "Noruega"
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -684,8 +695,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
-      "Senegal",
-      "Noruega"
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -713,17 +724,6 @@
     "teams": [
       "Brasil"
     ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/06 07:00",
-    "date_ts": 1781852400.0,
-    "title": "FIFA World Cup 2026 - Every match result on Friday 19 June - Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0RQTDlRMkxHVEZ4WlZsRFl1eEpFZFk0RGdwZmptZkhibVcwYXJWOGZ3amNFRzl5bHoycER5QThUM1BHUXprRUt5cmZnTkpyYUdCZF9tOFE4MnU2MlR3VVdWT25SRkNncVZaYW5oWVJXQzZVMlF0ZGM1QTNhMFVnNXZ3UXN1dW1oVVZseVhodkJvbkNzWDFjWkxfdWFFbTg?oc=5",
-    "teams": [],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
