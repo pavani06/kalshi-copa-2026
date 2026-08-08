@@ -263,6 +263,28 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
+    "title": "Spain 1-0 Argentina (Jul 19, 2026) Game Analysis",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY2RMY1hmZ3FrdHIwT2J5a0tKZ3J3eGtuVEZaME1kaXg2OFl4RC1WM2FRekE3Zk4tUG0xdzlmNThmaVRaY2ZJVlh3YlJUMUNqMDFnQUlVWGJoUmZuTnJn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
+    "title": "Spain reign supreme in FIFA World Cup 2026 with extra-time goal from Ferran Torres giving them a 1-0 victory over Lionel Messi's Argentina in final: As it happened!",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFhKV1Ffd3dJWmxOWnN6di1xUWpqMTRWbjZUYjdXMWVRSWdXc0U5QnNaakxwNkJPZHpnUHloc2l4blJzdGtiMFQwbGstenJTTkFnYXpZMGNWQmU5cHcwR0RhamFnV1l1NUVybzRXRDVyWHRNSjNDdDNkczY5MzhKVVRKMTBjUGtJTlJhNFVlVThoLWF3X1FsMHN5TGptVE1jbmFB?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
@@ -471,23 +493,10 @@
     "source_type": "news"
   },
   {
-    "date": "08/07 07:00",
-    "date_ts": 1783494000.0,
-    "title": "World Cup 2026 yellow card rules: Bellingham, Rice & Olise among players walking disciplinary tightrope",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S2xkeVdLZ2xWZGhnSlBmQlh0cHRpNVNuOFZPZ2wxYUNyR3NOMnNqZDMxZUpUQTZucFBSZXFqVkJpOVJRZF9DZ1JVaTBxd3prbmpSOUllbXZoVmZVMFAyZ215a1A4R3M?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland beats Colombia in shootout for spot in World Cup quarterfinals",
-    "source": "Seattle Sports",
+    "source": "sports.mynorthwest.com",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
@@ -654,17 +663,6 @@
     "source_type": "news"
   },
   {
-    "date": "26/06 07:00",
-    "date_ts": 1782457200.0,
-    "title": "FIFA World Cup 2026: Every match result on Friday 26 June – Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUG1kZi1lTzYzdExoS2U3WTFOaHF3bXAxTTNEUjJfS0x1UVVlMzJaeHdudldPSHFqZDhhWXR1WUE2MlhGZlVpQlFSRnNUaDNvUjhNeEl5TXRwSDNwOFNrWnhHZEl6RWNWQy1aN0ttTmhrRkNDWm50X3BiMkFldU9pckFaRjdBeURUTXU5RUJFQQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "25/06 07:00",
     "date_ts": 1782370800.0,
     "title": "Ecuador vs. Germany Lineups Confirmed, Starting XIs for World Cup Today",
@@ -695,8 +693,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
-      "Senegal",
-      "Noruega"
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -709,8 +707,8 @@
     "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BnNHdFcVdYQlJXWFpiT0xTU0p4Q0xpMmlOT05RRU9MaDQ5bVp5T2JpZi0tMFRtLV9nWW8tRENCdk1JVGROSHhtRzZlRThZamMwamEwU095eFl0ZnFqeUdUNzdKSnlMdllPdE12Z183eFdybzJBX25PVFZMaXFMUjduS19NSHd4VVFhQmJTNDhzQWVrN3VEVE9BN3FLN3pnSUVweDVIdmdrLVZsU0s5UkJnLWI?oc=5",
     "teams": [
-      "Senegal",
-      "Noruega"
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -732,23 +730,25 @@
   {
     "date": "20/06 07:00",
     "date_ts": 1781938800.0,
+    "title": "Germany vs Ivory Coast Confirmed Lineups & Formations: With Predictions World Cup Group E",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT29UdVotV1VzNjd6b0o1M3lZdWk4MUdHMG4xa2FMRG5JY3puUFZzdU5IYTFTVFQ4cGtvajNEZzhrdXRTejI0ZlZzZkN5ejJaZkhKYm5SOGpUZHgwWjhmRUJyOG5CWkpoVkp5MWNaMFpFaXN5ODJZVldYTTNMMDhoZlBBbDdYbnZoRDdlYnpmWWdwLU1qaFlDQU5EbU9sZ29yU0wxR0VhSlVMMjg0SXE3Qld6LVhiOTA4TVZTWVBzZE4?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "20/06 07:00",
+    "date_ts": 1781938800.0,
     "title": "O Brasil goleou o Haiti por 3 a 0 – o que a vitória elástica representa para o futuro da seleção na Copa",
     "source": "VEJA",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNDhlTE1zalBRQ1EyLTFGQTA0QWlyXzQ0eUxoa0tPS09CVUdNRnk2am91cTY3emlmYzlHTkw1SGszb094dXZ2NnNPOVBZelVhY2xpcWNsNkVDSVJRSGNjU0J5QzN3aExWcWMwWGJ5dE84ZE11WDBKQTRVbmlhVFpNcWVGQ1habHF2T2dNdGlDZXdwTV9JajR0bjRERVF5cjd1QVZOQ2cyNDdMaEZpSzFMQWVBZjduWmRWSWUtZktsc1g2cEFMZThfbWEyeDNwMDFuZzZB?oc=5",
     "teams": [
       "Brasil"
     ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/06 07:00",
-    "date_ts": 1781852400.0,
-    "title": "FIFA World Cup 2026 - Every match result on Friday 19 June - Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0RQTDlRMkxHVEZ4WlZsRFl1eEpFZFk0RGdwZmptZkhibVcwYXJWOGZ3amNFRzl5bHoycER5QThUM1BHUXprRUt5cmZnTkpyYUdCZF9tOFE4MnU2MlR3VVdWT25SRkNncVZaYW5oWVJXQzZVMlF0ZGM1QTNhMFVnNXZ3UXN1dW1oVVZseVhodkJvbkNzWDFjWkxfdWFFbTg?oc=5",
-    "teams": [],
     "category": "result",
     "impact": "HIGH",
     "source_type": "news"
