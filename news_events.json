@@ -1,5 +1,18 @@
 [
   {
+    "date": "08/08 18:56",
+    "date_ts": 1786215375.0,
+    "title": "Morocco Lineup Confirmed for WAFCON 2026 Quarter-Final against South Africa",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWM1Z1BvOWstZmZUZkhIU2MtNkFfODhxMzlPUTNtV1NhLUNFaktaQ2NBSmd2bEhPNjRpak5fS3dQaUZ3b0RfSW9YMy1OZWFiZjZGSVA3ZXV3Uk5VVGh1dVp1MkhQQ2U0SEZESmZ1YWFxVVFlOXg0XzBtV3cyTGxvTlFjWFFhZzlBRVF5cXhKbDNyV1padVVJLVdsN0xFQWo5Q0JraGNUWnQ2UElWVWpINTFKVDA3bVpHNnBtYVpBQ3c3dw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/08 12:13",
     "date_ts": 1786191216.0,
     "title": "Vael vs. OG at Esports World Cup 2026 Open Qualifier | See time, streams, etc.",
@@ -300,32 +313,6 @@
   {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
-    "title": "England vs. France line-ups: World Cup 2026 predicted XIs",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHpLbmdCbmd0dzF4UzdRYXVfamFxalJkSV9vVlRZd2xULXJmYmVKaTE0THRxby1mOENhVXY3WGJzc1M2R1k5WFNRU3JFUTZOc2FKNG9wVTFSLTNjZi02UnNmQmxMcGtodlFpU1lSV3ZWNE5yc01uUnJqWlNkUjZNbzVncUx4c1I1T3pMWmZldDRTNEpNR0ZKTi1jX01ucjRyLTloSw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:00",
-    "date_ts": 1784358000.0,
-    "title": "France vs England: Confirmed lineups for 2026 World Cup third-place game",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0dBTFU4bXhheVF5Y0xROGQ0aFhWbHgyeGM4clVxNjJmUnNjZ0k5dnp6NU9fNTIyMjZNUHZ0ZHE3My1KQVo4YjJGdlhYT1FhRnNqMU5IQUVya2RVdTh6R2lvYlh6NlpOSU5jckJhM2IxLVpJM0ZQZS1hUG1qNFpyZE9jY0MtZ0drdEJRZDYwUWIwWW1UZS12RXd6bVI3cF9RLWZRQXN2SdIBrAFBVV95cUxQakRabUxUUUNZNk45aEtybkllVHE5djkxUGdnYkRtcTRrWW9lV0RLbFVOLU5JQXJPT3MwaVZJUkpaMGxRMGdBSG90UXFVSGU3eEFWOXF4blhjVEtCZEllSi1VWHBlRTVGeDdHZnVaY2o3WWUtaG5OVzdkZWt6cE9aVE1xZUZpRVpMbngtMG5Ccm1qWERVX1k0VDlHc3NqbTB2em1KZ2NXSnZvdmpW?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:00",
-    "date_ts": 1784358000.0,
     "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
@@ -496,7 +483,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland beats Colombia in shootout for spot in World Cup quarterfinals",
-    "source": "sports.mynorthwest.com",
+    "source": "Seattle Sports",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
@@ -509,7 +496,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Norway boss speaks out on star's injury concern ahead of England clash",
-    "source": "Metro.co.uk",
+    "source": "metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
     "teams": [
       "Inglaterra",
@@ -609,6 +596,19 @@
     "source_type": "news"
   },
   {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "27/06 07:00",
     "date_ts": 1782543600.0,
     "title": "Colombia vs Portugal: Potential Lineup, How, When to Watch the 2026 World Cup Match",
@@ -687,14 +687,27 @@
     "source_type": "news"
   },
   {
+    "date": "23/06 07:00",
+    "date_ts": 1782198000.0,
+    "title": "England vs. Ghana Lineups Confirmed, Starting XI for World Cup – Tuesday, June 23",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVNmbERYdXJNcnBqOUtoTG5NdVFCNEFybUVkZVROVm9ESkFUWVluWUJXbk9iMFFBTTkwX0RGR1N3YUNSNmxEOHNiWXpFYjRsZF9GNjlhanlERmZvMzdEMVotaWF3eTdKSjQzVUFBR2Z4OEFDSlJxVnR4T09QcEpJLW5ndlBfVXpzN2o3WE9ybE14LWRPVGxsQVVVY1NyeXpMekplNWozQTROZHBjUHdTdG83OVVxMTg?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/06 07:00",
     "date_ts": 1782111600.0,
     "title": "Is Erling Haaland playing? Norway vs Senegal confirmed lineups for the 2026 World Cup Group I game",
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Senegal"
+      "Senegal",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -707,8 +720,8 @@
     "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BnNHdFcVdYQlJXWFpiT0xTU0p4Q0xpMmlOT05RRU9MaDQ5bVp5T2JpZi0tMFRtLV9nWW8tRENCdk1JVGROSHhtRzZlRThZamMwamEwU095eFl0ZnFqeUdUNzdKSnlMdllPdE12Z183eFdybzJBX25PVFZMaXFMUjduS19NSHd4VVFhQmJTNDhzQWVrN3VEVE9BN3FLN3pnSUVweDVIdmdrLVZsU0s5UkJnLWI?oc=5",
     "teams": [
-      "Noruega",
-      "Senegal"
+      "Senegal",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -724,19 +737,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/06 07:00",
-    "date_ts": 1781938800.0,
-    "title": "Germany vs Ivory Coast Confirmed Lineups & Formations: With Predictions World Cup Group E",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT29UdVotV1VzNjd6b0o1M3lZdWk4MUdHMG4xa2FMRG5JY3puUFZzdU5IYTFTVFQ4cGtvajNEZzhrdXRTejI0ZlZzZkN5ejJaZkhKYm5SOGpUZHgwWjhmRUJyOG5CWkpoVkp5MWNaMFpFaXN5ODJZVldYTTNMMDhoZlBBbDdYbnZoRDdlYnpmWWdwLU1qaFlDQU5EbU9sZ29yU0wxR0VhSlVMMjg0SXE3Qld6LVhiOTA4TVZTWVBzZE4?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
