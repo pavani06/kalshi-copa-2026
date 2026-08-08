@@ -254,11 +254,11 @@
     "date": "23/07 07:00",
     "date_ts": 1784790000.0,
     "title": "Brazil vs. Morocco Starting Lineups: Starting 11 For June 13, 2026",
-    "source": "Lineups",
+    "source": "lineups.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Marrocos",
-      "Brasil"
+      "Brasil",
+      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -279,7 +279,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -378,8 +378,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -392,8 +392,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -433,19 +433,6 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
-    "teams": [
-      "Marrocos"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -523,8 +510,8 @@
     "source": "Metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -617,19 +604,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -730,8 +704,8 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
     "teams": [
-      "Senegal",
-      "Noruega"
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -744,10 +718,36 @@
     "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BnNHdFcVdYQlJXWFpiT0xTU0p4Q0xpMmlOT05RRU9MaDQ5bVp5T2JpZi0tMFRtLV9nWW8tRENCdk1JVGROSHhtRzZlRThZamMwamEwU095eFl0ZnFqeUdUNzdKSnlMdllPdE12Z183eFdybzJBX25PVFZMaXFMUjduS19NSHd4VVFhQmJTNDhzQWVrN3VEVE9BN3FLN3pnSUVweDVIdmdrLVZsU0s5UkJnLWI?oc=5",
     "teams": [
-      "Senegal",
-      "Noruega"
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "20/06 07:00",
+    "date_ts": 1781938800.0,
+    "title": "Confirmed lineups without Neymar for Brazil vs Haiti at 2026 World Cup",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2lRdWdCUF84OEdpb3RCNnh3WGhLQ1FlZmY0TjBRMWhBbTFCOWlEVGM0UGh1eUcwa1A0aUM2dF9NZWhlWG9jTkVZZ3AwYVdGNzRtTnVUQndYRDhFb0tFOFhOSXc4bE1nbUN2MVhvM05SZzNQTkl2U1hFWlh0NE12enVjempTTzFMY3lHeERiMWxiTnFjeDJnbzhJZFppYUVJbmdjZHJ30gGrAUFVX3lxTE1OeU12R19yblZNWU1pMFVwaUh3NHRjVGpxdDNUV2o2UjA5SmZYVFRTdDk3OWEzRzNZN2JqZE1HR0UwbEZFTU0xODBCLU5kbmUzWEdSdVZDMDFhWlpHTFNmMmQtcHVFSmVDUU4tbzFieWhNWUhBM2hzZmxfb0NXb0V4bU5Da2QtWE1nbGd6YlJWa0wxQ3Y4dUtXV1M5OWVFNW1PWXJRdGw5ZXVYNA?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "20/06 07:00",
+    "date_ts": 1781938800.0,
+    "title": "O Brasil goleou o Haiti por 3 a 0 – o que a vitória elástica representa para o futuro da seleção na Copa",
+    "source": "VEJA",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNDhlTE1zalBRQ1EyLTFGQTA0QWlyXzQ0eUxoa0tPS09CVUdNRnk2am91cTY3emlmYzlHTkw1SGszb094dXZ2NnNPOVBZelVhY2xpcWNsNkVDSVJRSGNjU0J5QzN3aExWcWMwWGJ5dE84ZE11WDBKQTRVbmlhVFpNcWVGQ1habHF2T2dNdGlDZXdwTV9JajR0bjRERVF5cjd1QVZOQ2cyNDdMaEZpSzFMQWVBZjduWmRWSWUtZktsc1g2cEFMZThfbWEyeDNwMDFuZzZB?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
