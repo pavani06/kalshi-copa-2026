@@ -1,5 +1,16 @@
 [
   {
+    "date": "09/08 20:30",
+    "date_ts": 1786307400.0,
+    "title": "Rainbow Six Siege Esports World Cup 2026 playoff bracket revealed",
+    "source": "SiegeGG",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ25QNWlRN2JOaWlKYWxLN1dRbVdkZWViYk8xTUlXa1AxTGhRWUdycGdlQVg3dmhYUGFjc1h6aDI0anlVNE5YYXVxZnNhUDZUNmZoTEFPQjVrSnR2YkhoXzZOcWhJeWloOVo2QzF0ZTBBaWNtbUlGUmxUQWZVaUNuTWZfUmRIRWtkUTlvVmJwVzY?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "09/08 12:30",
     "date_ts": 1786278617.0,
     "title": "How to Watch Manchester City vs Atlético Madrid Live Today: Kickoff Time, Lineup and Prediction",
@@ -325,7 +336,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -336,19 +347,8 @@
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "Spain 1-0 Argentina (Jul 19, 2026) Game Analysis",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY2RMY1hmZ3FrdHIwT2J5a0tKZ3J3eGtuVEZaME1kaXg2OFl4RC1WM2FRekE3Zk4tUG0xdzlmNThmaVRaY2ZJVlh3YlJUMUNqMDFnQUlVWGJoUmZuTnJn?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
-    "title": "Spain reign supreme in FIFA World Cup 2026 with extra-time goal from Ferran Torres giving them a 1-0 victory over Lionel Messi's Argentina in final: As it happened!",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFhKV1Ffd3dJWmxOWnN6di1xUWpqMTRWbjZUYjdXMWVRSWdXc0U5QnNaakxwNkJPZHpnUHloc2l4blJzdGtiMFQwbGstenJTTkFnYXpZMGNWQmU5cHcwR0RhamFnV1l1NUVybzRXRDVyWHRNSjNDdDNkczY5MzhKVVRKMTBjUGtJTlJhNFVlVThoLWF3X1FsMHN5TGptVE1jbmFB?oc=5",
     "teams": [],
     "category": "result",
     "impact": "LOW",
@@ -449,7 +449,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
     "teams": [
       "Inglaterra"
@@ -593,24 +593,11 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "How does stoppage time work and how many minutes can referees add to 2026 World Cup games?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSk1qNzR6NkZ1X3F1RmlUQ0V6UjdJUmhwNXlwM0tCd1BObFhmeWZzTm5KTnlEeUdXS2trWTlQdWRRV3Q3dzBtMDRpanVDdVVXcFlPenRRWThtZGFJYzBGeFpmS1IzczhPZXNxaUotTVNEbjlLYTYtQURJYmxCTy1wWFdVdFp6Q2EwdmVtOGtkTmotWTBaRFM3N1piZDhPWnVyZW5ia28tWGhFOXRhcTVYMFRJNXVBcVBMSFkwOFhNQdIBxAFBVV95cUxQRWVsaGtZVVcxcXRiQ3FhckRfU0hpa3ZXMVRGcjRlaVdZNFRKS1JtcTI1WS1Xd1lvbm1KYUFpald0MUlqVC12dFJzSDB6MXVLb3V5TGdxZVJxQXU4a015ZW5XZmJhVlRqU3loRDBRUmZWYk9HZW16cmY2OE0tWHNYekQwQUdtVmVYRkNJeHFQWmlHNmlhVTJTUHlHa25FcWxndERBejlRMWh4Rk9DQ012VG5jT1FlR0Nxc2lTcnU5QUVZV2F2?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -630,7 +617,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
     "teams": [
       "Alemanha"
@@ -742,6 +729,17 @@
       "Alemanha"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "25/06 07:00",
+    "date_ts": 1782370800.0,
+    "title": "World Cup 2026 LIVE: June 25 Scores, Results and Updates",
+    "source": "rg.org",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemFWaG94ak5WMm1DNUQ2bXhpVE5Eb0lpMFFYRDE1ZjFkWEh5R0M1dHcwR0N2cEVXNDhKOGhSY2lTNVNYd3VhRDQ3SVluVW03QnJDbnY5WVBlZGg5bXVLMkNzbThqUFh3YTFSbmxzb212M3lXTkJUdEc5cEttdDN3cWpSdHIyYWhYdUFn?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
