@@ -11,6 +11,17 @@
     "source_type": "news"
   },
   {
+    "date": "09/08 12:06",
+    "date_ts": 1786277174.0,
+    "title": "Manchester City vs Atlético Madrid Results Today: Club Friendly Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZU1UaWE5dk44cEdBeWxTS2lCdVpudXo5Uk5Icml0OVZPNjM3ZmpOMHhkdHk3dmVaQkhhd3Q0dkN4WUFCV0daTENMSEVBeTVEVDluSV9RYm45endMclg0cnE4LWREZWlKcTlvN1l0Sm94RzFQUWMwRXhYb1pnWERxQTdB?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/08 10:16",
     "date_ts": 1786270616.0,
     "title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
@@ -265,21 +276,8 @@
     "date": "29/07 06:32",
     "date_ts": 1785306774.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
-    "source": "koha.net",
+    "source": "KOHA.net",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/07 03:28",
-    "date_ts": 1785295727.0,
-    "title": "Brazil court ties football player’s suspension to recovery time for his injured rival",
-    "source": "Sportstar",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJFNjhWU2NxZmJtSl9DN2R0WFQtRVRJeUNhSURxSnhLV2hueHZ4aDVpWDZqNzFXQ1RnQzlDY182djk0clJTQmhVczhvaHFlSTc0Z2FlOEswOXJabThJNlRpcTUyMUxHTVdiQTdLa1hOU3hKZmhvWWxnZzJmdjctLTlOaklaYVM1V2hqX3dLUC1rQTZuRldINmZxTzFiY2prajZxcXVtOHdIQlRCenpRckV6Z25sZ9IBvAFBVV95cUxNMk84STl3RWw2eVZyUmZ2VnNNSVcxaWcwbG1BOHBhcHFOYzM1cnkwdWV3QkZyT3NUM1YtWDVMay1Hdm5TdEx2a0gtcDJYMmZiOFAwazRCdURCMVN2a0tpRkVHUFZfdzNGbFZLZml5d1FYNVNrMGMtWU00VFF0RjZBTkpQSmZIOUV2RG5aaTl2bmVub3FqSkZUM291eUY2TGRwSXNHd2d3NXZWWmRCdVJXUzFtQ3A5Nm9hRlFXdA?oc=5",
     "teams": [
       "Brasil"
     ],
@@ -294,8 +292,8 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Brasil",
-      "Marrocos"
+      "Marrocos",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -318,17 +316,6 @@
     "title": "Spain 1-0 Argentina (Jul 19, 2026) Game Analysis",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY2RMY1hmZ3FrdHIwT2J5a0tKZ3J3eGtuVEZaME1kaXg2OFl4RC1WM2FRekE3Zk4tUG0xdzlmNThmaVRaY2ZJVlh3YlJUMUNqMDFnQUlVWGJoUmZuTnJn?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
-    "title": "Spain reign supreme in FIFA World Cup 2026 with extra-time goal from Ferran Torres giving them a 1-0 victory over Lionel Messi's Argentina in final: As it happened!",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFhKV1Ffd3dJWmxOWnN6di1xUWpqMTRWbjZUYjdXMWVRSWdXc0U5QnNaakxwNkJPZHpnUHloc2l4blJzdGtiMFQwbGstenJTTkFnYXpZMGNWQmU5cHcwR0RhamFnV1l1NUVybzRXRDVyWHRNSjNDdDNkczY5MzhKVVRKMTBjUGtJTlJhNFVlVThoLWF3X1FsMHN5TGptVE1jbmFB?oc=5",
     "teams": [],
     "category": "result",
     "impact": "LOW",
@@ -404,8 +391,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -418,8 +405,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -524,6 +511,20 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "Norway boss speaks out on star's injury concern ahead of England clash",
+    "source": "metro.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -701,19 +702,6 @@
   {
     "date": "25/06 07:00",
     "date_ts": 1782370800.0,
-    "title": "Qatar's Assim Madibo Gets 5-Match Ban For Breaking Canada's Ismaël Koné's Leg",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYkFuZFFrUWlkb0FFdS1NUkZ4MTZPWGpBVlhwYndnT1dNcHBFdmxYRy12WHZ1ZmlWd1BSTVNEMFl6VTF2OUxwOGVrVzEySS1NUXFUVFVCWDI1S1JxSXJfYmpnQncwaFh2eXNfZFFWTWNkVGZ5UkEtRk1XcEd5TGtZVkdBWHI1dkhhOGJoMFJIRTVqcHpMc3AzOEdFZDN1WmNjVXhxV04wOVZuSmx4bjRQTzF2YU54eUczU05Rb29tZHB3bFh5Y3dJQXQ5TzNvbU1rLVdCSdIB1AFBVV95cUxPakRyR0hseGtTMmZiWVFXVVZfZ3JOeVR1cHR6a0pTQzN6TGxaMGxSRjFySWJIbW5qX0hrVGlReXBwWjlyY3FCdjZiZXNHTDJhajVxaUpFTW9sQ3F5ZlVHTkR3WE41WHAyaFNwUzlVXzIwd3U5Mkd4SWVOOWZPUldPOWZYVjJBWmxKSnhFZGRaS3M5c0k0UTV3UXN2WEhNSjVXaU5fVk1tcjJhdGZlMnRpZ1FlVkhMcGpvTDlHaElWcERER0JHcFNKdmJIbG5uaHM1dUF1Qw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "25/06 07:00",
-    "date_ts": 1782370800.0,
     "title": "Ecuador vs. Germany Lineups Confirmed, Starting XIs for World Cup Today",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkVwRldhdjZZN2hROEh2aG9NQjRpVjkzNGI1QjBPZUJnbkRvR1RweURWb2NkN3Z5TmFuZ0FMTXBYRHVYSUlZTFJyd3V2RWU5RFdlUHhFRS1McjVOZkdEbDREM2RUOE1VMVBRWDZLUkZaNVlnTnU4QmVlMGVFT2xDMlhLSEdPV2o0aUpUN3V2ZTh1cktSWUtzbldNcFdDTElCV2JQeGE0NmZFdkpNcmc?oc=5",
@@ -743,6 +731,20 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVNmbERYdXJNcnBqOUtoTG5NdVFCNEFybUVkZVROVm9ESkFUWVluWUJXbk9iMFFBTTkwX0RGR1N3YUNSNmxEOHNiWXpFYjRsZF9GNjlhanlERmZvMzdEMVotaWF3eTdKSjQzVUFBR2Z4OEFDSlJxVnR4T09QcEpJLW5ndlBfVXpzN2o3WE9ybE14LWRPVGxsQVVVY1NyeXpMekplNWozQTROZHBjUHdTdG83OVVxMTg?oc=5",
     "teams": [
       "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/06 07:00",
+    "date_ts": 1782111600.0,
+    "title": "Is Erling Haaland playing? Norway vs Senegal confirmed lineups for the 2026 World Cup Group I game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJxS2x4bFJJMmRfVXBZRS16bzc3Mm1rSXhHQ2RHb3M3ZnJmWEpyVXQtUDZoZnptWlFoWEp0c1A1bFkyZjZsTVhhZWlPRVE2R0lhbFNPQnRncVlzcTgwWXByVUdmektlcVN3TzJyY3JNck82cDFzMkRjTkhfa29yeHRWVy15NXFtd1ZOOVJKWmN3YXFwUkN5UnVxeU5ncWlxUVdWdnNKbjJicGdlMTBEZlR4cERkcWo2MnhxbHVTY0JWTFk3cXYxblZzMjBkLXFfcVHSAdYBQVVfeXFMTXl2VHZQR2dSTHE5Y2hrbURJMGJjWk56a040bHNCRVlGMUhaNEt2OEltVnBOd1JTOUZOYTBxc3RIejg0dENPcU81RkdoSlU4a0hnREQ0WkR6YkRwSlVRN3BnU3lKN3Fwb2E0WGJxSGptSldtSnpzaFVYZTQ3SkVrejN2OWhGRU12M2hoM192bUJwR2MtTll0UFNiX2FLbkhHZEhzSkhIUlhhWnI1cXZwMENPa1lGa3hwS3BvcXRYamh5NlZNMzVfWmFnYzcta3d0dXFtRXdmQQ?oc=5",
+    "teams": [
+      "Noruega",
+      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
