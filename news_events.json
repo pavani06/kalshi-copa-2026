@@ -351,8 +351,8 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Brasil",
-      "Marrocos"
+      "Marrocos",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -373,7 +373,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -535,6 +535,19 @@
     "source_type": "news"
   },
   {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "France Starting XI vs Morocco: Predicted Lineup and Confirmed Team News",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VReHpIbnNHWHNEdkJFTWJKUkhOc3htQ1hTdG1nSHdHaTlQRmVySzhXdldFZVgtMm5fNUFGbTMxTWNHcFRiVTRsclY0UkVMNlRoN2xUdk1zSmh4VUJIV1RvRHdsOGNZa1RvbDFFUDdJMWx5SGN4RnFOa1lkaEEzZ0NtNDU?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
@@ -615,7 +628,7 @@
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "Cristiano Ronaldo Confirms 2026 World Cup Is His Last: 'Let's Go And Enjoy It'",
-    "source": "foxsports.com",
+    "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkVrM3dmYWl2c2NCOXN0QzRuejdNZE1EekFDTkZIUTF5a1d1WWNBeGt5R0wzSUJvZGt2QjR0ZXJxZ1F4YWpsNkJiSHgzbzdNcHNlZ01CZXpuQkp5ZnFtbDZTLWZiVHFPemtTTFpwVk81R0xoUGhZOG9HSTNsQWJQdDM0RFczWGxLWTB3ejYtY0M0THpVUXg0eWFlcVVoWG1lQ1E1cmRRenctMmJz0gGsAUFVX3lxTE5zbjNJbW12Q3c0eHhoUF9zZVh1SWVvOVg2SWhrbDdkQkRxQUxxMjhnbWxTZjVuV3BZUURvRFF5OTFlYXVSS2d0S2M1N0tVeDVtTFFQaXpZR2w2TUhJcHJrRGFtLXJiNDBoeXZ5ck9OZnNCSGEzaGNtbFFuNWhNVm50UExSZ1VpSlFRMTFycE45aktEMFppMjdmZWI4VzdLNmpkRlA0WXg2Y0toeF8?oc=5",
     "teams": [
       "Portugal"
@@ -680,7 +693,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
-    "source": "foxsports.com",
+    "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
     "teams": [
       "Brasil"
@@ -723,19 +736,6 @@
     "title": "Norway vs. France Lineups Confirmed, Starting XIs for World Cup Today",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVFOG95UjN5UVByT29sTVlRYmNieUI3eTVXbkZ0Ql9FaWxubjJCeDYyTlF0cTM3M3NvM2dWV3dJaEwxVHRsQzJXYU9TbUtWNG1zNjdETnhfQ0dnTjdhQk44elBoMXZkQU8zNTNpb1I2ZkkwQm5Xdk4xWmhleGhMa05Mb1ZjYkxxTzUxRE9pMDhiMnZ1SV9VaDY0UFZ0Zmd6eUJFa2xpRkhxdkE?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 07:00",
-    "date_ts": 1782457200.0,
-    "title": "France vs Norway Starting Lineups: Confirmed XIs for Today's World Cup Match",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYS1ua3pEWmJ0ZnVSclZKb1pXblNLOFFZOWUxb1BaMkxnMGJPQ2szT0FCbEItQ09wT0taWFV1c1NaYkdLYlF3RjN3SlV5UkIxUEJRblRjaF9XMHc0QWUyc2tYcGZxRk5GbE93Zm9WYlZaZ0RjaVhHdVVVM1J0YU1pSEIwLU95MkhQb3BqV25ILUlZY2FvcGtiT0hQR1FnZzI2d09IMTU3cDNEQ3VRUHB4YzdsM3lDQzVTTGhBQWJ5bVQ?oc=5",
     "teams": [
       "Noruega"
     ],
