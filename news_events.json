@@ -11,6 +11,17 @@
     "source_type": "news"
   },
   {
+    "date": "10/08 08:48",
+    "date_ts": 1786351736.0,
+    "title": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMm1BNHF1UWEyMTRrcWkyTmlTWFp4Tmd4S2pIMDFnbmxYZ0RybEdpb3NvN2hFRUxYbTJvOWdoeGdDZ1BTeHgtY0txalZDVE9OX2VzZzJ4SjRVVmpsSlA4MllYejdRRjNDdFpDRlVSaHo1SFo2SVlKZ0xtQzllOGxCQzFQRW1sUVlXUW9mZlFmTHZPUWl1RFBIUTJZQmlDcVdITHN2eWczNEJ4Z1o2QjlOLTJUTdIBuAFBVV95cUxONnM1a2NUUllTUzM3VHJCR1lIcnhTRjd1TDFRZ1pIU0Raa0s0RlREUE5Qek90RWNIOU9YbTRETkVTNlRIeE5SMjRPbVVOVkd3THN2RUZvbmpLUmNtVDlVNFJwaWpWVHNYRWRpQzc3MFNGTzhiYWVYZEdPQXMwcTlyRnRBVzJJX3c3bXBMZ2JrbFBIc0daMFQ5Q0M2MDNJZHRHdmQyQVg2bHJIRF9jNWQ3MTF6WjVRRVh5?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/08 23:51",
     "date_ts": 1786319460.0,
     "title": "WAFCON 2026: Cameroon shocks Nigeria, Algeria and Malawi qualify for first Women’s World Cup",
@@ -360,8 +371,8 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Marrocos",
-      "Brasil"
+      "Brasil",
+      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -393,7 +404,7 @@
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "Spain 1-0 Argentina (Jul 19, 2026) Game Analysis",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY2RMY1hmZ3FrdHIwT2J5a0tKZ3J3eGtuVEZaME1kaXg2OFl4RC1WM2FRekE3Zk4tUG0xdzlmNThmaVRaY2ZJVlh3YlJUMUNqMDFnQUlVWGJoUmZuTnJn?oc=5",
     "teams": [],
     "category": "result",
@@ -495,7 +506,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
     "teams": [
       "Inglaterra"
@@ -586,7 +597,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland beats Colombia in shootout for spot in World Cup quarterfinals",
-    "source": "Seattle Sports",
+    "source": "sports.mynorthwest.com",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
@@ -626,7 +637,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
     "teams": [],
     "category": "injury",
@@ -676,7 +687,7 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
     "teams": [
       "Alemanha"
@@ -721,20 +732,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 07:00",
-    "date_ts": 1782543600.0,
-    "title": "Colombia vs Portugal: Potential Lineup, How, When to Watch the 2026 World Cup Match",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
-    "teams": [
-      "Colombia",
-      "Portugal"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
