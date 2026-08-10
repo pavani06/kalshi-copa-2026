@@ -103,6 +103,17 @@
     "source_type": "news"
   },
   {
+    "date": "08/08 22:13",
+    "date_ts": 1786227205.0,
+    "title": "União São João e Comercial empatam no início do returno da Copa Paulista",
+    "source": "ge",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcml2N1hvZlVTVmtCWUJaaDhVMDF5YlhiU1BhbUZTYzJPbmtGblowdWg5WEpTU3M2dVRVVkNxWENRc3pZbkVscDNiTXFpc2x2ZXo2NTdORzF4YzFRYkU4ME5kd3VsZEVGMlh1cjlzZjJoSGsyckF1T0p1WFZTS18xSWRxWFkxRXBTekMwcnQwVXNFdVM5LXQ0VG5IT3k2YjVwRXhST0lxM0ZqckJSR010OFhtU200blhZWnVic0N0NEg2Z3QyTkptc1ZILUFZYVlYUURNWmpLUzgxOXUzSUV0TlBsd2htN2ZkM3luLU5MUVpDOHFlcUFZdnFkNNIBigJBVV95cUxNWjQ4bnlqYjBuZjNMZGZiUzR1dHhGMXJmbXc5VTd0WF93OWJFNXJscVdvT3FJYjhGOHFxdGY3TTBKa3ZNbkJKb3hFRFpBSzA5MXg4ZkluaHBfeXVtMjgzbWk1aFNDRDhUaGE1UFNieHF0U2pVWktKUXVReFVwRnRMTktlVUthcnpMOVMtaVhJTGRhM0lUVzA1eEdmZ0Z1ZDk4TFF4VFFWbUs4MmVUWFowWkxsQ0pHeUYyaUtManpjMHpoeXF3YzVYQjdCbS1GcnpIMTd4MVk0Q0o5RTZibzRnbXhRNDFNS1JWRzNMYzViNmtjVGJ4bUd1VTR5YndkZFVodmhtd1pIYm1kQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "08/08 19:24",
     "date_ts": 1786217091.0,
     "title": "Julián Quiñones amazed by Mexico fans at 2026 World Cup: “I never imagined fandom could reach such lengths”",
@@ -320,7 +331,7 @@
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
-    "source": "Morocco World News",
+    "source": "moroccoworldnews.com",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2NFUzktUV9NWmRzR200eWFhYzJOYjNXYnM2UDN0RkZ2WDhnOHpkOTV3WHRLTE9hLVpnRU5YVExINGpsSzZPak8wOUNEWDVHTUJaQnA4N3pkVkZvWTVDRWJ5c2l0WmZkMElxbnJpY1NTS1ZSN3p6Q0twdUhVcEs2RlVJeFFseWFwb0ZMWDdvTzQ5QnNRRkxWWmxDZ0xtM2ZmbnBLcFJsY3ppUWE1OGg3alNjTQ?oc=5",
     "teams": [
       "Senegal"
@@ -419,7 +430,7 @@
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
     "teams": [],
     "category": "bracket",
@@ -430,7 +441,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -459,8 +470,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -473,8 +484,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -497,7 +508,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -536,7 +547,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "France Starting XI vs Morocco: Predicted Lineup and Confirmed Team News",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VReHpIbnNHWHNEdkJFTWJKUkhOc3htQ1hTdG1nSHdHaTlQRmVySzhXdldFZVgtMm5fNUFGbTMxTWNHcFRiVTRsclY0UkVMNlRoN2xUdk1zSmh4VUJIV1RvRHdsOGNZa1RvbDFFUDdJMWx5SGN4RnFOa1lkaEEzZ0NtNDU?oc=5",
     "teams": [
       "Marrocos"
@@ -591,8 +602,8 @@
     "source": "Metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -704,11 +715,11 @@
     "date": "27/06 07:00",
     "date_ts": 1782543600.0,
     "title": "Colombia vs Portugal: Potential Lineup, How, When to Watch the 2026 World Cup Match",
-    "source": "Morocco World News",
+    "source": "moroccoworldnews.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRxVFJ4Q3d1QzduSmhJOGJNcnZnWHlXNG9EWS0tWktMWFZIeUFnb2J1S01nQUVOcmkzc2I1SjZQOGg1QldMZGRGeExIYVJsTkpDVV9Dd0VtQUp2enJrWGJvUFdxaGlsdWZpanBuOFZWVTBwRDZfMzRObm96b1pTb1o3dVRBUHBmMnNjM2s1dFhNNUVlcFdNTjFmdjl3QTVwc21CajFkSDBPZmRDTnE2cE9SaHE4QlpqREVWaHlRQUJYQ2pfUzJSXw?oc=5",
     "teams": [
-      "Portugal",
-      "Colombia"
+      "Colombia",
+      "Portugal"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -721,24 +732,11 @@
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
     "teams": [
-      "Portugal",
-      "Colombia"
+      "Colombia",
+      "Portugal"
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "26/06 07:00",
-    "date_ts": 1782457200.0,
-    "title": "Norway vs. France Lineups Confirmed, Starting XIs for World Cup Today",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVFOG95UjN5UVByT29sTVlRYmNieUI3eTVXbkZ0Ql9FaWxubjJCeDYyTlF0cTM3M3NvM2dWV3dJaEwxVHRsQzJXYU9TbUtWNG1zNjdETnhfQ0dnTjdhQk44elBoMXZkQU8zNTNpb1I2ZkkwQm5Xdk4xWmhleGhMa05Mb1ZjYkxxTzUxRE9pMDhiMnZ1SV9VaDY0UFZ0Zmd6eUJFa2xpRkhxdkE?oc=5",
-    "teams": [
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
