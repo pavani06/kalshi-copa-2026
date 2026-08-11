@@ -366,7 +366,7 @@
     "date": "29/07 06:32",
     "date_ts": 1785306774.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
-    "source": "koha.net",
+    "source": "KOHA.net",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
     "teams": [
       "Brasil"
@@ -386,6 +386,17 @@
       "Marrocos"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/07 07:00",
+    "date_ts": 1784703600.0,
+    "title": "FIFA World Cup: Schedule, Results and Standings - Eli Sports Network -",
+    "source": "Eli Sports Network -",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -410,17 +421,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:00",
-    "date_ts": 1784358000.0,
-    "title": "Third place matches at the men's World Cup: Winners, results",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWhJM0NJTm1xVmJTSzZVcnJON2prY0podkJTSTBwd2Z6X1JoVlE3LXdGQkZhQmszRW9oRS1UWUkzTmlINHJtOWxrOXBzcmtPYkNoUVBERHZ5VUZONno2ZUJRUEt0anloV0FieWk3RWt2TGdPZ3FKMzVEZW1SNGUwR0pRajlNRmpxbzdRS3k3S2dNU212LTR6N3pmNjdyQQ?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -575,10 +575,23 @@
     "source": "BBC",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S2xkeVdLZ2xWZGhnSlBmQlh0cHRpNVNuOFZPZ2wxYUNyR3NOMnNqZDMxZUpUQTZucFBSZXFqVkJpOVJRZF9DZ1JVaTBxd3prbmpSOUllbXZoVmZVMFAyZ215a1A4R3M?oc=5",
     "teams": [
-      "Marrocos"
+      "Colombia"
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "The 64-year-old story of the last World Cup dismissal that didn’t lead to a ban - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczZwbko2R1ppYlhlR05ic0RoRnFrZndfcUFFdHZLajFrOTgtOWdWS1ZTUmhJWmIzcmN2SGdNYnhFOEtHZFRnV1ZnSEx1eEF3Ym5HY2pfdmQ2dWtuUVN1b25Yb2xQUDV3cU5CYnp4NGljYy1lWUQxMGRKRWs2anZYdVRYRzRLeF82SG9PRmFZMHgyVFRTOWQwZg?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -589,20 +602,6 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
-    "title": "Norway boss speaks out on star's injury concern ahead of England clash",
-    "source": "Metro.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -672,17 +671,6 @@
     "source_type": "news"
   },
   {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "FIFA World Cup 2026 – Every match result on Sunday 5 July – Live scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlpyaGlwNkRzSjhiWUtRM0JQc3hpV2c5d1dlU0QyME1xTDczeHFxQnhNYUljOGxiTGVZVjlCSVNxcWFOQU0zRHRDeUxpZThKSkhtc2t6bXk5cHpTNEEzZHVGalhGOEFDNU5JZjR2cnZXRGNfUkp4WnJ4RkdVTkkzMkdEbGRqaWZtem02ellxams3ZnpnSUk1Y211aHJPQQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Canada starting lineup vs. Morocco: World Cup Round of 16",
@@ -693,6 +681,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:00",
+    "date_ts": 1782975600.0,
+    "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeW5GVVVNR2hXOF9uT1VuNC1HWUZyZVdFT2p5eEVWOC1uay1GZV95RzJBcXJaN0hxcWxXZDVCX2FteU9ONjRsZld2VmVrTmtDYzZHQUxNdVZsNXpXdDRGa0dNYUpvZ1ZWckQ0ZVFidFpnSENlcUpGRndCMmMxTHAzS09DQTFCcmVmVkg1ZjZob2pSamJuMUI1ckxRVGJXZVJaQ3piYTllYnc3WUdwOUY4NUtQMnktVWxnRklrOEd2ZjF1MzdmYlE?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
