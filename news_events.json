@@ -385,6 +385,17 @@
     "source_type": "news"
   },
   {
+    "date": "01/08 07:00",
+    "date_ts": 1785567600.0,
+    "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
+    "source": "Sky Sports",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHMyYjRiSE5QVWJyR19JZkl4SS1MMF9qU2dFa0R6NVhvRjRRM25TRkRXUXlvajhvVW5FeWktZm9yWWk3TEpxNDlacnBVYnljSGlmVzhOX2RFekpMeWMwNHVjWHphWjRpbnpyY3Z5VzdXb05PZ1lxN3A0Ym5NVFlNbEd0dmNZcC1JOGl6aGU3UllnaHkyVnRtTUFXbWJmUUVpc2hDVnc1Z0hubHVHU3RjaTl6NWZndVo3N3RvWmtRRllRU28wN3JMMFZ3amxUbXJSSUFKTTVVTHZUbmhwRHVoWVhGZmdLd2JlQ0V3LVk3cw?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -401,7 +412,7 @@
     "date": "29/07 06:32",
     "date_ts": 1785306774.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
-    "source": "koha.net",
+    "source": "KOHA.net",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
     "teams": [
       "Brasil"
@@ -567,7 +578,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "source": "abc.net.au",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
@@ -717,19 +728,6 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "England star cops freak injury amid wild World Cup celebrations",
-    "source": "SEN",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclgxMXZXVF8tVy04Y3loNWgyNGZZZVM3NFhkdkdfSXBHUTV3TVpJUnJkWEJLV1VTSkJ3bFZnUmdnYTQ0Qm1Va1BSRzZGa1VxV2dBd0k2Q3NhTXo1V0x4RV9WMW5xb0lPZ2xZQTgwRW1Qem44Vm9CbWJTczZ3ZEZZc3FkaFhqaG9pNzlRUVVKc09oMThSVEtYOUM4ck5Pc1hGOC1TcVAzWTNUSUdyOEtScDlZRmdsYW54OUdCdGZfS28?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
