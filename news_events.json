@@ -383,17 +383,6 @@
     "source_type": "news"
   },
   {
-    "date": "01/08 07:00",
-    "date_ts": 1785567600.0,
-    "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
-    "source": "Sky Sports",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHMyYjRiSE5QVWJyR19JZkl4SS1MMF9qU2dFa0R6NVhvRjRRM25TRkRXUXlvajhvVW5FeWktZm9yWWk3TEpxNDlacnBVYnljSGlmVzhOX2RFekpMeWMwNHVjWHphWjRpbnpyY3Z5VzdXb05PZ1lxN3A0Ym5NVFlNbEd0dmNZcC1JOGl6aGU3UllnaHkyVnRtTUFXbWJmUUVpc2hDVnc1Z0hubHVHU3RjaTl6NWZndVo3N3RvWmtRRllRU28wN3JMMFZ3amxUbXJSSUFKTTVVTHZUbmhwRHVoWVhGZmdLd2JlQ0V3LVk3cw?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -514,6 +503,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -667,7 +669,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland beats Colombia in shootout for spot in World Cup quarterfinals",
-    "source": "sports.mynorthwest.com",
+    "source": "Seattle Sports",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
