@@ -482,6 +482,17 @@
     "source_type": "news"
   },
   {
+    "date": "17/07 07:00",
+    "date_ts": 1784271600.0,
+    "title": "Copa do Mundo de 2026: tabela completa e calendário oficial",
+    "source": "fifa.com",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4YnRvUEhreVdDSXROOVJMM1R0SzBjSUd6VWpRSVd1ZGRzbFcxWU1QdXc5bjJJNkFrbW9NU1dwalNQWGhTX2pUNnVxVXh0eHI0eUNHWlpib2U1TUlndjlGWjA3d3NzUWN3ZVktVEpn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
@@ -708,23 +719,10 @@
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Canada starting lineup vs. Morocco: World Cup Round of 16",
-    "source": "mlssoccer.com",
+    "source": "MLSsoccer.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlVGNmdoRHAwdGZkTFVaQUkzelZ2aXczYjY5V0RFVlluSzdvbVF4WlR1Y0U0UlhMbDhMaGJ1RHVtTzlDMEFYVE9SQllCeW1wc3pEdjZLaHNSZDF2MlYzbmtJaGdUYUc1OW9abzFnMHFCNmJodWVtb3BCc3RJcFJGV0JnUENXZ2RKTTdEbEhybjBlWVYwaFIxTVB1S081S2pGSHhKdHlUc2NzX2lZdjFjR3dlb2Q?oc=5",
     "teams": [
       "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "Colombia vs Ghana Confirmed Lineups & Formations Tonight: World Cup Predictions",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ096ZHh3cjdUNklLS0FUeE93VjlhRVhCbW9tQ0RGZl94dDZoZ3huQTNrOHVkeVJnX2N5VTFzTGVuTTE3SVNSdzd6YnVON2JibXF6M3lqWVFvYk9tTHYtX2VvVXZkWVg1MUQ5bmotVTQ4dkNLTmhTZHo1RDd4Z0hMeUkzOEVCNUJ6NlZ3QVZlNGRqNm5MblFLMTczMk9mZERIT2NaSm5GQlhHX2hCeVpJMzY2MA?oc=5",
-    "teams": [
-      "Colombia"
     ],
     "category": "lineup",
     "impact": "HIGH",
