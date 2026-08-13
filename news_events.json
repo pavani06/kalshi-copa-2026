@@ -322,6 +322,19 @@
     "source_type": "news"
   },
   {
+    "date": "07/08 02:35",
+    "date_ts": 1786070136.0,
+    "title": "Vitória 4 x 0 Athletico: veja gols e melhores momentos do jogo pela Copa do Brasil",
+    "source": "ge",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVlJ0NzhURW03MGx0NHZvejdFbmhyVW5KQXZBbkJoWlBsUk9KeFFCbGN0R2haUWhqcENYeGNYcmRxTFBJQkdOR2dVU2FmYmw4NmFoQ1lDdUlnUVBtR0VlQ1BVT3EtTTBiZERlUnZSZVd2czhiN2szTk5sQmxlS29zUDdBZHNGYTdjd2hnU3NpaG9XSFRLZGpBb0czOEl6Qy02ZlNjUk5aQkVrTm41TjZtdXpkcDRPUzA0eVNhcFRnb2ppRXl1cGt2cU1xZHNNTnpGQWVrcFVQRmE3N28wOVIwNWdGSWs4MWJS0gH3AUFVX3lxTE9saldKUkljVDBXc190V3pVaXFQb0J2V3JURThNbE5Nc3I2Y1FZMDE3MzhKUnMzd19lbkQtVDFYSDlWU210aFJRSXdwRVc3RU1ZT1FfN0kwSjJfbkx1U3RSajU4cm5GZHFGNzJfS05Sc1Q2RXNnZHYxQ3FwbWZQbmlNbjN6cXp6WlhuMHFUWDRaSDhYeUQ5cHJtNzZxYnVLS25yMDNrN3Q1WnZlSjNRb0pwVUFkRmZyZnhTR09rMFM1YmtoSjNJaTU0WVU0THFQdHFIX0g1OWdBTWpaMDFBbkVtWXRsYjNnY1VhRXgteUZCcmRrekttOHc?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "06/08 13:15",
     "date_ts": 1786022151.0,
     "title": "Team USA women’s 2026 FIBA World Cup roster sparks debate",
@@ -402,8 +415,8 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Brasil",
-      "Marrocos"
+      "Marrocos",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -695,7 +708,7 @@
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Canada starting lineup vs. Morocco: World Cup Round of 16",
-    "source": "MLSsoccer.com",
+    "source": "mlssoccer.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlVGNmdoRHAwdGZkTFVaQUkzelZ2aXczYjY5V0RFVlluSzdvbVF4WlR1Y0U0UlhMbDhMaGJ1RHVtTzlDMEFYVE9SQllCeW1wc3pEdjZLaHNSZDF2MlYzbmtJaGdUYUc1OW9abzFnMHFCNmJodWVtb3BCc3RJcFJGV0JnUENXZ2RKTTdEbEhybjBlWVYwaFIxTVB1S081S2pGSHhKdHlUc2NzX2lZdjFjR3dlb2Q?oc=5",
     "teams": [
       "Marrocos"
@@ -715,19 +728,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:00",
-    "date_ts": 1782975600.0,
-    "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeW5GVVVNR2hXOF9uT1VuNC1HWUZyZVdFT2p5eEVWOC1uay1GZV95RzJBcXJaN0hxcWxXZDVCX2FteU9ONjRsZld2VmVrTmtDYzZHQUxNdVZsNXpXdDRGa0dNYUpvZ1ZWckQ0ZVFidFpnSENlcUpGRndCMmMxTHAzS09DQTFCcmVmVkg1ZjZob2pSamJuMUI1ckxRVGJXZVJaQ3piYTllYnc3WUdwOUY4NUtQMnktVWxnRklrOEd2ZjF1MzdmYlE?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
