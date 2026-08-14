@@ -409,8 +409,8 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Marrocos",
-      "Brasil"
+      "Brasil",
+      "Marrocos"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -448,6 +448,19 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "Why Is Harry Kane Not Playing for England vs. France in the World Cup Third-Place Playoff Match?",
+    "source": "Athlon Sports",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUlNVDdQc3Bmb3pDV1M4QW5zV1d0d3pCY3ZlNGZVRmNMTW5ua0hrdzc3eVN0XzVuU3FjNVZ6TlhQT1F2dVhoQWlkeUs5UXJvQS1TZ1ZYSDFpTGxvaHo0anJyX0hYZjVhcDZZVGNsOU1mcjdENWFQbFVJRFRDbzRkN1FuRmE2Zw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -517,24 +530,25 @@
     "source_type": "news"
   },
   {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
+    "date": "10/07 07:00",
+    "date_ts": 1783666800.0,
+    "title": "Norway vs England Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXBSenZNVUpLSG5jVkRyd0hjWVFsQVV5LVQ5SFk0VW01QlQ3Q0JtMk9vV191SUwwYUhtRXdxZFJBMWJrajhyZ1VBWjhITC04UEQxcGtsMWtZTDBPU0w5OFlPSVRjQXJrLWdsWVhhQm5KN1JPUWxEVm9CRlpfbkRXQkM3Y21xTlB5TEJSc09IUnA1SFQ5dTBCNWExY0haaWhqdWRKbWtuV1ZlYlVFV3hYa2Y1N180SDFCMjZHRkl2aTdxQ0FFZFR6TkY5aXdVWWpGaTZOcTRnRFpndVB1ZlM4?oc=5",
     "teams": [
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
-    "category": "injury",
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
+    "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -571,12 +585,11 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -585,11 +598,12 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
+    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
     "teams": [
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -638,7 +652,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland beats Colombia in shootout for spot in World Cup quarterfinals",
-    "source": "sports.mynorthwest.com",
+    "source": "Seattle Sports",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
@@ -651,7 +665,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Norway boss speaks out on star's injury concern ahead of England clash",
-    "source": "Metro.co.uk",
+    "source": "metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
     "teams": [
       "Inglaterra",
@@ -709,19 +723,6 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "England star cops freak injury amid wild World Cup celebrations",
-    "source": "SEN",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclgxMXZXVF8tVy04Y3loNWgyNGZZZVM3NFhkdkdfSXBHUTV3TVpJUnJkWEJLV1VTSkJ3bFZnUmdnYTQ0Qm1Va1BSRzZGa1VxV2dBd0k2Q3NhTXo1V0x4RV9WMW5xb0lPZ2xZQTgwRW1Qem44Vm9CbWJTczZ3ZEZZc3FkaFhqaG9pNzlRUVVKc09oMThSVEtYOUM4ck5Pc1hGOC1TcVAzWTNUSUdyOEtScDlZRmdsYW54OUdCdGZfS28?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
