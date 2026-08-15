@@ -1,5 +1,18 @@
 [
   {
+    "date": "15/08 16:14",
+    "date_ts": 1786810440.0,
+    "title": "Morocco Lineup Confirmed for WAFCON 2026 Third-Place Match Against Algeria",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUhfWGhPb2VhLUcxb1RDOXh6and4VVhidU92TU1uV1RCWVRZNzZDWlp5NEJQNUFKTGoyNTBYQ0dHc0llbWxBM3l1bDdkbHRvc09lN285S0hhQ2Y0cExValRCa3BHLW8zZGR0dG5ST00yZERPN05NbXhwNV90cEtmUHBGc0pvRUJoREpjdVdrZldnMExoem1NeGctR2tWNEFzdjA5QlJmWjlJUmVnYTFWdWNIMTlFVXdCUk5kcU9JT2M?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "15/08 13:08",
     "date_ts": 1786799280.0,
     "title": "Hockey World Cup 2026: India beat Wales 3-1 in Pool D opener",
@@ -383,8 +396,8 @@
     "source": "Lineups",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWZUTUlhYmc4RldyRXBXU3hWWkk5bTZlNXpGZmlxXy05NzBCN2h0bmM4TnUweTNFTnNTWTd0WnlxSjZndXRDQ1hRV09WZTlFUWR5OVUwN2Nrbjhsa3VicFNPbm8wQkpYMXpFbUViZXdldmNvRlRMR1pxRGQ5UnVaci1EOA?oc=5",
     "teams": [
-      "Brasil",
-      "Marrocos"
+      "Marrocos",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -573,19 +586,6 @@
     "source_type": "news"
   },
   {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
@@ -602,7 +602,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland beats Colombia in shootout for spot in World Cup quarterfinals",
-    "source": "Seattle Sports",
+    "source": "sports.mynorthwest.com",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkxNRUxyNWZVVFIwNkNaZjFXTnlBMWphb2doWEdncjY4QkdHR1pDZklrWWVzR2syNFdJV1lfUW02TG9ydlN5X3dyMjhrN1p3c1BhLTk1emEyYUl4ZnExcVMzYkkxQk5Qb3ZVZXlmamJHUzM5QjNmVmRZUXMtLWM1M3VWSXNOWlhjTERyajN6Q21yeGhFTTFKVHBEY0dXdDJNQWNXRXBOTDIxVzgwdEI2N1FDMWdnUFFjNXhTczBnRm5jUQ?oc=5",
     "teams": [
       "Colombia"
@@ -644,19 +644,6 @@
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGo3M1hlbmowblgzVkZQTVNTRkRmaThMV3NRN1JqekNXekhrQ3BoeWVjODh0T1ZPYzdHN19PMmtFU1NtU3V4Z29qMGh2VXlFcnlEOEFhUWdBbGlsUXhZZ2p4b2Z1S0ZyYldIVGhudFdJeVNuVFlTSGNSdFNyYzZWNW5HbWluR2ZVSXlqbUFxa0g0UUlZTzU2TEM2WkFGZFZuRzBDbmstV3ZnaTFFbkFJZ0pTUGRJQlJLemRV?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
-    "title": "Portugal confirmed starting lineup vs Spain: Roberto Martínez’s XI for the round of 16 game",
-    "source": "Diario AS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0VzdXVrM3dHMm5HekdqMUxIZzBUbTdNTUNGNVVWNVByc0dmMmc3Wks1NTZXYXZmbWd4RUdYblNuN1YtaG9PRkgtT3l6TWQzdFFkLW9aaURnTTMwYWNtb2RUa3dNRU5LTTRTMHVIejFWWDhjUXktY1FubDF6cTN2TkljeTBzd2h6WGk2NW5FUjF3ZVVOWldEcVhyYTdzTHBsTktMR29WX2k3QTdIUGg0c19yNzFCaXd0eUFUdlBMQnhtaVHSAdcBQVVfeXFMTmZ4MnprZFY1dnY3VjhtY2pja0xINVY3V3FVWkMzWDJsU3R4LTQwLS1YSldHTVJZaUJDODhqUzdkYU9LbE03Z3ZBVUtQQTZ2Z1cxQ0dvY0QwaVhET1NkTGNOOHpOZ2pTZzFZUUZTbnUtbUx3MkdzX08wd2NIUlVZU21weUpteFJHbVFxUFcybWJ6RjBsQWZTV1lfajFyTGxrY1Ewd1lHcVhHZlJGS2pRNElPQzJqNlVpZHFHUzdLaEVxYUlobU1BVTBSc3lIdHZrNVQxNHNMaFE?oc=5",
     "teams": [
       "Portugal"
     ],
@@ -725,6 +712,17 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 07:00",
+    "date_ts": 1783148400.0,
+    "title": "Paraguay vs France Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92VkZOMzVFZnRVX2FIQ05Rc1dad3VyZk43eVFWXzF5WnlXRHRSNTd1Skd0UGZBbFRHejN3ZWZBVzRwTWVhTFh6YjBvcDJYcHU1YzZzWWFqdWlHZU9zc3AyemFB?oc=5",
+    "teams": [],
+    "category": "bracket",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
