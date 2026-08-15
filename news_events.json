@@ -351,19 +351,6 @@
     "source_type": "news"
   },
   {
-    "date": "08/08 18:56",
-    "date_ts": 1786215375.0,
-    "title": "Morocco Lineup Confirmed for WAFCON 2026 Quarter-Final against South Africa",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWM1Z1BvOWstZmZUZkhIU2MtNkFfODhxMzlPUTNtV1NhLUNFaktaQ2NBSmd2bEhPNjRpak5fS3dQaUZ3b0RfSW9YMy1OZWFiZjZGSVA3ZXV3Uk5VVGh1dVp1MkhQQ2U0SEZESmZ1YWFxVVFlOXg0XzBtV3cyTGxvTlFjWFFhZzlBRVF5cXhKbDNyV1padVVJLVdsN0xFQWo5Q0JraGNUWnQ2UElWVWpINTFKVDA3bVpHNnBtYVpBQ3c3dw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -438,6 +425,19 @@
     "source_type": "news"
   },
   {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "World Cup today live scores and updates: France vs England for third place",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUVSOXNtTm9MX2lWUFI0STduYW1MYWtkT2JBQXNNLWpYOXIyY3lBMVhrRlBCUnRJU3FoYW5hSUIwRTl2OEpKZFUxOE1lOWExckxxdFBnb2liNmlSeURyZDRaeGhhQ3RfVVBRSUhLRWhwb19EcFlqT2FLZ2ZyMHE4OV81S3RIZTRTZHRxai1FV2NtN1JGcmg5YURqMUI1V1R6R25INi1LTmVuS09jUW1CUkVPQUVDSnJjcWs0M1FFaXE0VmZobHJ4Zi05RVJRLVZVZlE?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
@@ -448,6 +448,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -711,17 +724,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "Paraguay vs France Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92VkZOMzVFZnRVX2FIQ05Rc1dad3VyZk43eVFWXzF5WnlXRHRSNTd1Skd0UGZBbFRHejN3ZWZBVzRwTWVhTFh6YjBvcDJYcHU1YzZzWWFqdWlHZU9zc3AyemFB?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
