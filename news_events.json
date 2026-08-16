@@ -305,19 +305,6 @@
     "source_type": "news"
   },
   {
-    "date": "30/07 07:00",
-    "date_ts": 1785394800.0,
-    "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2NFUzktUV9NWmRzR200eWFhYzJOYjNXYnM2UDN0RkZ2WDhnOHpkOTV3WHRLTE9hLVpnRU5YVExINGpsSzZPak8wOUNEWDVHTUJaQnA4N3pkVkZvWTVDRWJ5c2l0WmZkMElxbnJpY1NTS1ZSN3p6Q0twdUhVcEs2RlVJeFFseWFwb0ZMWDdvTzQ5QnNRRkxWWmxDZ0xtM2ZmbnBLcFJsY3ppUWE1OGg3alNjTQ?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time - The Athletic",
@@ -340,6 +327,17 @@
       "Brasil"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/07 07:00",
+    "date_ts": 1784703600.0,
+    "title": "FIFA World Cup: Schedule, Results and Standings",
+    "source": "elisportsnetwork.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -452,7 +450,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -511,19 +509,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -617,6 +602,30 @@
     "source_type": "news"
   },
   {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "FIFA World Cup 2026 – Every match result on Sunday 5 July – Live scores",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlpyaGlwNkRzSjhiWUtRM0JQc3hpV2c5d1dlU0QyME1xTDczeHFxQnhNYUljOGxiTGVZVjlCSVNxcWFOQU0zRHRDeUxpZThKSkhtc2t6bXk5cHpTNEEzZHVGalhGOEFDNU5JZjR2cnZXRGNfUkp4WnJ4RkdVTkkzMkdEbGRqaWZtem02ellxams3ZnpnSUk1Y211aHJPQQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 07:00",
+    "date_ts": 1783148400.0,
+    "title": "Canada vs. Morocco confirmed lineups, starting 11 from World Cup Round of 16 game in Houston",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTFzemJZSHZzb19hOTFnNy1uN1cyWXdlTHJIX2xHQjFycmd2TzRHdHpGZU56LUp5b2VQOF84WHF1ZlUyUlEzenk3MlMwZjBQZ1JBN05ic0ZoSml0TWkzRW9KQmR4aXJnWkQ1YnlUbWk3c2s0RGNIVXhfVUU2WVpiNGFWLU0xRUxWSVgzX3BHaHIzbjhJZ2tpeU1WNjdjc3RGdlJkeGZUX3JyUnNGbjZ1ZjFqVFNEN3ByX0h1SQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Canada starting lineup vs. Morocco: World Cup Round of 16",
@@ -640,19 +649,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
