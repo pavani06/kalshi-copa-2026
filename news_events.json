@@ -1,5 +1,16 @@
 [
   {
+    "date": "16/08 18:46",
+    "date_ts": 1786905960.0,
+    "title": "FIH Hockey World Cup 2026 scores, schedule, points table - complete list of match results",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2dwemotZG5RMGhqNDluMzUtak16V3lnY2JHR01Zb1dCSjEyZkc3ZnY5WWwySWpLRXd4V1ktUnJBVEhpN1Y2QU9IbTRORGtqdFllY0Nsb3llTkpWZWdKUGQyRTFpRzBMYW16RzFlM3A0M18zS2FvdXNSVnViZFExMlg3aHlLdHRVMzJkR0N0MkQ0bHpIbHdQS2V4aXA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "16/08 11:27",
     "date_ts": 1786879641.0,
     "title": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026",
@@ -318,19 +329,6 @@
     "source_type": "news"
   },
   {
-    "date": "29/07 07:00",
-    "date_ts": 1785308400.0,
-    "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 06:32",
     "date_ts": 1785306774.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
@@ -340,6 +338,17 @@
       "Brasil"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "22/07 07:00",
+    "date_ts": 1784703600.0,
+    "title": "FIFA World Cup: Schedule, Results and Standings",
+    "source": "elisportsnetwork.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -394,14 +403,25 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 07:00",
+    "date_ts": 1784012400.0,
+    "title": "Spain scores 2-0 win over France, advancing to World Cup final",
+    "source": "PBS",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -414,8 +434,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -428,8 +448,8 @@
     "source": "RotoWire",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXBSenZNVUpLSG5jVkRyd0hjWVFsQVV5LVQ5SFk0VW01QlQ3Q0JtMk9vV191SUwwYUhtRXdxZFJBMWJrajhyZ1VBWjhITC04UEQxcGtsMWtZTDBPU0w5OFlPSVRjQXJrLWdsWVhhQm5KN1JPUWxEVm9CRlpfbkRXQkM3Y21xTlB5TEJSc09IUnA1SFQ5dTBCNWExY0haaWhqdWRKbWtuV1ZlYlVFV3hYa2Y1N180SDFCMjZHRkl2aTdxQ0FFZFR6TkY5aXdVWWpGaTZOcTRnRFpndVB1ZlM4?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -494,8 +514,8 @@
     "source": "Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -505,7 +525,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "aljazeera.com",
+    "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
@@ -531,7 +551,7 @@
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
-    "source": "aljazeera.com",
+    "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW5WeWFwd2tKeW1MWXBMNF9qeVlaQ3NmamNUR3NQaGNUQXFkcGRGaG5lTUwyRmt1cjRicWEtU1VRdGFpWTVZQ2VaYUFFREVEckl4bndvUVNubkJEdFE4SGpmYXFTQW1FVXRWeXgtWjJDZUhnNC03T3loRWs3U1oweFRQVTlGNVNoTkpUWEZoRmhfRWhudWtvNG1hQXJKaHdlRmFEVXkxWmNyVmNXSGc3Y1FBdHJzQdIBuwFBVV95cUxOREsySktJNWpZS1J4RU03VFVHMlVVTVpva2xNX3dZY3JHVmRhT1JfdzY0Z3A0N1F2SmdLakZJUk5INF9PQmVsdFpoWXExTDJMazRQSF9zcXg3LVdSLU1qUWdwalNoWjhFZllhMkN4TVg2dHNqTUc4NmIySVBHaU5lTVFPbEx4Q2JkUV8zdlRtZjBTeHUxVWp6U3VkdFdnVnJmNUhaRXJOUmFwMmJtWWhqNDJrOWZxd0pBUFdF?oc=5",
     "teams": [
       "Marrocos"
@@ -607,7 +627,7 @@
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "England star cops freak injury amid wild World Cup celebrations",
-    "source": "sen.com.au",
+    "source": "SEN",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclgxMXZXVF8tVy04Y3loNWgyNGZZZVM3NFhkdkdfSXBHUTV3TVpJUnJkWEJLV1VTSkJ3bFZnUmdnYTQ0Qm1Va1BSRzZGa1VxV2dBd0k2Q3NhTXo1V0x4RV9WMW5xb0lPZ2xZQTgwRW1Qem44Vm9CbWJTczZ3ZEZZc3FkaFhqaG9pNzlRUVVKc09oMThSVEtYOUM4ck5Pc1hGOC1TcVAzWTNUSUdyOEtScDlZRmdsYW54OUdCdGZfS28?oc=5",
     "teams": [
       "Inglaterra"
@@ -643,21 +663,10 @@
     "source_type": "news"
   },
   {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "2026 World Cup Bracket: A Full Look At The Round Of 16 Matchups",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUnhBZVp4SnB4clIyLXhkOFhhSGxmeW5ycVU1VVNoRnJkOGd0TkNWUEZSMW5pSWFpbk4tOVRjR0FRcHlWNEhUU2p4cXBKRmtlOURsM1o2T1RDVC1MTjl2eXh2STM?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
     "date": "03/07 07:00",
     "date_ts": 1783062000.0,
     "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
+    "source": "goal.com",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
     "teams": [
       "Colombia"
@@ -711,19 +720,6 @@
     "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Why isn’t Diego Gomez playing today for Paraguay vs Germany at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtodG40cEZ0VDVVVGFYR04wUkpDOVNsX1RBRTRlN1I1SURuU29wY3h5S1dHUGhWYkFfTGdGNnhfYUJnXzhTclhHT2FtUFZBc0g4MWl0cUREM3MtNUdZTHlXQ0NCcm1fdHQ1Ml9XTEd4V01SRTZRWEdPcFBueFZtTERFWWpWQXdPemZKeDF2b0tfZ2ttVUtaZFhBWDNvdzJBbl9aYl95NWdReV9KTHg5U2kxSdIBuAFBVV95cUxNMTFyNHdtV1FZeGJXLTdoWGVOaHZIZVBBank3bGx4eDJQaTdkTlpGUjNlbzd4V2w4Rjd3c21xd3prZ09FbjVjYW10b21XNXRia2Exd0QxMFg2U0duaU02eDlnbThKbWcxYXlZMDU3Zk16YnVVaXB6Y21IQXJINmpJdEc0T3gzX0NVZkczSWM3cEI4ZGxjWmFwTTBjcC1mMjB3c2ZveGhIT3RzTFVWM1lIeDNBZkpOeDRG?oc=5",
     "teams": [
       "Alemanha"
     ],
