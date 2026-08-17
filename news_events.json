@@ -1,5 +1,16 @@
 [
   {
+    "date": "16/08 21:04",
+    "date_ts": 1786914240.0,
+    "title": "Women's Africa Cup of Nations 2026: Full schedule, all results and group standings",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmY3YjRJMFU4bUhHLThrM0pwcTVjVFpfYzlULUhvMjk3RUxHZzZJeTNrdmNUU1gxakdHa2JYbUFEaS1RdExwQVhDN1hTMjllQzNvN05zYWMyNm9lMDdjVWh4VjFMMEcyeVprd2pEdHNnRGp0c3JOZ0NlZlNkbEp0cXFodVF1YmJGS3U5R2ZVWVhLeFVtamNXag?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "16/08 18:46",
     "date_ts": 1786905960.0,
     "title": "FIH Hockey World Cup 2026 scores, schedule, points table - complete list of match results",
@@ -283,17 +294,6 @@
     "source_type": "news"
   },
   {
-    "date": "10/08 04:03",
-    "date_ts": 1786334580.0,
-    "title": "Women's Africa Cup of Nations 2026: Full schedule, all results and group standings",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmY3YjRJMFU4bUhHLThrM0pwcTVjVFpfYzlULUhvMjk3RUxHZzZJeTNrdmNUU1gxakdHa2JYbUFEaS1RdExwQVhDN1hTMjllQzNvN05zYWMyNm9lMDdjVWh4VjFMMEcyeVprd2pEdHNnRGp0c3JOZ0NlZlNkbEp0cXFodVF1YmJGS3U5R2ZVWVhLeFVtamNXag?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -310,7 +310,7 @@
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
     "teams": [
       "Brasil"
@@ -347,7 +347,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -394,14 +394,27 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -414,8 +427,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -476,12 +489,11 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -490,10 +502,11 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
+    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
     "teams": [
+      "Noruega",
       "Inglaterra"
     ],
     "category": "injury",
@@ -519,19 +532,6 @@
     "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW5WeWFwd2tKeW1MWXBMNF9qeVlaQ3NmamNUR3NQaGNUQXFkcGRGaG5lTUwyRmt1cjRicWEtU1VRdGFpWTVZQ2VaYUFFREVEckl4bndvUVNubkJEdFE4SGpmYXFTQW1FVXRWeXgtWjJDZUhnNC03T3loRWs3U1oweFRQVTlGNVNoTkpUWEZoRmhfRWhudWtvNG1hQXJKaHdlRmFEVXkxWmNyVmNXSGc3Y1FBdHJzQdIBuwFBVV95cUxOREsySktJNWpZS1J4RU03VFVHMlVVTVpva2xNX3dZY3JHVmRhT1JfdzY0Z3A0N1F2SmdLakZJUk5INF9PQmVsdFpoWXExTDJMazRQSF9zcXg3LVdSLU1qUWdwalNoWjhFZllhMkN4TVg2dHNqTUc4NmIySVBHaU5lTVFPbEx4Q2JkUV8zdlRtZjBTeHUxVWp6U3VkdFdnVnJmNUhaRXJOUmFwMmJtWWhqNDJrOWZxd0pBUFdF?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 07:00",
-    "date_ts": 1783494000.0,
-    "title": "World Cup 2026 yellow card rules: Bellingham, Rice & Olise among players walking disciplinary tightrope",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S2xkeVdLZ2xWZGhnSlBmQlh0cHRpNVNuOFZPZ2wxYUNyR3NOMnNqZDMxZUpUQTZucFBSZXFqVkJpOVJRZF9DZ1JVaTBxd3prbmpSOUllbXZoVmZVMFAyZ215a1A4R3M?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -632,22 +632,11 @@
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Paraguay vs France Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92VkZOMzVFZnRVX2FIQ05Rc1dad3VyZk43eVFWXzF5WnlXRHRSNTd1Skd0UGZBbFRHejN3ZWZBVzRwTWVhTFh6YjBvcDJYcHU1YzZzWWFqdWlHZU9zc3AyemFB?oc=5",
     "teams": [],
     "category": "bracket",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "2026 World Cup Bracket: A Full Look At The Round Of 16 Matchups",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUnhBZVp4SnB4clIyLXhkOFhhSGxmeW5ycVU1VVNoRnJkOGd0TkNWUEZSMW5pSWFpbk4tOVRjR0FRcHlWNEhUU2p4cXBKRmtlOURsM1o2T1RDVC1MTjl2eXh2STM?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -725,6 +714,19 @@
       "Alemanha"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
+    "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
+    "source": "foxsports.com",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
