@@ -581,7 +581,7 @@
     "date": "08/07 07:00",
     "date_ts": 1783494000.0,
     "title": "World Cup 2026 yellow card rules: Bellingham, Rice & Olise among players walking disciplinary tightrope",
-    "source": "BBC",
+    "source": "bbc.com",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S2xkeVdLZ2xWZGhnSlBmQlh0cHRpNVNuOFZPZ2wxYUNyR3NOMnNqZDMxZUpUQTZucFBSZXFqVkJpOVJRZF9DZ1JVaTBxd3prbmpSOUllbXZoVmZVMFAyZ215a1A4R3M?oc=5",
     "teams": [
       "Colombia"
@@ -599,6 +599,19 @@
     "teams": [
       "Inglaterra",
       "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "FIFA’s decision to suspend Folarin Balogun’s ban damages the integrity of this World Cup - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjk4ZWdNOUtocHotRm5nV1p2T2wxLWxTaTIwZTNBZXd6NU1iSkFEWVdMdng4NzJMMkhsenhHRWJWdmN5YWRsdGdSVEptT0hRaS14bGtSSFBkMVhaU1I5aXUxaVZoVkFUanJMZlZrMkxGMmhrUFVkX3dPQlRyeVJCb2xzYkNmR3JiWXRWV3NB?oc=5",
+    "teams": [
+      "Alemanha"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -634,7 +647,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Spain lineup vs Portugal today: World Cup starting XI confirmed",
-    "source": "centraloregondaily.com",
+    "source": "Central Oregon Daily",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUJnaWNVSjBEWkFzeE9IeUdjcDJZNFZFYnR4YTZfREhqWVljWnZacklKdGYxaGF5d2tSMFNhenN6RG9DVVNoaUdnOG1RdEtVSmRjT2owaHhNWGhQMlJkRUNTN2JoaTlmTEdYQlVoT1J0cVNfM09TZ3Rsb3hxdjFBY0FKRkE1eTNCbEZqc3FneHRtMFlyQjBMVi1fVUhtLUtUdnVSOTlkejBmdGI3Nlh5MllMc1I4VGhrczlCQVNjUjVmTDZvYUhIUFZqWVpaS0dvREJ6b3R3THlYal9xeHMyV08wa0dYZkZIQ0E?oc=5",
     "teams": [
       "Portugal"
@@ -715,19 +728,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:00",
-    "date_ts": 1782975600.0,
-    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "prizepicks.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
