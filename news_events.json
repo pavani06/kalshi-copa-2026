@@ -1,5 +1,16 @@
 [
   {
+    "date": "17/08 08:44",
+    "date_ts": 1786956286.0,
+    "title": "Magnus Carlsen wins Esports World Cup 2026 chess title after beating Denis Lazavik",
+    "source": "DAZN",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDdEeExrWEtBX0pZUE02cVcydlpicU4wSWFnWGpycWJnNzIwVVJySmVFU01JVjR2S2tmWTRMY1JyNkU0WjlvSzRmZGFHVGxwLXBFdXcwN1hwTFJDM0xTVUtIb2RYR2h1WGtoT2xsMERmbG5JVWEyUk1RV19ucjU1RDZodm5iaU9DdnV6U1o2QzJuOXdWLU9GcUVzVVdNbTNjNHpXRnp3aVc1d1U3TVdRSkFoSUdxazg3eEYyV1VmMA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "16/08 21:04",
     "date_ts": 1786914240.0,
     "title": "Women's Africa Cup of Nations 2026: Full schedule, all results and group standings",
@@ -272,19 +283,6 @@
     "source_type": "news"
   },
   {
-    "date": "08/08 23:42",
-    "date_ts": 1786232520.0,
-    "title": "Portland Fire suspend Luisa Geiselsöder’s contract ahead of FIBA World Cup",
-    "source": "OregonLive.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbU1Vd3lvMUtDSkJ1Q2I4RmYyNGdERUk0cFRJREhJU1ZwWHpCX0NVdVlkOTg2UHpXOWsyYklhUTlKWm02MXJIanZPYnEwMUxPX1E2b3g2MjZMVENRR0I1aGhTYUkwT1ptaVJTdWxMSng3UWNVNG93dDQxNENDVV94VWwtMC1rTzNDN3ZKREl4UkR6MXBjTno5NHpHNWlWeENXZ0FBRjRkX3FDc0pLS2RtbUdBNTBpeXZ0cTBjZg?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -314,7 +312,7 @@
     "date": "29/07 06:32",
     "date_ts": 1785306774.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
-    "source": "koha.net",
+    "source": "KOHA.net",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
     "teams": [
       "Brasil"
@@ -375,7 +373,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -426,6 +424,19 @@
     "source_type": "news"
   },
   {
+    "date": "10/07 07:00",
+    "date_ts": 1783666800.0,
+    "title": "World Cup 2026 today as it happened: news and updates as Spain prepare for Belgium, England face injury concerns - July 10",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUHZFZ1N1a19qTzEzSm82UGJuc0xTR2dMbk95ZmFKOWJqZExEZTB4aWJ1TDBHcEFsM3JicXZ4VWtubVpfODFpSERZRDhnYWFXTmRuMVNVZW9jdUFVWVk0c1FObnQ1RG9rU3RacU5zRE1uN0RuYTdwc3BoNUxSc2xuQUdSZzJqcmRodnpTejdsWl9XcjRNRlI5dFdqY1ppUTRHdEFrLVZMS29xVEhZZkRCT3ZOcWxDUUYtMzBDZkFBdkdDZFpOdWZNS3ZoczhkclEwX24wcUVGa1VwUjFCRlpGY0ZfT2NmcUNKaWNCd1B3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
@@ -442,7 +453,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -480,10 +491,11 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
+    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
     "teams": [
+      "Noruega",
       "Inglaterra"
     ],
     "category": "injury",
@@ -493,11 +505,10 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
-      "Noruega",
       "Inglaterra"
     ],
     "category": "injury",
@@ -533,20 +544,6 @@
   {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
-    "title": "Norway boss speaks out on star's injury concern ahead of England clash",
-    "source": "Metro.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
     "title": "Why isn’t Nico Williams starting today for Spain vs Portugal at the 2026 World Cup?",
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFYxQ05EckhIQm05Rk5OY2JTU29WaVdfU01JaDNiekNmXy1ya3R1OVdkRWNiMjZuUFVib2g4eWF3TEZ2aHg0cEJaUzV2cWJYdVV2UFFXWWNqVlVpU21KZDd3X2lhcUQ5S3ZNM0tHMFNrZ2t3YWR6SmRhV1puWWJ0aW5EOWhhREV3bjFtM0w4U04tc3NwOUJSOWVBb3JmZXAzYWlmQnNNeldKUGN0MVF5VmdkSzjSAboBQVVfeXFMTzlENGtSZHc2VlNTd1NiNUhaSzZCWC1Wc1k4U1hvN3BUeWhKNVZHZDI5eEM4amo1UEY5T18xUkRDWl9kdGVCTk5JeW43WkllQy15TXJ0QkFJSUNGaHpsVUZza2xsbjNxMkRzUWwyZEs1UDl3c21hcklEckthdGd4ZGlkU0tIOWozbjl2MXEwYnRhd2l0NjFmN0pOSFVLT1FwWTlSWXdycE96UEkyVmxnNnFNam51RmJReEx3?oc=5",
@@ -574,7 +571,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Spain lineup vs Portugal today: World Cup starting XI confirmed",
-    "source": "centraloregondaily.com",
+    "source": "Central Oregon Daily",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUJnaWNVSjBEWkFzeE9IeUdjcDJZNFZFYnR4YTZfREhqWVljWnZacklKdGYxaGF5d2tSMFNhenN6RG9DVVNoaUdnOG1RdEtVSmRjT2owaHhNWGhQMlJkRUNTN2JoaTlmTEdYQlVoT1J0cVNfM09TZ3Rsb3hxdjFBY0FKRkE1eTNCbEZqc3FneHRtMFlyQjBMVi1fVUhtLUtUdnVSOTlkejBmdGI3Nlh5MllMc1I4VGhrczlCQVNjUjVmTDZvYUhIUFZqWVpaS0dvREJ6b3R3THlYal9xeHMyV08wa0dYZkZIQ0E?oc=5",
     "teams": [
       "Portugal"
@@ -611,7 +608,7 @@
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Canada starting lineup vs. Morocco: World Cup Round of 16",
-    "source": "mlssoccer.com",
+    "source": "MLSsoccer.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlVGNmdoRHAwdGZkTFVaQUkzelZ2aXczYjY5V0RFVlluSzdvbVF4WlR1Y0U0UlhMbDhMaGJ1RHVtTzlDMEFYVE9SQllCeW1wc3pEdjZLaHNSZDF2MlYzbmtJaGdUYUc1OW9abzFnMHFCNmJodWVtb3BCc3RJcFJGV0JnUENXZ2RKTTdEbEhybjBlWVYwaFIxTVB1S081S2pGSHhKdHlUc2NzX2lZdjFjR3dlb2Q?oc=5",
     "teams": [
       "Marrocos"
@@ -712,6 +709,19 @@
   {
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
+    "title": "Germany vs Paraguay Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG9GQTdVbmRJWU5EYXhKcFFocW9GTGVJRDlfT1dTc3Z5ankzTDRxSjdfWTl3dTB4cVA2WURibTgyenJ4TkdYWkpybEJhZEdRNzcxYVJ0VENRNFg1Nk5iSG9TbENZaVNORk5GY1FPenkzSDFqR3Q1UVFzMDFhZGFMRGN3NlFORk03TWtIWHdZNnNIN1BUaEpnYmx3N1cyd2dYU2g3azAwV1pJRERlOU0wcWRra3BpeDZvd2swcHFSUW1pOFM2amxMdGVyMFMwa28weTMxOFVULVNoYi1tU091Nw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/06 07:00",
+    "date_ts": 1782716400.0,
     "title": "Japan's Kaishū Sano scores screamer from outside the box, taking lead vs Brazil",
     "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUHlVWHlKUWpFSTVpZnFhUnBLZ051bmMwR2s4OXUyQ3NKRVl3dV9WcUhtckp6U0ttLWkyUU1OMVNoRml5WXJpODY0dTBZYU40bFUycVI4MzNsTWZDUUxfdHln?oc=5",
@@ -719,20 +729,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 07:00",
-    "date_ts": 1782543600.0,
-    "title": "Colombia vs. Portugal confirmed lineups, starting 11 for World Cup Group K game in Miami",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGp1VkR1NWpVazVFQkFNV1k2aXJueGhTWFppRi1jNmR3SHB6RVhXSS1RSzlRTWhWbGpjTjZhRndyYjNnRUJLNERmeWh1OTRpVFpsSUZPUjdSMlZnTk5vVjdSQzhNdWtXTy11UExaUExnSE1aSHRmMHQ0VGFTY0Qzb0F3SExoT0lHdHpEc2lXRGtOeWwyS3p0WVduWjg3QVRuQndQVU9MTEZTc21UbVNVcnIwbGxISTJyYzFjVVk4a3c5VGFveW94Yw?oc=5",
-    "teams": [
-      "Colombia",
-      "Portugal"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
