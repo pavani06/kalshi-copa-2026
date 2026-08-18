@@ -305,17 +305,6 @@
     "source_type": "news"
   },
   {
-    "date": "11/08 07:00",
-    "date_ts": 1786431600.0,
-    "title": "Results & Standings - Esports World Cup 2026 | Group Stage | Group A",
-    "source": "Chess.com",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8weWlESnRRRHg3b0lLdVFlVER2LUhqeFowUnVGWnpZa3JiUkp2QTBaZERFTEZwanhGODZuNHJHNkNuLURtdXI5aWNxLVZuRV9NelV1SURwVVByUlFMSVhsbHlUeWRFSlVCX1Z5MzhhWnFNbldKUFhrRXY1ZFUydw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "08/08 07:00",
     "date_ts": 1786172400.0,
     "title": "Portland Fire suspend Luisa Geiselsöder’s contract ahead of FIBA World Cup",
@@ -403,10 +392,21 @@
     "source_type": "news"
   },
   {
+    "date": "17/07 07:00",
+    "date_ts": 1784271600.0,
+    "title": "Copa do Mundo de 2026: tabela completa e calendário oficial",
+    "source": "FIFA",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4YnRvUEhreVdDSXROOVJMM1R0SzBjSUd6VWpRSVd1ZGRzbFcxWU1QdXc5bjJJNkFrbW9NU1dwalNQWGhTX2pUNnVxVXh0eHI0eUNHWlpib2U1TUlndjlGWjA3d3NzUWN3ZVktVEpn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -444,6 +444,20 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 07:00",
     "date_ts": 1783666800.0,
     "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
@@ -461,7 +475,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
     "teams": [
       "Inglaterra"
@@ -474,7 +488,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -525,9 +539,9 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
+    "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -538,9 +552,9 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "France vs Morocco Lineups Confirmed Plus Formations Today World Cup Predictions",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcW0xV0VxbTEyQWFaSVlvZ0dpVnlHR2F4N25yZ09rQVJJOEozaUd0cFNSM2xOYWttRmEzODZZYWlxeFlSbkYzbHRFWC1oeUV5a0NkM0M0cFFUaWNDcGF4RGVocVEySFVPUmFJV0l4Qjczb21SRUFVOEpUaE5UUURZMmVaeVhrZHhZcDRQenBjM1QtUDVyWkFQWTJrVUtCb09zcDlXYWwzVTlJTTl3LXhhTFFSZzBvTDRLLTRWN1Z1UXNFeDVNSFVsem5LOXFzcC1jcGc?oc=5",
+    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -618,7 +632,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
     "teams": [],
     "category": "injury",
@@ -645,8 +659,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -708,27 +722,13 @@
     "date": "29/06 07:00",
     "date_ts": 1782716400.0,
     "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
     "teams": [
       "Alemanha"
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Paraguay coach says after beating Brazil and Argentina, why not Germany?",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWg1MzFpSkN2dE9lUHVseEZlMkdzdzJjRi1vWkluV3RmR1dRM2pmaFlnY1lWOXFnTWRldE81T2k4UG54U2hmS0tKVHd0UGZya3htdE9sdmt3eDkzVTE0Q1Fmb2ZmendUNS1fay13OVBGWkhPT0F1ZU5ET0VvUmU2M3FvSFdvZWwzYzg2ZnpzTFBuazJza295NF9PX053Mm4tdE9peGwtWEt0SVZfZmRUbE95dFlHWms?oc=5",
-    "teams": [
-      "Brasil",
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
