@@ -369,7 +369,7 @@
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
     "teams": [
       "Brasil"
@@ -382,11 +382,24 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "Why isn’t Harry Kane starting today for England vs France at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjBqT1piME5qb3YxU2JGSDJwYlVJdlFFMGVMc3J2RGc5bDJ1clhiWFBKdktTbjdjQ01hcm5obHRaQjBGWTNVc3pBM1dsX3hyZjdheEl6c3d0ekowblFNWDY1QnpaYjY5eFhHVW42aWpjdjhzWUR4WEp1LUZycThfaWRXZnN6amNYNnBkV0I3RzNHN01lZ1d6b2JZVnA5S2xaM040VlV2S3FQbTdsRlRNLdIBtgFBVV95cUxQTmluaHE5ZUxKRF82NWQ4VVZjWURmMmJHX1RFbzFfWGlOMXNVLVBoNlR6cERfa1NFTk5xN3VuYWJReEFBQTFpUEEzVlh2VkRLOHI0ZkVMVEJXN1RzT29rcFNmOEV1MDl1a2gyNGRiSHFQSHpMeGRRLXdoOGFIZklCZVVkRUlyLTdnZzJ0TEF4ZENDLVRmeWoyWTNEMDRta0RzZzVvY1MwNG10b1VpUnVxcDJHaVo1QQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -483,20 +496,6 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
     "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
@@ -511,7 +510,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "source": "abc.net.au",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
@@ -616,7 +615,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Spain lineup vs Portugal today: World Cup starting XI confirmed",
-    "source": "centraloregondaily.com",
+    "source": "Central Oregon Daily",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUJnaWNVSjBEWkFzeE9IeUdjcDJZNFZFYnR4YTZfREhqWVljWnZacklKdGYxaGF5d2tSMFNhenN6RG9DVVNoaUdnOG1RdEtVSmRjT2owaHhNWGhQMlJkRUNTN2JoaTlmTEdYQlVoT1J0cVNfM09TZ3Rsb3hxdjFBY0FKRkE1eTNCbEZqc3FneHRtMFlyQjBMVi1fVUhtLUtUdnVSOTlkejBmdGI3Nlh5MllMc1I4VGhrczlCQVNjUjVmTDZvYUhIUFZqWVpaS0dvREJ6b3R3THlYal9xeHMyV08wa0dYZkZIQ0E?oc=5",
     "teams": [
       "Portugal"
@@ -634,6 +633,17 @@
     "teams": [],
     "category": "injury",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "World Cup teams to qualify for Round of 16: Updated 2026 knockout bracket, schedule and fixtures",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGp6a05Cc3hkc3MtZE0xRWFWMGsxV1NUVF9VZF9tZE11cEJGWldaSnNkalJvWWVQbW9IMG9QS3ZtRTNKam41Q05pYnM1b0Q2LWY0TUFEUnYzcHVPZ21MeFNwOU1mOXlKUTdOZDFoYmhoaTh4VjJIVy1RX3RTWkRXOWlvSkk?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -669,8 +679,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -690,17 +700,6 @@
     "source_type": "news"
   },
   {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "2026 World Cup Bracket: A Full Look At The Round Of 16 Matchups",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUnhBZVp4SnB4clIyLXhkOFhhSGxmeW5ycVU1VVNoRnJkOGd0TkNWUEZSMW5pSWFpbk4tOVRjR0FRcHlWNEhUU2p4cXBKRmtlOURsM1o2T1RDVC1MTjl2eXh2STM?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
     "date": "03/07 07:00",
     "date_ts": 1783062000.0,
     "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
@@ -717,7 +716,7 @@
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
     "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "PrizePicks",
+    "source": "prizepicks.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
     "teams": [
       "Portugal"
