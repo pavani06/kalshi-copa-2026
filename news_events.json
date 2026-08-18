@@ -353,6 +353,32 @@
     "source_type": "news"
   },
   {
+    "date": "29/07 07:00",
+    "date_ts": 1785308400.0,
+    "title": "Special punishment in Brazil – suspension until the injured player returns",
+    "source": "KOHA.net",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/07 07:00",
+    "date_ts": 1785308400.0,
+    "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/07 07:00",
     "date_ts": 1784703600.0,
     "title": "FIFA World Cup: Schedule, Results and Standings",
@@ -449,6 +475,20 @@
       "Noruega"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -573,6 +613,20 @@
   {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
+    "title": "Norway boss speaks out on star's injury concern ahead of England clash",
+    "source": "Metro.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
     "title": "Why isn’t Nico Williams starting today for Spain vs Portugal at the 2026 World Cup?",
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFYxQ05EckhIQm05Rk5OY2JTU29WaVdfU01JaDNiekNmXy1ya3R1OVdkRWNiMjZuUFVib2g4eWF3TEZ2aHg0cEJaUzV2cWJYdVV2UFFXWWNqVlVpU21KZDd3X2lhcUQ5S3ZNM0tHMFNrZ2t3YWR6SmRhV1puWWJ0aW5EOWhhREV3bjFtM0w4U04tc3NwOUJSOWVBb3JmZXAzYWlmQnNNeldKUGN0MVF5VmdkSzjSAboBQVVfeXFMTzlENGtSZHc2VlNTd1NiNUhaSzZCWC1Wc1k4U1hvN3BUeWhKNVZHZDI5eEM4amo1UEY5T18xUkRDWl9kdGVCTk5JeW43WkllQy15TXJ0QkFJSUNGaHpsVUZza2xsbjNxMkRzUWwyZEs1UDl3c21hcklEckthdGd4ZGlkU0tIOWozbjl2MXEwYnRhd2l0NjFmN0pOSFVLT1FwWTlSWXdycE96UEkyVmxnNnFNam51RmJReEx3?oc=5",
@@ -621,16 +675,16 @@
     "source_type": "news"
   },
   {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
-    "title": "Brazilian Football Confederation Defends Referee Raphael Claus After Trump Calls Him 'Suspicious'",
-    "source": "Folha de S.Paulo",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcEFYb2Q1dHFONVhyVGo4R2dZU1lzQlRmd0ttU1RmbkttZDRvZXlqeVhGcjZ4V2lkWTVHbVA2eGZZcjhRbE90NHJiSzYySWQwOElWWXZNRk91eHlHV3kxMDlKeFFPcll2alNHOFZ0RGNUSzZlaDJBQU9weEpYdWZqbC0zX1ZZTFRGclBrOC16NVZ6Z0JJT2hsVjU5dWI3Ni1HdHE2cE93bDVNN0N6YTl3WVpNT1RteUxsd1dQTlZ2X2JkbjFnQng5WDFSb1FiLThJMGU4NjZWSTJILWN0WW00eU9FRzFKSmFOUmZwVVNycEs1bkVNT0E?oc=5",
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "England star cops freak injury amid wild World Cup celebrations",
+    "source": "SEN",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclgxMXZXVF8tVy04Y3loNWgyNGZZZVM3NFhkdkdfSXBHUTV3TVpJUnJkWEJLV1VTSkJ3bFZnUmdnYTQ0Qm1Va1BSRzZGa1VxV2dBd0k2Q3NhTXo1V0x4RV9WMW5xb0lPZ2xZQTgwRW1Qem44Vm9CbWJTczZ3ZEZZc3FkaFhqaG9pNzlRUVVKc09oMThSVEtYOUM4ck5Pc1hGOC1TcVAzWTNUSUdyOEtScDlZRmdsYW54OUdCdGZfS28?oc=5",
     "teams": [
-      "Brasil"
+      "Inglaterra"
     ],
-    "category": "general",
-    "impact": "LOW",
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -640,8 +694,8 @@
     "source": "Diario AS",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -651,7 +705,7 @@
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Colombia vs Ghana Confirmed Lineups & Formations Tonight: World Cup Predictions",
-    "source": "fanduel.com",
+    "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ096ZHh3cjdUNklLS0FUeE93VjlhRVhCbW9tQ0RGZl94dDZoZ3huQTNrOHVkeVJnX2N5VTFzTGVuTTE3SVNSdzd6YnVON2JibXF6M3lqWVFvYk9tTHYtX2VvVXZkWVg1MUQ5bmotVTQ4dkNLTmhTZHo1RDd4Z0hMeUkzOEVCNUJ6NlZ3QVZlNGRqNm5MblFLMTczMk9mZERIT2NaSm5GQlhHX2hCeVpJMzY2MA?oc=5",
     "teams": [
       "Colombia"
@@ -669,58 +723,6 @@
     "teams": [],
     "category": "bracket",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:00",
-    "date_ts": 1782975600.0,
-    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 07:00",
-    "date_ts": 1782889200.0,
-    "title": "Belgium vs Senegal Confirmed Lineups & Formations Today Predictions World Cup 2026",
-    "source": "fanduel.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEZYanJKeWdFSDdNR3c1bUxaYnFQbHdpemp4TVB4S0MyOEE5NS1hWHpqSmdZU1RHLUxWeElYeUFFNnlBaUpMeTk0eVdkRFhwQ25ST0FYVFRqc2RhUE5qU1NsN3BCVmo3ekJCYmtZakt6TWxCbTQxbld1OG04TDBrSk93NUtXTi13WFVPc0phZzg3YWx6OTA1TlloVE1YRDA3bG1jeVBkV0VGV2RYSlJtRXJLVWE3X2Q3?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
