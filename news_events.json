@@ -329,17 +329,6 @@
     "source_type": "news"
   },
   {
-    "date": "12/08 00:10",
-    "date_ts": 1786493452.0,
-    "title": "2026 FIM Harley-Davidson Bagger World Cup Round 4 Results",
-    "source": "cyclenews.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2diMU0wSXhnbXRSQjJwdmRBSzBpVHpEaWlNd0xHcVIxdmk5dHFaTHVZQlJId3BMYUVmeFpBUkFWWlo4bG4yaXFod0I4MmJYSnVKTGo1WjlFNnVIN0RIcTdqR0tGLWJpc05SdGRlalVwRkVDUWFQZFV1T2czNjJ4Uk91aU16NFB1Vk1QeldPRWpjWXl3T2pOT2JxNHJIeE1KSnc?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "08/08 07:00",
     "date_ts": 1786172400.0,
     "title": "Portland Fire suspend Luisa Geiselsöder’s contract ahead of FIBA World Cup",
@@ -375,17 +364,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/07 07:00",
-    "date_ts": 1784703600.0,
-    "title": "FIFA World Cup: Schedule, Results and Standings",
-    "source": "elisportsnetwork.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -722,6 +700,32 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:00",
+    "date_ts": 1782975600.0,
+    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "01/07 07:00",
+    "date_ts": 1782889200.0,
+    "title": "Belgium vs Senegal Confirmed Lineups & Formations Today Predictions World Cup 2026",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEZYanJKeWdFSDdNR3c1bUxaYnFQbHdpemp4TVB4S0MyOEE5NS1hWHpqSmdZU1RHLUxWeElYeUFFNnlBaUpMeTk0eVdkRFhwQ25ST0FYVFRqc2RhUE5qU1NsN3BCVmo3ekJCYmtZakt6TWxCbTQxbld1OG04TDBrSk93NUtXTi13WFVPc0phZzg3YWx6OTA1TlloVE1YRDA3bG1jeVBkV0VGV2RYSlJtRXJLVWE3X2Q3?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
