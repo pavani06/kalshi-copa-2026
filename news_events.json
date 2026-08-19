@@ -436,17 +436,6 @@
     "source_type": "news"
   },
   {
-    "date": "22/07 07:00",
-    "date_ts": 1784703600.0,
-    "title": "FIFA World Cup: Schedule, Results and Standings",
-    "source": "elisportsnetwork.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -487,7 +476,7 @@
     "date": "17/07 07:00",
     "date_ts": 1784271600.0,
     "title": "Copa do Mundo de 2026: tabela completa e calendário oficial",
-    "source": "fifa.com",
+    "source": "FIFA",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4YnRvUEhreVdDSXROOVJMM1R0SzBjSUd6VWpRSVd1ZGRzbFcxWU1QdXc5bjJJNkFrbW9NU1dwalNQWGhTX2pUNnVxVXh0eHI0eUNHWlpib2U1TUlndjlGWjA3d3NzUWN3ZVktVEpn?oc=5",
     "teams": [],
     "category": "result",
@@ -718,6 +707,17 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
     "source_type": "news"
   }
 ]
