@@ -401,6 +401,17 @@
     "source_type": "news"
   },
   {
+    "date": "22/07 07:00",
+    "date_ts": 1784703600.0,
+    "title": "FIFA World Cup: Schedule, Results and Standings",
+    "source": "elisportsnetwork.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -585,9 +596,9 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "France vs Morocco Lineups Confirmed Plus Formations Today World Cup Predictions",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcW0xV0VxbTEyQWFaSVlvZ0dpVnlHR2F4N25yZ09rQVJJOEozaUd0cFNSM2xOYWttRmEzODZZYWlxeFlSbkYzbHRFWC1oeUV5a0NkM0M0cFFUaWNDcGF4RGVocVEySFVPUmFJV0l4Qjczb21SRUFVOEpUaE5UUURZMmVaeVhrZHhZcDRQenBjM1QtUDVyWkFQWTJrVUtCb09zcDlXYWwzVTlJTTl3LXhhTFFSZzBvTDRLLTRWN1Z1UXNFeDVNSFVsem5LOXFzcC1jcGc?oc=5",
+    "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -601,19 +612,6 @@
     "title": "France Starting XI vs Morocco: Predicted Lineup and Confirmed Team News",
     "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VReHpIbnNHWHNEdkJFTWJKUkhOc3htQ1hTdG1nSHdHaTlQRmVySzhXdldFZVgtMm5fNUFGbTMxTWNHcFRiVTRsclY0UkVMNlRoN2xUdk1zSmh4VUJIV1RvRHdsOGNZa1RvbDFFUDdJMWx5SGN4RnFOa1lkaEEzZ0NtNDU?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "France vs. Morocco—World Cup: Preview, Predictions and Lineups",
-    "source": "Sports Illustrated",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQU1Vam4zSC1VMUFlVXAybjNiMEZhcGdEM1RQSEVGMXo2dW1HcE1ncjdEdlVaZ2p1enNNZHZpQm82U01Hejh5cjdfVmM3d3g1UVRsZEdZZDZTalRJNksxZldJTTZ0YnBCVUZsQWFrN01KQ3kxd0ZnUnVPS0Q1VnV0eTFOLUZQWVBkSkpJazBIVnV4QQ?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -638,7 +636,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Norway boss speaks out on star's injury concern ahead of England clash",
-    "source": "metro.co.uk",
+    "source": "Metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
     "teams": [
       "Inglaterra",
