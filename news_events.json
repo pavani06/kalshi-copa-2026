@@ -425,21 +425,10 @@
     "source_type": "news"
   },
   {
-    "date": "17/07 07:00",
-    "date_ts": 1784271600.0,
-    "title": "Copa do Mundo de 2026: tabela completa e calendário oficial",
-    "source": "FIFA",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4YnRvUEhreVdDSXROOVJMM1R0SzBjSUd6VWpRSVd1ZGRzbFcxWU1QdXc5bjJJNkFrbW9NU1dwalNQWGhTX2pUNnVxVXh0eHI0eUNHWlpib2U1TUlndjlGWjA3d3NzUWN3ZVktVEpn?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -452,7 +441,7 @@
     "date": "14/07 07:00",
     "date_ts": 1784012400.0,
     "title": "Spain scores 2-0 win over France, advancing to World Cup final",
-    "source": "pbs.org",
+    "source": "PBS",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
     "teams": [],
     "category": "result",
@@ -532,7 +521,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -676,7 +665,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal vs Spain Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TEw1QUVpWXdMc1pJa2MxQjhud0dkR2VuRC1LdGtaRjVCdzhHbnpiaHNRNG5FQ1VFYWxpZXNrWUNJcFZmeEZ6ellyY19RWlQ4Y2RfMG9hMVNPRXVkR2dFSlB3?oc=5",
     "teams": [
       "Portugal"
@@ -720,6 +709,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Cristiano Ronaldo Confirms 2026 World Cup Is His Last: 'Let's Go And Enjoy It'",
+    "source": "foxsports.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkVrM3dmYWl2c2NCOXN0QzRuejdNZE1EekFDTkZIUTF5a1d1WWNBeGt5R0wzSUJvZGt2QjR0ZXJxZ1F4YWpsNkJiSHgzbzdNcHNlZ01CZXpuQkp5ZnFtbDZTLWZiVHFPemtTTFpwVk81R0xoUGhZOG9HSTNsQWJQdDM0RFczWGxLWTB3ejYtY0M0THpVUXg0eWFlcVVoWG1lQ1E1cmRRenctMmJz0gGsAUFVX3lxTE5zbjNJbW12Q3c0eHhoUF9zZVh1SWVvOVg2SWhrbDdkQkRxQUxxMjhnbWxTZjVuV3BZUURvRFF5OTFlYXVSS2d0S2M1N0tVeDVtTFFQaXpZR2w2TUhJcHJrRGFtLXJiNDBoeXZ5ck9OZnNCSGEzaGNtbFFuNWhNVm50UExSZ1VpSlFRMTFycE45aktEMFppMjdmZWI4VzdLNmpkRlA0WXg2Y0toeF8?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
