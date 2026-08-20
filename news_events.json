@@ -451,17 +451,6 @@
     "source_type": "news"
   },
   {
-    "date": "14/07 07:00",
-    "date_ts": 1784012400.0,
-    "title": "Spain scores 2-0 win over France, advancing to World Cup final",
-    "source": "PBS",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "12/07 07:00",
     "date_ts": 1783839600.0,
     "title": "FIFA World Cup Semi-Finals Injury Tracker: Latest Player Availability, Injuries and Return Timelines",
@@ -637,20 +626,6 @@
   {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
-    "title": "Norway boss speaks out on star's injury concern ahead of England clash",
-    "source": "Metro.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHVuRU1BVmNBSVIyeV82WjA1RkRJUWpHel9rTkR1VUQ3MjFsSmZjNFlHazVnLXBPZjQzaFh4UldodmU5dmxuTFhick8tUE02bEh2dHpsYWFEZ0EtMUIwTFRCTXpEczZndVVPSzE4RktONnlTWTkxV1pyV0dGSmNRQnJUN2s0MFJsWWtRY0ZoOGZ0VXRmRUZXWlE2aVNJN0JmT0HSAacBQVVfeXFMTU9jRWdrOUlpcFl2bXh1X25MVlBRa0hZWkdpLVpLQWZTanczdUxKS1BBV0szUGRERTF4R09oWFpOMTFUNkpaLWdTdHRXdEU2U214MlZJRy0yX0VROXN5c29sS1FJdGpldGhLUDFXenkzSTVZNjg4MkwwU2ladnU2Y2wxblJCTTJUUG1uZFhqMF8zUEdEb1dMTzlGbGZ2VS1pY1BMLXlXRjQ?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
     "title": "Why isn’t Nico Williams starting today for Spain vs Portugal at the 2026 World Cup?",
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFYxQ05EckhIQm05Rk5OY2JTU29WaVdfU01JaDNiekNmXy1ya3R1OVdkRWNiMjZuUFVib2g4eWF3TEZ2aHg0cEJaUzV2cWJYdVV2UFFXWWNqVlVpU21KZDd3X2lhcUQ5S3ZNM0tHMFNrZ2t3YWR6SmRhV1puWWJ0aW5EOWhhREV3bjFtM0w4U04tc3NwOUJSOWVBb3JmZXAzYWlmQnNNeldKUGN0MVF5VmdkSzjSAboBQVVfeXFMTzlENGtSZHc2VlNTd1NiNUhaSzZCWC1Wc1k4U1hvN3BUeWhKNVZHZDI5eEM4amo1UEY5T18xUkRDWl9kdGVCTk5JeW43WkllQy15TXJ0QkFJSUNGaHpsVUZza2xsbjNxMkRzUWwyZEs1UDl3c21hcklEckthdGd4ZGlkU0tIOWozbjl2MXEwYnRhd2l0NjFmN0pOSFVLT1FwWTlSWXdycE96UEkyVmxnNnFNam51RmJReEx3?oc=5",
@@ -721,6 +696,30 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Cristiano Ronaldo Confirms 2026 World Cup Is His Last: 'Let's Go And Enjoy It'",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkVrM3dmYWl2c2NCOXN0QzRuejdNZE1EekFDTkZIUTF5a1d1WWNBeGt5R0wzSUJvZGt2QjR0ZXJxZ1F4YWpsNkJiSHgzbzdNcHNlZ01CZXpuQkp5ZnFtbDZTLWZiVHFPemtTTFpwVk81R0xoUGhZOG9HSTNsQWJQdDM0RFczWGxLWTB3ejYtY0M0THpVUXg0eWFlcVVoWG1lQ1E1cmRRenctMmJz0gGsAUFVX3lxTE5zbjNJbW12Q3c0eHhoUF9zZVh1SWVvOVg2SWhrbDdkQkRxQUxxMjhnbWxTZjVuV3BZUURvRFF5OTFlYXVSS2d0S2M1N0tVeDVtTFFQaXpZR2w2TUhJcHJrRGFtLXJiNDBoeXZ5ck9OZnNCSGEzaGNtbFFuNWhNVm50UExSZ1VpSlFRMTFycE45aktEMFppMjdmZWI4VzdLNmpkRlA0WXg2Y0toeF8?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Notas da Seleção: Bruno Guimarães sai como vilão, Endrick entra mal e Neymar dá adeus com gol",
+    "source": "ESPN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDRxakJpTHZBVEhWMDBwZC12SjNCRG1vNEtwMWJSRllFOTAyUzRwMmZCMUpNaGpXWXVoa3lFT2ZfWmVzSkpSUXFUOTRhZWZPZ1hFMVNfWUwyanY1QnJ1LUNpZU5RME8tZURXN3BYOUZ0OGtZMjlyemUwbHJJNXFmRFREMzBPWVBaQ2ZCUHlZYXRFa1VWZmRiZWloQmZaeTBnV3dKdVRvVnZETFZzUF94TUxIMmZmVXhBSEJ3NVdLZ1lJMF9TNU5qcmRKdmMzbXJFRC13LWZLVQ?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   }
