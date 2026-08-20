@@ -373,19 +373,6 @@
     "source_type": "news"
   },
   {
-    "date": "12/08 23:44",
-    "date_ts": 1786578269.0,
-    "title": "Cruzeiro vs Flamengo LIVE on beIN SPORTS | Copa Libertadores 2026",
-    "source": "beIN SPORTS",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPajJsZzNReFhfZEplRElpMnBhdjBrVjVlZ1Y0MDJ3Q0QxWXdyXzRIOHhxWlN6QjN0NUcxMTlDTXI2QU4tV3Q3OGhjdi1DOVoySkRHdkVDWS1nNUUyVVdiX0RRaEpaRWstQ3ByNW5DOVRabzRqbWF1QXhpdmZzSEtOak5lb3lleXpUaTRKdW1MTjk5d255VjVRcVZuRy1nRnl5R3BubTdEai0xWTRoS2hCUllmMDJUOWo4M0N0U05nSERVaFhqRnl1REtVZExqWlI3SVpnOUwtUUhQZmI4?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "08/08 07:00",
     "date_ts": 1786172400.0,
     "title": "Portland Fire suspend Luisa Geiselsöder’s contract ahead of FIBA World Cup",
@@ -481,34 +468,6 @@
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Norway vs England: Confirmed lineups with Erling Haaland today in 2026 World Cup quarterfinals",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 07:00",
-    "date_ts": 1783666800.0,
-    "title": "Norway vs England Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXBSenZNVUpLSG5jVkRyd0hjWVFsQVV5LVQ5SFk0VW01QlQ3Q0JtMk9vV191SUwwYUhtRXdxZFJBMWJrajhyZ1VBWjhITC04UEQxcGtsMWtZTDBPU0w5OFlPSVRjQXJrLWdsWVhhQm5KN1JPUWxEVm9CRlpfbkRXQkM3Y21xTlB5TEJSc09IUnA1SFQ5dTBCNWExY0haaWhqdWRKbWtuV1ZlYlVFV3hYa2Y1N180SDFCMjZHRkl2aTdxQ0FFZFR6TkY5aXdVWWpGaTZOcTRnRFpndVB1ZlM4?oc=5",
     "teams": [
       "Noruega",
       "Inglaterra"
@@ -714,11 +673,52 @@
   {
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
+    "title": "Brazil vs Norway Lineups & Formations Confirmed for World Cup Round of 16",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0JVRWZYRDQ5TzY2QWkwa05NeGRYX2VYRUdzY2tZSHo1VmZkSktJeFJvNFV3eHpuc0Y2UTVrRWlNWTB6elladXV0NUY0RURLUmR6TktwZUgtRll1TmF4U01YeDUwWEkwLTFnRVFQUVA4VjBlTW5GTGdTMmNKUmMtZWRGMVdzNXBaVFh3T1BGSTQ5OFdFQTc3T2kxbm1zSWlVMkxmaktDNldzc1M0?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Norway confirmed starting lineup vs. Brazil: Solbakken’s XI for the World Cup round of 16 game",
+    "source": "Diario AS",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
     "title": "Notas da Seleção: Bruno Guimarães sai como vilão, Endrick entra mal e Neymar dá adeus com gol",
     "source": "ESPN Brasil",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDRxakJpTHZBVEhWMDBwZC12SjNCRG1vNEtwMWJSRllFOTAyUzRwMmZCMUpNaGpXWXVoa3lFT2ZfWmVzSkpSUXFUOTRhZWZPZ1hFMVNfWUwyanY1QnJ1LUNpZU5RME8tZURXN3BYOUZ0OGtZMjlyemUwbHJJNXFmRFREMzBPWVBaQ2ZCUHlZYXRFa1VWZmRiZWloQmZaeTBnV3dKdVRvVnZETFZzUF94TUxIMmZmVXhBSEJ3NVdLZ1lJMF9TNU5qcmRKdmMzbXJFRC13LWZLVQ?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 07:00",
+    "date_ts": 1783148400.0,
+    "title": "Colombia vs Ghana Confirmed Lineups & Formations Tonight: World Cup Predictions",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ096ZHh3cjdUNklLS0FUeE93VjlhRVhCbW9tQ0RGZl94dDZoZ3huQTNrOHVkeVJnX2N5VTFzTGVuTTE3SVNSdzd6YnVON2JibXF6M3lqWVFvYk9tTHYtX2VvVXZkWVg1MUQ5bmotVTQ4dkNLTmhTZHo1RDd4Z0hMeUkzOEVCNUJ6NlZ3QVZlNGRqNm5MblFLMTczMk9mZERIT2NaSm5GQlhHX2hCeVpJMzY2MA?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
