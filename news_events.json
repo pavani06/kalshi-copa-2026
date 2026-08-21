@@ -576,6 +576,20 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 07:00",
     "date_ts": 1783666800.0,
     "title": "Norway vs England Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
@@ -703,19 +717,6 @@
       "Marrocos"
     ],
     "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
-    "title": "Why isn’t Nico Williams starting today for Spain vs Portugal at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFYxQ05EckhIQm05Rk5OY2JTU29WaVdfU01JaDNiekNmXy1ya3R1OVdkRWNiMjZuUFVib2g4eWF3TEZ2aHg0cEJaUzV2cWJYdVV2UFFXWWNqVlVpU21KZDd3X2lhcUQ5S3ZNM0tHMFNrZ2t3YWR6SmRhV1puWWJ0aW5EOWhhREV3bjFtM0w4U04tc3NwOUJSOWVBb3JmZXAzYWlmQnNNeldKUGN0MVF5VmdkSzjSAboBQVVfeXFMTzlENGtSZHc2VlNTd1NiNUhaSzZCWC1Wc1k4U1hvN3BUeWhKNVZHZDI5eEM4amo1UEY5T18xUkRDWl9kdGVCTk5JeW43WkllQy15TXJ0QkFJSUNGaHpsVUZza2xsbjNxMkRzUWwyZEs1UDl3c21hcklEckthdGd4ZGlkU0tIOWozbjl2MXEwYnRhd2l0NjFmN0pOSFVLT1FwWTlSWXdycE96UEkyVmxnNnFNam51RmJReEx3?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   }
