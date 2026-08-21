@@ -423,17 +423,6 @@
     "source_type": "news"
   },
   {
-    "date": "14/08 04:57",
-    "date_ts": 1786683473.0,
-    "title": "FIH Men's Hockey World Cup 2026: News, Schedule, Scores, Results, Points table",
-    "source": "ESPN Singapore",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWxfNzk5TG9xRV9UaGtKOEdnLXhFUE0yWS1WWllFc1YwZmR0R0hSTDVaeUsza2J1TGhaRkNvTUhBUWFuRWs4cnRRTjA5VkFYMHp2aEhQblRUbWNjNVNsZi1lOE10R0ZhbF8tcmVzR1Q4ckFuTWh4eEhwdk52RzMzVmt5RDhtQ1BNTEVxM3dKcHdka054Qml5eTZUcFV2dHdWbS0xZXJGTnB6RjlGbXdVQXRqOFZCdVRJbTRlblkxaGNUTFJWbVJ5eEtoYXg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "08/08 07:00",
     "date_ts": 1786172400.0,
     "title": "Portland Fire suspend Luisa Geiselsöder’s contract ahead of FIBA World Cup",
@@ -717,6 +706,19 @@
       "Marrocos"
     ],
     "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "Why isn’t Nico Williams starting today for Spain vs Portugal at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFYxQ05EckhIQm05Rk5OY2JTU29WaVdfU01JaDNiekNmXy1ya3R1OVdkRWNiMjZuUFVib2g4eWF3TEZ2aHg0cEJaUzV2cWJYdVV2UFFXWWNqVlVpU21KZDd3X2lhcUQ5S3ZNM0tHMFNrZ2t3YWR6SmRhV1puWWJ0aW5EOWhhREV3bjFtM0w4U04tc3NwOUJSOWVBb3JmZXAzYWlmQnNNeldKUGN0MVF5VmdkSzjSAboBQVVfeXFMTzlENGtSZHc2VlNTd1NiNUhaSzZCWC1Wc1k4U1hvN3BUeWhKNVZHZDI5eEM4amo1UEY5T18xUkRDWl9kdGVCTk5JeW43WkllQy15TXJ0QkFJSUNGaHpsVUZza2xsbjNxMkRzUWwyZEs1UDl3c21hcklEckthdGd4ZGlkU0tIOWozbjl2MXEwYnRhd2l0NjFmN0pOSFVLT1FwWTlSWXdycE96UEkyVmxnNnFNam51RmJReEx3?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   }
