@@ -449,6 +449,19 @@
   {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
+    "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/07 07:00",
+    "date_ts": 1785308400.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
     "source": "KOHA.net",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
@@ -527,8 +540,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -541,8 +554,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -555,8 +568,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -569,8 +582,8 @@
     "source": "RotoWire",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXBSenZNVUpLSG5jVkRyd0hjWVFsQVV5LVQ5SFk0VW01QlQ3Q0JtMk9vV191SUwwYUhtRXdxZFJBMWJrajhyZ1VBWjhITC04UEQxcGtsMWtZTDBPU0w5OFlPSVRjQXJrLWdsWVhhQm5KN1JPUWxEVm9CRlpfbkRXQkM3Y21xTlB5TEJSc09IUnA1SFQ5dTBCNWExY0haaWhqdWRKbWtuV1ZlYlVFV3hYa2Y1N180SDFCMjZHRkl2aTdxQ0FFZFR6TkY5aXdVWWpGaTZOcTRnRFpndVB1ZlM4?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -670,9 +683,9 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "France vs Morocco Lineups Confirmed Plus Formations Today World Cup Predictions",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcW0xV0VxbTEyQWFaSVlvZ0dpVnlHR2F4N25yZ09rQVJJOEozaUd0cFNSM2xOYWttRmEzODZZYWlxeFlSbkYzbHRFWC1oeUV5a0NkM0M0cFFUaWNDcGF4RGVocVEySFVPUmFJV0l4Qjczb21SRUFVOEpUaE5UUURZMmVaeVhrZHhZcDRQenBjM1QtUDVyWkFQWTJrVUtCb09zcDlXYWwzVTlJTTl3LXhhTFFSZzBvTDRLLTRWN1Z1UXNFeDVNSFVsem5LOXFzcC1jcGc?oc=5",
+    "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -704,19 +717,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
-    "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGo3M1hlbmowblgzVkZQTVNTRkRmaThMV3NRN1JqekNXekhrQ3BoeWVjODh0T1ZPYzdHN19PMmtFU1NtU3V4Z29qMGh2VXlFcnlEOEFhUWdBbGlsUXhZZ2p4b2Z1S0ZyYldIVGhudFdJeVNuVFlTSGNSdFNyYzZWNW5HbWluR2ZVSXlqbUFxa0g0UUlZTzU2TEM2WkFGZFZuRzBDbmstV3ZnaTFFbkFJZ0pTUGRJQlJLemRV?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
