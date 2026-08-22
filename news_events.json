@@ -11,6 +11,17 @@
     "source_type": "news"
   },
   {
+    "date": "21/08 16:13",
+    "date_ts": 1787328814.0,
+    "title": "Argentina players, staff banned for combined 21 games after World Cup final brawl - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVlodUgwWE1qbjFDcThCWXNyS1ktek5sMS1lQld0N1dUWVFBOTlJanc2LURqZWd5bkZKcEl1Y0JSZWZ0ZU5JcnNWbXRPcVJ0NzJHYTNlLUNSbzFfakdZVGZZTFlHOWxDSHVfWV9Fak5CYVNidjl0SlM1aXRVY0FEQWVOY215UFhRWlRick1GckZUY3RtZENBYg?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "21/08 15:39",
     "date_ts": 1787326758.0,
     "title": "Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain",
@@ -511,17 +522,6 @@
     "source_type": "news"
   },
   {
-    "date": "13/08 07:00",
-    "date_ts": 1786604400.0,
-    "title": "Análise: Flamengo corrige rota com talento de Pedro e Paquetá e sai do Mineirão confiante",
-    "source": "ge",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTDl4UVVfNHJVRUJrWkhLdnh5NFFKVEhPT1hVbzNtVzk4bEJRM0V5WUYxQnBkMDRwMmpxc21nTC1SRlA1ZHlVZDRPZFFTLXNfaVlLb2QxaTdiWm5PMFB0SVJTU2o1M3hfSnJNT0pWLWJUVjFXV3cwdHN0S3JPWHI5cVJpVjhvQnk3UGVQZ3hMXzRSMWxLUjYxVXlCTll1MGxKajRUT1pTa09QOW14QzVTRnphWEFjRmhtdUhWSGFnbGl6ZGFic3JNd3RsU0VJMHlOUHdRcVlxSkt3NjY0T0k4S2pjRkRuYWJGaTVDeXln0gH8AUFVX3lxTE5NTm8xMDJXRHFKV3pFdnFCNXV6RzdpM2ZWaXlqUTlJNEpDeWJQWWZfTVNJaWVSbHEzaVd2eDJLU256YmR0UjVRY3Raa3FIUXdFN0xtZENqWF9CN1ptSDNQUTZzWTFhSm0wSXV2NVVHTmZDdk50alZpNkFGd2JSQjhFd243YU1fTktpd2JwbXBrcVVjdFZuNlh3bmYycVdBQVlOZnljbU9Rd05Ya0ZIV3prQ1MwZlRyZHNWa1dTNHI5MU5YVkdISFozY3YwTk9kNnpBakk0ZzlfclFjMk9Md1MxWkN4MGY0S2FiVVF6NlhZMWNpYTNJYlRjUVR5cQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -592,6 +592,19 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "FIFA World Cup Semi-Finals Injury Tracker: Latest Player Availability, Injuries and Return Timelines",
+    "source": "Sports Injury Central",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWdnOEUzV2kwdlV1RDVXWHpzeHNDNjA2S0laRkx0YWxveHBpUUFpLXVjNUtsYUY1M1pDOGw1UFQ4Y3VnUmxJNkozcDFjVkRLSEtxQTNYbW9abjFvOXZwem9tTEUwV295YWQ5eHUwZEh1OTBZX1o2bklOVXlUNnBLc2RhNDBHNmpNX19RZ0dzQ0NTOFV6X21sb3ZkQ0lvQXBta0VlVGFtaHFreE8zN29pbUNTTGtvY0JmdnprdnlDaWp5dw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -671,20 +684,6 @@
     "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
-    "teams": [
-      "Noruega",
       "Inglaterra"
     ],
     "category": "injury",
