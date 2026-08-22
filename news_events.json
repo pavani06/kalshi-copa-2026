@@ -572,17 +572,6 @@
     "source_type": "news"
   },
   {
-    "date": "14/07 07:00",
-    "date_ts": 1784012400.0,
-    "title": "Spain scores 2-0 win over France, advancing to World Cup final",
-    "source": "PBS",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "12/07 07:00",
     "date_ts": 1783839600.0,
     "title": "FIFA World Cup Semi-Finals Injury Tracker: Latest Player Availability, Injuries and Return Timelines",
@@ -696,6 +685,19 @@
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
     ],
