@@ -55,6 +55,17 @@
     "source_type": "news"
   },
   {
+    "date": "21/08 14:20",
+    "date_ts": 1787322026.0,
+    "title": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "21/08 13:26",
     "date_ts": 1787318764.0,
     "title": "Results: Elite Q2 Qualifying at the 2026 Les Gets DH World Cup",
@@ -522,6 +533,17 @@
     "source_type": "news"
   },
   {
+    "date": "13/08 07:00",
+    "date_ts": 1786604400.0,
+    "title": "Análise: Flamengo corrige rota com talento de Pedro e Paquetá e sai do Mineirão confiante",
+    "source": "ge",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTDl4UVVfNHJVRUJrWkhLdnh5NFFKVEhPT1hVbzNtVzk4bEJRM0V5WUYxQnBkMDRwMmpxc21nTC1SRlA1ZHlVZDRPZFFTLXNfaVlLb2QxaTdiWm5PMFB0SVJTU2o1M3hfSnJNT0pWLWJUVjFXV3cwdHN0S3JPWHI5cVJpVjhvQnk3UGVQZ3hMXzRSMWxLUjYxVXlCTll1MGxKajRUT1pTa09QOW14QzVTRnphWEFjRmhtdUhWSGFnbGl6ZGFic3JNd3RsU0VJMHlOUHdRcVlxSkt3NjY0T0k4S2pjRkRuYWJGaTVDeXln0gH8AUFVX3lxTE5NTm8xMDJXRHFKV3pFdnFCNXV6RzdpM2ZWaXlqUTlJNEpDeWJQWWZfTVNJaWVSbHEzaVd2eDJLU256YmR0UjVRY3Raa3FIUXdFN0xtZENqWF9CN1ptSDNQUTZzWTFhSm0wSXV2NVVHTmZDdk50alZpNkFGd2JSQjhFd243YU1fTktpd2JwbXBrcVVjdFZuNlh3bmYycVdBQVlOZnljbU9Rd05Ya0ZIV3prQ1MwZlRyZHNWa1dTNHI5MU5YVkdISFozY3YwTk9kNnpBakk0ZzlfclFjMk9Md1MxWkN4MGY0S2FiVVF6NlhZMWNpYTNJYlRjUVR5cQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
@@ -531,17 +553,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 07:00",
-    "date_ts": 1784530800.0,
-    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -683,19 +694,6 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
-    "teams": [
-      "Marrocos"
     ],
     "category": "injury",
     "impact": "HIGH",
