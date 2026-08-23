@@ -1,5 +1,27 @@
 [
   {
+    "date": "23/08 11:04",
+    "date_ts": 1787483046.0,
+    "title": "Results: 2026 Les Gets Elite XC World Cup",
+    "source": "Pinkbike",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR2ZJU2laRWJjUl8xOE1rT2ZpaHRBUUZHbTNfZ2g0RE82TWlSM3lJNFpQOXI4MFJBSTBkdWlvSVA5ZzRLWEpqdEsxS3MycTRsV2cxUjlfVmZMYWUyYzNXR2o0N2xBNkt6RmhNOVZodVh2eTNmZUE3YVF4TGdPTWVCVQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "23/08 10:40",
+    "date_ts": 1787481600.0,
+    "title": "India vs Australia LIVE in FIH Womens World Cup: Scores, updates, commentary, news",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdlJGeEFCcjJicFNFVllfdXRyX2tHWUVhdFNqOWdsUDRQblA4VVgtS01FTVFrN2RXTXVaU19JN1BUUXpMY29TZkJLQmZfSzlfUmRPc2JDaGdqeVJjQ3A1Y2ZzenV1aUxNcTVPMVhia0FNckdEZFZ5TFZsQ1N1NTY0bGc5eXFSeVlKYU5OZXhKeVAxY1hwc25Ed3p3TDVXU0pUenBqTjV4WFRPMDE2d1RXNFZjTWVzR0k1S3ZuaFQ5UjZxNUFsX3U0X1FERGlXYjV1dDFLVk5UXzZlcnF1bGtr?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "22/08 17:34",
     "date_ts": 1787420040.0,
     "title": "Confirmed Supercup Lineups: Borussia Dortmund vs. FC Bayern Munich",
@@ -498,19 +520,6 @@
     "source_type": "news"
   },
   {
-    "date": "07/08 07:00",
-    "date_ts": 1786086000.0,
-    "title": "France Must Be Careful: These Players Cannot Receive Another Yellow Card",
-    "source": "beIN SPORTS",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmdkeFVMb20xYlNpOUxrV25hMHo4TTNpeWVfZnBQWXZMLUcweFpDSTdwS3FaVFlrLV9VcHhLVkwyNDczVkxqYWNhek1vbWVSODhnbDJhZnNiOXpxb3FpMUhmdmtWNHdmMExacGxIMElCb0hONVdpRjRmTGdHQU50NVQwREp0cVZ6Vm4tdXlhdFlTQ3lHOGJsd3FzWlhyOUNoelRocEpNYkhzbjg1YzFIQjBsVkd4NVhsTjdLemJicjlmdFRtSThhZWZLQkdWZEVHM2NBRU9FQWpEZmpSTnEteWw5aVVwZw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -581,19 +590,6 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 07:00",
-    "date_ts": 1783839600.0,
-    "title": "FIFA World Cup Semi-Finals Injury Tracker: Latest Player Availability, Injuries and Return Timelines",
-    "source": "Sports Injury Central",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWdnOEUzV2kwdlV1RDVXWHpzeHNDNjA2S0laRkx0YWxveHBpUUFpLXVjNUtsYUY1M1pDOGw1UFQ4Y3VnUmxJNkozcDFjVkRLSEtxQTNYbW9abjFvOXZwem9tTEUwV295YWQ5eHUwZEh1OTBZX1o2bklOVXlUNnBLc2RhNDBHNmpNX19RZ0dzQ0NTOFV6X21sb3ZkQ0lvQXBta0VlVGFtaHFreE8zN29pbUNTTGtvY0JmdnprdnlDaWp5dw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -696,11 +692,12 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
+    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
     "teams": [
-      "Marrocos"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
