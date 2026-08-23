@@ -1,5 +1,16 @@
 [
   {
+    "date": "23/08 12:04",
+    "date_ts": 1787486640.0,
+    "title": "How India men can qualify for Hockey World Cup 2026 semi-finals",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREtkMjFGaWdqRGtaTWYwTWl6eVg3cGFTUFhELVEtaE9fTVl6UHhRMjlJSGhoLUc5R0cyQURWdDVwRm9JVW1qdm1iMGpXaWItM09RVTdOQ2cwUWtZeTRxWXVSM1I2VlNtb0ZKS1MwOGQ1WEJUZ1dvLWd0UldKQ3F4Z0dacnRHckpicjU4SEZCQmw2ZDRDa2k2WjFHcDhjVS0wbXZPd2RoekltUnpP?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "23/08 11:04",
     "date_ts": 1787483046.0,
     "title": "Results: 2026 Les Gets Elite XC World Cup",
@@ -596,17 +607,6 @@
     "source_type": "news"
   },
   {
-    "date": "14/07 07:00",
-    "date_ts": 1784012400.0,
-    "title": "Spain scores 2-0 win over France, advancing to World Cup final",
-    "source": "PBS",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
@@ -649,6 +649,20 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/07 07:00",
     "date_ts": 1783666800.0,
     "title": "Norway vs England Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
@@ -682,20 +696,6 @@
     "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3E3aVY0enNXcElnRVd4SkdId0FVcm0zLTFjVGRYRTVLZWVLZGRpM3FuczJnYVhyd2NZdWNteVkyYnhCem9kczBqRXNxbzBVbGh6RlNma0pQMk10b2FiMGpBbnZVR1ljV1E0b0hWbzNnUDdOSjRBdVR1aUhRamk1NGMzWkdtVHJxQjFVa2sxMFRDRjl1aDhyYUR6MW5FM1lfVUpnZmtqS2dxb0pMYUhRUTRpMEhzdw?oc=5",
-    "teams": [
-      "Noruega",
       "Inglaterra"
     ],
     "category": "injury",
