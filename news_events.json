@@ -522,19 +522,6 @@
     "source_type": "news"
   },
   {
-    "date": "07/08 07:00",
-    "date_ts": 1786086000.0,
-    "title": "France Must Be Careful: These Players Cannot Receive Another Yellow Card",
-    "source": "beIN SPORTS",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmdkeFVMb20xYlNpOUxrV25hMHo4TTNpeWVfZnBQWXZMLUcweFpDSTdwS3FaVFlrLV9VcHhLVkwyNDczVkxqYWNhek1vbWVSODhnbDJhZnNiOXpxb3FpMUhmdmtWNHdmMExacGxIMElCb0hONVdpRjRmTGdHQU50NVQwREp0cVZ6Vm4tdXlhdFlTQ3lHOGJsd3FzWlhyOUNoelRocEpNYkhzbjg1YzFIQjBsVkd4NVhsTjdLemJicjlmdFRtSThhZWZLQkdWZEVHM2NBRU9FQWpEZmpSTnEteWw5aVVwZw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Special punishment in Brazil – suspension until the injured player returns",
@@ -699,6 +686,19 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
+    "teams": [
+      "Marrocos"
     ],
     "category": "injury",
     "impact": "HIGH",
