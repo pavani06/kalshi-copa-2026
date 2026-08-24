@@ -489,17 +489,6 @@
     "source_type": "news"
   },
   {
-    "date": "17/08 18:12",
-    "date_ts": 1786990335.0,
-    "title": "Mathieu van der Poel Confirmed to Race Les Gets World Cup XC This Weekend",
-    "source": "Pinkbike",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0hSRmw1MnZrNDQwRWU4dHp0RFVnb1hHT1NIQ21YWmJFNHBDdGh4aTV4VWtFV1FOZkxXZ3N6RUpMOUdqUTd0dkVSVTVKOWsxZUZwOTVPdG5mdXlxWmRySnhzd0FZa0VBbVMteVdIdlRtTFp4azNlQnNkc3pHTWJRQnBLNnJXajNwQUh4eHplXzdGWV9IMndVVVZ2WUY5blZkZ3BYWGt5U1ptNVZvVnZDdC13?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -518,6 +507,19 @@
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
     "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "29/07 07:00",
+    "date_ts": 1785308400.0,
+    "title": "Special punishment in Brazil – suspension until the injured player returns",
+    "source": "KOHA.net",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
     "teams": [
       "Brasil"
     ],
