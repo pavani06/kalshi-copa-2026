@@ -489,28 +489,6 @@
     "source_type": "news"
   },
   {
-    "date": "17/08 09:43",
-    "date_ts": 1786959780.0,
-    "title": "BWF Badminton World Championships 2026: Full schedule, order of play, all results",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcF9TcVZ0R3NYNnNWeE93YWxRZDZFVUdZYUwxWG9pbkhRVTlseDlLQTRaSGl3LXEteTFtV2pLRXVVUmtwVXZlZW9WN2xzTi02Xzc0NjRTb2lneEdfcWdOYk1rdHZjaUl6emtqYVRiOXpzUjdObmZNNF9vZjJ1R1ozOThhZmlNcldHc0U4V2pLX2ZYWHBxUkJ4aWppN2J5NWNzUXlN?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "13/08 07:00",
-    "date_ts": 1786604400.0,
-    "title": "Análise: Flamengo corrige rota com talento de Pedro e Paquetá e sai do Mineirão confiante",
-    "source": "GE",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTDl4UVVfNHJVRUJrWkhLdnh5NFFKVEhPT1hVbzNtVzk4bEJRM0V5WUYxQnBkMDRwMmpxc21nTC1SRlA1ZHlVZDRPZFFTLXNfaVlLb2QxaTdiWm5PMFB0SVJTU2o1M3hfSnJNT0pWLWJUVjFXV3cwdHN0S3JPWHI5cVJpVjhvQnk3UGVQZ3hMXzRSMWxLUjYxVXlCTll1MGxKajRUT1pTa09QOW14QzVTRnphWEFjRmhtdUhWSGFnbGl6ZGFic3JNd3RsU0VJMHlOUHdRcVlxSkt3NjY0T0k4S2pjRkRuYWJGaTVDeXln0gH8AUFVX3lxTE5NTm8xMDJXRHFKV3pFdnFCNXV6RzdpM2ZWaXlqUTlJNEpDeWJQWWZfTVNJaWVSbHEzaVd2eDJLU256YmR0UjVRY3Raa3FIUXdFN0xtZENqWF9CN1ptSDNQUTZzWTFhSm0wSXV2NVVHTmZDdk50alZpNkFGd2JSQjhFd243YU1fTktpd2JwbXBrcVVjdFZuNlh3bmYycVdBQVlOZnljbU9Rd05Ya0ZIV3prQ1MwZlRyZHNWa1dTNHI5MU5YVkdISFozY3YwTk9kNnpBakk0ZzlfclFjMk9Md1MxWkN4MGY0S2FiVVF6NlhZMWNpYTNJYlRjUVR5cQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -703,6 +681,32 @@
     "teams": [
       "Inglaterra",
       "Noruega"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
+    "teams": [
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
