@@ -500,14 +500,14 @@
     "source_type": "news"
   },
   {
-    "date": "17/08 08:44",
-    "date_ts": 1786956286.0,
-    "title": "Magnus Carlsen wins Esports World Cup 2026 chess title after beating Denis Lazavik",
-    "source": "DAZN",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDdEeExrWEtBX0pZUE02cVcydlpicU4wSWFnWGpycWJnNzIwVVJySmVFU01JVjR2S2tmWTRMY1JyNkU0WjlvSzRmZGFHVGxwLXBFdXcwN1hwTFJDM0xTVUtIb2RYR2h1WGtoT2xsMERmbG5JVWEyUk1RV19ucjU1RDZodm5iaU9DdnV6U1o2QzJuOXdWLU9GcUVzVVdNbTNjNHpXRnp3aVc1d1U3TVdRSkFoSUdxazg3eEYyV1VmMA?oc=5",
+    "date": "13/08 07:00",
+    "date_ts": 1786604400.0,
+    "title": "Análise: Flamengo corrige rota com talento de Pedro e Paquetá e sai do Mineirão confiante",
+    "source": "GE",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTDl4UVVfNHJVRUJrWkhLdnh5NFFKVEhPT1hVbzNtVzk4bEJRM0V5WUYxQnBkMDRwMmpxc21nTC1SRlA1ZHlVZDRPZFFTLXNfaVlLb2QxaTdiWm5PMFB0SVJTU2o1M3hfSnJNT0pWLWJUVjFXV3cwdHN0S3JPWHI5cVJpVjhvQnk3UGVQZ3hMXzRSMWxLUjYxVXlCTll1MGxKajRUT1pTa09QOW14QzVTRnphWEFjRmhtdUhWSGFnbGl6ZGFic3JNd3RsU0VJMHlOUHdRcVlxSkt3NjY0T0k4S2pjRkRuYWJGaTVDeXln0gH8AUFVX3lxTE5NTm8xMDJXRHFKV3pFdnFCNXV6RzdpM2ZWaXlqUTlJNEpDeWJQWWZfTVNJaWVSbHEzaVd2eDJLU256YmR0UjVRY3Raa3FIUXdFN0xtZENqWF9CN1ptSDNQUTZzWTFhSm0wSXV2NVVHTmZDdk50alZpNkFGd2JSQjhFd243YU1fTktpd2JwbXBrcVVjdFZuNlh3bmYycVdBQVlOZnljbU9Rd05Ya0ZIV3prQ1MwZlRyZHNWa1dTNHI5MU5YVkdISFozY3YwTk9kNnpBakk0ZzlfclFjMk9Md1MxWkN4MGY0S2FiVVF6NlhZMWNpYTNJYlRjUVR5cQ?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -533,17 +533,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "22/07 07:00",
-    "date_ts": 1784703600.0,
-    "title": "FIFA World Cup: Schedule, Results and Standings",
-    "source": "elisportsnetwork.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -634,6 +623,20 @@
       "Noruega"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
