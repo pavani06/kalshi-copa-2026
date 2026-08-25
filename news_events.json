@@ -487,19 +487,6 @@
     "source_type": "news"
   },
   {
-    "date": "18/08 09:02",
-    "date_ts": 1787043760.0,
-    "title": "FIH Hockey Men's World Cup 2026, Game 12: Germany vs Belgium | #HWC2026",
-    "source": "Fédération Internationale de Hockey",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU0hzTVMyLUlZeWRnMFJ4REJHSlJLbHIxVWVXWUdaaDlNckdPZkx6cFBMTWt5S2IzNkpuMjlhS3l6ZjZUUFVDUy12WkNvN29QeXVMelh2S05hdGhCY1hVVGRHUkd1ZlR2WWJ6RW9iUE84YnVYbjJQS3otQWtCUVhmN1lIa1VEVWhkZnktNHFfZW5vUWUwaVJDazZuRQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "30/07 07:00",
     "date_ts": 1785394800.0,
     "title": "Senegal vs Kenya: How & When to Watch the 2026 WAFCON Group A Match",
@@ -701,6 +688,19 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
     "teams": [
       "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
+    "teams": [
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
