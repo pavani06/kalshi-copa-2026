@@ -467,17 +467,6 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
-    "title": "Final da Copa termina sem gols no primeiro tempo pela 8ª vez na História; últimas tiveram Espanha campeã e Argentina vice",
-    "source": "O GLOBO",
-    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNOUpDT04temhyY09RdlV6RHo3Y2t4RjlUbG9uRTV5Y3NnUXp3TTdrdjN0MnV4NEpySVBWRUFBc1dGS1EySGhDd19ySmVDMGEtaDA4eld3aFYwTTgyQ0xXVUpuOHgtWC03T0VsX2JuMmNYNW1lRVM5dTlqS3BKU2dRTnZpaU44ZDFPT0hNT2pLUlA4aE9Fa3ZXQkM1Z3BaejI1RXpSX21rc2dJQ1VoQ2NjQzB0S3puRUpOWEdTbkI4LVpvb0xyMV9LYjAtajJDVTBFaWt4c2t6MmZGRjdlczg0NG95VTFwTHlzTlRIc19udFNVWWRDQUNYc29wd1RSVnVEcTgxTXJ2OTdWQ3FVOUNWUkZfMF9LX3BvN183M0RiX0JseFNW0gGzAkFVX3lxTE0zcEtXLUlYWGxxYUNicXFVTGtfZWFMaUhCMlNSVzlVTmRyeXRUUUlCWFNQcVdkYUZZM0FSOXVpM0tWNDlETVlJZmlmdGpNbVQ5YndjaGZCNUMzamticzAxMUpuc2U3ZU9KS0JRcHZIdlFqSzJHTzVTNWZYQkhzclVjajVncUdzXzRvNV9XMUV4Z1RwLVJRRnhmNDl4MUNaOHVubk11TFBEZWR2ZVNvZFhrWEY3V0VjcGdfLWlrWnhyOXQxN2dnRjVnQlkxWGZBQjcwTF9UZ2k4dlhfOGZCOHc5RjJ4Vkp1RFVCbmtobDNBei1hdEhvTmZ2d2g2bVhlUVhZdm02dmluR1pDaWRhSUJUQ3hGby1NR2h3Wkd3bDdyUmQ4T2x0d2M1STBYTk5PQmszb2c?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
@@ -712,6 +701,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 07:00",
+    "date_ts": 1783494000.0,
+    "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW5WeWFwd2tKeW1MWXBMNF9qeVlaQ3NmamNUR3NQaGNUQXFkcGRGaG5lTUwyRmt1cjRicWEtU1VRdGFpWTVZQ2VaYUFFREVEckl4bndvUVNubkJEdFE4SGpmYXFTQW1FVXRWeXgtWjJDZUhnNC03T3loRWs3U1oweFRQVTlGNVNoTkpUWEZoRmhfRWhudWtvNG1hQXJKaHdlRmFEVXkxWmNyVmNXSGc3Y1FBdHJzQdIBuwFBVV95cUxOREsySktJNWpZS1J4RU03VFVHMlVVTVpva2xNX3dZY3JHVmRhT1JfdzY0Z3A0N1F2SmdLakZJUk5INF9PQmVsdFpoWXExTDJMazRQSF9zcXg3LVdSLU1qUWdwalNoWjhFZllhMkN4TVg2dHNqTUc4NmIySVBHaU5lTVFPbEx4Q2JkUV8zdlRtZjBTeHUxVWp6U3VkdFdnVnJmNUhaRXJOUmFwMmJtWWhqNDJrOWZxd0pBUFdF?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
