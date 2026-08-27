@@ -1,5 +1,16 @@
 [
   {
+    "date": "26/08 13:18",
+    "date_ts": 1787750318.0,
+    "title": "Players to watch: FIBA World Cup qualifying games",
+    "source": "NBA.com",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNGtkY0RwQ0JETGRwaHFXQWsxNWFtSXJOZEpjTlE4dGFOSmpKbndxMHJWWnB4eGRyOU1aUmJmQkdWSl9wX0FBSFJWSy1hRkJGa2l0ZWEyZkJsZmY2RnNkcw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "25/08 21:00",
     "date_ts": 1787691600.0,
     "title": "Monterrey vs. Chicago Fire Lineups, Live Streaming, How & Where to Watch Leagues Cup 2026",
@@ -434,17 +445,6 @@
     "source_type": "news"
   },
   {
-    "date": "20/08 01:21",
-    "date_ts": 1787188860.0,
-    "title": "Galo mantém invencibilidade e avança na Sul-Americana",
-    "source": "atletico.com.br",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnFwTVgtM3hYVEFBNWVhanA4QVRTZ1VnTlVCQUtWNkc4TWZFSTZpMnplTHFHUFRpSmZyUEVGSlZJdHA2djI4M1hWd0FVWWF3YTBKbk9US0Zmdm9yelZjQkppT1dSdFdTSlJKWHE2R0cxdjR5bWYxcjRNUTF6Z3JiU2x1RFE?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "22/07 07:00",
     "date_ts": 1784703600.0,
     "title": "FIFA World Cup: Schedule, Results and Standings",
@@ -527,6 +527,20 @@
     ],
     "category": "injury",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -648,20 +662,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "World Cup 2026: England's Guehi, Rice & James all train before Norway game",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTURWSjBxMEtYME1uWFdUZzg0aVVjaTBBd09ZM0tldzF5b1JzWnlYUjQybFkxU01VSi1ZLWQ3SHZPc2l4dC1VSzdkRUs4Ty14RnNsejVoRkxpaXVPcHhiUlpLRmVYQk0?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
