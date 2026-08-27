@@ -430,13 +430,15 @@
     "source_type": "news"
   },
   {
-    "date": "20/08 19:59",
-    "date_ts": 1787255966.0,
-    "title": "USA Basketball Announces August 2026 Men’s World Cup Qualifying Team",
-    "source": "USA Basketball",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFdzQTVGTkVaRV9BT1V4OFNHTkNkOGZxSjFTZzJQTm5FOXJxekhOVTZGUU15alE1YjlhdEZYNFdFTndNS185Z0VCc0FGczRQT01IcFBRSkI4SmFaYmJCUDZmLVhsMFRSZlItQWNBeEktQXN3VVJpMGJkUTM0c3B1dlA4dW5ESnBtYXVybk1lc09Gc2hUdHZiLTh1aEx0Nmt5T2c?oc=5",
-    "teams": [],
-    "category": "result",
+    "date": "29/07 07:00",
+    "date_ts": 1785308400.0,
+    "title": "Special punishment in Brazil – suspension until the injured player returns",
+    "source": "KOHA.net",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmVYb2dldXhxd0ZkOWpqWkdsUkxfT0JMbXdGT0Y0Wmp0SUVORVFCRzhHU1g4WlNNMEZXZmhFdWRYLXZOdmJCblBwWWVFWnlkcTJuUkxObndQSS1Eb0pGR2pxR0RHRGl2Z3ZKS1FCMnhqeXhvVlc4SlNXbW5xQXlOaXlCNmJ0U2VjOEVPWjNEMjA1VjRvM1V6VjAzbGVwSTBOUVkwSHFMMGQ?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -489,6 +491,19 @@
     "source_type": "news"
   },
   {
+    "date": "14/07 07:00",
+    "date_ts": 1784012400.0,
+    "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdWVwc2FtaUtfMXVUMV9yYTVYQ3hERGE4ejdtcUJCeFRNX0FPd0JDN3JKZnlybkdjX1Z6M1hXRmVDTElWSVc1TldPeUxKM1dUOTVKdnlYTElvSWNldFRpbU1yVENZaW8?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "12/07 07:00",
     "date_ts": 1783839600.0,
     "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
@@ -499,19 +514,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 07:00",
-    "date_ts": 1783839600.0,
-    "title": "FIFA World Cup Semi-Finals Injury Tracker: Latest Player Availability, Injuries and Return Timelines",
-    "source": "Sports Injury Central",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWdnOEUzV2kwdlV1RDVXWHpzeHNDNjA2S0laRkx0YWxveHBpUUFpLXVjNUtsYUY1M1pDOGw1UFQ4Y3VnUmxJNkozcDFjVkRLSEtxQTNYbW9abjFvOXZwem9tTEUwV295YWQ5eHUwZEh1OTBZX1o2bklOVXlUNnBLc2RhNDBHNmpNX19RZ0dzQ0NTOFV6X21sb3ZkQ0lvQXBta0VlVGFtaHFreE8zN29pbUNTTGtvY0JmdnprdnlDaWp5dw?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
     "source_type": "news"
   },
   {
