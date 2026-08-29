@@ -1,5 +1,16 @@
 [
   {
+    "date": "29/08 16:14",
+    "date_ts": 1788020040.0,
+    "title": "FIH Hockey World Cup 2026: Argentina dethrone Netherlands 3-1 to win FIH Hockey World Cup 2026 in shootout thriller",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUF3NmJRV2laN0dnaDk2SGdDa1VicXJPTFVsX0xkSXBtLXA1eEhTVl9RR19lcWl5ZGtKcUhkdTJVbmItb2NzWGp4eXlPVjNLNXlQRWp6Y2Z5U0YwZTZ4UlRTQ1hNckxjNXpSbkFOM3NsUTh5cVNTUnl3al9uSTVoVTBHdzJySUtlNkRrcTdmWmF3TGpiVkRVeTJFb2VkbWVBeU1RcUtjdw?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/08 01:00",
     "date_ts": 1787965200.0,
     "title": "When is the Fever's next game? Indiana WNBA schedule and more to know about FIBA Women's World Cup",
@@ -441,20 +452,6 @@
     "source_type": "news"
   },
   {
-    "date": "10/07 07:00",
-    "date_ts": 1783666800.0,
-    "title": "World Cup 2026: England's Guehi, Rice & James all train before Norway game",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTURWSjBxMEtYME1uWFdUZzg0aVVjaTBBd09ZM0tldzF5b1JzWnlYUjQybFkxU01VSi1ZLWQ3SHZPc2l4dC1VSzdkRUs4Ty14RnNsejVoRkxpaXVPcHhiUlpLRmVYQk0?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
@@ -499,6 +496,19 @@
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -581,19 +591,6 @@
       "Colombia"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
-    "title": "FIFA’s decision to suspend Folarin Balogun’s ban damages the integrity of this World Cup - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjk4ZWdNOUtocHotRm5nV1p2T2wxLWxTaTIwZTNBZXd6NU1iSkFEWVdMdng4NzJMMkhsenhHRWJWdmN5YWRsdGdSVEptT0hRaS14bGtSSFBkMVhaU1I5aXUxaVZoVkFUanJMZlZrMkxGMmhrUFVkX3dPQlRyeVJCb2xzYkNmR3JiWXRWV3NB?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -689,19 +686,6 @@
   {
     "date": "03/07 07:00",
     "date_ts": 1783062000.0,
-    "title": "World Cup Buzz: Mohamed Salah Starting For Egypt After Knockout Round Injury",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNW9kWHVfalJQelZuSmFTVWVLdExJclNVeEpibjVkclJfQ2VkcnNtaGc3VmFvVl9IMUlSU19uU2hTYmRVbzg4WkZlOUNkdWkwRTlvNlc4YzFsYnp1MlcxVjdDTmpRVmxwTDlOR3VOaG5LcEXSAXNBVV95cUxPZnlPTnZLQVBSVHpEcXhDNFZBNTVLQlBMRDYtZ2NyM0k3LVQwcllBcEI5cHF6emdBeUcwUWl2eDBnS0diVDNTY3I4YUFzWWdjeUZ1ZElUMnNvc3ZCQ3pzZHRJcWI5bmZnQnducWNJN2xtWEM0?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
     "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
     "source": "Goal.com",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
@@ -734,6 +718,19 @@
     ],
     "category": "bracket",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:00",
+    "date_ts": 1782975600.0,
+    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
