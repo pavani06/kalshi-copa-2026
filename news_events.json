@@ -333,9 +333,9 @@
   {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
-    "title": "France vs England: Confirmed lineups for 2026 World Cup third-place game",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0dBTFU4bXhheVF5Y0xROGQ0aFhWbHgyeGM4clVxNjJmUnNjZ0k5dnp6NU9fNTIyMjZNUHZ0ZHE3My1KQVo4YjJGdlhYT1FhRnNqMU5IQUVya2RVdTh6R2lvYlh6NlpOSU5jckJhM2IxLVpJM0ZQZS1hUG1qNFpyZE9jY0MtZ0drdEJRZDYwUWIwWW1UZS12RXd6bVI3cF9RLWZRQXN2SdIBrAFBVV95cUxQakRabUxUUUNZNk45aEtybkllVHE5djkxUGdnYkRtcTRrWW9lV0RLbFVOLU5JQXJPT3MwaVZJUkpaMGxRMGdBSG90UXFVSGU3eEFWOXF4blhjVEtCZEllSi1VWHBlRTVGeDdHZnVaY2o3WWUtaG5OVzdkZWt6cE9aVE1xZUZpRVpMbngtMG5Ccm1qWERVX1k0VDlHc3NqbTB2em1KZ2NXSnZvdmpW?oc=5",
+    "title": "England starting lineup vs France today, World Cup XI confirmed",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -414,15 +414,15 @@
   {
     "date": "10/07 07:00",
     "date_ts": 1783666800.0,
-    "title": "World Cup 2026: England's Guehi, Rice & James all train before Norway game",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTURWSjBxMEtYME1uWFdUZzg0aVVjaTBBd09ZM0tldzF5b1JzWnlYUjQybFkxU01VSi1ZLWQ3SHZPc2l4dC1VSzdkRUs4Ty14RnNsejVoRkxpaXVPcHhiUlpLRmVYQk0?oc=5",
+    "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
       "Inglaterra",
       "Noruega"
     ],
     "category": "injury",
-    "impact": "LOW",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -584,6 +584,19 @@
   {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
+    "title": "Portugal vs Spain: Merino scores in injury time to send La Roja to quarter-finals",
+    "source": "France 24",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcU11UktyZWtRTGU0Z1QwUFBIdHZMNTBIYUV4Uk91amNXRFZDRUhWMzlrX2FVTVNFZ3lFejNfUjVKWFRwMUZNQjJUSFhJQTJBMW95WW5Rc2wwLTBBNWhxQjlTZ3NQQ3Bfdkg1aXdnY2RjZXhqbGx3dERBYjZ3WUpzOXdNTFAxcUxQV2ltYlBFTjlBekd2eVIwRnpUbTlBUWtJV1lNcWxyX05YSlBULXZXakdSOXdRd3M?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
     "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGo3M1hlbmowblgzVkZQTVNTRkRmaThMV3NRN1JqekNXekhrQ3BoeWVjODh0T1ZPYzdHN19PMmtFU1NtU3V4Z29qMGh2VXlFcnlEOEFhUWdBbGlsUXhZZ2p4b2Z1S0ZyYldIVGhudFdJeVNuVFlTSGNSdFNyYzZWNW5HbWluR2ZVSXlqbUFxa0g0UUlZTzU2TEM2WkFGZFZuRzBDbmstV3ZnaTFFbkFJZ0pTUGRJQlJLemRV?oc=5",
@@ -628,19 +641,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "Mexico vs. England Lineups Confirmed, Starting XIs for World Cup Tonight",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlVoeG1RV01rdE1uNUpQS3RTVmw1bUdWUzdiLUl0UmtiSEVSb3pwZVVCZ1dlQ0hFeGhIUXFvMUpYLWFJdHRSV0dkOTFFcm8xZ3M5OVFpal9TbmxKYVFjenVFQXluSWw0S2hWeGV3VHRFU2V5anFfUXFLMTF1MXdkbFc0N0lfMkhtWGUwUWxUaldwUEc0RlU2RWdvMVNsZjZRZjdCaFJSTlRQdHF6MzBN?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -697,14 +697,14 @@
   {
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
-    "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
-    "source": "Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeW5GVVVNR2hXOF9uT1VuNC1HWUZyZVdFT2p5eEVWOC1uay1GZV95RzJBcXJaN0hxcWxXZDVCX2FteU9ONjRsZld2VmVrTmtDYzZHQUxNdVZsNXpXdDRGa0dNYUpvZ1ZWckQ0ZVFidFpnSENlcUpGRndCMmMxTHAzS09DQTFCcmVmVkg1ZjZob2pSamJuMUI1ckxRVGJXZVJaQ3piYTllYnc3WUdwOUY4NUtQMnktVWxnRklrOEd2ZjF1MzdmYlE?oc=5",
+    "title": "Why the USMNT can't appeal Folarin Balogun's suspension after his controversial World Cup red card",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbm9VdTBRYVMxTGtGRDdJanJkR3pnbExSYWpfZ3RpZmRTWTlEenFiXzBEekxEMnNXNVRYejg2bFF3YkhuQjBPeVBlT0pMNUp1eXJVbF9RVlBacTloeFZGNXZZVjBnQm9Db01jc1g5N2U3UllCRFBTWmsxWFR3QUJseUJqQ2RqRHI5R0V2YVBDSWZWdFY1cXlCZnFqU2pHS0Nrb2pCUko0RnFFTzRKdVdEMzlhRVdMbFE0NW9IYTk5Wk9RUmZTbWJHMWFnSUhyWU94MGVmMlUwU3ZyZmNia1B4ZDZMdy1penBKUUZzdFpEZE9ydVU?oc=5",
     "teams": [
       "Portugal"
     ],
-    "category": "bracket",
-    "impact": "LOW",
+    "category": "injury",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
