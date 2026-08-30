@@ -1,5 +1,18 @@
 [
   {
+    "date": "30/08 16:16",
+    "date_ts": 1788106560.0,
+    "title": "FIH Hockey World Cup 2026: Germany defeat Spain to retain men's title",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUZ6Y3JheGY5eHlUbUxwRXN0VDY3YTN6Z3FzSWlHTENfZk02dlhnTzZBeHpRYjZYQWtWcXA5elhieVZLeEpqcGhVc1RJbGNBN2IyRnlmdHBNZDl3Q2Z4RXZMN2tIZlNfVHlseTBIbllGaFc5SC1Uc0ZzekUyTFFrWDlTTkkxREVMc0s4NzQzYzQ0UUlrbHVVMXFGeGlrZHAzRktPU21TSjFBZHNEZG16NA?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/08 02:37",
     "date_ts": 1788057427.0,
     "title": "Lionel Messi Scores 4 Goals, Leads Inter Miami To Historic 7-1 Win Over Montréal",
@@ -346,19 +359,6 @@
   {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
-    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 07:00",
-    "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
     "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
@@ -366,6 +366,19 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "FIFA World Cup Semi-Finals Injury Tracker: Latest Player Availability, Injuries and Return Timelines",
+    "source": "Sports Injury Central",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWdnOEUzV2kwdlV1RDVXWHpzeHNDNjA2S0laRkx0YWxveHBpUUFpLXVjNUtsYUY1M1pDOGw1UFQ4Y3VnUmxJNkozcDFjVkRLSEtxQTNYbW9abjFvOXZwem9tTEUwV295YWQ5eHUwZEh1OTBZX1o2bklOVXlUNnBLc2RhNDBHNmpNX19RZ0dzQ0NTOFV6X21sb3ZkQ0lvQXBta0VlVGFtaHFreE8zN29pbUNTTGtvY0JmdnprdnlDaWp5dw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -645,6 +658,17 @@
     "source_type": "news"
   },
   {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Notas da Seleção: Bruno Guimarães sai como vilão, Endrick entra mal e Neymar dá adeus com gol",
+    "source": "ESPN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDRxakJpTHZBVEhWMDBwZC12SjNCRG1vNEtwMWJSRllFOTAyUzRwMmZCMUpNaGpXWXVoa3lFT2ZfWmVzSkpSUXFUOTRhZWZPZ1hFMVNfWUwyanY1QnJ1LUNpZU5RME8tZURXN3BYOUZ0OGtZMjlyemUwbHJJNXFmRFREMzBPWVBaQ2ZCUHlZYXRFa1VWZmRiZWloQmZaeTBnV3dKdVRvVnZETFZzUF94TUxIMmZmVXhBSEJ3NVdLZ1lJMF9TNU5qcmRKdmMzbXJFRC13LWZLVQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Colombia vs Ghana Confirmed Lineups & Formations Tonight: World Cup Predictions",
@@ -673,6 +697,19 @@
   {
     "date": "02/07 07:00",
     "date_ts": 1782975600.0,
+    "title": "World Cup 2026: Portugal, Croatia Renew Rivalry in High-Stakes Round of 32 Clash",
+    "source": "Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeW5GVVVNR2hXOF9uT1VuNC1HWUZyZVdFT2p5eEVWOC1uay1GZV95RzJBcXJaN0hxcWxXZDVCX2FteU9ONjRsZld2VmVrTmtDYzZHQUxNdVZsNXpXdDRGa0dNYUpvZ1ZWckQ0ZVFidFpnSENlcUpGRndCMmMxTHAzS09DQTFCcmVmVkg1ZjZob2pSamJuMUI1ckxRVGJXZVJaQ3piYTllYnc3WUdwOUY4NUtQMnktVWxnRklrOEd2ZjF1MzdmYlE?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "02/07 07:00",
+    "date_ts": 1782975600.0,
     "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
@@ -694,46 +731,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Paraguay coach says after beating Brazil and Argentina, why not Germany?",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWg1MzFpSkN2dE9lUHVseEZlMkdzdzJjRi1vWkluV3RmR1dRM2pmaFlnY1lWOXFnTWRldE81T2k4UG54U2hmS0tKVHd0UGZya3htdE9sdmt3eDkzVTE0Q1Fmb2ZmendUNS1fay13OVBGWkhPT0F1ZU5ET0VvUmU2M3FvSFdvZWwzYzg2ZnpzTFBuazJza295NF9PX053Mm4tdE9peGwtWEt0SVZfZmRUbE95dFlHWms?oc=5",
-    "teams": [
-      "Brasil",
-      "Alemanha"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Why isn’t Diego Gomez playing today for Paraguay vs Germany at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtodG40cEZ0VDVVVGFYR04wUkpDOVNsX1RBRTRlN1I1SURuU29wY3h5S1dHUGhWYkFfTGdGNnhfYUJnXzhTclhHT2FtUFZBc0g4MWl0cUREM3MtNUdZTHlXQ0NCcm1fdHQ1Ml9XTEd4V01SRTZRWEdPcFBueFZtTERFWWpWQXdPemZKeDF2b0tfZ2ttVUtaZFhBWDNvdzJBbl9aYl95NWdReV9KTHg5U2kxSdIBuAFBVV95cUxNMTFyNHdtV1FZeGJXLTdoWGVOaHZIZVBBank3bGx4eDJQaTdkTlpGUjNlbzd4V2w4Rjd3c21xd3prZ09FbjVjYW10b21XNXRia2Exd0QxMFg2U0duaU02eDlnbThKbWcxYXlZMDU3Zk16YnVVaXB6Y21IQXJINmpJdEc0T3gzX0NVZkczSWM3cEI4ZGxjWmFwTTBjcC1mMjB3c2ZveGhIT3RzTFVWM1lIeDNBZkpOeDRG?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
