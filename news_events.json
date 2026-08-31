@@ -337,17 +337,6 @@
     "source_type": "news"
   },
   {
-    "date": "24/08 07:30",
-    "date_ts": 1787556600.0,
-    "title": "India vs Argentina LIVE in FIH Men's World Cup: Scores, updates, commentary, news",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORF93NlAzTm9qN1Y4cy1mM3BvZ3pDSFh0RVg3YWNmQXlIMVZqMEE1dFhQMHRaY0hscUpKTkUzMDkyVzhQalpwN2RaLWRZbG5pT2JoODBtanNaXzRPLVlWeWpVem94SklSckhueDNLand3d2lBQVp4TVF3RmRjVTNVVE53OHREUjRvdUFRLTNtc0JZdXp5b3Buejk3UF9jWTRKNXVic3lSWTNkVEl4djZOMi1LdFBsZWJDVTd0bWhLaTgwRnMyUVMwcmwwRWxCZHpCMXV1elpPVjA5QQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -707,6 +696,17 @@
     ],
     "category": "injury",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 07:00",
+    "date_ts": 1783062000.0,
+    "title": "2026 World Cup Odds: Round Of 32 Results",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcDJ1LWFpaWpKUTVXRzJXOEltdjJmT295SmpPcnMwNnVaclE5SGs5d1JURVFRb0V1b0RRdWcyUFpSTGd4WUxaOVJHa3lSLXhzVWVtRkxoZzYyOW5ybFlWXzJpcGtzUUtkbnBjWktWdVBWYkIyOUp6UdIBeEFVX3lxTE9STlZfbmhDVml0UjFXRVc1WUkxS3dwVlpNSVJQdmNoZ3BEbHBVV29neW9ZUE5YS2hsdUhRdUwtc0pqeTBlZEI4YkU0cTNyTmYzQWZ6clMxQTI5bmFsU2dROHFsMEhnUXZ5ZGxKZjVpWlRfdjVQTzVGeA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
