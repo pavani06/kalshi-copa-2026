@@ -1,5 +1,16 @@
 [
   {
+    "date": "31/08 12:28",
+    "date_ts": 1788179324.0,
+    "title": "A'ja Wilson, Kelsey Plum won't play for Team USA at 2026 FIBA Women's Basketball World Cup for health reasons",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSW0wSXFrS2NmcHl1VEZ2NHZZX3N5b2MtM1BfYmREUGRxLVZlZkk2by1YTmxtRU84LTFHSGRGQ05aUzVadUQtZ0c2NmlUS2hwRzhDc2ItcWo3SF9WTWU2X1FQTHhoQjFlbnktaUwwUjZ2Y2tRUUpEMVU2OVVMNWs1REN3UXlqaU1MMkZOWXF2VDdGT0lqX3pqNEFQaHJtaHZJTlFVTWRhTnY2bGFPZkR1dUdjQXlPY3RFR29IbWZ4a2hhRDhfT2szMVZnREh0Z01BX2JJdGxlU05PQTBFTTZ5V291UW9heVhnWFJ6cERUS1FnRGZGa1pTNktyVFBqN1dIOWc?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "30/08 18:57",
     "date_ts": 1788116239.0,
     "title": "Struthoff magic sees Germany retain men’s World Cup crown",
@@ -614,6 +625,19 @@
   {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
+    "title": "Portugal vs Spain Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
+    "source": "FOX Sports",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TEw1QUVpWXdMc1pJa2MxQjhud0dkR2VuRC1LdGtaRjVCdzhHbnpiaHNRNG5FQ1VFYWxpZXNrWUNJcFZmeEZ6ellyY19RWlQ4Y2RfMG9hMVNPRXVkR2dFSlB3?oc=5",
+    "teams": [
+      "Portugal"
+    ],
+    "category": "bracket",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
     "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
@@ -651,14 +675,12 @@
   {
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
-    "title": "Atuações do Brasil: Bruno Guimarães e Endrick são os piores em eliminação; dê suas notas",
-    "source": "ge",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMWlQNnZQYmlPaEVoWTJfRE92aVk4ZWtmVUpNcmJITE5VWjhNd25PRkwyR0ZCU043dzdlY2Vkc2g5T21LTXJ5YWg1a1RvbE91X1VLQnNHenlEMGJpUENRbklqVTl0LUNjdHNRZ3RJNUk4TDhqWUVCZTVzU1JmT0Q2bVhGNl9ELTNLUzBpTzdqdXdxZl9aMUdXWmN3SmJBQnIzYzRxWWVZbXpZb3U1bkk4M0VvSUxxeWxkZF83Z3dtWWxNRlEyVGl6OUlVeVFZVFhwbDVrMzFNWVk2RU9WdHJBMzJSWFQ3QVk5ZTd6bUd4SdIB_gFBVV95cUxNN2FOOGt2bVYzZkZ6S3pmdzQ2WXI0azhzWFpsbnJZVmdVQUtLRGNSSzhtbnlhTDlGMUhacG5GSlZYRkdiRk51U2pyYTlBa003WlBXM3VZSTNYdFE3eGJ1aDZqYThHYVJ0d3dTQWZBSUJOZUM1Z2ZDb09wY1NQR1RKamlPSUdiSDBDX2RnbFBtRkFOTm1YdHVuS0VwOWd0N3EyRkE5Yk9IV2hLWjFtdlZVMlNoTjRWWEtEcUVScm1jbmRjLWZEczdOLTliRnJZcjB6NFZ4SXctQTl0NExKX0htSmRDNHB5cmNqZWMyY2dwdWFMUlRSWTJqbUZNLTBRQQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
+    "title": "Notas da Seleção: Bruno Guimarães sai como vilão, Endrick entra mal e Neymar dá adeus com gol",
+    "source": "ESPN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDRxakJpTHZBVEhWMDBwZC12SjNCRG1vNEtwMWJSRllFOTAyUzRwMmZCMUpNaGpXWXVoa3lFT2ZfWmVzSkpSUXFUOTRhZWZPZ1hFMVNfWUwyanY1QnJ1LUNpZU5RME8tZURXN3BYOUZ0OGtZMjlyemUwbHJJNXFmRFREMzBPWVBaQ2ZCUHlZYXRFa1VWZmRiZWloQmZaeTBnV3dKdVRvVnZETFZzUF94TUxIMmZmVXhBSEJ3NVdLZ1lJMF9TNU5qcmRKdmMzbXJFRC13LWZLVQ?oc=5",
+    "teams": [],
     "category": "result",
-    "impact": "LOW",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -709,32 +731,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 07:00",
-    "date_ts": 1782889200.0,
-    "title": "Belgium vs Senegal Confirmed Lineups & Formations Today Predictions World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEZYanJKeWdFSDdNR3c1bUxaYnFQbHdpemp4TVB4S0MyOEE5NS1hWHpqSmdZU1RHLUxWeElYeUFFNnlBaUpMeTk0eVdkRFhwQ25ST0FYVFRqc2RhUE5qU1NsN3BCVmo3ekJCYmtZakt6TWxCbTQxbld1OG04TDBrSk93NUtXTi13WFVPc0phZzg3YWx6OTA1TlloVE1YRDA3bG1jeVBkV0VGV2RYSlJtRXJLVWE3X2Q3?oc=5",
-    "teams": [
-      "Senegal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
