@@ -346,6 +346,41 @@
     "source_type": "news"
   },
   {
+    "date": "07/08 07:00",
+    "date_ts": 1786086000.0,
+    "title": "France Must Be Careful: These Players Cannot Receive Another Yellow Card",
+    "source": "beIN SPORTS",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmdkeFVMb20xYlNpOUxrV25hMHo4TTNpeWVfZnBQWXZMLUcweFpDSTdwS3FaVFlrLV9VcHhLVkwyNDczVkxqYWNhek1vbWVSODhnbDJhZnNiOXpxb3FpMUhmdmtWNHdmMExacGxIMElCb0hONVdpRjRmTGdHQU50NVQwREp0cVZ6Vm4tdXlhdFlTQ3lHOGJsd3FzWlhyOUNoelRocEpNYkhzbjg1YzFIQjBsVkd4NVhsTjdLemJicjlmdFRtSThhZWZLQkdWZEVHM2NBRU9FQWpEZmpSTnEteWw5aVVwZw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "20/07 07:00",
+    "date_ts": 1784530800.0,
+    "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "20/07 07:00",
+    "date_ts": 1784530800.0,
+    "title": "2026 World Cup: Tournament schedule, scores and results",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -402,8 +437,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -416,8 +451,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -430,8 +465,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -444,8 +479,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -689,45 +724,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ096ZHh3cjdUNklLS0FUeE93VjlhRVhCbW9tQ0RGZl94dDZoZ3huQTNrOHVkeVJnX2N5VTFzTGVuTTE3SVNSdzd6YnVON2JibXF6M3lqWVFvYk9tTHYtX2VvVXZkWVg1MUQ5bmotVTQ4dkNLTmhTZHo1RDd4Z0hMeUkzOEVCNUJ6NlZ3QVZlNGRqNm5MblFLMTczMk9mZERIT2NaSm5GQlhHX2hCeVpJMzY2MA?oc=5",
     "teams": [
       "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:00",
-    "date_ts": 1782975600.0,
-    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "01/07 07:00",
-    "date_ts": 1782889200.0,
-    "title": "Belgium vs Senegal Confirmed Lineups & Formations Today Predictions World Cup 2026",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEZYanJKeWdFSDdNR3c1bUxaYnFQbHdpemp4TVB4S0MyOEE5NS1hWHpqSmdZU1RHLUxWeElYeUFFNnlBaUpMeTk0eVdkRFhwQ25ST0FYVFRqc2RhUE5qU1NsN3BCVmo3ekJCYmtZakt6TWxCbTQxbld1OG04TDBrSk93NUtXTi13WFVPc0phZzg3YWx6OTA1TlloVE1YRDA3bG1jeVBkV0VGV2RYSlJtRXJLVWE3X2Q3?oc=5",
-    "teams": [
-      "Senegal"
     ],
     "category": "lineup",
     "impact": "HIGH",
