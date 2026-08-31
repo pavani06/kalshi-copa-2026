@@ -348,6 +348,30 @@
     "source_type": "news"
   },
   {
+    "date": "07/08 07:00",
+    "date_ts": 1786086000.0,
+    "title": "France Must Be Careful: These Players Cannot Receive Another Yellow Card",
+    "source": "beIN SPORTS",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmdkeFVMb20xYlNpOUxrV25hMHo4TTNpeWVfZnBQWXZMLUcweFpDSTdwS3FaVFlrLV9VcHhLVkwyNDczVkxqYWNhek1vbWVSODhnbDJhZnNiOXpxb3FpMUhmdmtWNHdmMExacGxIMElCb0hONVdpRjRmTGdHQU50NVQwREp0cVZ6Vm4tdXlhdFlTQ3lHOGJsd3FzWlhyOUNoelRocEpNYkhzbjg1YzFIQjBsVkd4NVhsTjdLemJicjlmdFRtSThhZWZLQkdWZEVHM2NBRU9FQWpEZmpSTnEteWw5aVVwZw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "22/07 07:00",
+    "date_ts": 1784703600.0,
+    "title": "FIFA World Cup: Schedule, Results and Standings",
+    "source": "elisportsnetwork.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -707,30 +731,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "2026 World Cup Odds: Round Of 32 Results",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcDJ1LWFpaWpKUTVXRzJXOEltdjJmT295SmpPcnMwNnVaclE5SGs5d1JURVFRb0V1b0RRdWcyUFpSTGd4WUxaOVJHa3lSLXhzVWVtRkxoZzYyOW5ybFlWXzJpcGtzUUtkbnBjWktWdVBWYkIyOUp6UdIBeEFVX3lxTE9STlZfbmhDVml0UjFXRVc1WUkxS3dwVlpNSVJQdmNoZ3BEbHBVV29neW9ZUE5YS2hsdUhRdUwtc0pqeTBlZEI4YkU0cTNyTmYzQWZ6clMxQTI5bmFsU2dROHFsMEhnUXZ5ZGxKZjVpWlRfdjVQTzVGeA?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:00",
-    "date_ts": 1782975600.0,
-    "title": "Portugal vs. Croatia Lineups Confirmed for World Cup 2026: Ronaldo to Start",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmJEc1lRdUhEQmdWUi0zSnFJbUV2NnpoNUpGTGZNUVhyT2owd2xBVWdLMm5CdXBJTE9jTWNRWUYxSkNuZU44Sm1fMkx4T3ZUTzUtRFdzcC15U3dEUEM0SnA4bnlrV1FQbFlOZW45YjVUUUZJbmVFcEFXR2xrem5xZTloWHVUYVl2LWYwVkRUZ3BKS3VhU0RjUA?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
