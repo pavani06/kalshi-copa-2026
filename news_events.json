@@ -359,19 +359,6 @@
     "source_type": "news"
   },
   {
-    "date": "20/08 07:00",
-    "date_ts": 1787209200.0,
-    "title": "FIFA Women’s World Cup 2027: Maracanã to host opening match and final - all matches and full competition schedule",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdEtaTUNSMGF5VExGQ2RBeThyc0lDSTJQdXQ3RFcwZV9aN3luYzNZNTBidkpnMkZVN0I5OWtHMWp0TXJSSXpfQ1QxUHppdVBoUmVfMks1Wm5LRGVCOTBHaW80a2Z2blpLa3hiWVdYWWF1alJkZkQyWm1EY0lpbDZBb1NLbngyTktJYzRabzZ3aDZJcjlYcm4xMl9n?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -428,8 +415,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -442,8 +429,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -456,8 +443,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -470,8 +457,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -660,6 +647,17 @@
     "source_type": "news"
   },
   {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "England star cops freak injury amid wild World Cup celebrations",
@@ -669,6 +667,20 @@
       "Inglaterra"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Brazil Starting XI vs Norway: Confirmed Team News and Predicted Lineup",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXF2YmEzR0VrWWhSMGpJMTJSYUNRdERBTkZ4MnJEZjJBdGlHeUdVOEhJa1lSUU0yNnBuTzJ1amNpYi1vblROcXFDUVRXdW5IbmJSdFRRdXVMWHFuRDFmVG1jVjhHWU1iRXMzTnh6YXRUa0o0LWV3d2drRVFVMGhENkNiUQ?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -693,19 +705,6 @@
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDRxakJpTHZBVEhWMDBwZC12SjNCRG1vNEtwMWJSRllFOTAyUzRwMmZCMUpNaGpXWXVoa3lFT2ZfWmVzSkpSUXFUOTRhZWZPZ1hFMVNfWUwyanY1QnJ1LUNpZU5RME8tZURXN3BYOUZ0OGtZMjlyemUwbHJJNXFmRFREMzBPWVBaQ2ZCUHlZYXRFa1VWZmRiZWloQmZaeTBnV3dKdVRvVnZETFZzUF94TUxIMmZmVXhBSEJ3NVdLZ1lJMF9TNU5qcmRKdmMzbXJFRC13LWZLVQ?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "Jornal Midiamax. . 🚨 MUDANÇA NA SELEÇÃO! Sem o Lucas Paquetá, Carlo Ancelotti estuda três opções para a vaga: Danilo Santos, Gabriel Martinelli ou Endrick. E aí, quem merece começar? 👀 Qual seria a tua escalação para esse jogo? Comenta aí! 🇧🇷⚽",
-    "source": "facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWUh0N2V6S3FqTEJRZlZZakVVTExzQ3FYVmhjd3RlOW9maTZrRjlmSzYydnBXUmxYTW9jVWprZjFsSUZ5YmtvRkJZN2JjSWZncHpZZlpBbzVTR3lkclJyTFF2QjZ2SnpwZ0xRRGFIQXFMU0FvN25IVjctcnU3NWMyeVlCODRnSm8yWFNGZkdtWDFoMGJVQlVqRDRwamczdnVJRnB6ODJlWVdfMDFjWWxYMU9tdUd0cGh2OWVTNmVXRU1uWlFxWGFLX0lOUW94VUxzQTFPMHdmM3k3RzBCa0JGNnFjLXVvTUFHTXVMZlUzck9vQ1k5NnFRRHgxTlp4SkhQWEduSQ?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
