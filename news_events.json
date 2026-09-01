@@ -346,30 +346,6 @@
     "source_type": "news"
   },
   {
-    "date": "25/08 21:00",
-    "date_ts": 1787691600.0,
-    "title": "Monterrey vs. Chicago Fire Lineups, Live Streaming, How & Where to Watch Leagues Cup 2026",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMDdqTHpJS3RIa2p2UEUtbVJnMFd4Mlc4R1VUeFZBYXRkZmY4X19uMi0yUURCOFRHSklzdElGWE9SajBiSlpOSWpzLUF2N2o4WGtvRFpJOVFFeVl0bk1FM3R6Z21SMkRwamFLV1hEdnJBbHI4MHNGRGc2bTRYZ2cwQ3gtRVpYNEdQZEE?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/08 07:00",
-    "date_ts": 1786086000.0,
-    "title": "France Must Be Careful: These Players Cannot Receive Another Yellow Card",
-    "source": "beIN SPORTS",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmdkeFVMb20xYlNpOUxrV25hMHo4TTNpeWVfZnBQWXZMLUcweFpDSTdwS3FaVFlrLV9VcHhLVkwyNDczVkxqYWNhek1vbWVSODhnbDJhZnNiOXpxb3FpMUhmdmtWNHdmMExacGxIMElCb0hONVdpRjRmTGdHQU50NVQwREp0cVZ6Vm4tdXlhdFlTQ3lHOGJsd3FzWlhyOUNoelRocEpNYkhzbjg1YzFIQjBsVkd4NVhsTjdLemJicjlmdFRtSThhZWZLQkdWZEVHM2NBRU9FQWpEZmpSTnEteWw5aVVwZw?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -390,6 +366,19 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "England starting lineup vs France today, World Cup XI confirmed",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -427,17 +416,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "14/07 07:00",
-    "date_ts": 1784012400.0,
-    "title": "Spain scores 2-0 win over France, advancing to World Cup final",
-    "source": "PBS",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -553,7 +531,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "aljazeera.com",
+    "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
@@ -592,7 +570,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
-    "source": "RotoWire",
+    "source": "rotowire.com",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
     "teams": [
       "Marrocos"
@@ -644,7 +622,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
-    "source": "usatoday.com",
+    "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGo3M1hlbmowblgzVkZQTVNTRkRmaThMV3NRN1JqekNXekhrQ3BoeWVjODh0T1ZPYzdHN19PMmtFU1NtU3V4Z29qMGh2VXlFcnlEOEFhUWdBbGlsUXhZZ2p4b2Z1S0ZyYldIVGhudFdJeVNuVFlTSGNSdFNyYzZWNW5HbWluR2ZVSXlqbUFxa0g0UUlZTzU2TEM2WkFGZFZuRzBDbmstV3ZnaTFFbkFJZ0pTUGRJQlJLemRV?oc=5",
     "teams": [
       "Portugal"
@@ -707,19 +685,6 @@
   {
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
-    "title": "England Starting XI vs Mexico: Confirmed Team News and Predicted Lineup",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDhYeUducGczWmc4VEF6RUxvT1BHcVBhRkQzamk0WU90RG8yR3dzOGUtUFhvY0ZRZG81MUJjQXJ1YUdleDNZNU85Q2Q3djBjMjQzYjIzSl9xc0pBRGtrRFRTOVBPeER3STJZRy1LaU9XY0FDaDZMODg4cFBEZ3haVExlYmo?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
     "title": "Cristiano Ronaldo Confirms 2026 World Cup Is His Last: 'Let's Go And Enjoy It'",
     "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkVrM3dmYWl2c2NCOXN0QzRuejdNZE1EekFDTkZIUTF5a1d1WWNBeGt5R0wzSUJvZGt2QjR0ZXJxZ1F4YWpsNkJiSHgzbzdNcHNlZ01CZXpuQkp5ZnFtbDZTLWZiVHFPemtTTFpwVk81R0xoUGhZOG9HSTNsQWJQdDM0RFczWGxLWTB3ejYtY0M0THpVUXg0eWFlcVVoWG1lQ1E1cmRRenctMmJz0gGsAUFVX3lxTE5zbjNJbW12Q3c0eHhoUF9zZVh1SWVvOVg2SWhrbDdkQkRxQUxxMjhnbWxTZjVuV3BZUURvRFF5OTFlYXVSS2d0S2M1N0tVeDVtTFFQaXpZR2w2TUhJcHJrRGFtLXJiNDBoeXZ5ck9OZnNCSGEzaGNtbFFuNWhNVm50UExSZ1VpSlFRMTFycE45aktEMFppMjdmZWI4VzdLNmpkRlA0WXg2Y0toeF8?oc=5",
@@ -728,6 +693,44 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Norway confirmed starting lineup vs. Brazil: Solbakken’s XI for the World Cup round of 16 game",
+    "source": "Diario AS",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Notas da Seleção: Bruno Guimarães sai como vilão, Endrick entra mal e Neymar dá adeus com gol",
+    "source": "ESPN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDRxakJpTHZBVEhWMDBwZC12SjNCRG1vNEtwMWJSRllFOTAyUzRwMmZCMUpNaGpXWXVoa3lFT2ZfWmVzSkpSUXFUOTRhZWZPZ1hFMVNfWUwyanY1QnJ1LUNpZU5RME8tZURXN3BYOUZ0OGtZMjlyemUwbHJJNXFmRFREMzBPWVBaQ2ZCUHlZYXRFa1VWZmRiZWloQmZaeTBnV3dKdVRvVnZETFZzUF94TUxIMmZmVXhBSEJ3NVdLZ1lJMF9TNU5qcmRKdmMzbXJFRC13LWZLVQ?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 07:00",
+    "date_ts": 1783148400.0,
+    "title": "Colombia vs Ghana Confirmed Lineups & Formations Tonight: World Cup Predictions",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ096ZHh3cjdUNklLS0FUeE93VjlhRVhCbW9tQ0RGZl94dDZoZ3huQTNrOHVkeVJnX2N5VTFzTGVuTTE3SVNSdzd6YnVON2JibXF6M3lqWVFvYk9tTHYtX2VvVXZkWVg1MUQ5bmotVTQ4dkNLTmhTZHo1RDd4Z0hMeUkzOEVCNUJ6NlZ3QVZlNGRqNm5MblFLMTczMk9mZERIT2NaSm5GQlhHX2hCeVpJMzY2MA?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
