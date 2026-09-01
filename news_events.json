@@ -11,6 +11,17 @@
     "source_type": "news"
   },
   {
+    "date": "31/08 17:33",
+    "date_ts": 1788197619.0,
+    "title": "Josh Kushner Speaks Out On FIFA Deal: ‘Failed To Appreciate The Political Dynamics’",
+    "source": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1NfUzhsM2pzQ25sRlQ3MnV1ME9lUURubm03YktVUFBhYkdjbW05Q2w3bm5QcXhqc1phaXRGREpYYjVST3BycDdJaXRFcW5mMWVVZ042dHdpZDAtZWxFNXdxQWlIYTRqdUJwRFN4OUFrcXJoUGllZjRqcHpaZmpNYW4zNFA3R0RCUHdfUUxoRVJUSloxcXlGdGJwSklVZTB2SGxabWsydml3MGNt?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "31/08 16:01",
     "date_ts": 1788192071.0,
     "title": "FILE PHOTO: FIFA World Cup 2026 - Round of 16 - Argentina v Egypt",
@@ -362,7 +373,7 @@
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
     "teams": [
       "Brasil"
@@ -372,21 +383,10 @@
     "source_type": "news"
   },
   {
-    "date": "22/07 07:00",
-    "date_ts": 1784703600.0,
-    "title": "FIFA World Cup: Schedule, Results and Standings",
-    "source": "elisportsnetwork.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmZTV081aFlzeWthb2ttcDVtR1NGX0lBWmEwTmhNX0VzTUJ1bktWMGsxdTlHdVFOalFMRTlDWlRMZWEtR1kyVFFYUzZpc0h2WUw4NGVnUGEwVXJqSkRMS1JTWGpFcGhObVAtYXZ0dkpnVFFHNlowd2FtakZVdnMwcW9HdlpNajB1emljT3ptRWJBVmNG?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -458,6 +458,20 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -556,9 +570,22 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
+    "title": "France Starting XI vs Morocco: Predicted Lineup and Confirmed Team News",
     "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VReHpIbnNHWHNEdkJFTWJKUkhOc3htQ1hTdG1nSHdHaTlQRmVySzhXdldFZVgtMm5fNUFGbTMxTWNHcFRiVTRsclY0UkVMNlRoN2xUdk1zSmh4VUJIV1RvRHdsOGNZa1RvbDFFUDdJMWx5SGN4RnFOa1lkaEEzZ0NtNDU?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -675,8 +702,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXF2YmEzR0VrWWhSMGpJMTJSYUNRdERBTkZ4MnJEZjJBdGlHeUdVOEhJa1lSUU0yNnBuTzJ1amNpYi1vblROcXFDUVRXdW5IbmJSdFRRdXVMWHFuRDFmVG1jVjhHWU1iRXMzTnh6YXRUa0o0LWV3d2drRVFVMGhENkNiUQ?oc=5",
     "teams": [
-      "Noruega",
-      "Brasil"
+      "Brasil",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -706,32 +733,6 @@
     ],
     "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "FIFA World Cup 2026: Canada vs Morocco Round of 16 – as it happened",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTJWZG1xODRxT1NiXzJtNFlCYVhmTWs3TE9OZG5fRElsVzNpSmFDV2gwR0RyYkFrOEhyLXRLZkdfTll2aHhQdkFJT0VOcW1aVzBTMlFzaVpScGk5WGw0V2xtQkdCME9Ya1V0TVg3Y19fbmNyU0VuMHR6YUV1SVhaTnBjaUd1eHNGSFBTdVR0Y2Y5OUFHTl9Uck1haWJSOEhzYnhTUEdoREs1alRZd3c?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "Colombia vs Ghana Confirmed Lineups & Formations Tonight: World Cup Predictions",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ096ZHh3cjdUNklLS0FUeE93VjlhRVhCbW9tQ0RGZl94dDZoZ3huQTNrOHVkeVJnX2N5VTFzTGVuTTE3SVNSdzd6YnVON2JibXF6M3lqWVFvYk9tTHYtX2VvVXZkWVg1MUQ5bmotVTQ4dkNLTmhTZHo1RDd4Z0hMeUkzOEVCNUJ6NlZ3QVZlNGRqNm5MblFLMTczMk9mZERIT2NaSm5GQlhHX2hCeVpJMzY2MA?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
