@@ -419,7 +419,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -588,19 +588,6 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTThQYjdoSUUxc09XYXVhNnhWX01Xa0FNTjhqdHJkNzRGWC02MHpBdTRKT284clFWb1VLYUY5LTdyRFdzc01uRjhqdkdSZFVIYzdrSG1wNDBxQk5WU0FFZUxUZEJWbm41M3NIQU5sSnNtUVJrNllKZDY3NldyaEV5Ml8zYm9ES1pHZERjc3VQLS1kN3JoWHlJaVV2a1lpZWpuVVFScjBLN3RBNFMzQ1FPT1I4N2lVQV8yc2c?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
     "title": "France vs. Morocco Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmk4STdmV1ZQQmdxemtuN3VVNUtRekM2TElpZll5dGJERTVmOHhNNEZldWZlX0J6enp2b2ZwM1U3UGk1WjcyajYxOU81RE5KMGJUeWlkUXFIc01sdGNwYVpJZHhVX0JTNDNoTE5iSlBIWWxiREtiYU1BQ2xpamowSlQ2c245enF5OG5UOTN1QWdSTXpmYlNEVV9TdE1RNGtJdUpZY3pQZkU0bXU1Z0RJRW9jTzhyYVk?oc=5",
@@ -667,7 +654,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Manzambi out of Switzerland World Cup showdown with Colombia",
-    "source": "Prothom Alo English",
+    "source": "en.prothomalo.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZWV4QmdCZXRnNTM4OTBBUUlpMmh1SWVtRUtuc1N0SF9WRVFkeTd4SFlCLVF3RnhxZGZmVWJLcVpWeHMyV3oyTlJGZFF3S192RjVJaHd2RTlvMEdLaHRuU3R30gFvQVVfeXFMTkN4VmUwUm1ONzgydWRJQVFqMWMxbmNhYkllTms2dF9yV2ZXbXNZM1dOMWQ2MERkQlJHekN3SllzcW4xX0EwMmplXzBMMXZ1TmFqa1FfdUhSN1RUMm9YUmRfT0hfSndtZ1g3b3MxeFZB?oc=5",
     "teams": [
       "Colombia"
@@ -699,6 +686,20 @@
       "Portugal"
     ],
     "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "World Cup 2026: England's Reece James expected to return for Norway quarter-final",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVExJZktMRTVBaG5ENXpiS2pTaUkwNXlXM2RlWFA0eDF2a2lZVzlTZ3dSaWNMaG1IM2NRWXVVbDczQ0czT2RHaVZaQkUwYjVJRzZEc24za2JFSXozRTVvSHRQNEJsRFE?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   },
