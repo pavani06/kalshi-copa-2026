@@ -1,5 +1,16 @@
 [
   {
+    "date": "02/09 12:04",
+    "date_ts": 1788350688.0,
+    "title": "2026 FIBA World Cup rosters: Complete lineup for every nation competing",
+    "source": "usatoday.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzZoQm1VVDVJc1hzMl9fRjZUeVpaUUtGQVd6ai14Vi1nQlpWVWdYeklYWGYzeGZxY3U3RjFwMDZwM1p4a0ZHNUlhdUdscV9qb21zc3dKNXRfeTNVODNQU0h4SGZidEVoS0R5bDhiWTc0WXRYUG1ZVDFKb1ZtNmVobzRvVnM5U0ZMZmhpbmZIWklmUmFvVU40T2tJWHB0S3hWdzBjbDhRbmJ3cVppWmU3X3c1ZmVLbUEw?oc=5",
+    "teams": [],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "01/09 16:58",
     "date_ts": 1788281880.0,
     "title": "Team USA at FIBA World Cup: Kara Lawson speaks about the challenge ahead",
@@ -405,27 +416,16 @@
     "source_type": "news"
   },
   {
-    "date": "07/08 07:00",
-    "date_ts": 1786086000.0,
-    "title": "France Must Be Careful: These Players Cannot Receive Another Yellow Card",
-    "source": "beIN SPORTS",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmdkeFVMb20xYlNpOUxrV25hMHo4TTNpeWVfZnBQWXZMLUcweFpDSTdwS3FaVFlrLV9VcHhLVkwyNDczVkxqYWNhek1vbWVSODhnbDJhZnNiOXpxb3FpMUhmdmtWNHdmMExacGxIMElCb0hONVdpRjRmTGdHQU50NVQwREp0cVZ6Vm4tdXlhdFlTQ3lHOGJsd3FzWlhyOUNoelRocEpNYkhzbjg1YzFIQjBsVkd4NVhsTjdLemJicjlmdFRtSThhZWZLQkdWZEVHM2NBRU9FQWpEZmpSTnEteWw5aVVwZw?oc=5",
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "Why isn’t Harry Kane starting today for England vs France at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjBqT1piME5qb3YxU2JGSDJwYlVJdlFFMGVMc3J2RGc5bDJ1clhiWFBKdktTbjdjQ01hcm5obHRaQjBGWTNVc3pBM1dsX3hyZjdheEl6c3d0ekowblFNWDY1QnpaYjY5eFhHVW42aWpjdjhzWUR4WEp1LUZycThfaWRXZnN6amNYNnBkV0I3RzNHN01lZ1d6b2JZVnA5S2xaM040VlV2S3FQbTdsRlRNLdIBtgFBVV95cUxQTmluaHE5ZUxKRF82NWQ4VVZjWURmMmJHX1RFbzFfWGlOMXNVLVBoNlR6cERfa1NFTk5xN3VuYWJReEFBQTFpUEEzVlh2VkRLOHI0ZkVMVEJXN1RzT29rcFNmOEV1MDl1a2gyNGRiSHFQSHpMeGRRLXdoOGFIZklCZVVkRUlyLTdnZzJ0TEF4ZENDLVRmeWoyWTNEMDRta0RzZzVvY1MwNG10b1VpUnVxcDJHaVo1QQ?oc=5",
     "teams": [
-      "Marrocos"
+      "Inglaterra"
     ],
-    "category": "injury",
+    "category": "lineup",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 07:00",
-    "date_ts": 1784530800.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -474,8 +474,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -485,11 +485,11 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -502,8 +502,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -516,8 +516,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "result",
     "impact": "HIGH",
@@ -541,20 +541,7 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
-    "teams": [
+      "Noruega",
       "Inglaterra"
     ],
     "category": "injury",
@@ -567,6 +554,19 @@
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -593,6 +593,19 @@
     "title": "France Starting XI vs Morocco: Predicted Lineup and Confirmed Team News",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VReHpIbnNHWHNEdkJFTWJKUkhOc3htQ1hTdG1nSHdHaTlQRmVySzhXdldFZVgtMm5fNUFGbTMxTWNHcFRiVTRsclY0UkVMNlRoN2xUdk1zSmh4VUJIV1RvRHdsOGNZa1RvbDFFUDdJMWx5SGN4RnFOa1lkaEEzZ0NtNDU?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -630,7 +643,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
     "teams": [
       "Colombia"
@@ -672,8 +685,8 @@
     "source": "BBC",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVExJZktMRTVBaG5ENXpiS2pTaUkwNXlXM2RlWFA0eDF2a2lZVzlTZ3dSaWNMaG1IM2NRWXVVbDczQ0czT2RHaVZaQkUwYjVJRzZEc24za2JFSXozRTVvSHRQNEJsRFE?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -683,7 +696,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal lineup today, World Cup starting XI vs Spain confirmed",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGo3M1hlbmowblgzVkZQTVNTRkRmaThMV3NRN1JqekNXekhrQ3BoeWVjODh0T1ZPYzdHN19PMmtFU1NtU3V4Z29qMGh2VXlFcnlEOEFhUWdBbGlsUXhZZ2p4b2Z1S0ZyYldIVGhudFdJeVNuVFlTSGNSdFNyYzZWNW5HbWluR2ZVSXlqbUFxa0g0UUlZTzU2TEM2WkFGZFZuRzBDbmstV3ZnaTFFbkFJZ0pTUGRJQlJLemRV?oc=5",
     "teams": [
       "Portugal"
@@ -706,22 +719,11 @@
     "source_type": "news"
   },
   {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
-    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
-    "title": "Brazil Starting XI vs Norway: Confirmed Team News and Predicted Lineup",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXF2YmEzR0VrWWhSMGpJMTJSYUNRdERBTkZ4MnJEZjJBdGlHeUdVOEhJa1lSUU0yNnBuTzJ1amNpYi1vblROcXFDUVRXdW5IbmJSdFRRdXVMWHFuRDFmVG1jVjhHWU1iRXMzTnh6YXRUa0o0LWV3d2drRVFVMGhENkNiUQ?oc=5",
+    "title": "Brazil vs Norway Lineups & Formations Confirmed for World Cup Round of 16",
+    "source": "FanDuel",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0JVRWZYRDQ5TzY2QWkwa05NeGRYX2VYRUdzY2tZSHo1VmZkSktJeFJvNFV3eHpuc0Y2UTVrRWlNWTB6elladXV0NUY0RURLUmR6TktwZUgtRll1TmF4U01YeDUwWEkwLTFnRVFQUVA4VjBlTW5GTGdTMmNKUmMtZWRGMVdzNXBaVFh3T1BGSTQ5OFdFQTc3T2kxbm1zSWlVMkxmaktDNldzc1M0?oc=5",
     "teams": [
       "Noruega",
       "Brasil"
