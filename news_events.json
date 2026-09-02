@@ -1,5 +1,29 @@
 [
   {
+    "date": "02/09 14:02",
+    "date_ts": 1788357720.0,
+    "title": "FIBA Women's Basketball World Cup 2026: Full schedule, all results, and group standings",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkNNNjdBSF9MbGtUM01tXzhHOGYwODB1czNxUWdkOVQ2Qk9MV2wxRXdwS3RxX0pZRGpmMUFxSmJiVG5OdjV3VVMwd0VyNFdqZ0VDbzhZQlUyVE9jRW9MVDVwN0RKWjdza1pBUWdpazl6eG9sM0VXYkhpM0l1RFQxQTl2eXFKalE?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "02/09 12:17",
+    "date_ts": 1788351420.0,
+    "title": "FIBA Women's Basketball World Cup 2026: Full team rosters and player list",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjF6eG13RHZ3Q0tSWm5rQUpZaEJlNWMwemNSY1BWWnZFU09KdkFxZ2lIUzRzeXpqMHdOT09FOFpYNENjN3VkODFnY2o0WFFQbDZhZEFLYk5jZ2FEMEVMYmtyemUyMHdwRVZYclR4QkJGLWdlRjVmLXlHZmF3QkRFN1FsZw?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "02/09 12:04",
     "date_ts": 1788350688.0,
     "title": "2026 FIBA World Cup rosters: Complete lineup for every nation competing",
@@ -384,23 +408,12 @@
     "date": "07/08 07:00",
     "date_ts": 1786086000.0,
     "title": "Brazil court ties football player’s suspension to recovery time for his injured rival",
-    "source": "Sportstar",
+    "source": "sportstar.thehindu.com",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJFNjhWU2NxZmJtSl9DN2R0WFQtRVRJeUNhSURxSnhLV2hueHZ4aDVpWDZqNzFXQ1RnQzlDY182djk0clJTQmhVczhvaHFlSTc0Z2FlOEswOXJabThJNlRpcTUyMUxHTVdiQTdLa1hOU3hKZmhvWWxnZzJmdjctLTlOaklaYVM1V2hqX3dLUC1rQTZuRldINmZxTzFiY2prajZxcXVtOHdIQlRCenpRckV6Z25sZ9IBvAFBVV95cUxNMk84STl3RWw2eVZyUmZ2VnNNSVcxaWcwbG1BOHBhcHFOYzM1cnkwdWV3QkZyT3NUM1YtWDVMay1Hdm5TdEx2a0gtcDJYMmZiOFAwazRCdURCMVN2a0tpRkVHUFZfdzNGbFZLZml5d1FYNVNrMGMtWU00VFF0RjZBTkpQSmZIOUV2RG5aaTl2bmVub3FqSkZUM291eUY2TGRwSXNHd2d3NXZWWmRCdVJXUzFtQ3A5Nm9hRlFXdA?oc=5",
     "teams": [
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 07:00",
-    "date_ts": 1784530800.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -447,11 +460,11 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -464,8 +477,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -478,8 +491,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -489,11 +502,11 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "result",
     "impact": "HIGH",
@@ -503,7 +516,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
-    "source": "tribalfootball.com",
+    "source": "TribalFootball",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
     "teams": [],
     "category": "result",
@@ -517,10 +530,24 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "10/07 07:00",
+    "date_ts": 1783666800.0,
+    "title": "Norway vs England Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXBSenZNVUpLSG5jVkRyd0hjWVFsQVV5LVQ5SFk0VW01QlQ3Q0JtMk9vV191SUwwYUhtRXdxZFJBMWJrajhyZ1VBWjhITC04UEQxcGtsMWtZTDBPU0w5OFlPSVRjQXJrLWdsWVhhQm5KN1JPUWxEVm9CRlpfbkRXQkM3Y21xTlB5TEJSc09IUnA1SFQ5dTBCNWExY0haaWhqdWRKbWtuV1ZlYlVFV3hYa2Y1N180SDFCMjZHRkl2aTdxQ0FFZFR6TkY5aXdVWWpGaTZOcTRnRFpndVB1ZlM4?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -580,7 +607,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "France Starting XI vs Morocco: Predicted Lineup and Confirmed Team News",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VReHpIbnNHWHNEdkJFTWJKUkhOc3htQ1hTdG1nSHdHaTlQRmVySzhXdldFZVgtMm5fNUFGbTMxTWNHcFRiVTRsclY0UkVMNlRoN2xUdk1zSmh4VUJIV1RvRHdsOGNZa1RvbDFFUDdJMWx5SGN4RnFOa1lkaEEzZ0NtNDU?oc=5",
     "teams": [
       "Marrocos"
@@ -603,13 +630,13 @@
     "source_type": "news"
   },
   {
-    "date": "08/07 07:00",
-    "date_ts": 1783494000.0,
-    "title": "France lose appeal against Olise booking at World Cup",
-    "source": "France 24",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0h3ZEFXUDFZY1NtbHVmMTVRZlphdUFkeFptRHlhemlyay1OREJVVFhraVpSNTI0WmZVcE5XMnk3dXBrZWdYYXVZZkJjYnU0YjFrdmRxWHRTT0owZi1kTFlUZlpfcUxyb1dnTU83TjA5dWw5Q20zZXY1Y2I5NXlBVEVYaWg2aTlSTG13RWk0TjJtdHNnYVJMUEVKeEtjQlJENkE?oc=5",
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "What happens if Colombia win, tie or lose vs Switzerland today at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VKemhwUE1obXZ4dHZDQThyWENBVTByWGZzaVlUQVAtbVFqblJFLXE5SHM1eWM4RUNlMGNvZlVHT3RZZkpyR0Q3NnNDT2J6dWFqY3F1ODFrUU8tMEx5TEc0Y0d4cmJiXzg4WWtTTHhNU2JxS1JYbm5zOXNxbnMxV2JsS0J6VmpQNERCN2tlUnBXNlAzQUdySkdhVHp1NHQ1cVhzZWdiM3Q5VTR3enFwWERFaHlVRWPSAbwBQVVfeXFMUHg3TEp1TEpiWFhYVUdieEdIbGZVSkxfQWljVGg1UURXNTNYeTFvRnRGUnpwdExzWjBxanI5XzFFdzFpT2Q1YjlfOENqWUhFd0x6c3V3RWRCS05LemJiT2lSTXdibE9uQk1tYUJ5bXFXM2VRTUI2U09aQW9EUDJucWdQVEF6Y1NtcTUwRnFOODJOaVBKVngwcnQ0RGVMeGZYTjJ6QnRMUHl4ZWI5X2pmTXJtRU5wSDgyTy10RVc?oc=5",
     "teams": [
-      "Marrocos"
+      "Colombia"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -657,12 +684,12 @@
   {
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
-    "title": "Brazil vs Norway Lineups & Formations Confirmed for World Cup Round of 16",
-    "source": "FanDuel",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0JVRWZYRDQ5TzY2QWkwa05NeGRYX2VYRUdzY2tZSHo1VmZkSktJeFJvNFV3eHpuc0Y2UTVrRWlNWTB6elladXV0NUY0RURLUmR6TktwZUgtRll1TmF4U01YeDUwWEkwLTFnRVFQUVA4VjBlTW5GTGdTMmNKUmMtZWRGMVdzNXBaVFh3T1BGSTQ5OFdFQTc3T2kxbm1zSWlVMkxmaktDNldzc1M0?oc=5",
+    "title": "Brazil vs Norway Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 16",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYlN2cEVOaUhFTzFWLWI5RklzY2RCRGt3emU5MmxRUklQckdzNGxGY2dTSFdWSGdaMWl1LTV4aEY0VTBURFdXYUMtQjd1M1ZkZU9naHZIeFJ0bU1vMmgwa0otbmVCNGtnQXRfcC0xMVFWcHNFOFVjTlhIbk81aTdoX2JSX01RSnY4T2JSTXRqdkJ4bVpzZWtyYzgwYTN2ejVLMzdWUzB6NENYUUZESEZKTldFOHBXcXNkNVhSTUJXYWpQeEVPcDVpdEcxQmVvRk1fdk5sTXBkcG8tazV3?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -672,7 +699,7 @@
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "England Starting XI vs Mexico: Confirmed Team News and Predicted Lineup",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDhYeUducGczWmc4VEF6RUxvT1BHcVBhRkQzamk0WU90RG8yR3dzOGUtUFhvY0ZRZG81MUJjQXJ1YUdleDNZNU85Q2Q3djBjMjQzYjIzSl9xc0pBRGtrRFRTOVBPeER3STJZRy1LaU9XY0FDaDZMODg4cFBEZ3haVExlYmo?oc=5",
     "teams": [
       "Inglaterra"
@@ -695,20 +722,6 @@
     "source_type": "news"
   },
   {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "Norway confirmed starting lineup vs. Brazil: Solbakken’s XI for the World Cup round of 16 game",
-    "source": "Diario AS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
     "title": "Colombia vs Ghana Confirmed Lineups & Formations Tonight: World Cup Predictions",
@@ -719,19 +732,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "Canada vs Morocco FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWml1OEc2cHpxcFJ0QlprX29UU1RnZ1ZReXVaMkFHYWxlbFBmU2JVaDFYcm5Edk5McUNJUDNIYUwwdFJCMXpWZ1FrOE1zdHZBQkNPc3Nyd3lTaklJWXZBNUFWY0tPN0ticnBnU0hEbGNEX29vUEMtV04tcW9wVnh1ckMweEExZzJv?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
