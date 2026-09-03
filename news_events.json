@@ -461,8 +461,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -475,8 +475,8 @@
     "source": "Pain in the Arsenal",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd0Z5WEt1bEtvT0NEMlVURmlNelJpbERGZ1hEM2g0dUd2S1Z6SHJUVTk2ZVVlM1V2Q0F5SmFlLUNBeFdETUdXei1xTkhVWF8yanUwNXR1WjZPbUJxZlJ0UGhhWkxVdUNzbHBRRjNaVVF5U1VFRHAzX3hkVk1VdDdxQ3Y3SWcxb2tJUVVEWHVtQXZmelYxdWx1aXNUZUJYdVNCRWdpb2JKYWNxRXhkcU50WGxXV3Q2ZGxsWmwxTmxEMUtHcWs?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -489,8 +489,8 @@
     "source": "prizepicks.com",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -503,20 +503,9 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Argentina’s Alexis Mac Allister scores header from corner kick to take lead vs Switzerland | 2026 FIFA World Cup",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLMkZwUWpmY0ZOWWZwMU1xWl9Vc2pXUmVKUHZCTDRJY2Y0ck9XQWt1dERxdjJvdkhhSUduWXFEUGt1aEZxTHg5RndfSEhoZXdpQV95TUl1OUVsWVA0WFRINVBB?oc=5",
-    "teams": [],
     "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
@@ -535,8 +524,8 @@
   {
     "date": "10/07 07:00",
     "date_ts": 1783666800.0,
-    "title": "England player given two-game suspension - The Arkansas Democrat-Gazette",
-    "source": "The Arkansas Democrat-Gazette",
+    "title": "England player given two-game suspension",
+    "source": "arkansasonline.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2Q1S0hJSi1uTTkxZ08xbW9uUFE5TktvMWtSOWpLUlpIU3ItRjZETGU0OU5VN0pldE54SmZjM1RGVnhBTS1uSHNEWE04bzJ0N2kwMU0zc3p6Z3VYRmtPVG5kM2lkaHRJWS1Gc0xNYnIzVC12YVlUZFJQdjF3bXBQVU1aSW03OWtVS2ZDU0lVeHNGNms?oc=5",
     "teams": [
       "Inglaterra"
@@ -552,8 +541,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
     "teams": [
-      "Inglaterra",
-      "Noruega"
+      "Noruega",
+      "Inglaterra"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -583,19 +572,6 @@
     ],
     "category": "injury",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "Why isn’t Aurelien Tchouameni playing today for France vs Morocco at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYm1pdVI0TXdmWlIySmtaMk4yazh1VFRYWVltRGV6UHdCa0dPXzktSDBod2Vkc2I0Z0lYTVhaUEdmaTY5TTlJT2hSWjJtWGMzZ21vZE9YS294T0NTRURPTldMMkpiUjBUUkxvanlhQ3Y0MFdyZGRVM2tZRUg4LVlKTUtldGp3SVJDcUViUkZacVFwVkpXUzFUOHNUMHJpSG9lWWR6V2lyR1NYTkg0S0FyNnhLeFl3UThvMng00gHAAUFVX3lxTE1kaDdqa1hQVFVFd0VqeTBBNXBuR2dfMXZiM0xWQVM1YmpFbFM5M2gxMEVJQkxBZG04b04zbS1JNW9oRWZlMHh4MDJLUDROM0lwb0NlVWM2TFZFVWE5LWtPT3Z6d2h1clNJam1LZUI3cWFhb3J0QmJoT19pb1oybVMyc1lCU3VDOWJvQlBSX2JKS2UxSEIxOUEtdG5sMmdLX21BeldEQ2R0clRDeGFkOWs0VWFZamxXcVExUlltQ0hkWA?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -670,8 +646,8 @@
     "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0JVRWZYRDQ5TzY2QWkwa05NeGRYX2VYRUdzY2tZSHo1VmZkSktJeFJvNFV3eHpuc0Y2UTVrRWlNWTB6elladXV0NUY0RURLUmR6TktwZUgtRll1TmF4U01YeDUwWEkwLTFnRVFQUVA4VjBlTW5GTGdTMmNKUmMtZWRGMVdzNXBaVFh3T1BGSTQ5OFdFQTc3T2kxbm1zSWlVMkxmaktDNldzc1M0?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -706,24 +682,50 @@
   {
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
-    "title": "Morocco dealt brutal injury blew as new Bayern Munich signing Ismael Saibari goes off injuerd early against Canada",
-    "source": "Yahoo Sports Canada",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ296bGpsTnJCS0VkYTJ1UGloMl92M09vekFCYkY1NVBJNmdMMHdyMm9vRGpGMTJmNldqYUJaMWxTU2M5Y3JWUFlpZ1RRMGJNSG5lekVGSkFudjhnWThXbEN3S0R4a3p1Z2J4MlA3STNrM2wybUhQSW9MTFlaUGxnVHBZX04tU2M?oc=5",
+    "title": "Canada vs. Morocco confirmed lineups, starting 11 from World Cup Round of 16 game in Houston",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTFzemJZSHZzb19hOTFnNy1uN1cyWXdlTHJIX2xHQjFycmd2TzRHdHpGZU56LUp5b2VQOF84WHF1ZlUyUlEzenk3MlMwZjBQZ1JBN05ic0ZoSml0TWkzRW9KQmR4aXJnWkQ1YnlUbWk3c2s0RGNIVXhfVUU2WVpiNGFWLU0xRUxWSVgzX3BHaHIzbjhJZ2tpeU1WNjdjc3RGdlJkeGZUX3JyUnNGbjZ1ZjFqVFNEN3ByX0h1SQ?oc=5",
     "teams": [
       "Marrocos"
     ],
-    "category": "injury",
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
   {
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
-    "title": "Canada vs. Morocco confirmed lineups, starting 11 from World Cup Round of 16 game in Houston",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTFzemJZSHZzb19hOTFnNy1uN1cyWXdlTHJIX2xHQjFycmd2TzRHdHpGZU56LUp5b2VQOF84WHF1ZlUyUlEzenk3MlMwZjBQZ1JBN05ic0ZoSml0TWkzRW9KQmR4aXJnWkQ1YnlUbWk3c2s0RGNIVXhfVUU2WVpiNGFWLU0xRUxWSVgzX3BHaHIzbjhJZ2tpeU1WNjdjc3RGdlJkeGZUX3JyUnNGbjZ1ZjFqVFNEN3ByX0h1SQ?oc=5",
+    "title": "Canada vs Morocco: Confirmed lineups for the 2026 World Cup game",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzdiX3RxanViUGFuSnNMZmI3Q1JDTHBudXBwTFVXa2FjVzJYSklZSU4xbTNldk9uQ0pPcFFSMnNLMG5ubDRPLTFzamwzdzNReUlCdnFiOE5IRTVNR0tNNk1aWXVPQUlpYXBPRnBFV040Tmx4Vmlzcmd0TmV5Q0xfcGg3Y2pJNzhleV9rNG1VVUw1THJyX0N5ckNCbjVHLW5BRnNtM2o0cjdPSmRuZXRNNkdlTE1Ub1NOLVRBMnZUNTR0RjdrenVIUdIBzAFBVV95cUxQNHBYNUs4VThUVlRpOU56Uk4zUnNneExyU0tsdWdSMm8zM0VVN2NLTTZIVVpCeFc2YTV2cWVBcFl1QndPTV9GRTVNU3FTMlJhbmVVbE4xeUVfckgtb2tIVzlsYThEUFlla3UyblFSVjNTYXZfZHZfdUJMNGNvRl9iakRVQUMwc1c3QWFjQ1VwUk01cjZEaXpaRXZqU2x3T3I0RDZrUkxKTncySjNhRmpKRmtfMVhBNDRJUGdmZDk3LVNxa1M2N0hrUy1EckQ?oc=5",
     "teams": [
       "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 07:00",
+    "date_ts": 1783062000.0,
+    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
+    "source": "Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "03/07 07:00",
+    "date_ts": 1783062000.0,
+    "title": "Colombia vs. Ghana projected lineups, starting 11 for World Cup Round of 32 game in Kansas City",
+    "source": "sportingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGEtVmdmNElnUHBYd0NiYlYxQm1IR1JZdnpINy1VSUg1LVZQcENUelJfZGw4Unp5UnE1OEFTYXFSTGVXSjBHYnBOQzdvVk9OcFVmUjNsclRoOTA0SjZRSWo4Qk1GcDd6RHNaTGlzeFpHVjk4ZUFjMW81REh5TUR5T0Y4TU1pWHA4dFVRWXhmOU0yZHY1M1BkN2hLTDNxb3UzQUhrdDJYU1FqWE5WOWNWRnNHbExWVVRZY2c?oc=5",
+    "teams": [
+      "Colombia"
     ],
     "category": "lineup",
     "impact": "HIGH",
