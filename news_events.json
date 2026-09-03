@@ -455,6 +455,19 @@
     "source_type": "news"
   },
   {
+    "date": "15/07 07:00",
+    "date_ts": 1784098800.0,
+    "title": "England vs. Argentina Lineups Confirmed, Starting XIs for World Cup Semifinal Today",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjZ4XzJoRTZlc1dKZkpGYzJEcEk5emF0bzRSYmVjUDlBVklVRklCSWFQM01TX29CaFlVWmNyRnN4RjdUQWZpcnBFcHF2aWw4Z1dUVjUtalhCNENNMTA5TUVIeEc5M3NuTXBPMkcyeDhBNEFuWUhleDlNckpZVUdrUnVBQUU4SHp1WkE0aFY2Q0FUUFhBYVhSNWd1Z0ZZZzZuZmVlRjN3aWhyeVpsWnp2OFp3YnVBMkl1bFpnX0F3?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
@@ -479,20 +492,6 @@
       "Inglaterra"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "prizepicks.com",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -524,8 +523,8 @@
   {
     "date": "10/07 07:00",
     "date_ts": 1783666800.0,
-    "title": "England player given two-game suspension",
-    "source": "arkansasonline.com",
+    "title": "England player given two-game suspension - The Arkansas Democrat-Gazette",
+    "source": "The Arkansas Democrat-Gazette",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2Q1S0hJSi1uTTkxZ08xbW9uUFE5TktvMWtSOWpLUlpIU3ItRjZETGU0OU5VN0pldE54SmZjM1RGVnhBTS1uSHNEWE04bzJ0N2kwMU0zc3p6Z3VYRmtPVG5kM2lkaHRJWS1Gc0xNYnIzVC12YVlUZFJQdjF3bXBQVU1aSW03OWtVS2ZDU0lVeHNGNms?oc=5",
     "teams": [
       "Inglaterra"
@@ -577,19 +576,6 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "France vs. Morocco Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "prizepicks.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmk4STdmV1ZQQmdxemtuN3VVNUtRekM2TElpZll5dGJERTVmOHhNNEZldWZlX0J6enp2b2ZwM1U3UGk1WjcyajYxOU81RE5KMGJUeWlkUXFIc01sdGNwYVpJZHhVX0JTNDNoTE5iSlBIWWxiREtiYU1BQ2xpamowSlQ2c245enF5OG5UOTN1QWdSTXpmYlNEVV9TdE1RNGtJdUpZY3pQZkU0bXU1Z0RJRW9jTzhyYVk?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
     "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
@@ -601,10 +587,23 @@
     "source_type": "news"
   },
   {
+    "date": "08/07 07:00",
+    "date_ts": 1783494000.0,
+    "title": "When do yellow cards reset at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3pfZmQzc3RvQWVfdkdpMF9MVUFMWmo2UThxS0hGdkExNVNpOGladS1pXy1qZ082WWF5QVg4MU5iMkpQajZUUTBHbmJ6eEJOa1R3eHVOU284RTZpR1FUX2E5YnhoaXRvd1o2MUdsd1VpY19fdU9ZaHozd1VoRHFqV1N4ZE9PT0hm0gGOAUFVX3lxTE5GNEgzeXVYUjR2UGlsbWF6eDZVZU8yNTd2MG9OU1V2XzBFeXp0b0JKYjJja2dZQmQ0b0p3bG5weUxva2RKdUIyRmRvaTdnX3RpZm52VHl5NWVTdWp4bHZmcWI1S2lFTVlCSFhmUHVYeXkwOGRCVnplTzJZSG5kSXlsZW1WcWtsUkRnME1yRVE?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
     "teams": [
       "Colombia"
@@ -695,6 +694,19 @@
   {
     "date": "04/07 07:00",
     "date_ts": 1783148400.0,
+    "title": "Canada vs. Morocco Lineups Confirmed, Starting XIs for World Cup Today",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVZwM0FIV2NMblNxZG9abFF3QjFybjc3dXJsT1Y1WEtVb2c1RDc4bXcxMHdFTGIySnk4clF3endqUWpyQnlvSDV1dHdFc0NobjU4R3dnZmRzbWlsTDRRQmpuS0tqckI3WTVwa2lVVjFydmRfbEk5dnBvZk0zSndncnpsd0Y3ZkZVcDhjY2ZPRHpudldoMko3cHNTQklhZ3lDNF9UZUFHeE9iUzd5?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "04/07 07:00",
+    "date_ts": 1783148400.0,
     "title": "Canada vs Morocco: Confirmed lineups for the 2026 World Cup game",
     "source": "World Soccer Talk",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzdiX3RxanViUGFuSnNMZmI3Q1JDTHBudXBwTFVXa2FjVzJYSklZSU4xbTNldk9uQ0pPcFFSMnNLMG5ubDRPLTFzamwzdzNReUlCdnFiOE5IRTVNR0tNNk1aWXVPQUlpYXBPRnBFV040Tmx4Vmlzcmd0TmV5Q0xfcGg3Y2pJNzhleV9rNG1VVUw1THJyX0N5ckNCbjVHLW5BRnNtM2o0cjdPSmRuZXRNNkdlTE1Ub1NOLVRBMnZUNTR0RjdrenVIUdIBzAFBVV95cUxQNHBYNUs4VThUVlRpOU56Uk4zUnNneExyU0tsdWdSMm8zM0VVN2NLTTZIVVpCeFc2YTV2cWVBcFl1QndPTV9GRTVNU3FTMlJhbmVVbE4xeUVfckgtb2tIVzlsYThEUFlla3UyblFSVjNTYXZfZHZfdUJMNGNvRl9iakRVQUMwc1c3QWFjQ1VwUk01cjZEaXpaRXZqU2x3T3I0RDZrUkxKTncySjNhRmpKRmtfMVhBNDRJUGdmZDk3LVNxa1M2N0hrUy1EckQ?oc=5",
@@ -716,19 +728,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "Colombia vs. Ghana projected lineups, starting 11 for World Cup Round of 32 game in Kansas City",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGEtVmdmNElnUHBYd0NiYlYxQm1IR1JZdnpINy1VSUg1LVZQcENUelJfZGw4Unp5UnE1OEFTYXFSTGVXSjBHYnBOQzdvVk9OcFVmUjNsclRoOTA0SjZRSWo4Qk1GcDd6RHNaTGlzeFpHVjk4ZUFjMW81REh5TUR5T0Y4TU1pWHA4dFVRWXhmOU0yZHY1M1BkN2hLTDNxb3UzQUhrdDJYU1FqWE5WOWNWRnNHbExWVVRZY2c?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
