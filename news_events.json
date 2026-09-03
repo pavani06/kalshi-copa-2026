@@ -419,7 +419,7 @@
     "date": "07/08 07:00",
     "date_ts": 1786086000.0,
     "title": "Brazil court ties football player’s suspension to recovery time for his injured rival",
-    "source": "Sportstar",
+    "source": "sportstar.thehindu.com",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJFNjhWU2NxZmJtSl9DN2R0WFQtRVRJeUNhSURxSnhLV2hueHZ4aDVpWDZqNzFXQ1RnQzlDY182djk0clJTQmhVczhvaHFlSTc0Z2FlOEswOXJabThJNlRpcTUyMUxHTVdiQTdLa1hOU3hKZmhvWWxnZzJmdjctLTlOaklaYVM1V2hqX3dLUC1rQTZuRldINmZxTzFiY2prajZxcXVtOHdIQlRCenpRckV6Z25sZ9IBvAFBVV95cUxNMk84STl3RWw2eVZyUmZ2VnNNSVcxaWcwbG1BOHBhcHFOYzM1cnkwdWV3QkZyT3NUM1YtWDVMay1Hdm5TdEx2a0gtcDJYMmZiOFAwazRCdURCMVN2a0tpRkVHUFZfdzNGbFZLZml5d1FYNVNrMGMtWU00VFF0RjZBTkpQSmZIOUV2RG5aaTl2bmVub3FqSkZUM291eUY2TGRwSXNHd2d3NXZWWmRCdVJXUzFtQ3A5Nm9hRlFXdA?oc=5",
     "teams": [
       "Brasil"
@@ -458,7 +458,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -588,6 +588,19 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
+    "title": "France vs. Morocco Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmk4STdmV1ZQQmdxemtuN3VVNUtRekM2TElpZll5dGJERTVmOHhNNEZldWZlX0J6enp2b2ZwM1U3UGk1WjcyajYxOU81RE5KMGJUeWlkUXFIc01sdGNwYVpJZHhVX0JTNDNoTE5iSlBIWWxiREtiYU1BQ2xpamowSlQ2c245enF5OG5UOTN1QWdSTXpmYlNEVV9TdE1RNGtJdUpZY3pQZkU0bXU1Z0RJRW9jTzhyYVk?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
     "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
@@ -596,6 +609,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "What happens if Colombia win, tie or lose vs Switzerland today at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VKemhwUE1obXZ4dHZDQThyWENBVTByWGZzaVlUQVAtbVFqblJFLXE5SHM1eWM4RUNlMGNvZlVHT3RZZkpyR0Q3NnNDT2J6dWFqY3F1ODFrUU8tMEx5TEc0Y0d4cmJiXzg4WWtTTHhNU2JxS1JYbm5zOXNxbnMxV2JsS0J6VmpQNERCN2tlUnBXNlAzQUdySkdhVHp1NHQ1cVhzZWdiM3Q5VTR3enFwWERFaHlVRWPSAbwBQVVfeXFMUHg3TEp1TEpiWFhYVUdieEdIbGZVSkxfQWljVGg1UURXNTNYeTFvRnRGUnpwdExzWjBxanI5XzFFdzFpT2Q1YjlfOENqWUhFd0x6c3V3RWRCS05LemJiT2lSTXdibE9uQk1tYUJ5bXFXM2VRTUI2U09aQW9EUDJucWdQVEF6Y1NtcTUwRnFOODJOaVBKVngwcnQ0RGVMeGZYTjJ6QnRMUHl4ZWI5X2pmTXJtRU5wSDgyTy10RVc?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -622,6 +648,19 @@
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "Switzerland fear 'huge issue' as Manzambi, 2 others leave training",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORV9MOWc2Y3Q2cjloSkNmMEJFbGdaNDFFVk8xS2ZEcTBJZkpzVnphNi0yNWFkSGlXemctaUI0eUhkYkVKX3RyYVo1MTdwbFpIelpTNWJYU2duR1pOckZnR2QwLU1pdFoyS2FxbGhuSDFOREp6SmlneDZ4cTlOUWltVXVHUlpKQzdzMDg1TW52ajBkV3gxSU1qaWc2dkNwMWtzYkVneGVQQlA?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "MEDIUM",
     "source_type": "news"
   },
   {
@@ -654,11 +693,11 @@
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "Brazil vs Norway Lineups & Formations Confirmed for World Cup Round of 16",
-    "source": "fanduel.com",
+    "source": "FanDuel",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0JVRWZYRDQ5TzY2QWkwa05NeGRYX2VYRUdzY2tZSHo1VmZkSktJeFJvNFV3eHpuc0Y2UTVrRWlNWTB6elladXV0NUY0RURLUmR6TktwZUgtRll1TmF4U01YeDUwWEkwLTFnRVFQUVA4VjBlTW5GTGdTMmNKUmMtZWRGMVdzNXBaVFh3T1BGSTQ5OFdFQTc3T2kxbm1zSWlVMkxmaktDNldzc1M0?oc=5",
     "teams": [
-      "Noruega",
-      "Brasil"
+      "Brasil",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -687,45 +726,6 @@
       "Portugal"
     ],
     "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "Portugal vs Spain – Predicted lineup and team news",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSkFaTmJZOWtMVWoyM0pDeExHNU1JZmkwRmlBeUJXOGhMSVQxTnJYa0drSGVkc0lqRV9YVE02Zl9OU25VZHBDb1ZRQlJWUmZUWlJDd0sxM3liNEZsbzBfZWdORVY5WWI3OUZTeVB0dEVlcjFud19sTk1TTXNiWFpTYzBIYllYYlZsMFBZ?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "Canada vs. Morocco confirmed lineups, starting 11 from World Cup Round of 16 game in Houston",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTFzemJZSHZzb19hOTFnNy1uN1cyWXdlTHJIX2xHQjFycmd2TzRHdHpGZU56LUp5b2VQOF84WHF1ZlUyUlEzenk3MlMwZjBQZ1JBN05ic0ZoSml0TWkzRW9KQmR4aXJnWkQ1YnlUbWk3c2s0RGNIVXhfVUU2WVpiNGFWLU0xRUxWSVgzX3BHaHIzbjhJZ2tpeU1WNjdjc3RGdlJkeGZUX3JyUnNGbjZ1ZjFqVFNEN3ByX0h1SQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   }
