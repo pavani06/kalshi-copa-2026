@@ -417,7 +417,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -490,6 +490,20 @@
   {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
+    "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
@@ -549,33 +563,6 @@
     "teams": [
       "Inglaterra",
       "Noruega"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 07:00",
-    "date_ts": 1783666800.0,
-    "title": "World Cup 2026: England's Guehi, Rice & James all train before Norway game",
-    "source": "BBC",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTURWSjBxMEtYME1uWFdUZzg0aVVjaTBBd09ZM0tldzF5b1JzWnlYUjQybFkxU01VSi1ZLWQ3SHZPc2l4dC1VSzdkRUs4Ty14RnNsejVoRkxpaXVPcHhiUlpLRmVYQk0?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 07:00",
-    "date_ts": 1783666800.0,
-    "title": "Belgium hit by last-minute Tielemans injury blow before Spain clash",
-    "source": "The Independent",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZi1ieThhbDV2U3JvSXozUHNMazNqTG9xcGFNb2VrTDdMS1ZoRkt5YlRYbUh6ZHc5ajFwU1Q0VmhYVnFLaVBmdjdFWmduWXNfVEpjS0Z6RHpXaTN6cUx5WUpSbXJMeTZ5elB5NDUwaUd3bEtEek1pY3VFMzJYQnlZc2dBd3Njd3dUUGNlTWxtMDZUMlBGYmFVelNGeGNOc3pVOHpYbWhoMi1UTHIydlRhZ1JzZ0gwdXdHc3lZ?oc=5",
-    "teams": [
-      "Senegal"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -721,6 +708,19 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "FIFA’s decision to suspend Folarin Balogun’s ban damages the integrity of this World Cup - The Athletic",
+    "source": "nytimes.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjk4ZWdNOUtocHotRm5nV1p2T2wxLWxTaTIwZTNBZXd6NU1iSkFEWVdMdng4NzJMMkhsenhHRWJWdmN5YWRsdGdSVEptT0hRaS14bGtSSFBkMVhaU1I5aXUxaVZoVkFUanJMZlZrMkxGMmhrUFVkX3dPQlRyeVJCb2xzYkNmR3JiWXRWV3NB?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
