@@ -24,6 +24,17 @@
     "source_type": "news"
   },
   {
+    "date": "04/09 14:47",
+    "date_ts": 1788533220.0,
+    "title": "Caitlin Clark’s double-double helps USA rout China in Fiba World Cup opener",
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWJNcXUxQXdoRnd4QXMxcEtoVFNCVlFvQ0pKSHp5VmpkUlhtVExfZ2ZiVGxkV2tjRm1ncDk5Z0E3OUVZNl9uME9Td1RNNDZnVGlLYnlGZjFsSWpQTEJzTGY0dVBHazd5QkhJZE05aHA0VnBBNlhiRFN5MWxobjUxOUdaNVJWQ1lJNHVIaExEZEx6dHM1M3RRcWw4a3RnQQ?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "04/09 06:28",
     "date_ts": 1788503303.0,
     "title": "USA Seek Fifth Straight Gold at 2026 FIBA Women’s World Cup",
@@ -406,7 +417,7 @@
     "date": "07/08 07:00",
     "date_ts": 1786086000.0,
     "title": "France Must Be Careful: These Players Cannot Receive Another Yellow Card",
-    "source": "beIN SPORTS",
+    "source": "beinsports.com",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmdkeFVMb20xYlNpOUxrV25hMHo4TTNpeWVfZnBQWXZMLUcweFpDSTdwS3FaVFlrLV9VcHhLVkwyNDczVkxqYWNhek1vbWVSODhnbDJhZnNiOXpxb3FpMUhmdmtWNHdmMExacGxIMElCb0hONVdpRjRmTGdHQU50NVQwREp0cVZ6Vm4tdXlhdFlTQ3lHOGJsd3FzWlhyOUNoelRocEpNYkhzbjg1YzFIQjBsVkd4NVhsTjdLemJicjlmdFRtSThhZWZLQkdWZEVHM2NBRU9FQWpEZmpSTnEteWw5aVVwZw?oc=5",
     "teams": [
       "Marrocos"
@@ -477,20 +488,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -719,8 +716,8 @@
     "source": "Prothom Alo English",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11N1k1a3pNeGpaa0Vra0ZmaWVHVlkwNzVUajBBQ0NMNzFqNUh0Q3o5VW02UjBxVTY2dDUtbWtiRkNFcW8zelQ4ME1xZXdaMUtlTjVRMTlFRVhHVW0tdjUzOE930gFvQVVfeXFMTTNtQmE1VmVhQmxnRVdwOHFMZDVmOHBvVGdiMHh6Q1UtYUdtMmxmWGZLYUpWYlJGTFFkMzA4TnZ5b043cUZndnRvVGdTMUdnNXB5OWZhTElmVmRwTkFrZWtVOXhubWVKWnNlQ2lINktz?oc=5",
     "teams": [
-      "Noruega",
-      "Brasil"
+      "Brasil",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "LOW",
