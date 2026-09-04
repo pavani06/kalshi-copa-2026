@@ -388,30 +388,6 @@
     "source_type": "news"
   },
   {
-    "date": "28/08 12:00",
-    "date_ts": 1787918421.0,
-    "title": "FIH Women's Hockey World Cup 2026: News, Schedule, Scores, Results, Points table",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMTg5aVF2eEFQRFdnUk9ER09SNXF6cXBOQUh4N2FibDRKNkwweWZ3ZXZidlpjNUEtWF9wdjVFSTZ2QXM2NE9GUFJTME4yckNISXVaelIxMUpaLW9xMDlvRmw4eGZKNXRUZ1ZNOHlleUNaWTVUa19qend2Y0M1V1RJZ0ZsVFEtS25oZW1ObUlnMEtQTDFjUnBYVUk4OUZPNVlxbTV0S3Z6WlRrUjR4Rko3S0x6Z2dfWkNibHBwZG5lYVNobFVYQkg5SDh0NGZJNTg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "28/08 11:31",
-    "date_ts": 1787916660.0,
-    "title": "Atlético under-15s compete in the Brazil-Japan Friendship Cup",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVJNeXVkZ2p1OVRZbkZzRllmNHF2WFF1WnBlMFdDMVhJRm1mdE9vNVRvM19MUTNUaUZDSmVhQnJaV2RzTS1ZUDFlQ3RveXcwYlRETy11WktLQTdHWTBGQmI1YnBtOFBRRFhBU2drUURoV2tSWUdvMlhXZDhqdDJJZw?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "07/08 07:00",
     "date_ts": 1786086000.0,
     "title": "Brazil court ties football player’s suspension to recovery time for his injured rival",
@@ -593,6 +569,19 @@
     "source_type": "news"
   },
   {
+    "date": "10/07 07:00",
+    "date_ts": 1783666800.0,
+    "title": "Belgium hit by last-minute Tielemans injury blow before Spain clash",
+    "source": "The Independent",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZi1ieThhbDV2U3JvSXozUHNMazNqTG9xcGFNb2VrTDdMS1ZoRkt5YlRYbUh6ZHc5ajFwU1Q0VmhYVnFLaVBmdjdFWmduWXNfVEpjS0Z6RHpXaTN6cUx5WUpSbXJMeTZ5elB5NDUwaUd3bEtEek1pY3VFMzJYQnlZc2dBd3Njd3dUUGNlTWxtMDZUMlBGYmFVelNGeGNOc3pVOHpYbWhoMi1UTHIydlRhZ1JzZ0gwdXdHc3lZ?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
@@ -719,6 +708,19 @@
       "Colombia"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
