@@ -390,26 +390,52 @@
     "source_type": "news"
   },
   {
-    "date": "02/08 07:00",
-    "date_ts": 1785654000.0,
-    "title": "Grêmio Esportivo Brasil vs SC Gaúcho live score, H2H and lineups",
-    "source": "Sofascore",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDhJdnpYNnF4WkQ5ZTNocW5NZ25pMEtGY0RvRkJKN0xlelpraG9GQ1ZUZDl5X1o1eDN4Q2tzcE1SNnY4aXl0eGluemtJLTF3VVBMaVdOcmlpVEFpSDlyNC1FZ0Exb0s5MEpEalF3SFJzS0xUemVTN2xNMTJBVW5yR1J1SVhSdEduVEE?oc=5",
+    "date": "07/08 07:00",
+    "date_ts": 1786086000.0,
+    "title": "Brazil court ties football player’s suspension to recovery time for his injured rival",
+    "source": "Sportstar",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJFNjhWU2NxZmJtSl9DN2R0WFQtRVRJeUNhSURxSnhLV2hueHZ4aDVpWDZqNzFXQ1RnQzlDY182djk0clJTQmhVczhvaHFlSTc0Z2FlOEswOXJabThJNlRpcTUyMUxHTVdiQTdLa1hOU3hKZmhvWWxnZzJmdjctLTlOaklaYVM1V2hqX3dLUC1rQTZuRldINmZxTzFiY2prajZxcXVtOHdIQlRCenpRckV6Z25sZ9IBvAFBVV95cUxNMk84STl3RWw2eVZyUmZ2VnNNSVcxaWcwbG1BOHBhcHFOYzM1cnkwdWV3QkZyT3NUM1YtWDVMay1Hdm5TdEx2a0gtcDJYMmZiOFAwazRCdURCMVN2a0tpRkVHUFZfdzNGbFZLZml5d1FYNVNrMGMtWU00VFF0RjZBTkpQSmZIOUV2RG5aaTl2bmVub3FqSkZUM291eUY2TGRwSXNHd2d3NXZWWmRCdVJXUzFtQ3A5Nm9hRlFXdA?oc=5",
     "teams": [
       "Brasil"
     ],
-    "category": "lineup",
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
   {
-    "date": "22/07 07:00",
-    "date_ts": 1784703600.0,
-    "title": "Coritiba - Palmeiras 1-3",
-    "source": "Flashscore.com",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVk0S3k2aWFKb25LdFVGYjRiTkg0dTZUQ2xLR2QxYWVqenBfYVU2WmZ1MFdaQ3RETTFQaEgwbVZDVDlmUkdkMWg0Sm4yU0kxaTVERHhsSXlQSmxWdld4UXd0QlBJMnNTT1FsbC1ZVlhEQzVnbWVuSWZISzR6TnBFa1hrckpaVkRHYk80d2xpOF9McHFjanhtWlVMUV9xbzVjeVNSZm92VnVuQUpK?oc=5",
+    "date": "07/08 07:00",
+    "date_ts": 1786086000.0,
+    "title": "France Must Be Careful: These Players Cannot Receive Another Yellow Card",
+    "source": "beIN SPORTS",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmdkeFVMb20xYlNpOUxrV25hMHo4TTNpeWVfZnBQWXZMLUcweFpDSTdwS3FaVFlrLV9VcHhLVkwyNDczVkxqYWNhek1vbWVSODhnbDJhZnNiOXpxb3FpMUhmdmtWNHdmMExacGxIMElCb0hONVdpRjRmTGdHQU50NVQwREp0cVZ6Vm4tdXlhdFlTQ3lHOGJsd3FzWlhyOUNoelRocEpNYkhzbjg1YzFIQjBsVkd4NVhsTjdLemJicjlmdFRtSThhZWZLQkdWZEVHM2NBRU9FQWpEZmpSTnEteWw5aVVwZw?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "20/07 07:00",
+    "date_ts": 1784530800.0,
+    "title": "World Cup 2026 bracket: Latest results - The Athletic",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "18/07 07:00",
+    "date_ts": 1784358000.0,
+    "title": "Why isn’t Harry Kane starting today for England vs France at the 2026 World Cup?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjBqT1piME5qb3YxU2JGSDJwYlVJdlFFMGVMc3J2RGc5bDJ1clhiWFBKdktTbjdjQ01hcm5obHRaQjBGWTNVc3pBM1dsX3hyZjdheEl6c3d0ekowblFNWDY1QnpaYjY5eFhHVW42aWpjdjhzWUR4WEp1LUZycThfaWRXZnN6amNYNnBkV0I3RzNHN01lZ1d6b2JZVnA5S2xaM040VlV2S3FQbTdsRlRNLdIBtgFBVV95cUxQTmluaHE5ZUxKRF82NWQ4VVZjWURmMmJHX1RFbzFfWGlOMXNVLVBoNlR6cERfa1NFTk5xN3VuYWJReEFBQTFpUEEzVlh2VkRLOHI0ZkVMVEJXN1RzT29rcFNmOEV1MDl1a2gyNGRiSHFQSHpMeGRRLXdoOGFIZklCZVVkRUlyLTdnZzJ0TEF4ZENDLVRmeWoyWTNEMDRta0RzZzVvY1MwNG10b1VpUnVxcDJHaVo1QQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "lineup",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -417,7 +443,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -443,8 +469,22 @@
   {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
+    "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
+    "source": "prizepicks.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
-    "source": "tribalfootball.com",
+    "source": "TribalFootball",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
     "teams": [],
     "category": "result",
@@ -481,6 +521,45 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
+    "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
+    "source": "si.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
     "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
     "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
@@ -488,6 +567,84 @@
       "Inglaterra"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 07:00",
+    "date_ts": 1783494000.0,
+    "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW5WeWFwd2tKeW1MWXBMNF9qeVlaQ3NmamNUR3NQaGNUQXFkcGRGaG5lTUwyRmt1cjRicWEtU1VRdGFpWTVZQ2VaYUFFREVEckl4bndvUVNubkJEdFE4SGpmYXFTQW1FVXRWeXgtWjJDZUhnNC03T3loRWs3U1oweFRQVTlGNVNoTkpUWEZoRmhfRWhudWtvNG1hQXJKaHdlRmFEVXkxWmNyVmNXSGc3Y1FBdHJzQdIBuwFBVV95cUxOREsySktJNWpZS1J4RU03VFVHMlVVTVpva2xNX3dZY3JHVmRhT1JfdzY0Z3A0N1F2SmdLakZJUk5INF9PQmVsdFpoWXExTDJMazRQSF9zcXg3LVdSLU1qUWdwalNoWjhFZllhMkN4TVg2dHNqTUc4NmIySVBHaU5lTVFPbEx4Q2JkUV8zdlRtZjBTeHUxVWp6U3VkdFdnVnJmNUhaRXJOUmFwMmJtWWhqNDJrOWZxd0pBUFdF?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "Manzambi out of Switzerland World Cup showdown with Colombia",
+    "source": "Prothom Alo English",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZWV4QmdCZXRnNTM4OTBBUUlpMmh1SWVtRUtuc1N0SF9WRVFkeTd4SFlCLVF3RnhxZGZmVWJLcVpWeHMyV3oyTlJGZFF3S192RjVJaHd2RTlvMEdLaHRuU3R30gFvQVVfeXFMTkN4VmUwUm1ONzgydWRJQVFqMWMxbmNhYkllTms2dF9yV2ZXbXNZM1dOMWQ2MERkQlJHekN3SllzcW4xX0EwMmplXzBMMXZ1TmFqa1FfdUhSN1RUMm9YUmRfT0hfSndtZ1g3b3MxeFZB?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
+    "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
+    "source": "prizepicks.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -507,19 +664,6 @@
   {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
-    "title": "France stronger for Paraguay test, ready for different challenge against Morocco, says coach",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVktsSmNpOEdkUlBjbm9DN2NScGNiM2NxMEV4TkNaZDhlcTF6VFNYbmRoYXBGNFItdmxuSUhYdEhYODdSZllhRzNxVnUzZXhmeS1aVGlVczhpdHFXR0NWNlpKV01ZR1hKMkZ0WGFoZGdHcklXU1lmVHNOUXppak5CRXc5cGVSbnFZVHlhSGkxdC1tbFlOWldxMURWMm1XelZVTmdKck1OVG5WZ2JTZ09EUXgyZU9TbmFic1QwNWJKVTJDWXVk?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/07 07:00",
-    "date_ts": 1783321200.0,
     "title": "Portugal vs Spain Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
     "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TEw1QUVpWXdMc1pJa2MxQjhud0dkR2VuRC1LdGtaRjVCdzhHbnpiaHNRNG5FQ1VFYWxpZXNrWUNJcFZmeEZ6ellyY19RWlQ4Y2RfMG9hMVNPRXVkR2dFSlB3?oc=5",
@@ -533,13 +677,38 @@
   {
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
-    "title": "Brazilian Football Confederation Defends Referee Raphael Claus After Trump Calls Him 'Suspicious'",
-    "source": "Folha de S.Paulo",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcEFYb2Q1dHFONVhyVGo4R2dZU1lzQlRmd0ttU1RmbkttZDRvZXlqeVhGcjZ4V2lkWTVHbVA2eGZZcjhRbE90NHJiSzYySWQwOElWWXZNRk91eHlHV3kxMDlKeFFPcll2alNHOFZ0RGNUSzZlaDJBQU9weEpYdWZqbC0zX1ZZTFRGclBrOC16NVZ6Z0JJT2hsVjU5dWI3Ni1HdHE2cE93bDVNN0N6YTl3WVpNT1RteUxsd1dQTlZ2X2JkbjFnQng5WDFSb1FiLThJMGU4NjZWSTJILWN0WW00eU9FRzFKSmFOUmZwVVNycEs1bkVNT0E?oc=5",
+    "title": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFJWcEszMl9kNHQ0YVNDOTQ1RFRuRVJvdW9jT21DakVoQ21vWjZkVTc5eUE2Vi11ZHUwNEVwajVwYzVMRDFaWHNfZzNLb3dlQjRGRzFST0VnNk9VYk45RVVjQTdKZVZkRnlIaUJLd1QzbHhTUktkVEluclAwaEk5N3lzV0d5Y0VYYnJGclUwUFpsOXp4Mmg1NTBMbVc1MTJUaF95ZUk4SXY5aGlfNHJzY3lxUFR1SzlMSnRSUE5VdHMtSGhXUEUwZlBKZXRnQldQX0JEcUlsNEdwQ0k?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "England star cops freak injury amid wild World Cup celebrations",
+    "source": "SEN",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclgxMXZXVF8tVy04Y3loNWgyNGZZZVM3NFhkdkdfSXBHUTV3TVpJUnJkWEJLV1VTSkJ3bFZnUmdnYTQ0Qm1Va1BSRzZGa1VxV2dBd0k2Q3NhTXo1V0x4RV9WMW5xb0lPZ2xZQTgwRW1Qem44Vm9CbWJTczZ3ZEZZc3FkaFhqaG9pNzlRUVVKc09oMThSVEtYOUM4ck5Pc1hGOC1TcVAzWTNUSUdyOEtScDlZRmdsYW54OUdCdGZfS28?oc=5",
     "teams": [
-      "Brasil"
+      "Inglaterra"
     ],
-    "category": "general",
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Martinelli in for Paqueta as Ryerson returns for Norway vs Brazil",
+    "source": "Prothom Alo English",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11N1k1a3pNeGpaa0Vra0ZmaWVHVlkwNzVUajBBQ0NMNzFqNUh0Q3o5VW02UjBxVTY2dDUtbWtiRkNFcW8zelQ4ME1xZXdaMUtlTjVRMTlFRVhHVW0tdjUzOE930gFvQVVfeXFMTTNtQmE1VmVhQmxnRVdwOHFMZDVmOHBvVGdiMHh6Q1UtYUdtMmxmWGZLYUpWYlJGTFFkMzA4TnZ5b043cUZndnRvVGdTMUdnNXB5OWZhTElmVmRwTkFrZWtVOXhubWVKWnNlQ2lINktz?oc=5",
+    "teams": [
+      "Brasil",
+      "Noruega"
+    ],
+    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   },
@@ -550,182 +719,11 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWt6ZFFFejdXMl9tTjJWOWwxOTlSMlRhQ3RjUHdjaUVDLWduME1TNnRDVXFaWEVtN2hnVDdENVVsYklTX1ZFQ0NCbEV2dlJHZ2h5d3VtbW1pV2NMSTNwX0FYMUZ5empXLVZXMnVHZzZQUnZKam5tV1ZWWGtLS1dWRnRR?oc=5",
     "teams": [
-      "Noruega",
-      "Brasil"
+      "Brasil",
+      "Noruega"
     ],
-    "category": "injury",
+    "category": "lineup",
     "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "Mexico vs. England Lineups Confirmed, Starting XIs for World Cup Tonight",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlVoeG1RV01rdE1uNUpQS3RTVmw1bUdWUzdiLUl0UmtiSEVSb3pwZVVCZ1dlQ0hFeGhIUXFvMUpYLWFJdHRSV0dkOTFFcm8xZ3M5OVFpal9TbmxKYVFjenVFQXluSWw0S2hWeGV3VHRFU2V5anFfUXFLMTF1MXdkbFc0N0lfMkhtWGUwUWxUaldwUEc0RlU2RWdvMVNsZjZRZjdCaFJSTlRQdHF6MzBN?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "04/07 07:00",
-    "date_ts": 1783148400.0,
-    "title": "Jornal Midiamax. . 🚨 MUDANÇA NA SELEÇÃO! Sem o Lucas Paquetá, Carlo Ancelotti estuda três opções para a vaga: Danilo Santos, Gabriel Martinelli ou Endrick. E aí, quem merece começar? 👀 Qual seria a tua escalação para esse jogo? Comenta aí! 🇧🇷⚽",
-    "source": "facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWUh0N2V6S3FqTEJRZlZZakVVTExzQ3FYVmhjd3RlOW9maTZrRjlmSzYydnBXUmxYTW9jVWprZjFsSUZ5YmtvRkJZN2JjSWZncHpZZlpBbzVTR3lkclJyTFF2QjZ2SnpwZ0xRRGFIQXFMU0FvN25IVjctcnU3NWMyeVlCODRnSm8yWFNGZkdtWDFoMGJVQlVqRDRwamczdnVJRnB6ODJlWVdfMDFjWWxYMU9tdUd0cGh2OWVTNmVXRU1uWlFxWGFLX0lOUW94VUxzQTFPMHdmM3k3RzBCa0JGNnFjLXVvTUFHTXVMZlUzck9vQ1k5NnFRRHgxTlp4SkhQWEduSQ?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "03/07 07:00",
-    "date_ts": 1783062000.0,
-    "title": "Colombia vs Ghana FIFA World Cup 2026 Preview: Everything you need to know",
-    "source": "Goal.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVvUWNDRFpTbjBJMUZnLWFsSW52V1QzRWJNSWU0TktJVjFfX1NkR2NSMzNCVlJ3ZmZEYmhTRTdCLVpub0xiOWZjWVNtbUZTOVlra1JOb1VQU1RQV1pkZHl0M2c0bTBwNHdBMkdsYUZoYm9hYVFLOTJnNG9kQm5DcDNLRmVqMXQ5?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "02/07 07:00",
-    "date_ts": 1782975600.0,
-    "title": "Copa do Mundo 2026: do hóquei no gelo ao futebol, veja as relações entre Portugal e Canadá no esporte",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2xkU2g2QnRJcXVqdDhuLXYtTXFnN1RrOHVOdHBtN0NJRE0wU3QtQjVncTRpTnUxVVhUUXE4blRBOGRJS3hmUFNxOWYxSDZwY0pBMkRYaExTSzdfbG5KWC13VGM4TlVCOWhXemhCQmlHMkIyTjRKOFlRcEdUaUh1WjZGc2FoMThHOGc?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Germany vs. Paraguay at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkljanRfcThuV1Q4NXhnbTgtYVBNNTJsLS16N1A0Zkl0VW1KT0U0X1VBa1BhUlhnX3BPM2R4RVI1T3FhY0x3dDhfR2RNQk93WUxCejBMelFGQjc5TXdoV0xRNFJiOGJhcVVYVmpqbnc3dkpjdGgwb2xvZU5NM0lnYzFxbFNhRHFHZWwzR3gzV0xVX3hvZW02Uk9jYWVvQS1xU1lzd0RwVnlEdVdCdDRFQzd3UHVEU2tCcWwtWHhmQ090aXEyYWphanRjbXR4YkdLUG53ZVFTZ0wtTDJoTkRHbVQzcERMV0tBZFE?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Why isn’t Diego Gomez playing today for Paraguay vs Germany at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtodG40cEZ0VDVVVGFYR04wUkpDOVNsX1RBRTRlN1I1SURuU29wY3h5S1dHUGhWYkFfTGdGNnhfYUJnXzhTclhHT2FtUFZBc0g4MWl0cUREM3MtNUdZTHlXQ0NCcm1fdHQ1Ml9XTEd4V01SRTZRWEdPcFBueFZtTERFWWpWQXdPemZKeDF2b0tfZ2ttVUtaZFhBWDNvdzJBbl9aYl95NWdReV9KTHg5U2kxSdIBuAFBVV95cUxNMTFyNHdtV1FZeGJXLTdoWGVOaHZIZVBBank3bGx4eDJQaTdkTlpGUjNlbzd4V2w4Rjd3c21xd3prZ09FbjVjYW10b21XNXRia2Exd0QxMFg2U0duaU02eDlnbThKbWcxYXlZMDU3Zk16YnVVaXB6Y21IQXJINmpJdEc0T3gzX0NVZkczSWM3cEI4ZGxjWmFwTTBjcC1mMjB3c2ZveGhIT3RzTFVWM1lIeDNBZkpOeDRG?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Germany vs Paraguay Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32",
-    "source": "RotoWire",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG9GQTdVbmRJWU5EYXhKcFFocW9GTGVJRDlfT1dTc3Z5ankzTDRxSjdfWTl3dTB4cVA2WURibTgyenJ4TkdYWkpybEJhZEdRNzcxYVJ0VENRNFg1Nk5iSG9TbENZaVNORk5GY1FPenkzSDFqR3Q1UVFzMDFhZGFMRGN3NlFORk03TWtIWHdZNnNIN1BUaEpnYmx3N1cyd2dYU2g3azAwV1pJRERlOU0wcWRra3BpeDZvd2swcHFSUW1pOFM2amxMdGVyMFMwa28weTMxOFVULVNoYi1tU091Nw?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "29/06 07:00",
-    "date_ts": 1782716400.0,
-    "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "bracket",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 07:00",
-    "date_ts": 1782543600.0,
-    "title": "Why isn’t Joao Neves starting for Portugal against Colombia at the 2026 World Cup?",
-    "source": "World Soccer Talk",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGNpNldtazFEd3o2RW1uSGNwX05LRmVwQ3dIVkdPVzZUR2tRam1GQ2JScHY1cnRpRWE3RUVMaS1sVEhhWkNQRnRLbHRIODJHNXM1Q0RDYVlTNkR0UXZBakxhNGpYZ3RsOWxkOWNCdXdJWGt4US1BWGt2NEItRmhYaDJNdGtKOFZ3UnJtdFlPbFljZnZkNjZncUN3WmZpX2xkZVB1eUNSWlZUNU1LUVl1bXZCejlXNm9CRWZ30gG_AUFVX3lxTE9rRnJzZXVYVTZNMk9zRkRTOTV6R2l0ZVExVGlFYmhCTXJKYzVrTGFMRDVmMTVNaDdMVW1DV0R4ei05dTZOZTZPY2ZIUFUybWtsclZTTGN3aDhNSnBFZnhSZ1RwZmIzM2cxVWNmTUNYTTc2ZEN1VjFGcGY3d2JscXpwbkpOa1ZITk5lSXN5QkFMeU9tWWRWc0lLb3EwbEJDalcwMEVEbTIwTWxESTUydFplX1pjMjdBM05kbGRfUG80?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "27/06 07:00",
-    "date_ts": 1782543600.0,
-    "title": "Colombia vs. Portugal confirmed lineups, starting 11 for World Cup Group K game in Miami",
-    "source": "sportingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGp1VkR1NWpVazVFQkFNV1k2aXJueGhTWFppRi1jNmR3SHB6RVhXSS1RSzlRTWhWbGpjTjZhRndyYjNnRUJLNERmeWh1OTRpVFpsSUZPUjdSMlZnTk5vVjdSQzhNdWtXTy11UExaUExnSE1aSHRmMHQ0VGFTY0Qzb0F3SExoT0lHdHpEc2lXRGtOeWwyS3p0WVduWjg3QVRuQndQVU9MTEZTc21UbVNVcnIwbGxISTJyYzFjVVk4a3c5VGFveW94Yw?oc=5",
-    "teams": [
-      "Portugal",
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "23/06 07:00",
-    "date_ts": 1782198000.0,
-    "title": "World Cup: Brazil wrap up preparations to face Scotland",
-    "source": "Agência Brasil",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzNTM0YtNFpRUlJ1Uy1fazRPVkRBdlVPcUpHWXotZl80d2JNbUhfbTdtRGtyXzRwZ0pRQWdXM3pDZnRrN2NVLV9Ca0Rabzk2LUkyRzRUek5YdUtDMlRBWEdiNndaX3k3cGpMbENtakw1QmpOb2tNUWNydUJZS2ZCQkg4QlZCeDFyVWp4aC1tNmRfZGtsZnMyY3dTbzVvUFJuSnAzNlRjWHA5VUVoUFE?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "22/06 07:00",
-    "date_ts": 1782111600.0,
-    "title": "Colombia’s last training session before World Cup match against Congo suspended because of storm",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGVwUXZRNGlNVm0xazQ1ZVFBUk8zWHBNTWtBb2dMeFZLVXY4ZlFvaFRkRW52S3o3SWxUUVpPWVJXaFYzWUdkZ0oybzRpc3pNOE4ya1NDX05ya1VZT1ZlVDRiLTY0ZXprNm5lTHBlZFFYMnQyaVlzVGozM0dKMmMyeUxwZFVUS0hLWG1lY2l3?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/06 07:00",
-    "date_ts": 1781852400.0,
-    "title": "Neuer confirms Germany retirement after World Cup",
-    "source": "FotMob",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEY4Y0Z6YmdqUTJMZjBIdEtMQ2FzOU1GdGMxdXFRN0h5MWdka3RhVEhtQkRMdlpjWHRDZ3p6eVpNOEh4UDNMV3FrU3FrM0c3eEQzZm55bWFqUW5KSERJc3R0WURtd0Qta3dzdnQwb29UZHBSWnpXdTBzckJfTmphYmw5SEpkaVdnQXZaTVU4Mzl5LWJXUno3SVZaQ1lDaVdxTG5URXc3OTlKSjRTWjV3?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
     "source_type": "news"
   }
 ]
