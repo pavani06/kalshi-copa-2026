@@ -1,5 +1,16 @@
 [
   {
+    "date": "05/09 18:12",
+    "date_ts": 1788631920.0,
+    "title": "2026 Walker Cup Saturday highlights: GB&I takes 6½-5½ lead heading to Sunday at Lahinch",
+    "source": "Golfweek",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkFLWC0wdTNqZDhXTFVERmhSYU5aSVl1VE9rdFU4S0RwbEItdzNKQVp2ZHpIYjVwWHVaR1RvR3RCdVBhYjlqY1NvcHBoeFRNQkZyb1NXNEhWek42UVZVUVhXMEcyR3MwZFFVS1NYaEg4YU5VY210eEg2bk1jV2JUNmVOdjJZMUpldzQ2V29vYm9yaVBnYVE5ZmFCTXBMam1XMzg1ajF1eWJpUEJQY25kdzFyaFFENDgta3A3a2g2d2F4OGlCdS1xc3UzMHptTjBYaTVPSw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "05/09 15:44",
     "date_ts": 1788623067.0,
     "title": "FIBA World Cup 2026 Results, Day 2 Group Box Scores, Highlights & Day 3 Schedule Before KO Bracket",
@@ -388,17 +399,6 @@
     "source_type": "news"
   },
   {
-    "date": "29/08 19:15",
-    "date_ts": 1788030951.0,
-    "title": "Argentina dethrone Dutch in dramatic shootout to claim women’s World Cup crown",
-    "source": "International Hockey Federation",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlhoRlQ1MWM2YlNfT0M4WUNDUWZGNnoyMmYwNFc1UEdBVHd5WkFwRkxacTQ2bVZfd3F5eGstTjJFWUxPX0dKWWN6YjF2QnhSSnVfOUVMMi11NnRlMFVOT2w5RHRWSHVIUzRZNFBLYS1EV1RWVXBnbFBSTW5Nb3g5Y3RWRmk3NUpLQnBfbzE3WXkxaXk3QVlmUXdnckc3Y3drRzRJWGM0NnU?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "07/08 07:00",
     "date_ts": 1786086000.0,
     "title": "Brazil court ties football player’s suspension to recovery time for his injured rival",
@@ -452,7 +452,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -493,7 +493,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
-    "source": "TribalFootball",
+    "source": "tribalfootball.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
     "teams": [],
     "category": "result",
@@ -531,7 +531,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -685,7 +685,7 @@
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "England star cops freak injury amid wild World Cup celebrations",
-    "source": "sen.com.au",
+    "source": "SEN",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclgxMXZXVF8tVy04Y3loNWgyNGZZZVM3NFhkdkdfSXBHUTV3TVpJUnJkWEJLV1VTSkJ3bFZnUmdnYTQ0Qm1Va1BSRzZGa1VxV2dBd0k2Q3NhTXo1V0x4RV9WMW5xb0lPZ2xZQTgwRW1Qem44Vm9CbWJTczZ3ZEZZc3FkaFhqaG9pNzlRUVVKc09oMThSVEtYOUM4ck5Pc1hGOC1TcVAzWTNUSUdyOEtScDlZRmdsYW54OUdCdGZfS28?oc=5",
     "teams": [
       "Inglaterra"
