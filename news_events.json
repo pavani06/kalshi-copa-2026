@@ -430,7 +430,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -493,6 +493,19 @@
     "source_type": "news"
   },
   {
+    "date": "10/07 07:00",
+    "date_ts": 1783666800.0,
+    "title": "Belgium hit by last-minute Tielemans injury blow before Spain clash",
+    "source": "The Independent",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZi1ieThhbDV2U3JvSXozUHNMazNqTG9xcGFNb2VrTDdMS1ZoRkt5YlRYbUh6ZHc5ajFwU1Q0VmhYVnFLaVBmdjdFWmduWXNfVEpjS0Z6RHpXaTN6cUx5WUpSbXJMeTZ5elB5NDUwaUd3bEtEek1pY3VFMzJYQnlZc2dBd3Njd3dUUGNlTWxtMDZUMlBGYmFVelNGeGNOc3pVOHpYbWhoMi1UTHIydlRhZ1JzZ0gwdXdHc3lZ?oc=5",
+    "teams": [
+      "Senegal"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
@@ -509,7 +522,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -547,9 +560,9 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "England Defender Jarell Quansah Suspended 2 Games For World Cup Red Card",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMkVTdlFLQ1JLUTVNWGNETjhxVFFkZWVTNEktUUNkSW9mTFdQSERZNnRpM3lONE5hZXRTTXRWbHlyZV9NVDJtWjJjMjFiaVp3RXprcFdkWVJxRjA0RjY2c2pLc0lKVjhDWW5BTUN4ZXp2Z05XMHBTSUplVlk2QUhqZ0xmSHhiNllsZjJiNmdCRmJFZGJGRXVSeFc0ZGhjaDN0dFhldXk1aUpzdEtNamFJSW5B0gGyAUFVX3lxTE1tc21iUURaUmh3RXJQTmtoaDV3S0hVWlZ2SUxRUnRYbXB1cS1pYjUzYXdQTExhdXZVc1dvWXgyMzlxS0ZsWl9pZzEtU05VcDVkbFJpVWdhdHpmVG5qY1VhQWUzbUtWMk9ZUDJZYmx2OHp4ZkVUeHhvZmJJY3B5cjcwYWdJcHRRbm9pMzl6a0pZck5lZjZ0WnRBV2tycGZVSndPdGpERHdpQmVDN0pLUVRNVEE?oc=5",
+    "title": "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjV1d2VRSEQ4TG1IZnZfNHZCM1VZTVJLZ3J4eEU4VnVQM0p6M1Z5VzdxTlR5a0J6NEUyNEJlV3l3WDBvQmQ0SnI3ZVU5alJFZUUwV3hzQzhzRmlEWXhoV0g3MHRHZFZZNVM0TFYwX19hNXlHdGc0TnhyZURDTlpkR196NUFfWmVBeGVhMzloWXhvSk9mTTRtVzhrNTVXTllsam95a1ZaLTEzdjBUM3hjX05Ka3fSAboBQVVfeXFMUF9uQTlTNWxZbEU1dkhqWmNHUFdwal9KdDRJRzdsaXhIb0ZXM05GSUZGaWZySVZjdVBYWXZzRXZSZXVTek5xVGVMNTFqdnBudXE5U29UdThVNGFpdlVnZFVUZWMtczVhQjQyRDZSZU1YR2FHWFVMOGlCenpiVDIwLThVSXhleXBQMmZHOGJRZktCaUxKSkc1X0ZJTmhnYU83RmxuNnBQdHl0dUpuOUxKTER4ZmhhLW9FMlB3?oc=5",
     "teams": [
       "Inglaterra"
     ],
@@ -612,6 +625,19 @@
   {
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
+    "title": "Manzambi out of Switzerland World Cup showdown with Colombia",
+    "source": "Prothom Alo English",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZWV4QmdCZXRnNTM4OTBBUUlpMmh1SWVtRUtuc1N0SF9WRVFkeTd4SFlCLVF3RnhxZGZmVWJLcVpWeHMyV3oyTlJGZFF3S192RjVJaHd2RTlvMEdLaHRuU3R30gFvQVVfeXFMTkN4VmUwUm1ONzgydWRJQVFqMWMxbmNhYkllTms2dF9yV2ZXbXNZM1dOMWQ2MERkQlJHekN3SllzcW4xX0EwMmplXzBMMXZ1TmFqa1FfdUhSN1RUMm9YUmRfT0hfSndtZ1g3b3MxeFZB?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
     "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
@@ -619,6 +645,19 @@
       "Colombia"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "06/07 07:00",
+    "date_ts": 1783321200.0,
+    "title": "World Cup Quarterfinal Injury Tracker: Latest Player Availability, Injuries and Return Timelines",
+    "source": "Sports Injury Central",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTdPbGMxSWpEd1BwWkt2eG9NaTZNbjVjaktlalpDQngyY2NuY0ZtaWd6WHhuNllFR09hRV9jRVpQRE9iWlNmUFBaVmpnOUI4V0JTNDN1T0F1V3ZyX1BaMXFFZ0lFeklxVk1fUkhhWC1VaDBNRnpnTTdGWkNiTXhiMVJPQQ?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -662,20 +701,6 @@
   {
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
-    "title": "Martinelli in for Paqueta as Ryerson returns for Norway vs Brazil",
-    "source": "Prothom Alo English",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11N1k1a3pNeGpaa0Vra0ZmaWVHVlkwNzVUajBBQ0NMNzFqNUh0Q3o5VW02UjBxVTY2dDUtbWtiRkNFcW8zelQ4ME1xZXdaMUtlTjVRMTlFRVhHVW0tdjUzOE930gFvQVVfeXFMTTNtQmE1VmVhQmxnRVdwOHFMZDVmOHBvVGdiMHh6Q1UtYUdtMmxmWGZLYUpWYlJGTFFkMzA4TnZ5b043cUZndnRvVGdTMUdnNXB5OWZhTElmVmRwTkFrZWtVOXhubWVKWnNlQ2lINktz?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
     "title": "🇧🇷 Brazil v Norway: likely line-ups, absentees and chances",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWt6ZFFFejdXMl9tTjJWOWwxOTlSMlRhQ3RjUHdjaUVDLWduME1TNnRDVXFaWEVtN2hnVDdENVVsYklTX1ZFQ0NCbEV2dlJHZ2h5d3VtbW1pV2NMSTNwX0FYMUZ5empXLVZXMnVHZzZQUnZKam5tV1ZWWGtLS1dWRnRR?oc=5",
@@ -695,33 +720,6 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlVoeG1RV01rdE1uNUpQS3RTVmw1bUdWUzdiLUl0UmtiSEVSb3pwZVVCZ1dlQ0hFeGhIUXFvMUpYLWFJdHRSV0dkOTFFcm8xZ3M5OVFpal9TbmxKYVFjenVFQXluSWw0S2hWeGV3VHRFU2V5anFfUXFLMTF1MXdkbFc0N0lfMkhtWGUwUWxUaldwUEc0RlU2RWdvMVNsZjZRZjdCaFJSTlRQdHF6MzBN?oc=5",
     "teams": [
       "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "Cristiano Ronaldo Confirms 2026 World Cup Is His Last: 'Let's Go And Enjoy It'",
-    "source": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkVrM3dmYWl2c2NCOXN0QzRuejdNZE1EekFDTkZIUTF5a1d1WWNBeGt5R0wzSUJvZGt2QjR0ZXJxZ1F4YWpsNkJiSHgzbzdNcHNlZ01CZXpuQkp5ZnFtbDZTLWZiVHFPemtTTFpwVk81R0xoUGhZOG9HSTNsQWJQdDM0RFczWGxLWTB3ejYtY0M0THpVUXg0eWFlcVVoWG1lQ1E1cmRRenctMmJz0gGsAUFVX3lxTE5zbjNJbW12Q3c0eHhoUF9zZVh1SWVvOVg2SWhrbDdkQkRxQUxxMjhnbWxTZjVuV3BZUURvRFF5OTFlYXVSS2d0S2M1N0tVeDVtTFFQaXpZR2w2TUhJcHJrRGFtLXJiNDBoeXZ5ck9OZnNCSGEzaGNtbFFuNWhNVm50UExSZ1VpSlFRMTFycE45aktEMFppMjdmZWI4VzdLNmpkRlA0WXg2Y0toeF8?oc=5",
-    "teams": [
-      "Portugal"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "05/07 07:00",
-    "date_ts": 1783234800.0,
-    "title": "Norway confirmed starting lineup vs. Brazil: Solbakken’s XI for the World Cup round of 16 game",
-    "source": "en.as.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
-    "teams": [
-      "Brasil",
-      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
