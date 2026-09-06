@@ -1,5 +1,16 @@
 [
   {
+    "date": "05/09 23:57",
+    "date_ts": 1788652620.0,
+    "title": "CFB scores today: Every Top 25 Week 1 game result",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3pTajJoVTNkWWhaRTgydmc5YXgzM0o4UWhBSWlHMW1keDlUQnlxNkZ3ZUFhVVFzWEY0ZEVMRGMxaEFqb3gzNGtGZ3pYMFhwejc2YWRoMU80bGptRUQxTUNqX1RXUFZIZXdJN0E3dUlCUVNjVTFEbWVUMWJkNlZOM01RNms?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "05/09 18:12",
     "date_ts": 1788631920.0,
     "title": "2026 Walker Cup Saturday highlights: GB&I takes 6½-5½ lead heading to Sunday at Lahinch",
@@ -481,20 +492,6 @@
   {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
-    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
     "source": "TribalFootball",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
@@ -512,19 +509,6 @@
     "teams": [
       "Noruega",
       "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 07:00",
-    "date_ts": 1783666800.0,
-    "title": "Belgium hit by last-minute Tielemans injury blow before Spain clash",
-    "source": "The Independent",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZi1ieThhbDV2U3JvSXozUHNMazNqTG9xcGFNb2VrTDdMS1ZoRkt5YlRYbUh6ZHc5ajFwU1Q0VmhYVnFLaVBmdjdFWmduWXNfVEpjS0Z6RHpXaTN6cUx5WUpSbXJMeTZ5elB5NDUwaUd3bEtEek1pY3VFMzJYQnlZc2dBd3Njd3dUUGNlTWxtMDZUMlBGYmFVelNGeGNOc3pVOHpYbWhoMi1UTHIydlRhZ1JzZ0gwdXdHc3lZ?oc=5",
-    "teams": [
-      "Senegal"
     ],
     "category": "injury",
     "impact": "HIGH",
@@ -722,6 +706,20 @@
     ],
     "category": "lineup",
     "impact": "MEDIUM",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Brazil vs Norway Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 16",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYlN2cEVOaUhFTzFWLWI5RklzY2RCRGt3emU5MmxRUklQckdzNGxGY2dTSFdWSGdaMWl1LTV4aEY0VTBURFdXYUMtQjd1M1ZkZU9naHZIeFJ0bU1vMmgwa0otbmVCNGtnQXRfcC0xMVFWcHNFOFVjTlhIbk81aTdoX2JSX01RSnY4T2JSTXRqdkJ4bVpzZWtyYzgwYTN2ejVLMzdWUzB6NENYUUZESEZKTldFOHBXcXNkNVhSTUJXYWpQeEVPcDVpdEcxQmVvRk1fdk5sTXBkcG8tazV3?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
