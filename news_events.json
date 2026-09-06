@@ -373,19 +373,6 @@
     "source_type": "news"
   },
   {
-    "date": "30/08 18:57",
-    "date_ts": 1788116239.0,
-    "title": "Struthoff magic sees Germany retain men’s World Cup crown",
-    "source": "EuroHockey",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVNVT2s1aDBidFpVeEtaVTcyRkEzenRHajFfaFJrMjhka3FUdXpURE1PTEQ3OFNfcndKZFNPRTN1SElVM0R0MG5iWVRFUkJxMFdrYklobmZaSnFqLTc1dldXSXZyZ01KVkFnUldGcUNfV2JhYjNfQkZEdExVQVFtTzNDUE5FUQ?oc=5",
-    "teams": [
-      "Alemanha"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -648,7 +635,7 @@
     "date": "06/07 07:00",
     "date_ts": 1783321200.0,
     "title": "Portugal vs Spain Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 16",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TEw1QUVpWXdMc1pJa2MxQjhud0dkR2VuRC1LdGtaRjVCdzhHbnpiaHNRNG5FQ1VFYWxpZXNrWUNJcFZmeEZ6ellyY19RWlQ4Y2RfMG9hMVNPRXVkR2dFSlB3?oc=5",
     "teams": [
       "Portugal"
@@ -713,13 +700,27 @@
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "Cristiano Ronaldo Confirms 2026 World Cup Is His Last: 'Let's Go And Enjoy It'",
-    "source": "FOX Sports",
+    "source": "foxsports.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkVrM3dmYWl2c2NCOXN0QzRuejdNZE1EekFDTkZIUTF5a1d1WWNBeGt5R0wzSUJvZGt2QjR0ZXJxZ1F4YWpsNkJiSHgzbzdNcHNlZ01CZXpuQkp5ZnFtbDZTLWZiVHFPemtTTFpwVk81R0xoUGhZOG9HSTNsQWJQdDM0RFczWGxLWTB3ejYtY0M0THpVUXg0eWFlcVVoWG1lQ1E1cmRRenctMmJz0gGsAUFVX3lxTE5zbjNJbW12Q3c0eHhoUF9zZVh1SWVvOVg2SWhrbDdkQkRxQUxxMjhnbWxTZjVuV3BZUURvRFF5OTFlYXVSS2d0S2M1N0tVeDVtTFFQaXpZR2w2TUhJcHJrRGFtLXJiNDBoeXZ5ck9OZnNCSGEzaGNtbFFuNWhNVm50UExSZ1VpSlFRMTFycE45aktEMFppMjdmZWI4VzdLNmpkRlA0WXg2Y0toeF8?oc=5",
     "teams": [
       "Portugal"
     ],
     "category": "lineup",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "05/07 07:00",
+    "date_ts": 1783234800.0,
+    "title": "Norway confirmed starting lineup vs. Brazil: Solbakken’s XI for the World Cup round of 16 game",
+    "source": "Diario AS",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTJYeXB4OF9uYlJkam5MM1FHbnZnT1Q0NDFlUlp5SUdSMm12UkxaX1NIZnRRWEx3THNIcW5sb2hGRXNMUFpncUFsNUI5c2lLUENabWRjQW1tNkZwYmRQVWpoa2dOMXVVM01wbHdRakIxNFlYbDB3Ynk2LXE4Rnp3VGo3YWV5ZHFZaS1NNWVuSmVFWUZqa29KUFQzN2ctUGtJMGtNa2kzQjRXdWFtM2thQjRQZlhHcGl2TFhuMHJGS1M1d0lQc3fSAdoBQVVfeXFMTnp3TlZqT0gzek83U0lGeFFOaldOdk0yenhUakNSa0NFempRUF80RXR0T0wwYV9TQVAxVEhkUXNyaFliaFJ3RW9ZeGVrMW5zU2ctSWstdWE5d3dKWUlmTDdjZ241N0g5QXo4c2dvSlQtS1QyOXN2X2I5OFRaYUFUMzlSYzNkUEFrUWRGc3RVNUtVTURmNktDLWtKWHNqUU55R2xEUEFmbVpMV0w3SFFDOURzOE5MVnRkT0NBMnU2ai1mbXJwc3A3YjhVR2hnZGhmdzVDVVVOVXo2aHc?oc=5",
+    "teams": [
+      "Noruega",
+      "Brasil"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
