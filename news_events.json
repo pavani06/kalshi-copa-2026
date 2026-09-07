@@ -1,5 +1,16 @@
 [
   {
+    "date": "07/09 16:11",
+    "date_ts": 1788797498.0,
+    "title": "Japan vs. Spain (Sep 7, 2026) Live Score",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xZndDczdzY3JTRlplWWc0dXRJNl9WdDg4cHo1dEF1ckx0WU9hTEpMN1pSRHJoWjlURU50RHR5OG8yVWgzd240R056OEpncWYtVGtYQTZ5cUxjZkNJOUE?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "07/09 12:00",
     "date_ts": 1788782400.0,
     "title": "FIBA Women's Basketball World Cup 2026: Which teams have qualified for the Final Phase?",
@@ -393,17 +404,6 @@
     "source_type": "news"
   },
   {
-    "date": "31/08 17:33",
-    "date_ts": 1788197619.0,
-    "title": "Josh Kushner Speaks Out On FIFA Deal: ‘Failed To Appreciate The Political Dynamics’",
-    "source": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1NfUzhsM2pzQ25sRlQ3MnV1ME9lUURubm03YktVUFBhYkdjbW05Q2w3bm5QcXhqc1phaXRGREpYYjVST3BycDdJaXRFcW5mMWVVZ042dHdpZDAtZWxFNXdxQWlIYTRqdUJwRFN4OUFrcXJoUGllZjRqcHpaZmpNYW4zNFA3R0RCUHdfUUxoRVJUSloxcXlGdGJwSklVZTB2SGxabWsydml3MGNt?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "22/08 07:00",
     "date_ts": 1787382000.0,
     "title": "Confirmed Supercup Lineups: Borussia Dortmund vs. FC Bayern Munich",
@@ -443,19 +443,6 @@
   {
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
-    "title": "Why isn’t Bukayo Saka starting today for England vs Argentina at the 2026 World Cup?",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGs3Tl9LeDRfYXo1a24tcUhfRHNkdTZBMjY1eGZjOXFUM2xnUV92Q3RjajdEZnM4Y2dwS240WlZJVDJhc0U4X0Jna1FGTDRUbS1YdUpSSFlpZU5LX3Byc1dhTXFzQXpfX2pQc21CVmZhYlpveU1xZTFCV2tiNWlzUFdEVERaejh1cEtFdldOMkVnSGZjX0VGZk1BaElQbm5HTHFEWEdKS1BpN1RINWJ5M3ZCVWtRQdIBuwFBVV95cUxQbWFDaWlhekpjdEJlTzdPb0JNYmNTMGl1QUMyS01vdElCdVFrblEtU0lNMVZBcTBydkdQSEFnNzhsQ3c1NFVaRF8wY3dKX2ctRjFEM0FZTm9vZ3FtMElSX0lYVXdISWVFb0YtV0FRVzNLaG5wczVtSHlTNzdqYWs4anRUQ2lJTGJyclg5WXhBaWZWaGlQZFBSTTVnMVYyeldLR1VLcm1TMWVITXJmM2FUV09nWXM5MXRLc3dV?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "15/07 07:00",
-    "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
     "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
@@ -463,6 +450,19 @@
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 07:00",
+    "date_ts": 1784012400.0,
+    "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
+    "source": "bbc.com",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdWVwc2FtaUtfMXVUMV9yYTVYQ3hERGE4ejdtcUJCeFRNX0FPd0JDN3JKZnlybkdjX1Z6M1hXRmVDTElWSVc1TldPeUxKM1dUOTVKdnlYTElvSWNldFRpbU1yVENZaW8?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -498,7 +498,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
-    "source": "TribalFootball",
+    "source": "tribalfootball.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
     "teams": [],
     "category": "result",
@@ -562,7 +562,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "abc.net.au",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
@@ -640,7 +640,7 @@
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
     "title": "Manzambi out of Switzerland World Cup showdown with Colombia",
-    "source": "en.prothomalo.com",
+    "source": "Prothom Alo English",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZWV4QmdCZXRnNTM4OTBBUUlpMmh1SWVtRUtuc1N0SF9WRVFkeTd4SFlCLVF3RnhxZGZmVWJLcVpWeHMyV3oyTlJGZFF3S192RjVJaHd2RTlvMEdLaHRuU3R30gFvQVVfeXFMTkN4VmUwUm1ONzgydWRJQVFqMWMxbmNhYkllTms2dF9yV2ZXbXNZM1dOMWQ2MERkQlJHekN3SllzcW4xX0EwMmplXzBMMXZ1TmFqa1FfdUhSN1RUMm9YUmRfT0hfSndtZ1g3b3MxeFZB?oc=5",
     "teams": [
       "Colombia"
@@ -706,8 +706,8 @@
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWt6ZFFFejdXMl9tTjJWOWwxOTlSMlRhQ3RjUHdjaUVDLWduME1TNnRDVXFaWEVtN2hnVDdENVVsYklTX1ZFQ0NCbEV2dlJHZ2h5d3VtbW1pV2NMSTNwX0FYMUZ5empXLVZXMnVHZzZQUnZKam5tV1ZWWGtLS1dWRnRR?oc=5",
     "teams": [
-      "Brasil",
-      "Noruega"
+      "Noruega",
+      "Brasil"
     ],
     "category": "lineup",
     "impact": "MEDIUM",
