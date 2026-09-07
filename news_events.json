@@ -382,21 +382,23 @@
     "source_type": "news"
   },
   {
-    "date": "31/08 16:01",
-    "date_ts": 1788192071.0,
-    "title": "FILE PHOTO: FIFA World Cup 2026 - Round of 16 - Argentina v Egypt",
-    "source": "The Lufkin Daily News",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaWRmaDBNN0ZjS3FDNmZPVElnb0d6MFVjZW5vZ1dSY3MzaUhjam0zVFBSQzlqRE8zWURuM3pMVzc4VHloYTVqanNXaTR3YldZOTFpb0RadHowaGs3V1hYd0NuTnZVRmFscVVkalNvUEdPbnkxUTVZSlg5TEJ2bk81NU5WeHJRelR2VFBJWm5IMDl3SjFacW9YaUJGNFJpQ2gtZElRUjljUTNMRVNaOE82d2pRX0lpMUpJWTlEbTI0LTFQNmxKMlJWVGpMemFfWWNNWmNnQXotRUxoWjdPaFdfM1FXM2hrVzJZOFE?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "LOW",
+    "date": "22/08 07:00",
+    "date_ts": 1787382000.0,
+    "title": "Confirmed Supercup Lineups: Borussia Dortmund vs. FC Bayern Munich",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWRsUUJ2MjFpZUM2ZXJZVEpFM2dDSG81U3FuaHVxbkVvcERReU1fREk3YUxHVi1vMWJWb0ZJZlpibmJvT1hka3F0UFF5cG16cDRhR1dMQTR5YmZXMFhtN2Fsdk00ZWxiY0hQU2xrWlRBVzFRTWRWR25kWGFObnRwcV9VRHVHUUVmenRxdjJuNVlxNFAyOFdDbg?oc=5",
+    "teams": [
+      "Alemanha"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   },
   {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
