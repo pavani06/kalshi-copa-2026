@@ -391,17 +391,6 @@
     "source_type": "news"
   },
   {
-    "date": "01/09 16:58",
-    "date_ts": 1788281880.0,
-    "title": "Team USA at FIBA World Cup: Kara Lawson speaks about the challenge ahead",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkVfZG45ZHRwOVdHVGlpRTdPcm91NnJCU2dTbFAzMGEyTHlZTFN1RTVMdGowTWdhV3E1Vnc1WXJUNUp2QkdMdm5HWVhxVUptd25jRUo2TUJnUHVXMkRGb3VNM1d2ZmU2c1RQV1Y5TC11eTdzbmhaeE1yTUExakhleFN0ZzZ6bnVWYktrWC03N1dTcXctRC00bWJGZmtVSXJDamo0eEZyV2FxMVFuU0x3UVo2OHJoNTNYV1E?oc=5",
-    "teams": [],
-    "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
@@ -442,12 +431,23 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "14/07 07:00",
+    "date_ts": 1784012400.0,
+    "title": "Spain scores 2-0 win over France, advancing to World Cup final",
+    "source": "PBS",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEdXM3M0VGwyM1BJUVFPVFVRQnc3UUE0dnktaFlVcXNSR014bVJBWVROeERPTUdVTVpGS01qYWRZdDNZUmc1VklyYnUyMjcya3FIREF6Y0IwXzBHOWE5RkpxaFhqaDhGYk96NGNDSTUycXROSjJ1Rl9KdHdqZ2RPTzRvRzFCMmVhMnVoYnhQSW84aTg4TERNTnhDd0NfUQ?oc=5",
+    "teams": [],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -476,20 +476,6 @@
       "Inglaterra"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -535,7 +521,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -638,6 +624,19 @@
   {
     "date": "07/07 07:00",
     "date_ts": 1783407600.0,
+    "title": "Manzambi out of Switzerland World Cup showdown with Colombia",
+    "source": "Prothom Alo English",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZWV4QmdCZXRnNTM4OTBBUUlpMmh1SWVtRUtuc1N0SF9WRVFkeTd4SFlCLVF3RnhxZGZmVWJLcVpWeHMyV3oyTlJGZFF3S192RjVJaHd2RTlvMEdLaHRuU3R30gFvQVVfeXFMTkN4VmUwUm1ONzgydWRJQVFqMWMxbmNhYkllTms2dF9yV2ZXbXNZM1dOMWQ2MERkQlJHekN3SllzcW4xX0EwMmplXzBMMXZ1TmFqa1FfdUhSN1RUMm9YUmRfT0hfSndtZ1g3b3MxeFZB?oc=5",
+    "teams": [
+      "Colombia"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "07/07 07:00",
+    "date_ts": 1783407600.0,
     "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
@@ -703,7 +702,7 @@
     "date": "05/07 07:00",
     "date_ts": 1783234800.0,
     "title": "Cristiano Ronaldo Confirms 2026 World Cup Is His Last: 'Let's Go And Enjoy It'",
-    "source": "foxsports.com",
+    "source": "FOX Sports",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkVrM3dmYWl2c2NCOXN0QzRuejdNZE1EekFDTkZIUTF5a1d1WWNBeGt5R0wzSUJvZGt2QjR0ZXJxZ1F4YWpsNkJiSHgzbzdNcHNlZ01CZXpuQkp5ZnFtbDZTLWZiVHFPemtTTFpwVk81R0xoUGhZOG9HSTNsQWJQdDM0RFczWGxLWTB3ejYtY0M0THpVUXg0eWFlcVVoWG1lQ1E1cmRRenctMmJz0gGsAUFVX3lxTE5zbjNJbW12Q3c0eHhoUF9zZVh1SWVvOVg2SWhrbDdkQkRxQUxxMjhnbWxTZjVuV3BZUURvRFF5OTFlYXVSS2d0S2M1N0tVeDVtTFFQaXpZR2w2TUhJcHJrRGFtLXJiNDBoeXZ5ck9OZnNCSGEzaGNtbFFuNWhNVm50UExSZ1VpSlFRMTFycE45aktEMFppMjdmZWI4VzdLNmpkRlA0WXg2Y0toeF8?oc=5",
     "teams": [
       "Portugal"
