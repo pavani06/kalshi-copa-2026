@@ -1,5 +1,16 @@
 [
   {
+    "date": "09/09 13:02",
+    "date_ts": 1788958935.0,
+    "title": "How to Watch the 2026 FIFA U-20 Women's World Cup Live Without Cable (Even for Free)",
+    "source": "PCMag",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUFOdEdQbzNpZG4xNzNieVRxSHFkMVJmaUJVbS1LNm5XdnREVnN4YlFIeW1xMndrclNIUVEyZ0NaVzJzejZld2NxaGs2U3RoTExEVjJSMHBZODlvTTE0SjVZNnF6RjE4V0lrU2NWT2NFaVF2MlcxRkVzOFBNYmxVSkhYQ0MyWFRZc01HTg?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/09 20:57",
     "date_ts": 1788901058.0,
     "title": "FIBA Women's World Cup 2026 Updated Qualified Teams, Schedule, Odds, Bracket Predictions",
@@ -413,17 +424,6 @@
     "source_type": "news"
   },
   {
-    "date": "02/09 14:02",
-    "date_ts": 1788357720.0,
-    "title": "FIBA Women's Basketball World Cup 2026: Full schedule, all results, and group standings",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkNNNjdBSF9MbGtUM01tXzhHOGYwODB1czNxUWdkOVQ2Qk9MV2wxRXdwS3RxX0pZRGpmMUFxSmJiVG5OdjV3VVMwd0VyNFdqZ0VDbzhZQlUyVE9jRW9MVDVwN0RKWjdza1pBUWdpazl6eG9sM0VXYkhpM0l1RFQxQTl2eXFKalE?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/08 07:00",
     "date_ts": 1787986800.0,
     "title": "Hockey World Cup 2026 scores, points table, standings - all results",
@@ -438,7 +438,7 @@
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
     "teams": [
       "Brasil"
@@ -451,7 +451,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -462,7 +462,7 @@
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
-    "source": "usatoday.com",
+    "source": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
     "teams": [
       "Inglaterra"
@@ -488,7 +488,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -568,7 +568,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
-    "source": "TribalFootball",
+    "source": "tribalfootball.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
     "teams": [],
     "category": "result",
@@ -593,7 +593,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "espn.com",
+    "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
     "teams": [
       "Inglaterra"
@@ -606,7 +606,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
