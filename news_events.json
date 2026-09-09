@@ -33,6 +33,17 @@
     "source_type": "news"
   },
   {
+    "date": "08/09 15:37",
+    "date_ts": 1788881854.0,
+    "title": "FIBA Power Rankings: Team USA Drops to No. 2 After Undefeated Group Stage",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjhBMkdRcGdqaXRiU3k5MGxGNFdNc240UVIzcEZyYXgtanFTOEY4SVZCdXR2S3ZmaFcxMjVZMFRqVGNmZEx0Rk5FMG56U3hmT3Q0UW9sLWVHQ29MVG5GZXVid2dnRFM2NXNoNkltOE9kRnNuWnI4Q3R1V3JuVFppOElxYw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "08/09 13:22",
     "date_ts": 1788873754.0,
     "title": "Germany vs. South Korea (Sep 8, 2026) Live Score",
@@ -437,6 +448,17 @@
     "source_type": "news"
   },
   {
+    "date": "29/08 07:00",
+    "date_ts": 1787986800.0,
+    "title": "Hockey World Cup 2026 scores, points table, standings - all results",
+    "source": "olympics.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2dwemotZG5RMGhqNDluMzUtak16V3lnY2JHR01Zb1dCSjEyZkc3ZnY5WWwySWpLRXd4V1ktUnJBVEhpN1Y2QU9IbTRORGtqdFllY0Nsb3llTkpWZWdKUGQyRTFpRzBMYW16RzFlM3A0M18zS2FvdXNSVnViZFExMlg3aHlLdHRVMzJkR0N0MkQ0bHpIbHdQS2V4aXA?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -544,22 +566,8 @@
   {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
-    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
-    "source": "tribalfootball.com",
+    "source": "TribalFootball",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
     "teams": [],
     "category": "result",
@@ -695,19 +703,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 07:00",
-    "date_ts": 1783407600.0,
-    "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
-    "teams": [
-      "Colombia"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
