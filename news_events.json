@@ -1,5 +1,18 @@
 [
   {
+    "date": "10/09 17:20",
+    "date_ts": 1789060845.0,
+    "title": "Morocco's top soccer official says his country will host 2030 World Cup final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFBNUFVqZl9PeHNMZUFza0hRT1g2cUcxYWFvZWw1WUthU2M2TEpDdndvdElFazRtZUdTcENhRDdMTnhtS3pQY1JBZDNGM2tZRThPTUkyU3hscEtVQ2dNUzNHbnl1WTZlWEJpYmZVeUQ0RlpOQnZ6Y2doLVBaQTBWSzJGX2ZqTE1vYUE?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "general",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "10/09 14:12",
     "date_ts": 1789049539.0,
     "title": "India women vs Bangladesh women's Asia Cup 2026 semi-final live score, toss winner, result and highlights from Dubai",
@@ -132,6 +145,17 @@
       "Alemanha"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/09 07:00",
+    "date_ts": 1788850800.0,
+    "title": "World Cup predictions round of 32: France vs Sweden, Mexico vs Ecuador and rest of matchday 20",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2Rfc1VRODdNMXFjanVPMkVvcmhuTEN1cjdXQ01QUkJKNm9Sei10Z3JQSkF0ZV83SWFibE5KdUsxa196MlgwT21YTmpGaDViT1BwMmF3aGdIM1ZJbGwxRzRmaE9nLTVTWTV4Q1k1cXVXTWZSMGszMXBNbVZ5T3lGUXhod0FXXzE3dFVkWmZ6RQ?oc=5",
+    "teams": [],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -448,17 +472,6 @@
     "source_type": "news"
   },
   {
-    "date": "03/09 19:38",
-    "date_ts": 1788464297.0,
-    "title": "Who will start for Team USA? Predicting the Women's World Cup starting lineup",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWVyX0tGR2FBaTRYZXhsVUZSX1o4QlFLNVRvMjlxZm1mdFRpQkxLRFloRU14T3daaG9nczBDc0pESUM0RlBFUkxMZU93UTlPTklTczBodXBwYlVXZC16VmlvODBKSXdJSzd3cG00YkNhTXIxcVh0bC1QdFNtcTlrSmJBclI0Yi1x?oc=5",
-    "teams": [],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -468,28 +481,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 07:00",
-    "date_ts": 1784530800.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
-    "title": "AO VIVO Espanha 0 - 0 Argentina (Primeiro Tempo): Yamal perde chance de abrir o placar",
-    "source": "Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFRIQmRsWkMxRktwb1VJeXY2dDlvblRaTTBVZEtlaE9nMjRxb3daVXU3Z2lNeVlLcE45UnRNUXNDWlZZMGIzdmlLX0QtV2Z0V21YYTVhX3h3dDN5R3p2SjFRc0xiRi10Y2ozdUx1UjdrLU9RUXlBNDB1Zl9TUU05dnJSUFNHS05IdUlFLUxreDMycVBzRi1WU3F5LVFZakJGZEtiUnR2cw?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -563,7 +554,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
       "Noruega",
@@ -695,6 +686,19 @@
     "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
     "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
+    "source": "RotoWire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
     "teams": [
       "Marrocos"
     ],
