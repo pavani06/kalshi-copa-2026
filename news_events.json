@@ -459,6 +459,17 @@
     "source_type": "news"
   },
   {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
+    "title": "AO VIVO Espanha 0 - 0 Argentina (Primeiro Tempo): Yamal perde chance de abrir o placar",
+    "source": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFRIQmRsWkMxRktwb1VJeXY2dDlvblRaTTBVZEtlaE9nMjRxb3daVXU3Z2lNeVlLcE45UnRNUXNDWlZZMGIzdmlLX0QtV2Z0V21YYTVhX3h3dDN5R3p2SjFRc0xiRi10Y2ozdUx1UjdrLU9RUXlBNDB1Zl9TUU05dnJSUFNHS05IdUlFLUxreDMycVBzRi1WU3F5LVFZakJGZEtiUnR2cw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
@@ -488,7 +499,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -498,14 +509,40 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "England vs Argentina: Is Jude Bellingham suspended for 2026 World Cup semifinal?",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjNXbEhFRldUcGk4bDdpOFhUckFpR0pLeElNWFREdUZjVDFPTEU4TDlsM1dBT3FXSmdFZ0ZQa0dvTnVvSEc5a1dLVVhQS2J2amJabnB0YU5kbVJGYnEtMUlONm83NUw0R3BKQWJ2QkthZlBwMTNLRmpRRDYwUC0zd29KS3pWa2dDWkNXOE1zRzN5OUZGc0oyRjlGRzFCSWY4M3BWdGZBWkRpM29kQ1VaZdIBtgFBVV95cUxQY3Z5VXk4QnR2U3A3SFB1Z2pvQ3A3TGFicG96WDFKTXg1X2Q5c2I1OF94X0N3ZWRtRTkweUF2SENLWkQ3bEIyZ1F6UXdLMFM0RTZCbjdRbWdNTWVvTTZTSkRPM1o1NGdGdkhma0FkSDYtM21sM2pra3RoUG9QX3l2eFpidDBsWnFnV2xiTVF5MjBTLXl6RXJTd1VpWmhWb2dpMWVLbmt2dTlJWlF3NjFtVlExU0l4UQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
-    "source": "sports.yahoo.com",
+    "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "LOW",
@@ -518,8 +555,8 @@
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -532,8 +569,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -543,11 +580,11 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "sports.yahoo.com",
+    "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "result",
     "impact": "HIGH",
@@ -557,24 +594,10 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
-    "source": "tribalfootball.com",
+    "source": "TribalFootball",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
     "teams": [],
     "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "10/07 07:00",
-    "date_ts": 1783666800.0,
-    "title": "England vs Norway: Thomas Tuchel receives injury update on Declan Rice, Marc Guehi and Reece James at 2026 ...",
-    "source": "bolavip.com",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsaHluZzFyV2I5UEJjOEZjX0RfZl80SWJDQkVHOExEdVR5VTMyeW9wOF90dURqTm9RcGJTS2RGdGNHSzFUMGlvWFJfd3ZLbnpSTUVkTnVIVU0wX0pQRUtmZk1wNUtnQVFxUzV5d2VEeVlHelJScjMzd3VySDlKMUNQRGFPdXUtX2lMXzlBQ21MbVY4cHA2SXNOZ3FNMy1ZREpRRzhkdjlTbmcwdi1TSWFHc1dBUW03MEVNMl83a1pxUVNWcVZyNE5acGxKZk9ySm53SE1YMlZxdGhfMERVYtIB5gFBVV95cUxQRWlGa3ExUUhYZ3RIX0NIV1A2czN2MjlIbXFMY0Y4TVNsOEpIcEU3aTdvNGM0RlQwZFBHRVZyS1kzZ0NINVVIRXJCdjA4ZUtpRlFrdnAxTjRsRC1KRUp6aktQNzdZLXQyTURjRTg2VVhDNTF0OEpoYmpVLUpaY3phVEpkbmhDam5mSmZ5ZDlnbVBaWHRtUzBqU01lRDFMUGx6OU12V0ZZMm9pTUpOeU9YTExtYmZtdmFPRVpwUkNqeHJNRm5sMFlXdFk0eWhtTWFJWFlmNENaRTUxYjFXWVM2MDVkaG5tQQ?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -595,7 +618,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -608,7 +631,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "sports.yahoo.com",
+    "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
     "teams": [
       "Marrocos"
@@ -660,7 +683,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
-    "source": "sports.yahoo.com",
+    "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
     "teams": [
       "Marrocos"
@@ -673,36 +696,10 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "France vs Morocco Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Quarterfinal",
-    "source": "rotowire.com",
+    "source": "RotoWire",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa21Wb1RfNlJpWFZZeDdkUWV5Wk11eFFULUFZNmFOSzdkaE5xcXVxOWRFZUQ5X3I1Ym13SnQ1YW92R0JGVWZUWHNUckg4V1pxZnVzTEFFUDNtbVdpd3ZQLUJ3aGtXOGNpTnlhZzF5NHRzTnh0d1dXTW1JWFQxdk1OX1lieUhmYzdmdVgyNXFxR3ZGY01oUUxWWW9zdGYyUTlGWmpoMFE1V0dOUFpaVFRMZ0d3Ri1qLVRhM01EZ1Y1U3JXZDhSeEd0UEVJV3hkTDZlTGtPMjBYV3AzUER1RWtN?oc=5",
     "teams": [
       "Marrocos"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "08/07 07:00",
-    "date_ts": 1783494000.0,
-    "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW5WeWFwd2tKeW1MWXBMNF9qeVlaQ3NmamNUR3NQaGNUQXFkcGRGaG5lTUwyRmt1cjRicWEtU1VRdGFpWTVZQ2VaYUFFREVEckl4bndvUVNubkJEdFE4SGpmYXFTQW1FVXRWeXgtWjJDZUhnNC03T3loRWs3U1oweFRQVTlGNVNoTkpUWEZoRmhfRWhudWtvNG1hQXJKaHdlRmFEVXkxWmNyVmNXSGc3Y1FBdHJzQdIBuwFBVV95cUxOREsySktJNWpZS1J4RU03VFVHMlVVTVpva2xNX3dZY3JHVmRhT1JfdzY0Z3A0N1F2SmdLakZJUk5INF9PQmVsdFpoWXExTDJMazRQSF9zcXg3LVdSLU1qUWdwalNoWjhFZllhMkN4TVg2dHNqTUc4NmIySVBHaU5lTVFPbEx4Q2JkUV8zdlRtZjBTeHUxVWp6U3VkdFdnVnJmNUhaRXJOUmFwMmJtWWhqNDJrOWZxd0pBUFdF?oc=5",
-    "teams": [
-      "Marrocos"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/07 07:00",
-    "date_ts": 1783407600.0,
-    "title": "Switzerland vs. Colombia Lineups Confirmed, Starting XIs for World Cup Round of 16",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFlPQ2Z5b3ZMVTBrZy1KMjNFSDJ4YkNkRmtuT0xUNFM0VUo1QXdCQi1TQ2FBOHdoSGE1YjhYeV9SdzYyVFlTVnljaHdja09FTFFKMTVCVlNUbGJPaFhIY01KMEgwbGRwZksyZVRtLWRQTlIzVGZuaFpSUl9KLUFpM1BLMVp4cTBSb2hBMElfTWdOZ0k4Y1laVGU1dThtRmZXZDhneXF6Nl8wd0hpYnd6ZFZJbmNCYkdsaWNWYg?oc=5",
-    "teams": [
-      "Colombia"
     ],
     "category": "lineup",
     "impact": "HIGH",
