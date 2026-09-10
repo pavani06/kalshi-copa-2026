@@ -1,5 +1,16 @@
 [
   {
+    "date": "10/09 14:12",
+    "date_ts": 1789049539.0,
+    "title": "India women vs Bangladesh women's Asia Cup 2026 semi-final live score, toss winner, result and highlights from Dubai",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0hoSVk1dGl0VWsxM3RCU1AyZWpsVUZBRWl2cHlVNEE3MTFHQUVZQUFfWHJfdVpzZWdkSTdURFdxYlY3b3VhandyMlo5YllEbWFSbHBRUTkxQVNBVTNSM190Wjc3SDB6V2tFeEs0a3NjRzIxS1JxaTFYVmgyZjRSdU9XcjI5T0NH?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "10/09 01:15",
     "date_ts": 1789002910.0,
     "title": "Neymar and Casemiro out, Raphinha in: Carlo Ancelotti drops 15 players from Brazil’s 2026 World Cup squad f...",
@@ -437,17 +448,6 @@
     "source_type": "news"
   },
   {
-    "date": "03/09 14:30",
-    "date_ts": 1788445805.0,
-    "title": "FIBA Women's World Cup 2026 Dates, Schedule, Rosters, Groups and Basketball Bracket Info",
-    "source": "Bleacher Report",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGhJUWJ6TTQtb2phWDNqTVFJbXk0TVFzU1FFZ1hzRGxmMmlKWnZCOGhYNHpnMXc3ZlJlaFdfc3loRFlObkN1VVBjNDRKM1RscFdBRjdoQi1jd283b3cxQ2Fhb1VuZmtmbC1tb0JoalhLU3FPOGwyYV9BZWRJUHZZX3NRaWgyZkh4NjhqZTIwNUtfeWd5RFVFbVBrU092TGpMekdmZkVhYlBUck1hUmZTbmNhYkc4RWtzd1d5UmpEbzJ3b0NNUy1GNw?oc=5",
-    "teams": [],
-    "category": "bracket",
-    "impact": "MEDIUM",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -475,7 +475,7 @@
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
     "teams": [
       "Inglaterra"
@@ -501,7 +501,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -554,7 +554,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
       "Inglaterra",
@@ -575,20 +575,6 @@
       "Noruega"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTliV0ZXVW9Ha0JZc2tQWUg2eTVsQnF3SmIzR0dSOE5qSjR5c3NmYWRxUDliNmZ4VzNrQ3lsY1JNREZHejRTNk1xZmRFUDVwd19scFJHSkdXUkg4QXk2djJxZFc3X0hjYWMwb0NjT2k5TXNYQktqM180YzBTZ1ExbENMTjdXYXM?oc=5",
-    "teams": [
-      "Inglaterra",
-      "Noruega"
-    ],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -620,7 +606,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "Sports Illustrated",
+    "source": "si.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
@@ -646,7 +632,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "source": "abc.net.au",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDV0bDJEU1lFb0dNeWMwM3FIckZoOUFzaExiYmdraHJpTWtocktIMGhKQ1Z3NHVvZFJxeHdFMDRIdHpaNkF2dlVNcmt4V3ZfUmJiajM1RENZM0lHLTdtQkY5SnhQSkZmY1Mycl9zVzBWRkZPTHc1bjNNZEdVMW9VNjdJaHBpeFB4QTgxdA?oc=5",
     "teams": [
       "Inglaterra"
@@ -684,9 +670,9 @@
   {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
-    "title": "France vs. Morocco: Team News, Lineups & FIFA World Cup Results",
+    "title": "France Starting XI vs Morocco: Predicted Lineup and Confirmed Team News",
     "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazkxa1doU2NjaS1UOW1UQUR4OE9qa3B6UEJWcEVpSmJKN0RGdFJINFAyV3VlWkRUY3pjWGhRaHZzeHRBelJmZEc4c3ZxLW41a0RjYkNoNzdBRWdvSnBrcEUwcEpPeUZzVG1sdFZmeS1SQ1lsRF9PdWRQNkxxUGtoZjVR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VReHpIbnNHWHNEdkJFTWJKUkhOc3htQ1hTdG1nSHdHaTlQRmVySzhXdldFZVgtMm5fNUFGbTMxTWNHcFRiVTRsclY0UkVMNlRoN2xUdk1zSmh4VUJIV1RvRHdsOGNZa1RvbDFFUDdJMWx5SGN4RnFOa1lkaEEzZ0NtNDU?oc=5",
     "teams": [
       "Marrocos"
     ],
@@ -705,6 +691,19 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "08/07 07:00",
+    "date_ts": 1783494000.0,
+    "title": "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW5WeWFwd2tKeW1MWXBMNF9qeVlaQ3NmamNUR3NQaGNUQXFkcGRGaG5lTUwyRmt1cjRicWEtU1VRdGFpWTVZQ2VaYUFFREVEckl4bndvUVNubkJEdFE4SGpmYXFTQW1FVXRWeXgtWjJDZUhnNC03T3loRWs3U1oweFRQVTlGNVNoTkpUWEZoRmhfRWhudWtvNG1hQXJKaHdlRmFEVXkxWmNyVmNXSGc3Y1FBdHJzQdIBuwFBVV95cUxOREsySktJNWpZS1J4RU03VFVHMlVVTVpva2xNX3dZY3JHVmRhT1JfdzY0Z3A0N1F2SmdLakZJUk5INF9PQmVsdFpoWXExTDJMazRQSF9zcXg3LVdSLU1qUWdwalNoWjhFZllhMkN4TVg2dHNqTUc4NmIySVBHaU5lTVFPbEx4Q2JkUV8zdlRtZjBTeHUxVWp6U3VkdFdnVnJmNUhaRXJOUmFwMmJtWWhqNDJrOWZxd0pBUFdF?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "injury",
+    "impact": "LOW",
     "source_type": "news"
   }
 ]
