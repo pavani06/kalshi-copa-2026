@@ -1,5 +1,18 @@
 [
   {
+    "date": "10/09 01:15",
+    "date_ts": 1789002910.0,
+    "title": "Neymar and Casemiro out, Raphinha in: Carlo Ancelotti drops 15 players from Brazil’s 2026 World Cup squad f...",
+    "source": "World Soccer Talk",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOclZxTDVIOGxPaE5yeEpZbktzSEJhaVd4ajZVYmFzMUZKVHNDeUNJNWtTdXNpeV9SanYtMk11d1lqbjdicVQzUUFfam1Gd1VqNHpYSGxDR2N3enBHbUpwcmhna2lpZV8zeFZXM2hjeHk4a0RycERVTVd6OGpxYmFOcTJYZXlfWmE3NHd6aW1Oa0hMZzFPb2Y5d0phVERHUS1paXZhd2U5cUdRT0VWQlQzUG5vQWU4dVJkYl9qb3p6TGQwVGstSWJXXzVGSTBMME9FLU1zd3hqMHdnZjEzeENvNVZR0gHmAUFVX3lxTE96LXNUR3RrWGhQeTdKLWdUczQzY2F4WUdpQXZpTWNPRmIwQjhTX3gwd1EyVXplUmNUekhKdGdoSW1EUWZ0RTkwVjRCenlKNEVsTmlBYWY5bE00c2xyaFhYcHo0WVFSUC01dnVlUnZsUE01WTYwWE1xemlVejNRM2FrNFlpcEtSV0FfTWg2ZHNIdVhHWkt5V05FRFh4SjJfMnVBaGpobl9FVzF3OVZfWURlMnBkUlM3ak9vR09GWlc4NjFjY2lfcVhrdjdBc2RuWkc5MnphbjNfQ0FDaEhUS0poeUJCQ253?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "09/09 23:29",
     "date_ts": 1788996545.0,
     "title": "Women's World Cup quarterfinals schedule, bracket, players to watch as Team USA goes for another gold medal",
@@ -459,17 +472,6 @@
     "source_type": "news"
   },
   {
-    "date": "19/07 07:00",
-    "date_ts": 1784444400.0,
-    "title": "AO VIVO Espanha 0 - 0 Argentina (Primeiro Tempo): Yamal perde chance de abrir o placar",
-    "source": "Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFRIQmRsWkMxRktwb1VJeXY2dDlvblRaTTBVZEtlaE9nMjRxb3daVXU3Z2lNeVlLcE45UnRNUXNDWlZZMGIzdmlLX0QtV2Z0V21YYTVhX3h3dDN5R3p2SjFRc0xiRi10Y2ozdUx1UjdrLU9RUXlBNDB1Zl9TUU05dnJSUFNHS05IdUlFLUxreDMycVBzRi1WU3F5LVFZakJGZEtiUnR2cw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "18/07 07:00",
     "date_ts": 1784358000.0,
     "title": "England starting lineup vs France today, World Cup XI confirmed",
@@ -499,7 +501,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -594,7 +596,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
-    "source": "TribalFootball",
+    "source": "tribalfootball.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
     "teams": [],
     "category": "result",
@@ -618,7 +620,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
