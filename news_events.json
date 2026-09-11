@@ -560,7 +560,7 @@
     "date": "12/07 07:00",
     "date_ts": 1783839600.0,
     "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
-    "source": "sports.yahoo.com",
+    "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
     "teams": [
       "Inglaterra"
@@ -586,28 +586,14 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
-    "source": "sports.yahoo.com",
+    "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   },
   {
@@ -617,8 +603,8 @@
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
     "teams": [
-      "Noruega",
-      "Inglaterra"
+      "Inglaterra",
+      "Noruega"
     ],
     "category": "lineup",
     "impact": "HIGH",
@@ -665,7 +651,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
-    "source": "sports.yahoo.com",
+    "source": "Yahoo Sports",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
     "teams": [
       "Marrocos"
@@ -697,6 +683,19 @@
       "Inglaterra"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "Confirmed lineups for France vs Morocco today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJqQWprcVlCTEtVcW9IeXhyVjJ3ODRnNXZ4cGY3YVd4LWNaUG1yYlUwRGtzYkJ4ZENRWUNxWWI4WWEtVXpJRDlOY2RXUDg1V1ZLZzVXM0h4OGp1TWlTZW9pY2dGeHZ1UVdIb1FoOTlySTdjNXJoQjdubFlMN0JmTjNCVkVudDNMZkxYa3hDemZ5RmdQcmdTMDJuazBmNVUxRGsxVnNPRFA5aFlQZXNj0gG0AUFVX3lxTFBUdkdtazlVLXVMRXNJSC1XenIzY0J2NC1MUlpXVm9UeGRtQUpzenVQM2ZZVjY3dTVBTXhYVFY1Ums4OVA4bXBCbXkzbXVTQ1B1ZHRmeUNzaFAxX1Z2TFl4dzdYMmg3dEdGMjJhVkNoa0c0Y2J2Zm1KUElJc0F5VTdNRFRJdkRyNnR6djUtc0QyWFdHVDhNell4VkFtbUtsTEUwWkktNzJ4ZGlCd25oejJaMS04QQ?oc=5",
+    "teams": [
+      "Marrocos"
+    ],
+    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   }
