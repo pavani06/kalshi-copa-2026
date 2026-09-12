@@ -529,17 +529,6 @@
     "source_type": "news"
   },
   {
-    "date": "05/09 15:44",
-    "date_ts": 1788623067.0,
-    "title": "FIBA World Cup 2026 Results, Day 2 Group Box Scores, Highlights & Day 3 Schedule Before KO Bracket",
-    "source": "Bleacher Report",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOajhIVVlYMjJfaXlwM3dnR2o0QUQwMngtSnR1U2NBYlU3WElZck1WUGhNbmRPTlFURFk1dWl4Z00zaWJ4UVlUVF9PMDBvdElvZUhFamVNMlRaaDdCT3Q5Q1dlZF9qX0hQUm05WllBMkl2eklZWG04RjhHRVV5NUgzbWZJSXowVzlEOVJzTXR4M3R1Z2p4cmZ3SHo1a2E5OVlDUmpIR0s0VzdMREFmTnQxZUg1a2MyYzRGU1pMRUpRaFExTlpBOFJjUndzVTQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -567,7 +556,7 @@
     "date": "19/07 07:00",
     "date_ts": 1784444400.0,
     "title": "AO VIVO Espanha 0 - 0 Argentina (Primeiro Tempo): Yamal perde chance de abrir o placar",
-    "source": "Vietnam.vn",
+    "source": "vietnam.vn",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFRIQmRsWkMxRktwb1VJeXY2dDlvblRaTTBVZEtlaE9nMjRxb3daVXU3Z2lNeVlLcE45UnRNUXNDWlZZMGIzdmlLX0QtV2Z0V21YYTVhX3h3dDN5R3p2SjFRc0xiRi10Y2ozdUx1UjdrLU9RUXlBNDB1Zl9TUU05dnJSUFNHS05IdUlFLUxreDMycVBzRi1WU3F5LVFZakJGZEtiUnR2cw?oc=5",
     "teams": [],
     "category": "result",
@@ -611,19 +600,6 @@
     ],
     "category": "lineup",
     "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 07:00",
-    "date_ts": 1783839600.0,
-    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
     "source_type": "news"
   },
   {
@@ -682,11 +658,35 @@
     "source_type": "news"
   },
   {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Relembre os principais resultados e notícias do 31° dia de Copa",
+    "source": "TribalFootball",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmFVemJZdWtiampCb3RscEJ0dzYwU0ZjQm43Qi13QkpqZHRJRHR2U0FCdGlkUFVaeE4wSHlERW9HQTlwUGwzblpoVl9GRlgtT0pxaEpDTEJ2U0hQLXZGUTlQUmJiT284bnlfY3hWMDR6WXQzV3daaHE0VmdZRmxpWnl6VXFFZW9pNUkwVXBtSUVGYi0yU1ZkZ3cyYXA1eVZ0bUgtZVJqNi03TnIzQmhYdVJUanJzb0NzU1JhUnhKTDdLdWEtLTRFNXg1S0xmS2NnQmJmRjBn?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
     "source": "ESPN",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
+    "source": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
     ],
