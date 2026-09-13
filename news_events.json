@@ -33,6 +33,17 @@
     "source_type": "news"
   },
   {
+    "date": "13/09 19:58",
+    "date_ts": 1789329480.0,
+    "title": "U.S. beats France for fifth straight women's World Cup title",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONS1CMW5NVU9Yd2VhdE5zd2pkb2d5WnVEZjhSRGVWQVB6YV8yMHpsZDU1MnlTODI4X1FLMnYtRzlWR1NBQW5TQkxZNk40NElacEd2OFdKUjMzNFNBeHdTT2ktRFQ1S1g4ZnRlVDBrRUswRlFnTk9HUmc5QjBTdWJ5ekNGTXZJak1sZzJHVmUxdnFXc2M5ZXZNV09aVzhwS0FfajZJUw?oc=5",
+    "teams": [],
+    "category": "result",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "13/09 19:09",
     "date_ts": 1789326545.0,
     "title": "WBSC Women's Softball World Cup 2026 Group Oklahoma City: China stay unbeaten with win over New Zealand; three games to come on Day 2",
@@ -564,39 +575,6 @@
     "source_type": "news"
   },
   {
-    "date": "06/09 21:58",
-    "date_ts": 1788731880.0,
-    "title": "USA survives vs Italy to advance to FIBA Women's World Cup quarterfinals: Highlights",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFB6WTJ6cS1ZajhjUzNISXlHbFdhbXZUOWRKaElwZnFPYU1TeFhiZ3JUZEtsSGZ6Nm5HMkVDMXNhekRVaXhHaWJuMXhFUWhtd0trYjFLNWF1Z1dtV0JleWFTc3pNaktQU3l0YUJ6dWRCbGdMTDVPOTJyVTA2T0QzSy1nbGlpUS1GbWo3aXVZaVo4TFZUZVRJYjlueDNva1pTYks1ZHhqNU5td0V1YTJ3d1VXOFczcFpkVGJjSHJNUGNRdXNzeURzbEx4SVFqNWs?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "06/09 21:57",
-    "date_ts": 1788731820.0,
-    "title": "Basketball: 2026 FIBA Women's World Cup: Team USA - All results and scores",
-    "source": "olympics.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnJ4aFgxbDhreWdFd1hBWGlUaDl5VXRnVVZheUZBbGN2NkJuM0xydm9XeUR1TmtBQ2l1b01vLXJyeU54RGlfajFFbHBocFpFeE1qUDE4d1RrTXM2UjZvOGZoN0wwQlllanFkM1VCakZJVmRhY3FqNWhvVy11TzRfYWJYQ1RnbVl2M1RhclE4dmd4N2VwQnNiUFlB?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "06/09 21:33",
-    "date_ts": 1788730421.0,
-    "title": "GAME RECAPS: Trio of Aces Remain Unbeaten at World Cup",
-    "source": "WNBA",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dERSUjg5cm16UmtuS3B3aHY4d3RrVWh0RzFKN3Bfb3QwVGlMYklPRXFiQVpjZzlmNUFQVFlCNm1rMjczd2pJSDMyNUNwdXF4UjlmZmdQUUxkbGItNldfSGo3RTN2bEkzRHc?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -681,6 +659,34 @@
     ],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "England lineup today: World Cup starting XI confirmed vs Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2RwOERDX2RDZm9kMW5ISWNRanZaTE1iZkMzZmwyby1YV0g2ajNiYXdzWnljSFlZTnVZZ2E1Qmt6dXAtTVNvSThIZFM0UjVFYXpaam9qNlAtSW5RT2ZqWG1LVVBvM09yc19LZTNkVWNlYzQtQkFJUUFlbU95c2RpNnNqSTRydWwxdzNBQnpwZ3p3dEdD?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
