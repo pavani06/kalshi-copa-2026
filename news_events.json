@@ -542,17 +542,6 @@
     "source_type": "news"
   },
   {
-    "date": "06/09 14:19",
-    "date_ts": 1788704347.0,
-    "title": "FIBA World Cup 2026 Results, Day 3 Group Box Scores, Highlights & Day 4 Schedule Before KO Bracket",
-    "source": "Bleacher Report",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQy1vMFphQmlEU3BhYnNkNVlUaUUwRUFkSkxFQjctTEIyRncwQlQzcmxDWmdmcXN4NWYwRjM0aEJWZTVmVVF5Q0Y5a0xzd0VOMEQ3QjNobmMtbFp1SGlickpiUU52U0hiTjJuQTFoQWFRV2tvdGZEUUJLOW9aX0JtU2FMZzlzZng1MUNSaWNFT2tqSnlLTTBZcXByaGlRbWxpbHJUODhoQUh3M0t1b2NkYldwYzVGaGloS0haVVpkaUlNVEJPTkNPSlFZQ24?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -562,19 +551,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "18/07 07:00",
-    "date_ts": 1784358000.0,
-    "title": "England starting lineup vs France today, World Cup XI confirmed",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUY3aDRJV1ExZFowSDZuQkdITFE2b3VGdzc5ckNfbndhZDRNTDVwTGF6M0JfdDFNNll1RXZVZ0ZkZDZJeUhGbzZLTmtkSXN0dXR1M1dHSUpvWTRrMWJ6Q1BRYnZHT2FHam9xMS1haWh6WUdiWGFZazRXdUNaNG9ocTZQeExZcE05NjYwcG4xSF9kdkJoSm1rTlZvc0tEblJtTDZpeVZLOTdGZkxWSl8wYzZB?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "lineup",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -647,6 +623,20 @@
   {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
+    "title": "England lineup today: World Cup starting XI confirmed vs Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2RwOERDX2RDZm9kMW5ISWNRanZaTE1iZkMzZmwyby1YV0g2ajNiYXdzWnljSFlZTnVZZ2E1Qmt6dXAtTVNvSThIZFM0UjVFYXpaam9qNlAtSW5RT2ZqWG1LVVBvM09yc19LZTNkVWNlYzQtQkFJUUFlbU95c2RpNnNqSTRydWwxdzNBQnpwZ3p3dEdD?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
     "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
@@ -693,6 +683,19 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "How Achraf Hakimi, 3 other Morocco players get suspended with a yellow card vs. France",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU05Hbl9zNERjcmlXVDlmZHVtMEJNdEc4bkFfT2VCdDdvQnhzNk1fTU50SXJ4eWJicm1mLVByVmthcFBKcVpZUnZhNlNMcDNJV25JNWk3ZHE3LUNaOUtJMjZOb2E5ZVFleU5HQ0NvZkJiVzU0V2xmQW1Jbmc3eGRRSnB3dno?oc=5",
+    "teams": [
+      "Marrocos"
     ],
     "category": "injury",
     "impact": "HIGH",
