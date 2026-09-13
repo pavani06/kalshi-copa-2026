@@ -564,21 +564,10 @@
     "source_type": "news"
   },
   {
-    "date": "05/09 23:57",
-    "date_ts": 1788652620.0,
-    "title": "CFB scores today: Every Top 25 Week 1 game result",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3pTajJoVTNkWWhaRTgydmc5YXgzM0o4UWhBSWlHMW1keDlUQnlxNkZ3ZUFhVVFzWEY0ZEVMRGMxaEFqb3gzNGtGZ3pYMFhwejc2YWRoMU80bGptRUQxTUNqX1RXUFZIZXdJN0E3dUlCUVNjVTFEbWVUMWJkNlZOM01RNms?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
     "teams": [
       "Brasil"
@@ -591,7 +580,7 @@
     "date": "20/07 07:00",
     "date_ts": 1784530800.0,
     "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
     "teams": [],
     "category": "result",
@@ -640,19 +629,6 @@
   {
     "date": "12/07 07:00",
     "date_ts": 1783839600.0,
-    "title": "Why Lautaro avoided suspension for England vs. Argentina World Cup semi-final",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU83Nm80SzJFWjhFZ0l6RmZLTVNPZUZjMkQtU29rTGZtTm1raXJJN2gyQjAwZ1F0dlJmTDhJenp5T3lmZVRGdE9FN203TThEOHVQUlVNN3E1TllWSGRoUkZtQ3MzZGlrTkVqQ3Jud1NQb2I5bkxNVmVHaktpZGFFT0VfaW14M1hESElzSHUzMFc?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "12/07 07:00",
-    "date_ts": 1783839600.0,
     "title": "England vs Argentina: Is Jude Bellingham suspended for 2026 World Cup semifinal?",
     "source": "bolavip.com",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjNXbEhFRldUcGk4bDdpOFhUckFpR0pLeElNWFREdUZjVDFPTEU4TDlsM1dBT3FXSmdFZ0ZQa0dvTnVvSEc5a1dLVVhQS2J2amJabnB0YU5kbVJGYnEtMUlONm83NUw0R3BKQWJ2QkthZlBwMTNLRmpRRDYwUC0zd29KS3pWa2dDWkNXOE1zRzN5OUZGc0oyRjlGRzFCSWY4M3BWdGZBWkRpM29kQ1VaZdIBtgFBVV95cUxQY3Z5VXk4QnR2U3A3SFB1Z2pvQ3A3TGFicG96WDFKTXg1X2Q5c2I1OF94X0N3ZWRtRTkweUF2SENLWkQ3bEIyZ1F6UXdLMFM0RTZCbjdRbWdNTWVvTTZTSkRPM1o1NGdGdkhma0FkSDYtM21sM2pra3RoUG9QX3l2eFpidDBsWnFnV2xiTVF5MjBTLXl6RXJTd1VpWmhWb2dpMWVLbmt2dTlJWlF3NjFtVlExU0l4UQ?oc=5",
@@ -688,6 +664,33 @@
       "Noruega"
     ],
     "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England: Confirmed lineups with Erling Haaland today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
+    "teams": [
+      "Inglaterra",
+      "Noruega"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "09/07 07:00",
+    "date_ts": 1783580400.0,
+    "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
+    "source": "ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
