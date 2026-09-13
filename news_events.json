@@ -640,6 +640,19 @@
     "source_type": "news"
   },
   {
+    "date": "12/07 07:00",
+    "date_ts": 1783839600.0,
+    "title": "As previsões para o jogo em que Messi enfrentará pela primeira vez a Inglaterra, rival histórico da Argentina",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WN0FGZWZMWWo5SGc5d2ZRWWlmUUJoWDZ3WlNjTkpXRWp5VzV0cTg4dDFlal9mNTlRaVJJSEdmR0RpRjFDVzFpR3R0NzNTdEhIT1hldFdsQUQ0eWpjSFR3aE130gFnQVVfeXFMUHhDRDJkdzV6TXF3ZUlWQTFOX3licmVLUkxfeTFBM3RZb1MyT0Y2ZjJFTVU1dkNSSlk4c1JJelE3TWtSRmh3SWNSal9VSkF5RWxjVHp4NTJSM3I2ZHUtVk16ZGNTNGQwNA?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
@@ -657,7 +670,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "PrizePicks",
+    "source": "prizepicks.com",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
       "Inglaterra",
@@ -678,19 +691,6 @@
       "Noruega"
     ],
     "category": "lineup",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "09/07 07:00",
-    "date_ts": 1783580400.0,
-    "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
-    "teams": [
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "HIGH",
     "source_type": "news"
   }
