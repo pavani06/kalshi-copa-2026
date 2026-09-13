@@ -1,5 +1,16 @@
 [
   {
+    "date": "13/09 13:26",
+    "date_ts": 1789305976.0,
+    "title": "South Korea knocks out U.S. in Overwatch World Cup 2026 quarterfinals",
+    "source": "Field Level Media",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUEwS1hMcmJJYnBzbmZGeTE2cFpldmZfLWRNTEpuYTBCRFpET0JPUzNTYVYtcUJRR2dkby1hTkl6U1o5TlZVNXV4MGg3S29uSC1PNmRQd2p5ZmpwT2xaNHlGSG1UeDd2eC1ZbGJXNVVXbUt2cUhXck5KTkNaWXYtRlQ1OWs0ZnRndTNQSm10LXJiSjd0VzdtbHV2bE1RSXM2WEY0LWtOVzM?oc=5",
+    "teams": [],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "13/09 01:00",
     "date_ts": 1789261200.0,
     "title": "2026 FIBA Women's World Cup: USA-France gold medal game preview",
@@ -520,21 +531,10 @@
     "source_type": "news"
   },
   {
-    "date": "06/09 18:08",
-    "date_ts": 1788718130.0,
-    "title": "USYNT sees defeat in 2026 U-20 Women’s World Cup debut",
-    "source": "Concacaf | Official Website",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0NJVGF5MnJOei1faUdwNXpWeXVBNFhWb1lqYXNwVldycE8xOVYwMGVKUDFxN1NxMmUwM0JETXZSamNncWdXV0J3bjM3ZWZwcGI5eHBGUm1uNFVickVadWVIR2s4N2doQ3hnRUJRQXhidWI5Q0RLLTg0RE81RXJ0ak55Ykg3Q2FtM0lBZW0wdzhSX0F2NExfN054SlNydU1fMnZ5ZjRfczJhVEpLNmJYck5iQ2h6NGZaY1pTMzdXeXJHN2ZD?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
     "teams": [
       "Brasil"
@@ -560,7 +560,7 @@
     "date": "15/07 07:00",
     "date_ts": 1784098800.0,
     "title": "England vs. Argentina: Confirmed Lineups for 2026 World Cup Semifinal",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOG92U2pnYjJyTVpsYlc3enhKTE1CTXFMcUlOZnNtTTVlY25QSHM1NzlwTWNvbzF6TzJvTUpUQ2dDakp4ZkJJTGI5N2l6NG1iZmlkakdqWXNYcGhQdUV1MmFib3pzQnFac1FqbVA3MG04Q0Q3R3BENUpRR3hmbDk4MjhEc0EzOFZSQnhTTlhyX2ZnQlE?oc=5",
     "teams": [
       "Inglaterra"
@@ -638,7 +638,7 @@
     "date": "11/07 07:00",
     "date_ts": 1783753200.0,
     "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "prizepicks.com",
+    "source": "PrizePicks",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
     "teams": [
       "Inglaterra",
@@ -666,7 +666,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-    "source": "ESPN",
+    "source": "espn.com",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
     "teams": [
       "Inglaterra"
@@ -679,7 +679,7 @@
     "date": "09/07 07:00",
     "date_ts": 1783580400.0,
     "title": "England Reeling From Huge Suspension Blow for World Cup Knockout Stages",
-    "source": "si.com",
+    "source": "Sports Illustrated",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2pNa1A5Q1VacVByMldKbTVLVmd2ZldwMzZ5NGNQZmpRQUZyZWpQb2owY0pjUHlPZW1NSGhyalZGOG9XTENWbzBRLUNyaFdqcUI1OFU5UmRWQWl0VGM3NS1MckZiNmNRcVpmMmtjYWpBdlBkT2FLYk1KYUlOZ3pzLWJCVUZRVUd6OXdIZVNIZjljdw?oc=5",
     "teams": [
       "Inglaterra"
