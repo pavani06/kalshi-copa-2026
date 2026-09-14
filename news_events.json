@@ -586,17 +586,6 @@
     "source_type": "news"
   },
   {
-    "date": "07/09 12:00",
-    "date_ts": 1788782400.0,
-    "title": "FIBA Women's Basketball World Cup 2026: Which teams have qualified for the Final Phase?",
-    "source": "DAZN",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1ZibkNCQ2lpUkhzZlQ4aEZGbWQ0UGI5UExKQjhNaG5EdzBVejQzbVY2bVh6NERqM1ZKRUVXVzU3OXZpMkRYX21jWUkwX05TYTJlN29FX0RzY2RQVW56a2hlU1dGRWk4d1ExdlNwaE12QlBhc3l0TEhGQ3hYNG9fTDcxN01uajI2RUdRdlJNTEZybDkzSnBKd1kxc09LLVI0amtSS1BFRkF2VGlIcWVzN0l2OXBNaDBvSWQtcHVWbFliLVVybGNkQTZWZk93R2U2SkhFaXNwc2ZzUGllX1BBRw?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -606,17 +595,6 @@
       "Brasil"
     ],
     "category": "injury",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "20/07 07:00",
-    "date_ts": 1784530800.0,
-    "title": "World Cup 2026 bracket: Latest results - The Athletic",
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUR4YklUZU1vNUlEa1FPY05pcXdvdTd4MWx5UUVmb3Q0cW5EODhLeDhHTnNDbTB3OHhTUXRYeV9hMEZrT2ljMzhEUGVZTU1EZkJOSTBDNDdaTkhKRlJUNlZTbVhySHh5YU9jS2NlOEFUQWE1dUN6RU9tQ3EtbW1iR1NRYVZha3c5T1p2NFo2QmRGY1RMY0RLMENTM3BIazUzU2xyRjVGSk5tTlV0UEpFV2hR?oc=5",
-    "teams": [],
-    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -681,6 +659,34 @@
     ],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
