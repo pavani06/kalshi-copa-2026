@@ -555,52 +555,6 @@
     "source_type": "news"
   },
   {
-    "date": "07/09 21:10",
-    "date_ts": 1788815400.0,
-    "title": "USA sweeps FIBA Women's World Cup group with win over Czechia: Highlights",
-    "source": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZl83YUpFMjk3Y0JrNDJyRFhneUZ0RDh0ZVRnN2xxS1Y0SVdOVTB3ZzVfc09IZGMyb1lZNGg3YWI3RWxjd005TS1wV20wbzlqVGZIMXVFUXJ2NXI1NkNUcmxHcHEwb1ptc3hZNkVrazN3RncyTlhDeDk4U2ZQcFBESEtrYlhqQXItWVhrWmxMU0NXSjRhWC1xUTZUTUZwNVVfRHRacjhTS1lMaHZ5VVYtb1ZUcnhLWjExVDUtcl9SMVoyVmRpeHAxaE9nUQ?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/09 21:09",
-    "date_ts": 1788815385.0,
-    "title": "Brazil U20 vs Canada U20 Live Stream: How to Watch 2026 FIFA U-20 Women's World Cup",
-    "source": "Fubo",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMndqMk1WTkd4a3dOM2dCWDA4My1adTh0amgyV1FEdndub1BadFJMWExoaFpQTzhTcHlEenk3aGNpeVRpT2psc1NzN0pZNlBBc0VLQl90ejRkd2hkTVpObVM3UlQ5S2xTZ2N6aWg0MW5kR0NmMms5ZmN6bERWdk4zSFpVUjhwb3ZueXZFN0FWM3dENW1ORjhPTnlPX3lfekdRakZZekROVVdpTFRhYkJIZy1IMW9DZmU2NDRqSnk1bkZLaTVVTlIwOXRKQVYzTDF1MmtyaGVR?oc=5",
-    "teams": [
-      "Brasil"
-    ],
-    "category": "general",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "07/09 20:51",
-    "date_ts": 1788814273.0,
-    "title": "FIBA Women’s World Cup 2026: USA beats Czech Republic, 105-64",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XSF8yODBfMVlQeVR3bUloQjZsRGJLUVI3Wi1kbW5zNThObWhoNE9OU2JLR3pQTVdvZ0dKUzNaY0VlT1NMdl9pN09KRllyTV8tRnlQUVZQUlVOdlBCaG56dzg1ZEtONkNsSnAxTi16d1VfQnZkMkRKcW1Na0hmazg?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
-    "date": "07/09 20:45",
-    "date_ts": 1788813920.0,
-    "title": "FIBA Women's World Cup 2026 KO Bracket Qualified Teams, Schedule, Odds and Predictions",
-    "source": "Bleacher Report",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2NFazJoZzRvRmRXVEZrTWhnR0NlUGJYZ1ItWWMwVlAyekRnbEhLLW1iYWh1UDlRV3BHT2NIRUZ1TXVnOWNfLVB6WXhKODQtdmtfa1Z1dW9UQUswY2V3ZWhTeF83a29rVENvR1JZbFFrb0RCLXJlLU5LbzVCMmFMQ1pLeVdVVjFjNEdhanZtZjljOFNDa0RrZUFQWkdpMTB6ZEtaN2FHSUZ6MG55MGVuUnlGMVprVTB1WDgyNC01RVEydTRaOWZN?oc=5",
-    "teams": [],
-    "category": "result",
-    "impact": "HIGH",
-    "source_type": "news"
-  },
-  {
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
@@ -687,6 +641,62 @@
     ],
     "category": "result",
     "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "injury",
+    "impact": "LOW",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "England lineup today: World Cup starting XI confirmed vs Norway",
+    "source": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2RwOERDX2RDZm9kMW5ISWNRanZaTE1iZkMzZmwyby1YV0g2ajNiYXdzWnljSFlZTnVZZ2E1Qmt6dXAtTVNvSThIZFM0UjVFYXpaam9qNlAtSW5RT2ZqWG1LVVBvM09yc19LZTNkVWNlYzQtQkFJUUFlbU95c2RpNnNqSTRydWwxdzNBQnpwZ3p3dEdD?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
+    "source": "PrizePicks",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "11/07 07:00",
+    "date_ts": 1783753200.0,
+    "title": "Norway vs England: Confirmed lineups with Erling Haaland today in 2026 World Cup quarterfinals",
+    "source": "bolavip.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEppc3I3NmdJejJad18yeUltSEQ3MmZpbGtkSTFjcnJLRkFvc2I3VWNjMFltc3h3RU5yd2NoQXFfOG9SSk1PTzBRZVlVR2ZrWEh2Vk1BRnVEUlhjdHJtbmNiSmtKa2NLcVA3TjN3T29vdTd2Z3hlblpzWEIwSTlsd0dBNnE1a1lzSktZTU82bXk1eFVKSGtET2pNeXdQLXBjdm1rLUI4RTEwaWE3UXZiS3M1cEpyWjVjdzFycnktclZqcE9a0gHKAUFVX3lxTE1KVDk3b2F6Z0d2OFpXYU5zWVBFT2d5R3ZZbEpuZWR0NURFWVZYd3V0ZC1vd2xheldvZWVKOGd0MlphandPbG4wWlFLclhiTWVWMEw2b3FyWnhLSEh6MTNSemJOaHpRdThrUG51VzNUaGE0WFU1WHU2WUxQbVd4dndlSTlWNDZkM2VPZmxPZkpfWGNnWWtudk9oeVp1OHFDczNlYmY3QVlSMWZWYWJxS0hoVDVSaldVZzYzV2cxU1Q0WFZGRTN2X3BxV1E?oc=5",
+    "teams": [
+      "Noruega",
+      "Inglaterra"
+    ],
+    "category": "lineup",
+    "impact": "HIGH",
     "source_type": "news"
   }
 ]
