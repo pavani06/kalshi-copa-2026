@@ -602,12 +602,25 @@
     "date": "29/07 07:00",
     "date_ts": 1785308400.0,
     "title": "Brazilian court hands player suspension in line with injured opponent’s recovery time",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGVmNkdmbkVBM3JkVWhHQUVmQVZ3bHFyMFoxOFhqZnhyUVpKcFlPZ28wMjE4WnU5QV9IYzJsN1pacHRaT2tVeDhlQTN1d1hPY2Y3blBFNW43eGwzdHBXaVFrV05faUo2ZUlFU1hxeGh5OW1YdUo2LWdkZGpCQ2NCdEM2ZHI1QUJOOG1veThHemlDTmIyTG5GVU5qb19Pdw?oc=5",
     "teams": [
       "Brasil"
     ],
     "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
+    "date": "19/07 07:00",
+    "date_ts": 1784444400.0,
+    "title": "Inglaterra 6 x 4 França: jogo épico pelo 3º lugar tem 10 gols, e Mbappé se consagra maior artilheiro da história das Copas",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90U1hFdW5kU002amVvZ2FWczlCdVhnN1dQNFl0WjEtZWthWWhHUmVYU3Jqa1hwSVdyY1hwQ0N5WWlJTFRmaUdvRzhmZVBuajE0X2hCUEM3b21WUEREamJHNmt30gFnQVVfeXFMTlhCcW5VWkxFa0pQcGlMYlRHUzFQc1lrLXFLNFhIdi1lVlZRalJra1lwUGlkY2tDZnYzeXNqOUs2RnFhcDQ5Tkw5dUltWUtoWmxSdUlTOWh2OFQ0YjBqQzdtWUJRNlZoSQ?oc=5",
+    "teams": [
+      "Inglaterra"
+    ],
+    "category": "result",
     "impact": "HIGH",
     "source_type": "news"
   },
@@ -671,20 +684,6 @@
       "Inglaterra"
     ],
     "category": "result",
-    "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Four England Stars Risk Suspension in World Cup Quarterfinal Against Norway",
-    "source": "Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1JoSmJPQ1k5OE8xb01ubzcycjg3UkRnRmdJd0xIbkZnQVlOLWtVV2Z4QVZFUkxqeHAxS19Udm1TZ0FkaVA3aW5sYTE4WWRLdlQ0T0dQclBOdTFYY2ZyZHFGZlRYNEFMZHRNNW9ZRE9zTE1GbXJtV3ltTkR2VVU2ZWk1SE1Bd2g5aXk0?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "injury",
     "impact": "LOW",
     "source_type": "news"
   }
