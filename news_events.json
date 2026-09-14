@@ -1,5 +1,18 @@
 [
   {
+    "date": "13/09 23:17",
+    "date_ts": 1789341433.0,
+    "title": "CommBank Pararoos squad named for IFCPF Men’s World Cup 2026",
+    "source": "Football Australia",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFRaMkdqRE1IWVpqWjVTMktaYldGNHhFZWVNLWtMdUhORnVvMTB4dXZraUoxaHZQMG13WEpKb016dkFoX2ROQmJPcGdsZV9jb1lYQ1R0clNxVHhwbDlUM19uTFVvQTEtTzRVanBZeFlLMVpQd1FCWnFOVlFjMS1OMUYxSTQ1V2pyWDM4S3ZaMngzNEJXWEZQVg?oc=5",
+    "teams": [
+      "Brasil"
+    ],
+    "category": "injury",
+    "impact": "HIGH",
+    "source_type": "news"
+  },
+  {
     "date": "13/09 22:00",
     "date_ts": 1789336848.0,
     "title": "Gold Never Gets Old: USA Win 12th FIBA Women's World Cup Title",
@@ -673,20 +686,6 @@
     ],
     "category": "injury",
     "impact": "LOW",
-    "source_type": "news"
-  },
-  {
-    "date": "11/07 07:00",
-    "date_ts": 1783753200.0,
-    "title": "Norway vs. England Lineups Confirmed, Starting XIs for World Cup Quarterfinals",
-    "source": "PrizePicks",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVIzUU0zWkN5cDlFc3FoSGp6d0gtd18tejZ3eGozaHpKS2cwMXBGMmYxcU1KMkFhM0xDdzV3VjlnbDZYNGlRMHdMVjZIOFhNd24zUUd0VTVtN2U2bDRPU2ZMVk9OY2pJSXN4UHhicVQyeDlXbDZwT2I4N05KbEl0VVNoOUVSTVV6Qks4aXU4Y1AzTF96elZuTUJfWFBId2s3bmFqeDBFMjRlTkVuQnFBUllRckJweGFkekRibDlObXV1LWxRZU5EMTZIMGR5dw?oc=5",
-    "teams": [
-      "Noruega",
-      "Inglaterra"
-    ],
-    "category": "lineup",
-    "impact": "HIGH",
     "source_type": "news"
   }
 ]
